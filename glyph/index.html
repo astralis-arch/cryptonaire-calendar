@@ -1,0 +1,371 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black"><meta name="apple-mobile-web-app-title" content="Glyph"><style>:root{color-scheme:light;padding-top:env(safe-area-inset-top);padding-bottom:env(safe-area-inset-bottom)}body{margin:0;font:14px system-ui,sans-serif}img{max-width:100%}[hidden]{display:none!important}</style></head><body>
+<title>Crypto Glyph</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;700&family=JetBrains+Mono:wght@400;700&display=swap">
+<style>
+/* Layout: the watch face is the hero with prev/next; beside it, the screen's question and a plain-English reading; a strip of all six screens below. */
+:root{
+  --bg:#eef0f3; --panel:#ffffff; --fg:#14181f; --muted:#5d6675; --line:#d5dae2; --accent:#2f6fde; --warn:#a86a00;
+  --font-ui:"Archivo",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --font-num:"JetBrains Mono",ui-monospace,"SF Mono",Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#0d1015;--panel:#151a22;--fg:#e8ecf2;--muted:#8a94a5;--line:#262d39;--accent:#6d9cff;--warn:#ffc93c;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#0d1015;--panel:#151a22;--fg:#e8ecf2;--muted:#8a94a5;--line:#262d39;--accent:#6d9cff;--warn:#ffc93c;color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font-family:var(--font-ui);line-height:1.45}
+.wrap{max-width:1080px;margin:0 auto;padding-block:20px 48px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:grid;gap:18px}
+h1{font-size:1.5rem;margin:0;letter-spacing:-.01em}
+.lede{margin:4px 0 0;color:var(--muted);max-width:66ch}
+.panel{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:14px 16px;min-width:0}
+.lab{font-size:.75rem;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin:0 0 8px;font-weight:500}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip,.btn{font:500 .82rem var(--font-ui);padding:6px 11px;border-radius:999px;border:1px solid var(--line);background:transparent;color:var(--fg);cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:#fff}
+.chip:focus-visible,.btn:focus-visible,.thumb:focus-visible,input:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.opts{display:flex;flex-wrap:wrap;gap:8px 18px;font-size:.85rem;color:var(--muted);margin-top:10px;align-items:center}
+.opts label{display:flex;align-items:center;gap:6px}
+.opts input[type=number]{width:7.5em;font:500 .85rem var(--font-num);padding:4px 6px;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--fg)}
+.main{display:grid;grid-template-columns:minmax(0,380px) minmax(0,1fr);gap:18px;align-items:start}
+@media (max-width:760px){.main{grid-template-columns:minmax(0,1fr)}}
+.stage{display:grid;gap:12px;justify-items:center}
+.watch{background:#2a2f37;border-radius:30px;padding:14px;width:100%;max-width:340px;touch-action:pan-y;user-select:none}
+.watch svg{width:100%;height:auto;display:block}
+.real .watch{width:auto}
+.real .watch svg{width:176px;height:176px}
+.nav{display:flex;gap:10px;align-items:center}
+.nav .pos{font:500 .85rem var(--font-num);color:var(--muted);min-width:4.5em;text-align:center}
+.read h2{margin:0;font-size:1.25rem;text-wrap:balance}
+.read .q{margin:2px 0 14px;color:var(--muted);font-size:.95rem}
+.say{font-size:1.02rem;margin:0 0 14px;max-width:60ch}
+.read dl{margin:0;display:grid;grid-template-columns:auto 1fr;gap:6px 12px;font-size:.86rem}
+.read dt{color:var(--muted)}
+.read dd{margin:0}
+.rules{margin:12px 0 0;padding:0;list-style:none;display:grid;gap:6px;font-size:.86rem}
+.rules li{display:flex;gap:8px;align-items:baseline}
+.rules .st{font:700 .72rem var(--font-num);padding:1px 6px;border-radius:5px;border:1px solid var(--line);white-space:nowrap}
+.rules .on{color:var(--warn);border-color:var(--warn)}
+.flag{font-size:.8rem;color:var(--warn);margin:10px 0 0}
+.strip{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:10px}
+@media (max-width:640px){.strip{grid-template-columns:repeat(3,minmax(0,1fr))}}
+.thumb{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:8px;cursor:pointer;display:grid;gap:6px;text-align:center;font:500 .78rem var(--font-ui);color:var(--fg)}
+.thumb[aria-current="true"]{border-color:var(--accent);box-shadow:0 0 0 1px var(--accent)}
+.thumb svg{width:100%;height:auto;display:block}
+.thumb span{color:var(--muted)}
+.status{font:500 .8rem var(--font-num);color:var(--muted);margin:10px 0 0}
+.status b{color:var(--fg)}
+.status.demo b{color:var(--warn)}
+#demo{margin-top:12px}
+body.kiosk{background:#000}
+body.kiosk .wrap{max-width:none;padding:0;min-height:100vh;place-items:center}
+body.kiosk .wrap>*:not(.main),body.kiosk .read,body.kiosk .nav{display:none}
+body.kiosk .main{display:block}
+body.kiosk .watch{background:#000;border-radius:0;padding:0;max-width:none;width:min(100vw,100vh)}
+body.kiosk .stage{display:block}
+.foot{font-size:.8rem;color:var(--muted);margin:0;max-width:80ch}
+@media (prefers-reduced-motion:reduce){.flash{animation:none!important}}
+@keyframes flash{0%,100%{opacity:1}50%{opacity:0}}
+.flash{animation:flash .9s steps(1) infinite}
+</style>
+
+<div class="wrap">
+  <div>
+    <h1>Crypto Glyph</h1>
+    <p class="lede">Six screens, one question each, on live market data. Start on Now and only go deeper when something looks unusual. Tap or swipe the face, or use the arrows. The last screen always ends on your own rules.</p>
+  </div>
+
+  <div class="panel">
+    <p class="lab">Coin</p>
+    <div class="chips" id="coins"></div>
+    <p class="status" id="status">Loading live data…</p>
+    <div id="demo" hidden><p class="lab">Example scenario</p><div class="chips" id="scen"></div></div>
+    <div class="opts">
+      <label><input type="checkbox" id="pal8"> Watch palette (8 colours)</label>
+      <label><input type="checkbox" id="real"> Real watch size</label>
+      <label>Your holding <input type="number" id="hold" min="0" step="0.0001" value="0"> <span id="unit">BTC</span></label>
+      <label>Avg cost £<input type="number" id="cost" min="0" step="1" value="0"></label>
+    </div>
+  </div>
+
+  <div class="main" id="main">
+    <div class="stage">
+      <div class="watch" id="watch"><svg id="face" viewBox="0 0 176 176" role="img"></svg></div>
+      <div class="nav">
+        <button class="btn" id="prev" aria-label="Previous screen">← Prev</button>
+        <span class="pos" id="pos">1 / 6</span>
+        <button class="btn" id="next" aria-label="Next screen">Next →</button>
+      </div>
+    </div>
+    <div class="panel read" aria-live="polite">
+      <h2 id="title"></h2>
+      <p class="q" id="question"></p>
+      <p class="say" id="say"></p>
+      <dl id="key"></dl>
+      <ul class="rules" id="rules" hidden></ul>
+      <p class="flag" id="flag" hidden>These rules are placeholders. Swap in the real ones from your Trading Constitution.</p>
+    </div>
+  </div>
+
+  <div class="strip" id="strip"></div>
+
+  <p class="foot">Prices, volume and the order book come from Binance spot USDT pairs, shown in US$ (1 USDT treated as $1). The Me screen converts your holding to pounds with CoinGecko's USDT/GBP rate, because UK tax works in pounds. Funding, open interest and liquidations come from Binance perpetual futures; liquidations only count from when the page was opened. Your holding stays in this browser and is never sent anywhere. Information display, not a trade signal. Flow and leverage figures come from perpetual futures markets. They are fine to read, but UK retail customers can't trade crypto derivatives with FCA-regulated firms. The CGT line uses the £3,000 annual exempt amount and ignores fees, other disposals and the share-pooling rules, so treat it as a rough guide.</p>
+</div>
+
+<script>
+(function(){
+const NS="http://www.w3.org/2000/svg";
+const PAL={
+  full:{Storm:"#b45cff",Down:"#ff5a4e",Calm:"#4aa8ff",Up:"#36d68a",Hot:"#ffc93c",up:"#36d68a",down:"#ff5a4e",flat:"#3d4655",track:"#2a313c",fg:"#f4f6fa",dim:"#8790a0",alert:"#ffffff",ink:"#000000",spark:"#ffc93c",Clear:"#4aa8ff",Overcast:"#8790a0",Dawn:"#ffc93c"},
+  eight:{Storm:"#ff00ff",Down:"#ff0000",Calm:"#00ffff",Up:"#00ff00",Hot:"#ffff00",up:"#00ff00",down:"#ff0000",flat:"#0000ff",track:"#0000ff",fg:"#ffffff",dim:"#00ffff",alert:"#ffffff",ink:"#000000",spark:"#ffff00",Clear:"#00ffff",Overcast:"#0000ff",Dawn:"#ffff00"}
+};
+
+/* ---------- example data ---------- */
+function rng(seed){return function(){seed|=0;seed=seed+0x6D2B79F5|0;let t=Math.imul(seed^seed>>>15,1|seed);t=t+Math.imul(t^t>>>7,61|t)^t;return((t^t>>>14)>>>0)/4294967296}}
+function gauss(r){return Math.sqrt(-2*Math.log(r()||1e-9))*Math.cos(2*Math.PI*r())}
+function makeScenario(p){
+  const r=rng(p.seed),daily=[];let v=100;
+  for(let i=0;i<170;i++){v*=1+p.dDrift+gauss(r)*0.022;daily.push(v)}
+  const close=[];
+  for(let i=0;i<696;i++){v*=1+p.mDrift/696+gauss(r)*p.vol;close.push(v)}
+  const base=v,noise=[];let n=0;
+  for(let i=0;i<24;i++){n+=gauss(r)*p.vol24;noise.push(n)}
+  const end=noise[23];
+  for(let i=0;i<24;i++){const t=(i+1)/24,early=Math.min(1,t/(20/24))*(1-p.late),late=Math.max(0,(t-20/24)/(4/24))*p.late;
+    close.push(base*Math.exp(Math.log(1+p.ch24)*(early+late)+noise[i]-end*t))}
+  for(let i=23;i<720;i+=24)daily.push(close[i]);
+  const f=p.target/close[719];for(let i=0;i<720;i++)close[i]*=f;for(let i=0;i<daily.length;i++)daily[i]*=f;
+  const now=new Date();now.setMinutes(0,0,0);const h0=+now-719*3600e3;
+  const bars=close.map((c,i)=>{const o=i?close[i-1]:c,mv=c/o-1,am=Math.abs(mv);
+    return{t:h0+i*3600e3,o,c,h:Math.max(o,c)+Math.abs(gauss(r))*p.vol*c*.8,l:Math.min(o,c)-Math.abs(gauss(r))*p.vol*c*.8,
+      v:Math.exp(gauss(r)*.35)*(1+am*120)*(p.volBoost||1),
+      tk:Math.exp(gauss(r)*.12+Math.sign(mv)*Math.min(.5,am*60)),
+      liqL:(mv<0&&am>p.vol*1.8&&r()<.7)?am*4e7*(1+r()):0,liqS:(mv>0&&am>p.vol*1.8&&r()<.7)?am*4e7*(1+r()):0}});
+  return{bars,daily,oiCh:p.oi,funding:p.fund,bids:p.bids,taker:p.taker};
+}
+const SCEN=[
+  {id:"quiet",label:"Quiet day",target:64200,seed:11,dDrift:0.0016,mDrift:0.04,vol:0.0035,ch24:0.006,late:0,vol24:0.002,oi:0.004,fund:0.00004,bids:0.57,taker:0.98},
+  {id:"climb",label:"Steady climb",target:66800,seed:7,dDrift:0.0018,mDrift:0.06,vol:0.004,ch24:0.043,late:0.1,vol24:0.0025,oi:0.031,fund:0.00011,bids:0.61,taker:1.18},
+  {id:"hot",label:"Running hot",target:71500,seed:5,dDrift:0.0022,mDrift:0.14,vol:0.006,ch24:0.094,late:0.35,vol24:0.006,oi:0.082,fund:0.00046,bids:0.44,taker:1.42,volBoost:1.4},
+  {id:"slide",label:"Slide",target:58900,seed:21,dDrift:0.0015,mDrift:-0.12,vol:0.005,ch24:-0.041,late:0.1,vol24:0.003,oi:-0.018,fund:-0.00002,bids:0.42,taker:0.81},
+  {id:"storm",label:"Storm + big event",target:51300,seed:3,dDrift:-0.0006,mDrift:-0.15,vol:0.007,ch24:-0.13,late:0.8,vol24:0.004,oi:-0.094,fund:-0.00031,bids:0.36,taker:0.42,volBoost:1.8},
+  {id:"dawn",label:"Bounce in downtrend",target:56400,seed:17,dDrift:-0.0022,mDrift:0.05,vol:0.005,ch24:0.031,late:0.15,vol24:0.003,oi:0.012,fund:0.00002,bids:0.58,taker:1.09}
+];
+
+/* ---------- live data ---------- */
+const COINS=[{t:"BTC",sym:"BTCUSDT",demo:1},{t:"ZEC",sym:"ZECUSDT",demo:0.0055}];
+let COIN=COINS[0],SYM="$",mode="live",live=null,ws=null,liq={};
+function fetchT(u,ms=8000){const c=new AbortController(),t=setTimeout(()=>c.abort(),ms);return fetch(u,{signal:c.signal}).finally(()=>clearTimeout(t))}
+async function getJSON(urls){let err;for(const u of urls){try{const r=await fetchT(u);if(r.ok)return await r.json();err=new Error("HTTP "+r.status)}catch(e){err=e}}throw err}
+const spot=p=>getJSON(["https://data-api.binance.vision","https://api.binance.com"].map(b=>b+p));
+async function loadLive(coin){
+  const s=coin.sym;
+  const [h,d,dep]=await Promise.all([spot(`/api/v3/klines?symbol=${s}&interval=1h&limit=721`),spot(`/api/v3/klines?symbol=${s}&interval=1d&limit=200`),spot(`/api/v3/depth?symbol=${s}&limit=1000`)]);
+  let rate=null;try{const fx=await getJSON(["https://api.coingecko.com/api/v3/simple/price?ids=tether&vs_currencies=gbp"]);rate=fx&&fx.tether&&fx.tether.gbp||null}catch(e){}
+  const k=1,now=Date.now();
+  const bars=h.map(x=>{const vol=+x[5],tb=+x[9];return{t:x[0],o:+x[1]*k,h:+x[2]*k,l:+x[3]*k,c:+x[4]*k,v:+x[7],tk:tb/Math.max(1e-9,vol-tb),frac:Math.min(1,Math.max(.05,(now-x[0])/3600e3)),liqL:0,liqS:0}});
+  const daily=d.map(x=>+x[4]*k);
+  const mid=(+dep.bids[0][0]+ +dep.asks[0][0])/2,sum=(a,f)=>a.filter(f).reduce((t,x)=>t+ +x[1],0);
+  const B=sum(dep.bids,x=>+x[0]>=mid*.99),A=sum(dep.asks,x=>+x[0]<=mid*1.01);
+  const day=h.slice(-24),tb=day.reduce((t,x)=>t+ +x[9],0),tv=day.reduce((t,x)=>t+ +x[5],0);
+  let funding=null,oiCh=null;
+  try{const [pi,oi]=await Promise.all([getJSON([`https://fapi.binance.com/fapi/v1/premiumIndex?symbol=${s}`]),getJSON([`https://fapi.binance.com/futures/data/openInterestHist?symbol=${s}&period=1h&limit=25`])]);
+    funding=+pi.lastFundingRate;oiCh=+oi[oi.length-1].sumOpenInterest/ +oi[0].sumOpenInterest-1;if(!isFinite(funding)||!isFinite(oiCh)){funding=oiCh=null}}catch(e){}
+  return{bars,daily,oiCh,funding,bids:B/(B+A||1),taker:tb/Math.max(1e-9,tv-tb),rate,updated:now,coin:coin.t};
+}
+function openLiq(coin){
+  try{ws&&ws.close()}catch(e){}liq={};
+  try{ws=new WebSocket(`wss://fstream.binance.com/ws/${coin.sym.toLowerCase()}@forceOrder`);
+    ws.onmessage=e=>{try{const o=JSON.parse(e.data).o,hr=Math.floor(o.T/3600e3)*3600e3,usd=+o.q*+o.ap,b=liq[hr]||(liq[hr]={L:0,S:0});if(o.S==="SELL")b.L+=usd;else b.S+=usd;if(mode==="live")render()}catch(_){}}}catch(e){}
+}
+
+/* ---------- metrics ---------- */
+function compute(d){
+  const B=d.bars,day=B.slice(-24),week=B.slice(-168),last=B[B.length-1].c,ch=k=>last/B[B.length-1-k].c-1;
+  const hi=Math.max(...day.map(b=>b.h)),lo=Math.min(...day.map(b=>b.l));
+  const hi7=Math.max(...week.map(b=>b.h)),lo7=Math.min(...week.map(b=>b.l));
+  const ch24=ch(24),mood=ch24<-0.07?"Storm":ch24<-0.02?"Down":ch24<=0.02?"Calm":ch24<=0.07?"Up":"Hot";
+  const ma=B.slice(-8).reduce((a,b)=>a+b.c,0)/8;
+  const avgV=day.slice(0,23).reduce((a,b)=>a+b.v,0)/23;
+  const D=d.daily,n200=Math.min(200,D.length),ma200=D.slice(-n200).reduce((a,b)=>a+b,0)/n200;
+  const hi90=Math.max(...D.slice(-90),last),dd90=last/hi90-1,ch30=last/D[D.length-31]-1;
+  const regime=last>=ma200?(dd90>-0.10?"Clear":"Overcast"):(ch30>0?"Dawn":"Storm");
+  const liqL=day.reduce((a,b)=>a+b.liqL,0),liqS=day.reduce((a,b)=>a+b.liqS,0);
+  const lev=d.funding==null?"No data":d.funding>=0.0003&&d.oiCh>0.05?"Crowded long":d.funding<=-0.0001&&d.oiCh>0.03?"Crowded short":d.oiCh<=-0.05&&liqL+liqS>0?"Flushing out":"Normal";
+  const flow=d.taker>=1.1?"Buyers":d.taker<=0.9?"Sellers":"Balanced";
+  return{last,ch24,ch4:ch(4),hi,lo,hi7,lo7,pos:(last-lo)/(hi-lo||1),mood,day,ma,aboveMa:last>=ma,volX:day[23].v/(day[23].frac||1)/avgV,futOk:d.funding!=null,maxV:Math.max(...day.map(b=>b.v)),
+    big:Math.abs(ch(4))>=0.10,oiCh:d.oiCh||0,funding:d.funding||0,bids:d.bids,taker:d.taker,flow,lev,liqL,liqS,
+    rate:d.rate||null,daily30:D.slice(-31),ma200,vs200:last/ma200-1,dd90,hi90,regime};
+}
+
+/* ---------- drawing helpers ---------- */
+function el(tag,a,p){const e=document.createElementNS(NS,tag);for(const k in a)e.setAttribute(k,a[k]);p&&p.appendChild(e);return e}
+function polar(r,deg){const a=(deg-90)*Math.PI/180;return[88+r*Math.cos(a),88+r*Math.sin(a)]}
+function arc(r,a0,a1){const[x0,y0]=polar(r,a0),[x1,y1]=polar(r,a1);return`M${x0.toFixed(2)} ${y0.toFixed(2)}A${r} ${r} 0 ${a1-a0>180?1:0} 1 ${x1.toFixed(2)} ${y1.toFixed(2)}`}
+const gbp=v=>SYM+(Math.abs(v)>=1000?Math.round(v).toLocaleString("en-GB"):v===0?"0":Math.abs(v)>=1?v.toFixed(2):v.toFixed(4));
+const gbpk=v=>v>=10000?SYM+(v/1000).toFixed(1)+"k":gbp(v);
+const pct=(v,dp=1)=>(v>=0?"+":"−")+Math.abs(v*100).toFixed(dp)+"%";
+function fmtMe(v,m){const s=SYM;SYM=m.rate?"£":"$";const r=gbp(v);SYM=s;return r}
+const usdm=v=>"$"+(v/1e6).toFixed(1)+"m";
+function text(svg,x,y,s,txt,fill,o={}){const e=el("text",{x,y,"text-anchor":o.anchor||"middle","font-family":"JetBrains Mono,ui-monospace,monospace","font-size":s,"font-weight":o.w||700,fill},svg);if(o.ls)e.setAttribute("letter-spacing",o.ls);e.textContent=txt;return e}
+const hourAngle=t=>new Date(t).getHours()*15;
+function dirCol(c,P,flat=0.0015){return Math.abs(c)<flat?P.flat:c>0?P.up:P.down}
+function nowTick(svg,m,P,r0,r1){const a=((new Date(m.day[23].t).getHours()+1)%24)*15,[x1,y1]=polar(r0,a),[x2,y2]=polar(r1,a);el("line",{x1,y1,x2,y2,stroke:P.fg,"stroke-width":2},svg)}
+function hourRing(svg,m,P,size,colour){m.day.forEach(b=>{const a=hourAngle(b.t),c=b.c/b.o-1,len=size(b,c);
+  el("path",{d:arc(85-len/2,a+1.2,a+13.8),stroke:colour?colour(b,c):dirCol(c,P),"stroke-width":len,fill:"none"},svg)})}
+const moveSize=(b,c)=>Math.abs(c)<0.0015?3:Math.abs(c)<0.006?6:10;
+// shared frame: black face, header (ticker + screen name), page dots, big-event rim
+function frame(svg,m,P,i,name){
+  el("circle",{cx:88,cy:88,r:88,fill:P.ink},svg);
+  return()=>{
+    text(svg,88,64,10.5,COIN.t,P.fg,{ls:1.5,anchor:"middle"}).setAttribute("x",i===0?82:88);
+    if(i>0)text(svg,88,53,7,name.toUpperCase(),P.dim,{w:400,ls:1.5});
+    for(let k=0;k<6;k++){const[x,y]=polar(57,180-(k-2.5)*7);el("circle",{cx:x,cy:y,r:k===i?2.4:1.4,fill:k===i?P.fg:P.dim},svg)}
+    if(m.big)el("circle",{cx:88,cy:88,r:86.5,fill:"none",stroke:P.alert,"stroke-width":3,class:"flash"},svg);
+  };
+}
+function chevron(svg,x,y,up,col){el("path",{d:up?`M${x-5} ${y+3}L${x} ${y-3}L${x+5} ${y+3}`:`M${x-5} ${y-3}L${x} ${y+3}L${x+5} ${y-3}`,fill:"none",stroke:col,"stroke-width":2.2,"stroke-linecap":"round","stroke-linejoin":"round"},svg)}
+
+/* ---------- screens ---------- */
+function sNow(svg,m,P,u){const fin=frame(svg,m,P,0,"Now");
+  hourRing(svg,m,P,b=>3+12*b.v/m.maxV);nowTick(svg,m,P,67,71);
+  el("circle",{cx:88,cy:88,r:66,fill:"none",stroke:P[m.mood],"stroke-width":3},svg);
+  el("path",{d:arc(56,-120,120),stroke:P.track,"stroke-width":2,fill:"none","stroke-linecap":"round"},svg);
+  const[x,y]=polar(56,-120+240*m.pos);el("circle",{cx:x,cy:y,r:4,fill:P.fg,stroke:P.ink,"stroke-width":1.5},svg);
+  chevron(svg,106,60.5,m.aboveMa,m.aboveMa?P.up:P.down);
+  const s=gbp(m.last);text(svg,88,91,s.length>7?18:19,s,P.fg);text(svg,88,107,11.5,pct(m.ch24),P[m.mood]);
+  text(svg,88,121,8,"VOL ×"+m.volX.toFixed(1),m.volX>=1.5?P.spark:P.dim,{w:400});fin();}
+function sWhy(svg,m,P){const fin=frame(svg,m,P,1,"Why");
+  hourRing(svg,m,P,b=>3+12*b.v/m.maxV,(b)=>b.tk>=1.08?P.up:b.tk<=0.92?P.down:P.flat);nowTick(svg,m,P,67,71);
+  el("path",{d:arc(64,180,180+m.bids*360),stroke:P.up,"stroke-width":5,fill:"none"},svg);
+  el("path",{d:arc(64,180+m.bids*360,540),stroke:P.down,"stroke-width":5,fill:"none"},svg);
+  const fc=m.flow==="Buyers"?P.up:m.flow==="Sellers"?P.down:P.fg;
+  text(svg,88,88,15,m.flow.toUpperCase(),fc,{ls:1});
+  text(svg,88,103,8.5,"TAKER "+m.taker.toFixed(2),P.dim,{w:400});
+  text(svg,88,116,8.5,"BIDS "+Math.round(m.bids*100)+"%",m.bids>=0.5?P.up:P.down,{w:400});fin();}
+function sLev(svg,m,P){const fin=frame(svg,m,P,2,"Leverage");
+  hourRing(svg,m,P,()=>4);
+  const mx=Math.max(1,...m.day.map(b=>b.liqL+b.liqS));
+  m.day.forEach(b=>{const L=b.liqL+b.liqS;if(L<mx*0.15)return;const[x,y]=polar(76,hourAngle(b.t)+7.5);el("circle",{cx:x,cy:y,r:2+3.5*L/mx,fill:b.liqL>b.liqS?P.down:P.up,stroke:P.spark,"stroke-width":1},svg)});
+  // funding gauge across the top inner arc: -0.05% left, +0.05% right
+  const fpos=Math.max(-1,Math.min(1,m.funding/0.0005));
+  el("path",{d:arc(64,-60,60),stroke:P.track,"stroke-width":3,fill:"none"},svg);
+  const[fx,fy]=polar(64,fpos*60);el("circle",{cx:fx,cy:fy,r:3.5,fill:Math.abs(m.funding)<0.00005?P.fg:m.funding>0?P.up:P.down},svg);
+  const lc=m.lev==="Normal"?P.fg:P.spark;
+  text(svg,88,86,m.lev.length>8?11:14,m.lev.toUpperCase(),lc,{ls:.5});if(!m.futOk){fin();return}
+  text(svg,88,101,8.5,"OI "+pct(m.oiCh),Math.abs(m.oiCh)<0.005?P.dim:m.oiCh>0?P.up:P.down,{w:400});
+  text(svg,88,114,8.5,"FUND "+(m.funding>=0?"+":"−")+Math.abs(m.funding*100).toFixed(3)+"%",P.dim,{w:400});fin();}
+function sBig(svg,m,P){const fin=frame(svg,m,P,3,"Big picture");
+  // outer ring: last 30 days, one segment per day, clockwise from the top
+  const D=m.daily30;for(let i=1;i<D.length;i++){const c=D[i]/D[i-1]-1,a=(i-1)*12,len=Math.abs(c)<0.005?3:Math.abs(c)<0.03?6:10;
+    el("path",{d:arc(85-len/2,a+1,a+11),stroke:dirCol(c,P,0.005),"stroke-width":len,fill:"none"},svg)}
+  el("circle",{cx:88,cy:88,r:68,fill:"none",stroke:P[m.regime],"stroke-width":3},svg);
+  text(svg,88,86,15,m.regime.toUpperCase(),P[m.regime],{ls:1});
+  text(svg,88,101,8.5,pct(m.vs200,0)+" vs 200d",m.vs200>=0?P.up:P.down,{w:400});
+  text(svg,88,114,8.5,(m.dd90>-0.005?"at 90d high":pct(m.dd90,0)+" from 90d hi"),P.dim,{w:400});fin();}
+function sLevels(svg,m,P){const fin=frame(svg,m,P,4,"Levels");
+  hourRing(svg,m,P,moveSize);nowTick(svg,m,P,67,71);
+  const lv=[["7D HI",m.hi7],["24H HI",m.hi],["24H LO",m.lo],["7D LO",m.lo7]];
+  const top=76,bot=136,Y=p=>bot-(bot-top)*(p-m.lo7)/(m.hi7-m.lo7||1);
+  el("line",{x1:58,y1:top,x2:58,y2:bot,stroke:P.track,"stroke-width":2},svg);
+  lv.forEach(([l,p],k)=>{const y=top+4+k*(bot-top-8)/3;
+    el("line",{x1:54,y1:Y(p),x2:62,y2:Y(p),stroke:P.dim,"stroke-width":1.5},svg);
+    text(svg,64,y+2.5,7,l+" "+gbpk(p),P.dim,{w:400,anchor:"start"});
+    text(svg,150,y+2.5,7,pct(p/m.last-1),p>m.last?P.up:P.down,{w:400,anchor:"end"})});
+  const py=Y(m.last);el("path",{d:`M50 ${py-4}L57 ${py}L50 ${py+4}Z`,fill:P.fg},svg);
+  const near=lv.reduce((a,b)=>Math.abs(b[1]/m.last-1)<Math.abs(a[1]/m.last-1)?b:a);
+  m.nearest=near;fin();}
+function sMe(svg,m,P,u){const fin=frame(svg,m,P,5,"Me");
+  const val=u.hold*m.last*(m.rate||1),gain=val-u.hold*u.cost;
+  const rules=[["No trading during a big event (10%+ in 4h)",m.big],["Wait 24h after a Storm mood before acting",m.mood==="Storm"],["Don't add while leverage is crowded",m.lev.startsWith("Crowded")]];
+  const hit=rules.filter(r=>r[1]).length;m.rules=rules;m.val=val;m.gain=gain;
+  const sc=hit?P.spark:P.up;
+  el("circle",{cx:88,cy:88,r:78,fill:"none",stroke:sc,"stroke-width":8,class:hit&&m.big?"flash":""},svg);
+  text(svg,88,82,15,fmtMe(val,m),P.fg);
+  text(svg,88,96,9,(gain>=0?"+":"−")+fmtMe(Math.abs(gain),m)+" vs cost",gain>=0?P.up:P.down,{w:400});
+  text(svg,88,113,hit?8.5:9.5,hit?"READ CONSTITUTION":"NOTHING TO DO",sc,{ls:.5});
+  text(svg,88,125,7,u.hold+" "+COIN.t,P.dim,{w:400});fin();}
+
+const SCREENS=[
+  {name:"Now",q:"What's happening right now?",draw:sNow,
+   say:m=>`${COIN.t} is ${gbp(m.last)}, ${m.ch24>=0?"up":"down"} ${Math.abs(m.ch24*100).toFixed(1)}% in 24 hours. Mood: ${m.mood}. Price is ${m.aboveMa?"above":"below"} its short average, and this hour's volume is ${m.volX.toFixed(1)} times normal.`,
+   key:[["Outer ring","Last 24 hours by hour. Colour is direction, length is volume."],["Middle ring","24h mood colour."],["Dot","Where price sits between the 24h low and high."],["Chevron","Above or below the short moving average."]]},
+  {name:"Why",q:"Who's pushing the price?",draw:sWhy,
+   say:m=>`${m.flow==="Balanced"?"Buyers and sellers are roughly even":m.flow+" are hitting the market harder"} (taker ratio ${m.taker.toFixed(2)}). The order book is ${Math.round(m.bids*100)}% bids, so it leans ${m.bids>=0.5?"to buyers":"to sellers"}.`,
+   key:[["Outer ring","Each hour coloured by who was aggressive: green buyers, red sellers. Length is volume."],["Inner ring","Order book split: bids green from the bottom up the left, asks red up the right. Balanced meets at the top."],["Centre","Overall taker buy/sell over 24h."]]},
+  {name:"Leverage",q:"Is the market crowded?",draw:sLev,
+   say:m=>!m.futOk?"Futures data isn't reachable from here, so leverage can't be read right now.":`Open interest is ${m.oiCh>=0?"up":"down"} ${Math.abs(m.oiCh*100).toFixed(1)}% in 24 hours and funding is ${(m.funding*100).toFixed(3)}%. Reading: ${m.lev.toLowerCase()}. Liquidations ${mode==="live"?"since you opened the page":"over 24h"}: ${usdm(m.liqL)} longs, ${usdm(m.liqS)} shorts.`,
+   key:[["Dots","Hours with big liquidations. Red dot: longs wiped out. Green dot: shorts wiped out. Bigger is more."],["Top arc","Funding rate from −0.05% (left) to +0.05% (right). Right means longs are paying to stay in."],["Centre","Crowded long, crowded short, flushing out, or normal."]]},
+  {name:"Big picture",q:"Is this a blip or a regime change?",draw:sBig,
+   say:m=>`Regime: ${m.regime}. Price is ${Math.abs(m.vs200*100).toFixed(0)}% ${m.vs200>=0?"above":"below"} its 200-day average and ${m.dd90>-0.005?"at its 90-day high":Math.abs(m.dd90*100).toFixed(0)+"% below its 90-day high"}.`,
+   key:[["Outer ring","Last 30 days, one segment per day, clockwise from the top."],["Ring colour","Regime: Clear, Overcast, Storm or Dawn. Same as the e-ink picture."],["Centre","Distance from the 200-day average and the 90-day high."]]},
+  {name:"Levels",q:"Where are the walls?",draw:sLevels,
+   say:m=>`Nearest level: ${m.nearest[0].toLowerCase().replace("hi","high").replace("lo","low")} at ${gbp(m.nearest[1])}, ${Math.abs((m.nearest[1]/m.last-1)*100).toFixed(1)}% ${m.nearest[1]>m.last?"above":"below"}. The 7-day range is ${gbpk(m.lo7)} to ${gbpk(m.hi7)}.`,
+   key:[["Ladder","7-day and 24h highs and lows, with the white arrow at today's price."],["Right column","How far each level is from the price."],["Outer ring","Last 24 hours by price move, as on Now."]]},
+  {name:"Me",q:"What does this mean for me?",draw:sMe,
+   say:(m,u)=>{const hit=m.rules.filter(r=>r[1]);const over=Math.max(0,m.gain-3000);
+     return `You hold ${u.hold} ${COIN.t} worth ${fmtMe(m.val,m)}, ${fmtMe(Math.abs(m.gain),m)} ${m.gain>=0?"above":"below"} cost. ${m.gain>0?(over>0?`If sold, roughly ${fmtMe(over,m)} would be over this year's £3,000 CGT allowance.`:"A sale would sit inside this year's £3,000 CGT allowance."):"No gain to tax at this price."} ${hit.length?`${hit.length} rule${hit.length>1?"s":""} triggered: read your Constitution.`:"No rules triggered: nothing to do."}`},
+   key:[["Ring","Green: nothing to do. Yellow: a rule is triggered, read the Constitution. Flashes on a big event."],["Centre","Holding value in GBP and gain or loss against your average cost."]]}
+];
+
+/* ---------- page ---------- */
+const $=id=>document.getElementById(id);
+const coinChips=$("coins"),chips=$("scen"),strip=$("strip"),pal8=$("pal8"),real=$("real"),hold=$("hold"),cost=$("cost");
+function store(k,v){try{if(v!==undefined)localStorage.setItem(k,v);return localStorage.getItem(k)}catch(e){return null}}
+let data,idx=0,scenId="climb";
+COINS.forEach(c=>{const b=document.createElement("button");b.className="chip";b.dataset.id=c.t;b.textContent=c.t;b.onclick=()=>setCoin(c.t);coinChips.appendChild(b)});
+SCEN.forEach(s=>{const b=document.createElement("button");b.className="chip";b.dataset.id=s.id;b.textContent=s.label;b.onclick=()=>select(s.id);chips.appendChild(b)});
+SCREENS.forEach((s,i)=>{const b=document.createElement("button");b.className="thumb";b.innerHTML=`<svg viewBox="0 0 176 176" aria-hidden="true"></svg>`;const sp=document.createElement("span");sp.textContent=(i+1)+". "+s.name;b.appendChild(sp);b.onclick=()=>go(i);s.thumb=b;strip.appendChild(b)});
+function user(){return{hold:Math.max(0,parseFloat(hold.value)||0),cost:Math.max(0,parseFloat(cost.value)||0)}}
+function status(){
+  const st=$("status");st.textContent="";st.classList.toggle("demo",mode!=="live");const b=document.createElement("b");
+  if(mode==="live"&&live){b.textContent="Live";st.append(b,document.createTextNode(` · Binance ${COIN.sym} · updated ${new Date(live.updated).toLocaleTimeString("en-GB",{hour:"2-digit",minute:"2-digit"})}`+" · prices in US$"+(live.rate?` · Me screen in £ (£${live.rate.toFixed(4)} per $)`:" · GBP rate unavailable, Me screen in $")+(live.funding==null?" · futures data unavailable":"")))}
+  else{b.textContent="Example data";st.append(b,document.createTextNode(" · live prices couldn't be reached from this page, so these are made-up examples. Open the hosted page or the file in Safari or Chrome for live data."))}
+  $("demo").hidden=mode==="live";
+}
+function render(){
+  if(!data)return;
+  if(mode==="live")data.bars.forEach(b=>{const k=liq[b.t];b.liqL=k?k.L:0;b.liqS=k?k.S:0});
+  status();
+  const P=pal8.checked?PAL.eight:PAL.full,u=user(),m=compute(data);
+  // draw every screen once so each screen's derived values (levels, rules) exist for the text
+  SCREENS.forEach(s=>{const svg=s.thumb.querySelector("svg");svg.textContent="";s.draw(svg,m,P,u)});
+  const s=SCREENS[idx],f=$("face");f.textContent="";s.draw(f,m,P,u);
+  f.setAttribute("aria-label",`Screen ${idx+1} of 6, ${s.name}. `+s.say(m,u));
+  $("title").textContent=(idx+1)+". "+s.name;$("question").textContent=s.q;$("say").textContent=s.say(m,u);
+  const key=$("key");key.textContent="";s.key.forEach(([k,v])=>{const dt=document.createElement("dt"),dd=document.createElement("dd");dt.textContent=k;dd.textContent=v;key.append(dt,dd)});
+  const rl=$("rules");rl.hidden=idx!==5;$("flag").hidden=idx!==5;
+  if(idx===5){rl.textContent="";m.rules.forEach(([t,on])=>{const li=document.createElement("li"),st=document.createElement("span");st.className="st"+(on?" on":"");st.textContent=on?"TRIGGERED":"clear";const tx=document.createElement("span");tx.textContent=t;li.append(st,tx);rl.appendChild(li)})}
+  $("pos").textContent=(idx+1)+" / 6";
+  SCREENS.forEach((x,i)=>x.thumb.setAttribute("aria-current",i===idx));
+  $("main").classList.toggle("real",real.checked);
+}
+function go(i){idx=(i+6)%6;store("gf-idx",String(idx));render()}
+function select(id){const s=SCEN.find(x=>x.id===id)||SCEN[0];scenId=s.id;SYM="$";data=makeScenario(Object.assign({},s,{target:s.target*1.3*COIN.demo}));data.rate=0.76;[...chips.children].forEach(b=>b.setAttribute("aria-pressed",b.dataset.id===s.id));store("gf-scen",s.id);render()}
+async function refresh(){
+  const want=COIN.t;
+  try{const d=await loadLive(COIN);if(COIN.t!==want)return;live=d;SYM="$";mode="live";data=d;render()}
+  catch(e){if(COIN.t!==want)return;if(!live||live.coin!==COIN.t){mode="demo";select(scenId)}}
+}
+function loadHolding(){const h=store("gf-hold-"+COIN.t),c=store("gf-cost-"+COIN.t);hold.value=h||"0";cost.value=c||"0";$("unit").textContent=COIN.t}
+function setCoin(t){COIN=COINS.find(c=>c.t===t)||COINS[0];store("gf-coin",COIN.t);[...coinChips.children].forEach(b=>b.setAttribute("aria-pressed",b.dataset.id===COIN.t));
+  document.title=COIN.t+" Glyph";loadHolding();live=null;if(mode==="demo")select(scenId);openLiq(COIN);refresh()}
+$("prev").onclick=()=>go(idx-1);$("next").onclick=()=>go(idx+1);
+document.addEventListener("keydown",e=>{if(e.target.tagName==="INPUT")return;if(e.key==="ArrowRight")go(idx+1);if(e.key==="ArrowLeft")go(idx-1)});
+let sx=null;const w=$("watch");
+w.addEventListener("pointerdown",e=>{sx=e.clientX});
+w.addEventListener("pointerup",e=>{if(sx===null)return;const dx=e.clientX-sx;sx=null;if(Math.abs(dx)>30)go(idx+(dx<0?1:-1));else go(idx+1)});
+pal8.checked=store("gf-pal8")==="1";real.checked=store("gf-real")==="1";
+pal8.onchange=()=>{store("gf-pal8",pal8.checked?"1":"0");render()};
+real.onchange=()=>{store("gf-real",real.checked?"1":"0");render()};
+hold.oninput=()=>{store("gf-hold-"+COIN.t,hold.value);render()};cost.oninput=()=>{store("gf-cost-"+COIN.t,cost.value);render()};
+function kiosk(){document.body.classList.toggle("kiosk",location.hash==="#kiosk")}kiosk();window.addEventListener("hashchange",kiosk);
+idx=Math.min(5,Math.max(0,parseInt(store("gf-idx")||"0",10)||0));
+scenId=store("gf-scen")||"climb";
+setCoin(store("gf-coin")||"BTC");
+setInterval(()=>{if(!document.hidden)refresh()},60000);
+document.addEventListener("visibilitychange",()=>{if(!document.hidden)refresh()});
+})();
+</script>
+
+</body></html>
