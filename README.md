@@ -23,3 +23,14 @@ https://astralis-arch.github.io/cryptonaire-calendar/glyph/
 ```
 
 Add `#kiosk` to the end for the full-screen Raspberry Pi view.
+
+## News brief
+
+A short, ranked, AI-curated brief on BTC, ZEC and the wider markets, refreshed every morning (UK) by a scheduled Claude session following `news/ROUTINE.md`. Each story shows its impact, confidence and sources. Information only, not trade signals.
+
+- **Read:** https://astralis-arch.github.io/cryptonaire-calendar/news/ (Share › Add to Home Screen; tap ▶ Listen to hear it)
+- **RSS:** https://astralis-arch.github.io/cryptonaire-calendar/news/feed.xml
+- **Spoken text** (for an iPhone Shortcut: Get Contents of URL › Speak Text): https://astralis-arch.github.io/cryptonaire-calendar/news/brief.txt
+- **Data** for devices: `news/latest.json`
+
+To rebuild by hand: `python3 -W error news/build_news.py`.
