@@ -12,6 +12,8 @@ library only (no pip installs). Talks to the bulb over local UDP port 38899.
 Settings are environment variables (all optional):
   WIZ_IP       bulb IP address (otherwise it is found by broadcast)
   QUIET        quiet hours, UK time, e.g. "23-07" (bulb off). "" = never off
+  DIM_MIN      brightness % on a quiet day (20)
+  DIM_MAX      brightness % on a wild day (70)
   PULSE_MIN    minutes before a red calendar event to start breathing (30)
 """
 import json, os, socket, sys, time, urllib.request
@@ -28,6 +30,8 @@ ICS = "https://raw.githubusercontent.com/astralis-arch/cryptonaire-calendar/main
 PORT = 38899
 POLL = 15 * 60          # market check every 15 minutes
 CONFIRM = 2             # a new mood must show on 2 checks in a row
+DIM_MIN = int(os.environ.get("DIM_MIN", "20"))   # % on a quiet day (10 is the bulb's lowest)
+DIM_MAX = int(os.environ.get("DIM_MAX", "70"))   # % on a wild day
 STATE = os.path.expanduser("~/.cache/wizmood.json")
 
 # Moods from the shared mood engine (24h % change). Colour = direction.
@@ -125,9 +129,9 @@ def mood_for(pct):
 
 
 def brightness(rng):
-    # Brightness = how much it has moved today. Quiet day 35%, wild day 100%.
-    # 24h high-low range: 2% or less -> 35, 8% or more -> 100.
-    return 35 + (min(max(rng, 2.0), 8.0) - 2.0) / 6.0 * 65
+    # Brightness = how much it has moved today. Quiet day DIM_MIN, wild day DIM_MAX.
+    # 24h high-low range: 2% or less -> DIM_MIN, 8% or more -> DIM_MAX.
+    return DIM_MIN + (min(max(rng, 2.0), 8.0) - 2.0) / 6.0 * (DIM_MAX - DIM_MIN)
 
 
 # ---------- calendar ----------
@@ -241,7 +245,7 @@ def run():
             if lit != "pulse":
                 log("breathing for", ev[1], "at", ev[0].astimezone(UK).strftime("%H:%M"))
                 lit = "pulse"
-            for d in (100, 15):
+            for d in (DIM_MAX, 10):
                 show(ip, mood, d)
                 time.sleep(3)
             continue
@@ -259,8 +263,8 @@ def main():
     ip = bulb_ip() if arg in ("--test", "--once") else None
     if arg == "--test":
         for name, _, _ in MOODS:
-            log("showing", name); show(ip, name, 80); time.sleep(4)
-        log("breathe"); [show(ip, "calm", d) or time.sleep(3) for d in (100, 15, 100, 15)]
+            log("showing", name); show(ip, name, DIM_MAX); time.sleep(4)
+        log("breathe"); [show(ip, "calm", d) or time.sleep(3) for d in (DIM_MAX, 10) * 2]
         return
     if arg == "--once":
         st = {}

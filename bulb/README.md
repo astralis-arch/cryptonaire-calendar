@@ -10,7 +10,7 @@ A WiZ colour bulb shows BTC's 24-hour direction. Runs on the Pi, no installs. In
 | Green | Up: +2% to +7% |
 | Bright teal | Hot: above +7% |
 
-- **Brightness** = how much it moved today (24h high-low range): dim on a quiet day (2% or less), full on a wild one (8% or more).
+- **Brightness** = how much it moved today (24h high-low range): 20% on a quiet day (2% or less), 70% on a wild one (8% or more). Change with `DIM_MIN` / `DIM_MAX`.
 - **Slow breathing** = a 🔴 event from the calendar starts within 30 minutes.
 - **Off** 23:00 to 07:00 UK time.
 - A new colour must show on two checks in a row (checks every 15 min), so it doesn't flicker on a wobble.

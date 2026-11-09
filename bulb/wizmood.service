@@ -8,6 +8,9 @@ User=alistair
 # Optional: pin the bulb's address and change quiet hours (UK time).
 #Environment=WIZ_IP=192.168.1.50
 #Environment=QUIET=23-07
+# Brightness range in %: quiet day to wild day.
+Environment=DIM_MIN=20
+Environment=DIM_MAX=70
 ExecStart=/usr/bin/python3 /home/alistair/wizmood.py
 Restart=always
 RestartSec=60
