@@ -63,6 +63,16 @@ add("🟠", "FCA crypto regime goes live", "2027-10-25", None, note="New UK rule
 add("🟢", "BTC halving (estimate ~Apr 2028)", "2028-04-15", None, note="Block 1,050,000. Date is an estimate and will drift; v1 will track it from block height.")
 add("🟢", "ZEC: no confirmed upgrade dates", "2026-11-10", None, note="NU7 went live 5 Nov 2026 (25s blocks, fee-burn reserve, Sprout closed). Next upgrade not yet scheduled.")
 
+# --- Discovered events (added by the weekly scan; see ROUTINE.md). Unconfirmed ones show as ⚪.
+import json, pathlib as _pl
+_disc = _pl.Path(__file__).with_name("discovered.json")
+if _disc.exists():
+    for ev in json.loads(_disc.read_text(encoding="utf-8")):
+        tier = ev.get("tier", "🟢") if ev.get("confirmed") else "⚪"
+        title = ev["title"] if ev.get("confirmed") else ev["title"] + " (unconfirmed)"
+        note = ev.get("note", "") + (f" Source: {ev['source']}." if ev.get("source") else "")
+        add(tier, title, ev["date"], ev.get("time"), ZoneInfo(ev.get("tz", "Europe/London")), ev.get("mins", 30), note)
+
 def esc(s): return s.replace("\\","\\\\").replace(";","\\;").replace(",","\\,").replace("\n","\\n")
 now = dt.datetime.now(UTC).strftime("%Y%m%dT%H%M%SZ")
 L = ["BEGIN:VCALENDAR","VERSION:2.0","PRODID:-//Cryptonaire//Events v0//EN","CALSCALE:GREGORIAN","METHOD:PUBLISH",
