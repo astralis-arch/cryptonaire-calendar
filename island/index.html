@@ -1,0 +1,238 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Island Weather</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Shippori+Mincho+B1:wght@600;800&display=swap">
+<style>
+:root{--bg:#ecebe6;--fg:#16171b;--muted:#5d6068;--line:#cfcdc5}
+html,body{margin:0;height:100%}
+body{background:var(--bg);color:var(--fg);font:15px/1.5 "Atkinson Hyperlegible",system-ui,sans-serif}
+#stage{display:block;width:100%;max-width:1024px;margin:0 auto}
+#stage svg{display:block;width:100%;height:auto}
+.panel{max-width:1024px;margin:0 auto;padding:16px;display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:20px}
+.panel h2{font:800 18px "Shippori Mincho B1",Georgia,serif;margin:0 0 8px}
+.panel table{border-collapse:collapse;width:100%}.panel td{padding:4px 0;border-bottom:1px solid var(--line)}.panel td:last-child{text-align:right;font-variant-numeric:tabular-nums}
+label{display:flex;justify-content:space-between;gap:10px;align-items:center;margin:6px 0}
+input{font:inherit;width:9em;padding:4px 6px}
+button{font:inherit;padding:6px 12px;border-radius:999px;border:1px solid var(--line);background:#fff;cursor:pointer}
+.muted{color:var(--muted);font-size:13px}
+body.kiosk{background:#000;overflow:hidden;cursor:none}
+body.kiosk .panel{display:none}
+body.kiosk #stage{position:fixed;inset:0;max-width:none;width:100vw;height:100vh}
+body.kiosk #stage svg{width:100%;height:100%}
+</style></head><body>
+<div id="stage"></div>
+<div class="panel">
+  <div><h2>Today's reading</h2><table id="read"></table><p class="muted" id="status">Loading Bitcoin daily prices…</p></div>
+  <div><h2>Your boat</h2>
+    <label>How invested (0 = all cash, 100 = fully in) <input id="exp" type="number" min="0" max="100" step="5"></label>
+    <label>Average BTC cost (US$, 0 = not set) <input id="cost" type="number" min="0" step="100"></label>
+    <label>Constitution limit reached <input id="flag" type="checkbox" style="width:auto"></label>
+    <button id="save">Save on this device</button>
+    <p class="muted">Saved only in this browser. The Pi launcher can also pass these in the address, which wins over saved values. Prices are Binance BTC/USDT daily closes.</p></div>
+  <div><h2>Preview a stage</h2><p class="muted">Add <code>?demo=1</code> to the address to cycle through every stage, or <code>#kiosk</code> for full screen.</p><div id="demoBtns"></div></div>
+</div>
+<script>
+/* Island scene v2: fixed mountain, market weather in sky and sea, portfolio boat. Returns SVG string 800x480. */
+function hex(c){c=c.replace('#','');return[parseInt(c.slice(0,2),16),parseInt(c.slice(2,4),16),parseInt(c.slice(4,6),16)]}
+function mixc(a,b,t){t=Math.max(0,Math.min(1,t));const A=hex(a),B=hex(b);return'#'+A.map((v,i)=>Math.round(v+(B[i]-v)*t).toString(16).padStart(2,'0')).join('')}
+function rnd(seed){let s=seed>>>0;return()=>{s=(s*1664525+1013904223)>>>0;return s/4294967296}}
+const KEY='#1b2238',PAPER='#efe3c4',FOAM='#f4ecd6';
+function cloudBank(u,y,h,amp,seed,fill){const r=rnd(seed);let d=`M-20,${y+h} L-20,${y}`;let x=-20;
+  while(x<820){const w=26+r()*34,up=amp*(0.4+r()*0.8);d+=` q${w/2},${-up} ${w},0`;x+=w}
+  d+=` L820,${y+h} Z`;let g=`<path d="${d}" fill="${fill}" stroke="${KEY}" stroke-width="1.6" stroke-linejoin="round"/>`;
+  // inner scallop lines, print style
+  const r2=rnd(seed+1);for(let k=1;k<3;k++){let x2=-10+k*14,dd=`M${x2},${y+k*12}`;while(x2<810){const w=30+r2()*30;dd+=` q${w/2},${-amp*0.5} ${w},0`;x2+=w}
+    g+=`<path d="${dd}" fill="none" stroke="${FOAM}" stroke-opacity=".35" stroke-width="1.4"/>`}
+  return g}
+function boat(x,y,s,tilt,sail,flag){let g=`<g transform="translate(${x.toFixed(1)},${y.toFixed(1)}) rotate(${tilt.toFixed(1)}) scale(${s.toFixed(3)})">`;
+  // mast and sail
+  g+=`<line x1="2" y1="-2" x2="2" y2="-84" stroke="${KEY}" stroke-width="3"/>`;
+  if(sail==="full"||sail==="reef"){const top=sail==="full"?-80:-46;
+    g+=`<path d="M-22,${top} L26,${top} Q34,${(top-8)/2} 26,-10 L-22,-10 Q-14,${(top-10)/2} -22,${top} Z" fill="${FOAM}" stroke="${KEY}" stroke-width="1.6"/>`;
+    for(let i=1;i<6;i++){const xx=-22+i*8;g+=`<path d="M${xx},${top} Q${xx+(sail==="full"?5:2)},${(top-10)/2} ${xx},-10" fill="none" stroke="${KEY}" stroke-opacity=".55" stroke-width="1"/>`}
+    g+=`<line x1="-26" y1="${top}" x2="30" y2="${top}" stroke="${KEY}" stroke-width="2.4"/>`}
+  else g+=`<rect x="-20" y="-16" width="44" height="7" rx="3.5" fill="${FOAM}" stroke="${KEY}" stroke-width="1.4"/>`;
+  if(flag)g+=`<path d="M2,-84 L26,-79 L2,-73 Z" fill="#c4161c" stroke="${KEY}" stroke-width="1"/>`;
+  // hull with high prow
+  g+=`<path d="M-48,-12 Q-40,-2 -30,0 L34,0 Q48,-4 58,-22 L54,-8 Q46,8 30,10 L-30,10 Q-44,6 -48,-12 Z" fill="#4a2f1d" stroke="${KEY}" stroke-width="1.6"/>`;
+  g+=`<path d="M-44,-6 Q-36,2 -28,3 L32,3 Q44,0 53,-12" fill="none" stroke="${FOAM}" stroke-width="1.6"/>`;
+  // boatman
+  g+=`<circle cx="-30" cy="-20" r="4" fill="${KEY}"/><path d="M-36,0 L-33,-16 L-26,-16 L-24,0 Z" fill="#2c3f6b" stroke="${KEY}" stroke-width="1"/><line x1="-26" y1="-12" x2="-52" y2="14" stroke="${KEY}" stroke-width="2"/>`;
+  return g+'</g>'}
+function islandSVG(v,uid,pf){
+  const u=uid||'s',o=[];const H=480,hz=334;
+  const k=Object.assign({sky:0,cloud:0,rain:0,lightning:0,mist:0,dawn:0,sea:0,wave:0},v);
+  const P=Object.assign({exposure:.6,pnl:"up",flag:false},pf||{});
+  const dk=k.sky,dw=k.dawn*(1-dk*0.6);
+  const top=mixc(mixc('#173a78','#2a2950',dw),'#1d2027',dk),mid=mixc(mixc('#5b86c2','#c27a7a',dw),'#4a505b',dk),low=mixc(mixc(PAPER,'#f0b862',dw),'#8a8c90',dk);
+  o.push(`<defs>
+  <linearGradient id="${u}sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="${top}"/><stop offset=".18" stop-color="${top}"/><stop offset=".42" stop-color="${mid}"/><stop offset=".8" stop-color="${low}"/></linearGradient>
+  <linearGradient id="${u}mt" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#6a2316"/><stop offset=".4" stop-color="#b14628"/><stop offset=".85" stop-color="#d6895a"/><stop offset="1" stop-color="#c77a4e"/></linearGradient>
+  <linearGradient id="${u}mtside" x1="0" y1="0" x2="1" y2="0"><stop offset=".5" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#2a0a04" stop-opacity=".28"/></linearGradient>
+  <linearGradient id="${u}sea" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="${mixc(mixc('#8aa6c8','#d8a878',dw),'#4a5664',dk)}"/><stop offset=".3" stop-color="${mixc('#2c5895','#22344e',dk)}"/><stop offset="1" stop-color="${mixc('#112a5a','#0d1828',dk)}"/></linearGradient>
+  <linearGradient id="${u}wave" x1="0" y1="1" x2="0.25" y2="0"><stop offset="0" stop-color="#0d2552"/><stop offset=".55" stop-color="#1c4688"/><stop offset="1" stop-color="#6b93c6"/></linearGradient>
+  <linearGradient id="${u}cl" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="${mixc('#7d8696','#3d424c',dk)}"/><stop offset=".5" stop-color="${mixc('#a9afb8','#5a606b',dk)}"/><stop offset="1" stop-color="${mixc('#cfcfc8','#70757e',dk)}"/></linearGradient>
+  <radialGradient id="${u}sun"><stop offset="0" stop-color="#e2452c"/><stop offset=".9" stop-color="#cf3424"/><stop offset="1" stop-color="#b52a1e"/></radialGradient>
+  <filter id="${u}blur" x="-20%" y="-150%" width="140%" height="400%"><feGaussianBlur stdDeviation="6"/></filter>
+  <filter id="${u}paper" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="2" seed="3"/><feColorMatrix values="0 0 0 0 .35  0 0 0 0 .27  0 0 0 0 .16  0 0 0 .6 0"/></filter>
+  <filter id="${u}grain" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".003 .11" numOctaves="3" seed="8"/><feColorMatrix values="0 0 0 0 .08  0 0 0 0 .1  0 0 0 0 .2  0 0 0 .55 0"/></filter>
+  <filter id="${u}stain" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".008" numOctaves="2" seed="21"/><feColorMatrix values="0 0 0 0 .55  0 0 0 0 .42  0 0 0 0 .2  0 0 0 .5 -.05"/></filter>
+  <clipPath id="${u}wclip"><path id="${u}wbody" d="M-10,490 L-10,330 C30,250 80,170 160,120 C226,78 300,58 360,68 C424,80 468,120 480,160 C486,186 468,206 446,198 C430,192 438,170 420,160 C392,144 356,152 332,188 C306,228 302,294 330,354 C358,412 418,450 508,490 Z"/></clipPath>
+  </defs>`);
+  // sky with woodgrain
+  o.push(`<rect width="800" height="${hz}" fill="url(#${u}sky)"/><rect width="800" height="${hz}" filter="url(#${u}grain)" opacity=".5"/>`);
+  // fair-weather mackerel clouds
+  const fair=Math.max(0,1-dk*2.2-k.mist*0.8)*(1-k.cloud);
+  if(fair>0.12){const r=rnd(11);for(let row=0;row<7;row++){const y=40+row*21;for(let x=-20+(row%2)*28;x<820;x+=58+r()*52){if(r()<0.28)continue;const w=22+r()*30;
+    o.push(`<g fill="${FOAM}" opacity="${(0.5+0.45*fair).toFixed(2)}"><path d="M${x-w},${y} q${w*0.25},-7 ${w*0.5},-3 q${w*0.25},-9 ${w*0.6},-4 q${w*0.3},-6 ${w*0.55},1 q${w*0.2},3 ${w*0.35},6 Z"/><path d="M${x-w*0.7},${y+5} q${w*0.5},-5 ${w},-2 q${w*0.3},-4 ${w*0.5},2 Z"/></g>`)}}}
+  // dawn sun
+  if(k.dawn>0.2){const sy=hz-28+(1-k.dawn)*50;o.push(`<circle cx="612" cy="${sy}" r="58" fill="url(#${u}sun)" stroke="${KEY}" stroke-width="1.4"/>`)}
+  // weather cloud banks behind the mountain
+  if(k.cloud>0.12){const h=k.cloud;
+    o.push(cloudBank(u,hz-60-h*150,60+h*150,10+h*10,5,`url(#${u}cl)`));
+    if(h>0.5)o.push(cloudBank(u,hz-40-h*70,40+h*70,8+h*8,9,`url(#${u}cl)`));
+    if(h>0.85)o.push(cloudBank(u,10,40,14,17,`url(#${u}cl)`));}
+  // mist behind the island (sky part only)
+  if(k.mist>0.05)o.push(`<rect y="${hz-150}" width="800" height="150" fill="${PAPER}" opacity="${(k.mist*0.5).toFixed(2)}" filter="url(#${u}blur)"/>`);
+  // ---- the fixed mountain ----
+  const M="M150,338 C250,308 320,214 368,124 Q384,102 400,100 Q416,102 432,124 C480,214 550,308 650,338 Z";
+  o.push(`<path d="${M}" fill="url(#${u}mt)"/><path d="${M}" fill="url(#${u}mtside)"/>`);
+  {const r=rnd(4);o.push(`<path d="M357,146 C366,128 376,112 388,103 Q400,97 412,103 C424,112 434,128 443,146 Q400,156 357,146 Z" fill="#f6f0de"/>`);
+    for(let i=0;i<14;i++){const t=i/13,x=358+t*84,yTop=144,len=16+r()*52*(1-Math.abs(t-0.5)),w=2+r()*3.2;
+      o.push(`<path d="M${(x-w).toFixed(1)},${yTop} Q${(x+(t-0.5)*6).toFixed(1)},${(yTop+len*0.6).toFixed(1)} ${(x+(t-0.5)*14).toFixed(1)},${(yTop+len).toFixed(1)} Q${(x+(t-0.5)*4+w*0.3).toFixed(1)},${(yTop+len*0.5).toFixed(1)} ${(x+w).toFixed(1)},${yTop} Z" fill="#f6f0de"/>`)}}
+  o.push(`<path d="${M}" fill="none" stroke="${KEY}" stroke-width="2"/>`);
+  o.push(`<path d="M400,102 C396,170 380,250 356,332" stroke="#3a0e06" stroke-opacity=".25" stroke-width="2.5" fill="none"/><path d="M420,120 C440,190 472,262 522,332" stroke="#3a0e06" stroke-opacity=".2" stroke-width="2" fill="none"/>`);
+  {const r=rnd(9);let d="M150,338 ";for(let x=150;x<=650;x+=11){const base=338-(x<250||x>550?14:24)*(1-Math.abs(x-400)/300);d+=`Q${x+5.5},${base-7-r()*8} ${x+11},${base} `}d+="L650,342 L150,342 Z";
+    o.push(`<path d="${d}" fill="#24412d" stroke="${KEY}" stroke-width="1.2"/>`);
+    for(let x=160;x<640;x+=8+r()*9){const y=332-r()*14*(1-Math.abs(x-400)/300);o.push(`<path d="M${x-3},${y+2} q3,-6 6,0 Z" fill="#4a7a52"/>`)}
+    o.push(`<path d="M118,346 Q160,336 220,340 L580,340 Q642,336 692,346 Q600,354 400,352 Q200,354 118,346 Z" fill="#e8d7a8" stroke="${KEY}" stroke-width="1.2"/>`);}
+  function pine(x,y,s){let g=`<g transform="translate(${x},${y}) scale(${s})"><path d="M0,0 C-3,-20 4,-38 -2,-58 C-4,-66 2,-74 8,-80" stroke="#2a1a10" stroke-width="4" fill="none"/>`;
+    [[-4,-78,34],[6,-62,40],[-6,-44,32],[4,-28,26]].forEach(([cx,cy,w])=>{g+=`<path d="M${cx-w/2},${cy} Q${cx-w/4},${cy-11} ${cx},${cy-12} Q${cx+w/4},${cy-11} ${cx+w/2},${cy} Z" fill="#2f5a3a" stroke="${KEY}" stroke-width="1.1"/>`;
+      g+=`<path d="M${cx-w/3},${cy-3} q${w/6},-4 ${w/3},0 M${cx},${cy-4} q${w/6},-4 ${w/3},0" stroke="#6d9a6a" stroke-width="1" fill="none"/>`});return g+'</g>'}
+  o.push(pine(168,346,0.9)+pine(194,348,0.7)+pine(614,347,0.85)+pine(638,348,0.65));
+  // mist in front of the lower slopes and sea only, so the peak stays clear
+  if(k.mist>0.05)[[400,262,300,14],[300,300,280,13],[560,318,260,12],[400,348,440,12]].slice(0,Math.ceil(k.mist*4)).forEach(([cx,cy,rx,ry])=>o.push(`<ellipse cx="${cx}" cy="${cy}" rx="${rx}" ry="${ry}" fill="${PAPER}" opacity=".95" filter="url(#${u}blur)"/>`));
+  // ---- sea ----
+  o.push(`<rect y="${hz+6}" width="800" height="${H-hz-6}" fill="url(#${u}sea)"/><rect y="${hz+6}" width="800" height="${H-hz-6}" filter="url(#${u}grain)" opacity=".35"/>`);
+  if(k.dawn>0.2)for(let i=0;i<7;i++){const w=56-i*6;o.push(`<rect x="${612-w}" y="${hz+12+i*16}" width="${w*2}" height="4" rx="2" fill="#f2c46a" opacity="${(0.9*k.dawn).toFixed(2)}"/>`)}
+  {const r=rnd(21),rows=13,A=1+k.sea*9;for(let i=0;i<rows;i++){const t=i/(rows-1),y=hz+12+t*(H-hz-14),a=A*(0.35+t),l=18+t*36+k.sea*18;
+      let d=`M${-r()*l},${y}`;for(let x=-l;x<820;x+=l)d+=` q${l/4},${-a} ${l/2},0 q${l/4},${a*0.35} ${l/2},0`;
+      o.push(`<path d="${d}" fill="none" stroke="${FOAM}" stroke-opacity="${(0.3+0.5*t).toFixed(2)}" stroke-width="${(0.7+t*1.3).toFixed(1)}"/>`);
+      if(k.sea>0.4&&i%2){for(let x=r()*l;x<800;x+=l*(1.6+r()*2)){const s=1.6+t*3.6*k.sea,yy=y-a;
+        o.push(`<path d="M${x.toFixed(0)},${(yy+s).toFixed(1)} q${-s*0.2},${-s*1.4} ${s},${-s*1.4} q${s*0.9},0 ${s*0.6},${s*1.1} q${-s*0.3},${-s*0.5} ${-s*0.7},${-s*0.2}" fill="${FOAM}" stroke="${KEY}" stroke-width=".7"/>`)}}}}
+  // ---- portfolio boat: further out = more invested ----
+  const e=P.exposure,bx=560-e*250,by=hz+20+e*92,bs=0.32+e*0.62,tilt=-(k.sea*16+(k.wave>0.5?8:0))*(0.5+e*0.5);
+  const sail=P.pnl==="up"?"full":P.pnl==="flat"?"reef":"down";
+  const boatSvg=boat(bx,by,bs,tilt,sail,P.flag);
+  if(k.wave<=0.1)o.push(boatSvg);
+  // ---- great wave ----
+  if(k.wave>0.1){const s=0.6+0.28*k.wave;let g=`<g transform="translate(-40,480) scale(${s}) translate(0,-480)">`;
+    g+=`<use href="#${u}wbody" fill="url(#${u}wave)"/><g clip-path="url(#${u}wclip)">`;
+    for(let i=1;i<=10;i++){const q=i*10;g+=`<path d="M${-10+q*0.6},${340+q} C${30+q*0.5},${255+q*0.85} ${80+q*0.4},${178+q*0.75} ${160+q*0.25},${128+q*0.65} C226,${88+q*0.6} 300,${70+q*0.7} 356,${78+q*0.8}" fill="none" stroke="${FOAM}" stroke-opacity="${(0.8-i*0.05).toFixed(2)}" stroke-width="${(2.4-i*0.12).toFixed(2)}"/>`}
+    g+=`<path d="M330,354 C302,294 306,228 332,188 C356,152 392,144 420,160" fill="none" stroke="#08152f" stroke-width="12" stroke-opacity=".3"/></g><use href="#${u}wbody" fill="none" stroke="${KEY}" stroke-width="2.2"/>`;
+    const r=rnd(31),lip=[[110,160],[136,134],[166,110],[200,90],[238,76],[278,66],[318,62],[358,64],[396,76],[428,94],[454,118],[472,146],[480,172]];
+    lip.forEach(([x,y],i)=>{const t=i/(lip.length-1),sz=5+8*Math.sin(t*Math.PI);
+      for(let f=0;f<4;f++){const fx=x+(f-1.5)*sz*0.8,fy=y-sz*0.4-r()*sz*0.7;g+=`<path d="M${fx.toFixed(1)},${(fy+sz).toFixed(1)} q${(-sz*0.3).toFixed(1)},${(-sz*1.3).toFixed(1)} ${(sz*0.55).toFixed(1)},${(-sz*1.35).toFixed(1)} q${(sz*0.75).toFixed(1)},${(sz*0.1).toFixed(1)} ${(sz*0.35).toFixed(1)},${(sz*0.95).toFixed(1)} q${(-sz*0.2).toFixed(1)},${(-sz*0.45).toFixed(1)} ${(-sz*0.5).toFixed(1)},${(-sz*0.1).toFixed(1)}" fill="${FOAM}" stroke="${KEY}" stroke-width=".9"/>`}
+      g+=`<circle cx="${x}" cy="${y}" r="${(sz*0.55).toFixed(1)}" fill="${FOAM}"/>`});
+    for(let i=0;i<30;i++){const x=440+r()*100,y=56+r()*150;g+=`<circle cx="${x.toFixed(0)}" cy="${y.toFixed(0)}" r="${(1.4+r()*3).toFixed(1)}" fill="${FOAM}" stroke="${KEY}" stroke-width=".6"/>`}
+    g+='</g>';o.push(boatSvg);o.push(g)}
+  // rain, Hiroshige-style fine lines
+  if(k.rain>0.05){const r=rnd(77),n=Math.round(k.rain*480);let g='';for(let i=0;i<n;i++){const x=r()*880,y=r()*480,l=30+r()*70;const c=y<hz-40&&dk>0.55?'#cfd4da':'#1f2530';g+=`<line x1="${x.toFixed(0)}" y1="${y.toFixed(0)}" x2="${(x-l*0.22).toFixed(0)}" y2="${(y+l).toFixed(0)}" stroke="${c}" stroke-opacity="${(0.3+0.35*r()).toFixed(2)}" stroke-width=".8"/>`}o.push(g)}
+  if(k.lightning>0.5)o.push(`<path d="M250,0 L224,70 L246,72 L206,170 L280,58 L256,56 L284,0 Z" fill="#fff4c4" stroke="#e0b400" stroke-width="2.5" stroke-linejoin="round"/>`);
+  // aged paper: tint, stains, fibre texture, keyline border
+  o.push(`<rect width="800" height="480" fill="#e9d3a2" opacity=".14"/><rect width="800" height="480" filter="url(#${u}stain)" opacity=".35"/><rect width="800" height="480" filter="url(#${u}paper)" opacity=".24"/>`);
+  o.push(`<rect x="1.5" y="1.5" width="797" height="477" fill="none" stroke="${KEY}" stroke-width="3"/>`);
+  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" width="800" height="480">${o.join('')}</svg>`;
+}
+const ST={
+  Calm:{set:{},build:[{cloud:.35,sky:.2,sea:.25},{cloud:.18,sky:.05}],fade:{cloud:.55,sky:.4,rain:.25,sea:.3}},
+  Storm:{set:{cloud:1,sky:1,cover:1,rain:1,lightning:1,sea:.7},build:[{cloud:.45,sky:.2},{cloud:.75,sky:.6,cover:.6,rain:.6,sea:.35}],fade:{cloud:.22,sky:.08}},
+  Turbulent:{set:{sea:1,wave:1,sky:.3},build:[{sea:.5,sky:.1},{sea:.85,sky:.3,cloud:.3}],fade:{sea:.3}},
+  Mist:{set:{mist:1,sky:.1},build:[{mist:.45},{mist:.8,sky:.05}],fade:{mist:.2}},
+  Dawn:{set:{dawn:1},build:[{sky:.75,cloud:.8,cover:.4,rain:.25,sea:.45,dawn:.3},{sky:.35,cloud:.45,dawn:.7,sea:.25}],fade:{cloud:.8,sky:.7,cover:.5,rain:.5,sea:.5}}
+};
+const NAME={Calm:"Calm",Storm:"Storm",Turbulent:"Great wave",Mist:"Mist",Dawn:"Dawn"};
+const POEMS={
+  settled:{Calm:["South wind, open sky,","the red peak stands in still blue.","Nothing asks of me."],
+    Mist:["Mist hides the low shore.","The summit stands far above","where the path once ran."],
+    Storm:["Rain lashes the sea,","black clouds sink below the line,","the tide still ebbing."],
+    Turbulent:["The great wave rises,","white claws reach for the small boats,","the whole sea leaning."],
+    Dawn:["Red sun at the rim,","still low beneath the long line,","but the tide has turned."]},
+  build:{Storm:[["Clouds mass in the west,","the long line slips under foot.","Will the rain follow?"],["First rain on the sea,","two grey days below the line.","One more and it breaks."]],
+    Turbulent:[["A long swell rolling","out of a windless morning.","The sea starts to lift."],["White caps on the swell,","two days the fear has risen.","Tomorrow, the wave?"]],
+    Mist:[["Thin haze on the shore,","the summit drifts further off.","Is it only cloud?"],["The shore fades away,","a tenth below the high peak.","The mist thickens still."]],
+    Dawn:[["Night rain softening,","a month of falling has turned.","Is that light ahead?"],["Clouds part in the east,","still low, but the tide rising.","The sun is close now."]],
+    Calm:[["The wind is dropping,","price climbs back towards its high.","Could this be the calm?"],["The clouds are breaking,","two days near the peak again.","One more, then clear sky."]]},
+  fade:{Storm:["The clouds drift away,","back above the long line now.","It was only shade."],
+    Turbulent:["The swell falls away,","the fear eased before it broke.","The sea forgets it."],
+    Mist:["The haze burns away,","price climbs back toward the peak.","The far view returns."],
+    Dawn:["The light was not dawn,","the price turns down once again.","Rain closes the sky."],
+    Calm:["The lull does not last,","price slips from its high again.","The clouds gather back."]}
+};
+
+const POEM_W=322;
+/* ---------- settings ---------- */
+const Q=new URLSearchParams(location.search);
+let saved={};try{saved=JSON.parse(localStorage.getItem("island-pf")||"{}")}catch(e){}
+function setting(k,def){if(Q.has(k))return Q.get(k);if(saved[k]!=null)return saved[k];return def}
+const PF={exp:+setting("exp",60)>1?+setting("exp",60)/100:+setting("exp",0.6),cost:+setting("cost",0),flag:String(setting("flag",0))==="1"||setting("flag",0)===true};
+const KIOSK=location.hash.includes("kiosk");if(KIOSK)document.body.classList.add("kiosk");
+/* ---------- maths on daily closes ---------- */
+const mean=a=>a.reduce((x,y)=>x+y,0)/a.length;
+function sd(a){const m=mean(a);return Math.sqrt(mean(a.map(x=>(x-m)**2)))}
+function median(a){const b=[...a].sort((x,y)=>x-y);return b[Math.floor(b.length/2)]}
+function measures(C){const N=C.length,R=C.map((c,i)=>i?Math.log(c/C[i-1]):0),vol=[];
+  for(let i=0;i<N;i++)vol.push(i>=30?sd(R.slice(i-29,i+1)):null);
+  return i=>{const p=C[i],ma=mean(C.slice(i-199,i+1)),hi=Math.max(...C.slice(i-89,i+1)),ch30=p/C[i-30]-1,v=vol[i],vm=median(vol.slice(Math.max(30,i-364),i+1));
+    const regime=p>=ma?(p/hi-1>-0.10?"Calm":"Mist"):(ch30>0?"Dawn":"Storm");const turb=v>=1.5*vm;
+    return{p,ma,vs:p/ma-1,dd:p/hi-1,ch30,volRatio:v/vm,regime,turb,sig:turb?"Turbulent":regime}}}
+/* replay the last 60 days so today's picture includes any build-up or fade */
+function replay(sigs){let settled=sigs[0],target=null,p=0,last=null;
+  for(let i=1;i<sigs.length;i++){const sig=sigs[i];let kind;
+    if(sig===settled){if(p>0){p=0;kind="fade"}else{target=null;kind="settled"}}
+    else if(sig===target){p++;kind="build"}else{target=sig;p=1;kind="build"}
+    if(kind==="build"&&p>=3){settled=target;target=null;p=0;kind="arrived"}
+    if(kind==="settled"||kind==="arrived")last={v:ST[settled].set,poem:POEMS.settled[settled],label:NAME[settled]+(kind==="arrived"?" (new today)":"")};
+    else if(kind==="build")last={v:ST[target].build[p-1],poem:POEMS.build[target][p-1],label:`${NAME[target]} building, day ${p} of 3 (settled: ${NAME[settled]})`};
+    else{last={v:ST[target].fade,poem:POEMS.fade[target],label:`${NAME[target]} faded, back to ${NAME[settled]}`};target=null}}
+  return last}
+/* ---------- drawing ---------- */
+const MON=["I","II","III","IV","V","VI","VII","VIII","IX","X","XI","XII"];
+function draw(state,when){const pnl=PF.cost>0&&state.price?(state.price/PF.cost-1>0.03?"up":state.price/PF.cost-1<-0.03?"down":"flat"):"flat";
+  let svg=islandSVG(state.v,"live",{exposure:PF.exp,pnl,flag:PF.flag});
+  const x=462,y=16,w=POEM_W,h=104;
+  const esc=t=>t.replace(/&/g,"&amp;").replace(/</g,"&lt;");
+  let over=`<rect x="${x}" y="${y}" width="${w}" height="${h}" fill="#f3ead2" stroke="#1b2238" stroke-width="2"/><rect x="${x+4}" y="${y+4}" width="${w-8}" height="${h-8}" fill="none" stroke="#1b2238" stroke-width="1"/>`;
+  state.poem.forEach((l,i)=>over+=`<text x="${x+16}" y="${y+31+i*26}" font-size="17" font-weight="600" font-family="'Shippori Mincho B1',Georgia,serif" fill="#1b2238">${esc(l)}</text>`);
+  over+=`<rect x="16" y="420" width="40" height="44" rx="3" fill="#be2824" stroke="#1b2238"/><text x="36" y="439" font-size="13" font-weight="800" text-anchor="middle" fill="#fff" font-family="'Shippori Mincho B1',Georgia,serif">${when.getDate()}</text><text x="36" y="456" font-size="11" font-weight="800" text-anchor="middle" fill="#fff" font-family="'Shippori Mincho B1',Georgia,serif">${MON[when.getMonth()]}</text>`;
+  if(state.offline)over+=`<text x="784" y="470" font-size="11" text-anchor="end" fill="#f3ead2" font-family="sans-serif">offline · last update ${state.offline}</text>`;
+  svg=svg.replace("</svg>",over+"</svg>").replace('width="800" height="480"',`preserveAspectRatio="${KIOSK?"xMidYMid slice":"xMidYMid meet"}"`);
+  document.getElementById("stage").innerHTML=svg}
+/* ---------- live data ---------- */
+let lastGood=null;
+async function update(){
+  try{const r=await fetch("https://data-api.binance.vision/api/v3/klines?symbol=BTCUSDT&interval=1d&limit=1000",{cache:"no-store"});if(!r.ok)throw new Error("HTTP "+r.status);
+    const k=await r.json(),C=k.map(x=>+x[4]),N=C.length;if(N<400)throw new Error("not enough history");
+    const m=measures(C),sigs=[];for(let i=N-61;i<N;i++)sigs.push(m(i).sig);
+    const today=m(N-1),st=replay(sigs);st.price=today.p;lastGood={st,today,at:new Date()};
+    draw(st,new Date());report(today,st);try{localStorage.setItem("island-last",JSON.stringify({st,today,at:Date.now()}))}catch(e){}
+  }catch(e){document.getElementById("status").textContent="Could not load prices: "+e.message+". Retrying in 5 minutes.";
+    let prev=lastGood;if(!prev){try{const s=JSON.parse(localStorage.getItem("island-last")||"null");if(s)prev={st:s.st,today:s.today,at:new Date(s.at)}}catch(_){}}
+    if(prev){prev.st.offline=prev.at.toLocaleString("en-GB",{day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"});draw(prev.st,new Date())}
+    else draw({v:ST.Calm.set,poem:["Waiting for the wind,","the sea has not yet spoken.","Prices on their way."]},new Date());
+    setTimeout(update,5*60*1000);return}
+  document.getElementById("status").textContent="Updated "+new Date().toLocaleTimeString("en-GB",{hour:"2-digit",minute:"2-digit"})+". Checks again every 30 minutes.";
+  setTimeout(update,30*60*1000)}
+function report(t,st){const pct=v=>(v>=0?"+":"−")+Math.abs(v*100).toFixed(1)+"%";
+  document.getElementById("read").innerHTML=[["Scene",st.label],["BTC (US$)",Math.round(t.p).toLocaleString("en-GB")],["vs 200-day average",pct(t.vs)],["From 90-day high",pct(t.dd)],["30-day change",pct(t.ch30)],["Swings vs usual (30d vs 1y median)",t.volRatio.toFixed(2)+"×"],["Today's signal",NAME[t.sig]]].map(([a,b])=>`<tr><td>${a}</td><td>${b}</td></tr>`).join("")}
+/* ---------- demo + settings ---------- */
+const DEMO=[];for(const c of ["Calm","Storm","Turbulent","Mist","Dawn"]){if(c!=="Calm")ST[c].build.forEach((v,i)=>DEMO.push({v,poem:POEMS.build[c][i],label:NAME[c]+" day "+(i+1)}));DEMO.push({v:ST[c].set,poem:POEMS.settled[c],label:NAME[c]});if(c!=="Calm")DEMO.push({v:ST[c].fade,poem:POEMS.fade[c],label:NAME[c]+" fades"})}
+const db=document.getElementById("demoBtns");DEMO.forEach(d=>{const b=document.createElement("button");b.textContent=d.label;b.style.margin="2px";b.onclick=()=>draw(d,new Date());db.appendChild(b)});
+document.getElementById("exp").value=Math.round(PF.exp*100);document.getElementById("cost").value=PF.cost;document.getElementById("flag").checked=PF.flag;
+document.getElementById("save").onclick=()=>{const v={exp:+document.getElementById("exp").value,cost:+document.getElementById("cost").value,flag:document.getElementById("flag").checked?1:0};try{localStorage.setItem("island-pf",JSON.stringify(v))}catch(e){}location.reload()};
+const ready=document.fonts&&document.fonts.load?document.fonts.load('600 17px "Shippori Mincho B1"').catch(()=>{}):Promise.resolve();
+ready.then(()=>{if(Q.get("demo")==="1"){let i=0;const tick=()=>{draw(DEMO[i%DEMO.length],new Date());i++};tick();setInterval(tick,8000)}else update()});
+setTimeout(()=>location.reload(),12*3600*1000);
+</script>
+</body></html>
