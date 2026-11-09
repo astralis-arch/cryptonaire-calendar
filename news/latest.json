@@ -1,6 +1,17 @@
 {
  "generated": "2026-11-09T18:00:00Z",
  "mood": "risk-off",
+ "lead": {
+  "headline": "Bitcoin sags towards $74,000 as Wall Street braces for inflation test",
+  "standfirst": "ETF investors pulled $1.3bn last week. Tomorrow's US price data could decide whether the Fed raises rates in December.",
+  "body": [
+   "Bitcoin spent Monday close to its lowest level of the week, trading around $74,500 after dipping to roughly $73,700 on Sunday. That is about 8% below the $81,000 high it touched only last Wednesday, according to market data compiled by KuCoin and CryptoTicker.",
+   "The slide has come as large investors step back. US spot bitcoin exchange-traded funds recorded net outflows of about $1.28bn between 2 and 6 November, with BlackRock's IBIT alone accounting for some $1.21bn, several outlets reported. Over the past 24 hours, roughly $1bn of leveraged positions were forced closed, most of them bets on higher prices.",
+   "The wider backdrop is no kinder. The Nasdaq ended last week about 12% below its October record after an AI-led sell-off following the US midterm elections, and futures markets now put the chance of a Federal Reserve rate rise on 9 December at around 80%, Yahoo Finance reported, citing CME FedWatch.",
+   "That puts tomorrow's US consumer price index, due at 13:30 UK time, at the centre of the week. Economists expect prices to have risen 0.3% in October, after 0.6% in September. Closer to home, the Bank of England raised Bank Rate to 4% last Thursday.",
+   "Zcash, meanwhile, has been steady at about $1,260 since its NU7 upgrade went live on 5 November, cutting block times to 25 seconds."
+  ]
+ },
  "headline": "Bitcoin is near its weekly low around $74.5k after a week of ETF outflows. Tomorrow's US inflation print (13:30 UK) is the big test, with markets pricing a likely Fed hike in December.",
  "spoken": "Cryptonaire brief, Monday evening. Mood: risk-off. Bitcoin is around seventy-four and a half thousand dollars, near its weekly low, after US spot bitcoin funds lost about one point three billion dollars last week. The big one is tomorrow: US inflation at half past one UK time. Markets price roughly an eighty per cent chance the Fed raises rates in December, so a hot number could add pressure. US tech stocks are in a correction. The Bank of England raised rates to four per cent last week. Zcash is steady around twelve hundred and sixty dollars after its NU7 upgrade went live. Information only, not advice.",
  "stories": [

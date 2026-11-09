@@ -1,6 +1,6 @@
 # Daily news brief rules
 
-A scheduled Claude session runs every morning (UK) and publishes one short, ranked brief for Alistair, a UK-based personal trader who holds BTC and watches ZEC. It is read at a glance on iPhone or listened to. Information only.
+A scheduled Claude session runs every morning (UK) and publishes one short, ranked brief as the front page of *The Cryptonaire Post* for Alistair, a UK-based personal trader who holds BTC and watches ZEC. It is read at a glance on iPhone or listened to. Information only.
 
 ## 1. Gather (last 24 hours, 72 hours on Mondays)
 
@@ -21,7 +21,8 @@ Prefer primary sources (regulators, central banks, project repos and blogs, issu
 - **Confidence:** `High` = a primary source or 2+ independent reputable outlets agree. `Medium` = one reputable outlet. `Low` = unconfirmed, a single aggregator or social media. Never put a `Low` story in the top three. If sources disagree on a figure, say so in `caveat`.
 - **Impact:** 🔴 could move BTC/ZEC sharply soon, 🟠 worth knowing, 🟢 background.
 - **Mood:** one of `risk-on`, `risk-off`, `mixed`, `calm`.
-- **headline:** at most two sentences, the whole picture in one breath.
+- **lead:** the day's main story written as a newspaper report for the front page of *The Cryptonaire Post*. A punchy `headline` (under 12 words), a one or two sentence `standfirst`, and a `body` of 4 to 6 short paragraphs, 150 to 300 words in all. Write it like a Reuters or FT news piece: the main fact first, then the why, then the wider context and what comes next. Attribute figures to their sources in the text ("according to…", "…reported"), past tense, UK spelling, no opinion and no advice. It may weave in the other top stories, but must not add any fact that is not in a sourced story.
+- **headline:** at most two sentences, the whole picture in one breath (shown as "In brief").
 - **spoken:** 60 to 120 words written to be read aloud: numbers in words, no symbols or URLs, times in UK time, ending with "Information only, not advice."
 - **ahead:** the main scheduled events in the next 7 days, UK time. Use `calendar.ics` / `build_calendar.py` / `discovered.json` in this repo as the base.
 - **Never:** buy, sell, hold or target calls, personal holdings, keys or logins.
@@ -34,6 +35,7 @@ Create `news/briefs/YYYY-MM-DD-HHMM.json` (UTC time of the run):
 {
   "generated": "2026-11-10T06:31:00Z",
   "mood": "risk-off",
+  "lead": {"headline": "…", "standfirst": "…", "body": ["paragraph 1", "paragraph 2", "…"]},
   "headline": "…",
   "spoken": "…",
   "stories": [
