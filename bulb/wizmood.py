@@ -94,7 +94,10 @@ def bulb_ip():
 def show(ip, mood, dim):
     colour = dict(next(c for n, _, c in MOODS if n == mood))
     colour.update({"state": True, "dimming": int(max(10, min(100, dim)))})
-    send(ip, colour)
+    r = send(ip, colour)
+    if r and "error" in r:
+        log("bulb refused:", r["error"].get("message"),
+            "- in the WiZ app set Settings > Security to allow all local controls")
 
 
 def off(ip):

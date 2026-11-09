@@ -17,7 +17,7 @@ A WiZ colour bulb shows BTC's 24-hour direction. Runs on the Pi, no installs. In
 
 ## Set up (from the Mac, about 5 minutes)
 
-1. Set the bulb up in the WiZ app first, on the same Wi-Fi as the Pi. In the app, turn on **Settings › Security › Allow local communication**.
+1. Set the bulb up in the WiZ app first, on the same Wi-Fi as the Pi. In the app, under **Settings › Security**, turn on local communication and set it to allow **all** controls, not just reading (newer firmware refuses unsigned colour changes otherwise, and replies "Invalid params").
 2. Copy the script over and test it:
    ```
    scp wizmood.py alistair@astralis:~/
