@@ -1,0 +1,16 @@
+[Unit]
+Description=Cryptonaire mood bulb (WiZ)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+User=alistair
+# Optional: pin the bulb's address and change quiet hours (UK time).
+#Environment=WIZ_IP=192.168.1.50
+#Environment=QUIET=23-07
+ExecStart=/usr/bin/python3 /home/alistair/wizmood.py
+Restart=always
+RestartSec=60
+
+[Install]
+WantedBy=multi-user.target
