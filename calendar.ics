@@ -1,0 +1,1025 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cryptonaire//Events v0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cryptonaire Events
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:6a8f622ec0b0f884@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟢 ZEC: no confirmed upgrade dates
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+DESCRIPTION:NU7 went live 5 Nov 2026 (25s blocks\, fee-burn reserve\, Sprou
+ t closed). Next upgrade not yet scheduled. Info only\, not a trade signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:5f0b9df01857927a@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🔴 US CPI (Oct)
+DTSTART:20261110T133000Z
+DTEND:20261110T140000Z
+DESCRIPTION:BLS inflation print. Big BTC volatility window. Info only\, not
+  a trade signal.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:US CPI (Oct)
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:66b798de54412f9d@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟢 UK CPI (Oct)
+DTSTART:20261118T070000Z
+DTEND:20261118T071500Z
+DESCRIPTION:ONS inflation. Feeds BoE path and GBP. Info only\, not a trade 
+ signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:3a50dc2d8a179aa4@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟢 FOMC minutes
+DTSTART:20261118T190000Z
+DTEND:20261118T191500Z
+DESCRIPTION:Expected date (3 weeks after meeting). Confirm on federalreserv
+ e.gov. Info only\, not a trade signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:c92d36958b27742d@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟠 Monthly BTC options/futures expiry
+DTSTART:20261127T080000Z
+DTEND:20261127T083000Z
+DESCRIPTION:Deribit options expire 08:00 UTC\; CME BTC futures settle 16:00
+  London. Price often pinned/whippy around expiry. Info only\, not a trade 
+ signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:c5f6aeea0d88e804@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟠 US jobs report (Nov)
+DTSTART:20261204T133000Z
+DTEND:20261204T140000Z
+DESCRIPTION:BLS Employment Situation (non-farm payrolls). Info only\, not a
+  trade signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:4d2f24eb7375852b@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🔴 FOMC rate decision + projections
+DTSTART:20261209T190000Z
+DTEND:20261209T200000Z
+DESCRIPTION:Statement 14:00 ET\, Chair press conference 14:30 ET. Includes 
+ dot plot (SEP). Info only\, not a trade signal.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FOMC rate decision + projections
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1812b6d8dd74c1f1@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🔴 US CPI (Nov)
+DTSTART:20261210T133000Z
+DTEND:20261210T140000Z
+DESCRIPTION:BLS inflation print. Big BTC volatility window. Info only\, not
+  a trade signal.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:US CPI (Nov)
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3da3ab2d55339978@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟢 UK CPI (Nov)
+DTSTART:20261216T070000Z
+DTEND:20261216T071500Z
+DESCRIPTION:ONS inflation. Feeds BoE path and GBP. Info only\, not a trade 
+ signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:049dac439c099ee8@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟠 BoE rate decision
+DTSTART:20261217T120000Z
+DTEND:20261217T123000Z
+DESCRIPTION:Moves GBP\, so moves your BTC/GBP price. Info only\, not a trad
+ e signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:ead2c0b6987bba22@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🔴 Quarterly BTC options/futures expiry
+DTSTART:20261225T080000Z
+DTEND:20261225T083000Z
+DESCRIPTION:Deribit options expire 08:00 UTC\; CME BTC futures settle 16:00
+  London. Price often pinned/whippy around expiry. Holiday (Christmas/Good 
+ Friday): CME settles the day before\; check Deribit. Info only\, not a tra
+ de signal.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Quarterly BTC options/futures expiry
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:91ec42061e615c49@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟢 FOMC minutes
+DTSTART:20261230T190000Z
+DTEND:20261230T191500Z
+DESCRIPTION:Expected date (3 weeks after meeting). Confirm on federalreserv
+ e.gov. Info only\, not a trade signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:51945a4b32e26722@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟠 US jobs report (Dec)
+DTSTART:20270108T133000Z
+DTEND:20270108T140000Z
+DESCRIPTION:BLS Employment Situation (non-farm payrolls). Info only\, not a
+  trade signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:06755097625ad2fb@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🔴 US CPI (Dec)
+DTSTART:20270113T133000Z
+DTEND:20270113T140000Z
+DESCRIPTION:BLS inflation print. Big BTC volatility window. Info only\, not
+  a trade signal.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:US CPI (Dec)
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9ace575f8946ca14@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟢 UK CPI (Dec)
+DTSTART:20270120T070000Z
+DTEND:20270120T071500Z
+DESCRIPTION:ONS inflation. Feeds BoE path and GBP. Info only\, not a trade 
+ signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:65db0be70d421837@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🔴 FOMC rate decision
+DTSTART:20270127T190000Z
+DTEND:20270127T200000Z
+DESCRIPTION:Statement 14:00 ET\, Chair press conference 14:30 ET. Info only
+ \, not a trade signal.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FOMC rate decision
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:82871ef27f90fa81@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟠 Monthly BTC options/futures expiry
+DTSTART:20270129T080000Z
+DTEND:20270129T083000Z
+DESCRIPTION:Deribit options expire 08:00 UTC\; CME BTC futures settle 16:00
+  London. Price often pinned/whippy around expiry. Info only\, not a trade 
+ signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:988c2ebf72779f25@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🔴 Self Assessment deadline (25/26)
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+TRANSP:TRANSPARENT
+DESCRIPTION:Online return + pay balance for 2025/26 + 1st payment on accoun
+ t 2026/27. Crypto gains go on the CGT pages. Info only\, not a trade signa
+ l.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Self Assessment deadline (25/26)
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:19bb6952855ed95a@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟠 BoE rate decision + MPR
+DTSTART:20270204T120000Z
+DTEND:20270204T123000Z
+DESCRIPTION:Moves GBP\, so moves your BTC/GBP price. Monetary Policy Report
+  published. Info only\, not a trade signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:d689820731a750cf@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟠 US jobs report (Jan)
+DTSTART:20270205T133000Z
+DTEND:20270205T140000Z
+DESCRIPTION:BLS Employment Situation (non-farm payrolls). Info only\, not a
+  trade signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:a2ca18321dadd2b8@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🔴 US CPI (Jan)
+DTSTART:20270211T133000Z
+DTEND:20270211T140000Z
+DESCRIPTION:BLS inflation print. Big BTC volatility window. Info only\, not
+  a trade signal.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:US CPI (Jan)
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1135f0a1440ac80f@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟢 UK CPI (Jan)
+DTSTART:20270217T070000Z
+DTEND:20270217T071500Z
+DESCRIPTION:ONS inflation. Feeds BoE path and GBP. Info only\, not a trade 
+ signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:91372fab198ebb7b@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟢 FOMC minutes
+DTSTART:20270217T190000Z
+DTEND:20270217T191500Z
+DESCRIPTION:Expected date (3 weeks after meeting). Confirm on federalreserv
+ e.gov. Info only\, not a trade signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:2ba552e52096388f@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟠 Monthly BTC options/futures expiry
+DTSTART:20270226T080000Z
+DTEND:20270226T083000Z
+DESCRIPTION:Deribit options expire 08:00 UTC\; CME BTC futures settle 16:00
+  London. Price often pinned/whippy around expiry. Info only\, not a trade 
+ signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:0c30dae2252d4f87@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟢 FCA crypto authorisation window closes
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+TRANSP:TRANSPARENT
+DESCRIPTION:Firms not applied by now can't keep serving UK customers when r
+ egime starts. Check your exchanges applied. Info only\, not a trade signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:d0a8f9de5d477325@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟠 US jobs report (Feb)
+DTSTART:20270305T133000Z
+DTEND:20270305T140000Z
+DESCRIPTION:BLS Employment Situation (non-farm payrolls). Info only\, not a
+  trade signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:17b9684276e7f3c1@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🔴 US CPI (Feb)
+DTSTART:20270310T133000Z
+DTEND:20270310T140000Z
+DESCRIPTION:BLS inflation print. Big BTC volatility window. Info only\, not
+  a trade signal.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:US CPI (Feb)
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:88ff61954650720d@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🔴 FOMC rate decision + projections
+DTSTART:20270317T180000Z
+DTEND:20270317T190000Z
+DESCRIPTION:Statement 14:00 ET\, Chair press conference 14:30 ET. Includes 
+ dot plot (SEP). Info only\, not a trade signal.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FOMC rate decision + projections
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6ad3e6fba36688a2@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟠 BoE rate decision
+DTSTART:20270318T120000Z
+DTEND:20270318T123000Z
+DESCRIPTION:Moves GBP\, so moves your BTC/GBP price. Info only\, not a trad
+ e signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:28d82a35524e082f@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟢 Tax-year end prep: use CGT allowance
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+TRANSP:TRANSPARENT
+DESCRIPTION:2 weeks to 5 April. £3\,000 CGT annual exempt amount is use-it
+ -or-lose-it. Mind the 30-day bed-and-breakfasting rule. Info only\, not a 
+ trade signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:9ca11ac56e402bdd@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟢 UK CPI (Feb)
+DTSTART:20270324T070000Z
+DTEND:20270324T071500Z
+DESCRIPTION:ONS inflation. Feeds BoE path and GBP. Info only\, not a trade 
+ signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:72741fb4707c59f5@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🔴 Quarterly BTC options/futures expiry
+DTSTART:20270326T080000Z
+DTEND:20270326T083000Z
+DESCRIPTION:Deribit options expire 08:00 UTC\; CME BTC futures settle 16:00
+  London. Price often pinned/whippy around expiry. Holiday (Christmas/Good 
+ Friday): CME settles the day before\; check Deribit. Info only\, not a tra
+ de signal.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Quarterly BTC options/futures expiry
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6476ddf46842d1ed@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟠 US jobs report (Mar)
+DTSTART:20270402T123000Z
+DTEND:20270402T130000Z
+DESCRIPTION:BLS Employment Situation (non-farm payrolls). Info only\, not a
+  trade signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:45514524636406b3@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🔴 Tax year 2026/27 ends
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+TRANSP:TRANSPARENT
+DESCRIPTION:Last day for disposals to count in 2026/27. Info only\, not a t
+ rade signal.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tax year 2026/27 ends
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3196554f20dd7a91@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟢 New tax year 2027/28 starts
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+TRANSP:TRANSPARENT
+DESCRIPTION:Fresh £3\,000 CGT allowance. Info only\, not a trade signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:752bb3fe8ef1c527@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟢 FOMC minutes
+DTSTART:20270407T180000Z
+DTEND:20270407T181500Z
+DESCRIPTION:Expected date (3 weeks after meeting). Confirm on federalreserv
+ e.gov. Info only\, not a trade signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:222b349eeb91b51f@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🔴 US CPI (Mar)
+DTSTART:20270413T123000Z
+DTEND:20270413T130000Z
+DESCRIPTION:BLS inflation print. Big BTC volatility window. Info only\, not
+  a trade signal.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:US CPI (Mar)
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3382112dd9040013@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟢 UK CPI (Mar)
+DTSTART:20270421T060000Z
+DTEND:20270421T061500Z
+DESCRIPTION:ONS inflation. Feeds BoE path and GBP. Info only\, not a trade 
+ signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:aabf785c1f2ea6f2@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🔴 FOMC rate decision
+DTSTART:20270428T180000Z
+DTEND:20270428T190000Z
+DESCRIPTION:Statement 14:00 ET\, Chair press conference 14:30 ET. Info only
+ \, not a trade signal.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FOMC rate decision
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:25ebdccbd268220d@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟠 BoE rate decision + MPR
+DTSTART:20270429T110000Z
+DTEND:20270429T113000Z
+DESCRIPTION:Moves GBP\, so moves your BTC/GBP price. Monetary Policy Report
+  published. Info only\, not a trade signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:ac6b5ac53a32d80f@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟠 Monthly BTC options/futures expiry
+DTSTART:20270430T080000Z
+DTEND:20270430T083000Z
+DESCRIPTION:Deribit options expire 08:00 UTC\; CME BTC futures settle 16:00
+  London. Price often pinned/whippy around expiry. Info only\, not a trade 
+ signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:18daed818388b7d2@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟠 US jobs report (Apr)
+DTSTART:20270507T123000Z
+DTEND:20270507T130000Z
+DESCRIPTION:BLS Employment Situation (non-farm payrolls). Info only\, not a
+  trade signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:de532f7ec643ed37@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🔴 US CPI (Apr)
+DTSTART:20270512T123000Z
+DTEND:20270512T130000Z
+DESCRIPTION:BLS inflation print. Big BTC volatility window. Info only\, not
+  a trade signal.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:US CPI (Apr)
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3906d0fd0a0f2c4f@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟢 UK CPI (Apr)
+DTSTART:20270519T060000Z
+DTEND:20270519T061500Z
+DESCRIPTION:ONS inflation. Feeds BoE path and GBP. Info only\, not a trade 
+ signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:43875d4b394d763e@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟢 FOMC minutes
+DTSTART:20270519T180000Z
+DTEND:20270519T181500Z
+DESCRIPTION:Expected date (3 weeks after meeting). Confirm on federalreserv
+ e.gov. Info only\, not a trade signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:f2c649122f5db8e4@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟠 Monthly BTC options/futures expiry
+DTSTART:20270528T080000Z
+DTEND:20270528T083000Z
+DESCRIPTION:Deribit options expire 08:00 UTC\; CME BTC futures settle 16:00
+  London. Price often pinned/whippy around expiry. Info only\, not a trade 
+ signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:4a23a8a3de46ade9@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟢 CARF: UK platforms' first report to HMRC
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+TRANSP:TRANSPARENT
+DESCRIPTION:Exchanges report your 2026 crypto transactions to HMRC. Your SA
+  return should match. Info only\, not a trade signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:84590559a7e2129e@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟠 US jobs report (May)
+DTSTART:20270604T123000Z
+DTEND:20270604T130000Z
+DESCRIPTION:BLS Employment Situation (non-farm payrolls). Info only\, not a
+  trade signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:2a2a373693e250fb@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🔴 FOMC rate decision + projections
+DTSTART:20270609T180000Z
+DTEND:20270609T190000Z
+DESCRIPTION:Statement 14:00 ET\, Chair press conference 14:30 ET. Includes 
+ dot plot (SEP). Info only\, not a trade signal.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FOMC rate decision + projections
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:512b66253f6e2c7f@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🔴 US CPI (May)
+DTSTART:20270610T123000Z
+DTEND:20270610T130000Z
+DESCRIPTION:BLS inflation print. Big BTC volatility window. Info only\, not
+  a trade signal.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:US CPI (May)
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6f633c9df86dfc13@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟢 UK CPI (May)
+DTSTART:20270616T060000Z
+DTEND:20270616T061500Z
+DESCRIPTION:ONS inflation. Feeds BoE path and GBP. Info only\, not a trade 
+ signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:65cc7c1faee03952@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟠 BoE rate decision
+DTSTART:20270617T110000Z
+DTEND:20270617T113000Z
+DESCRIPTION:Moves GBP\, so moves your BTC/GBP price. Info only\, not a trad
+ e signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:dd092e7d2951340b@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🔴 Quarterly BTC options/futures expiry
+DTSTART:20270625T080000Z
+DTEND:20270625T083000Z
+DESCRIPTION:Deribit options expire 08:00 UTC\; CME BTC futures settle 16:00
+  London. Price often pinned/whippy around expiry. Info only\, not a trade 
+ signal.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Quarterly BTC options/futures expiry
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:102d33a07b374262@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟢 FOMC minutes
+DTSTART:20270630T180000Z
+DTEND:20270630T181500Z
+DESCRIPTION:Expected date (3 weeks after meeting). Confirm on federalreserv
+ e.gov. Info only\, not a trade signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:8274065e4cdaa801@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟠 US jobs report (Jun)
+DTSTART:20270702T123000Z
+DTEND:20270702T130000Z
+DESCRIPTION:BLS Employment Situation (non-farm payrolls). Info only\, not a
+  trade signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:f51acb67e3086405@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🔴 US CPI (Jun)
+DTSTART:20270714T123000Z
+DTEND:20270714T130000Z
+DESCRIPTION:BLS inflation print. Big BTC volatility window. Info only\, not
+  a trade signal.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:US CPI (Jun)
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:980b5ce1292ffef3@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟢 UK CPI (Jun)
+DTSTART:20270721T060000Z
+DTEND:20270721T061500Z
+DESCRIPTION:ONS inflation. Feeds BoE path and GBP. Info only\, not a trade 
+ signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:951350fed80f8880@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🔴 FOMC rate decision
+DTSTART:20270728T180000Z
+DTEND:20270728T190000Z
+DESCRIPTION:Statement 14:00 ET\, Chair press conference 14:30 ET. Info only
+ \, not a trade signal.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FOMC rate decision
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:25baac09f1e14ccc@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟠 BoE rate decision + MPR
+DTSTART:20270729T110000Z
+DTEND:20270729T113000Z
+DESCRIPTION:Moves GBP\, so moves your BTC/GBP price. Monetary Policy Report
+  published. Info only\, not a trade signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:9be89a4bfdac1c89@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟠 Monthly BTC options/futures expiry
+DTSTART:20270730T080000Z
+DTEND:20270730T083000Z
+DESCRIPTION:Deribit options expire 08:00 UTC\; CME BTC futures settle 16:00
+  London. Price often pinned/whippy around expiry. Info only\, not a trade 
+ signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:f53d65ce47c06f15@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟠 2nd payment on account (26/27)
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+TRANSP:TRANSPARENT
+DESCRIPTION:HMRC payment on account\, if you're in Self Assessment. Info on
+ ly\, not a trade signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:3a38e018a8f3532d@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟠 US jobs report (Jul)
+DTSTART:20270806T123000Z
+DTEND:20270806T130000Z
+DESCRIPTION:BLS Employment Situation (non-farm payrolls). Info only\, not a
+  trade signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:342a5074a2fcf056@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🔴 US CPI (Jul)
+DTSTART:20270811T123000Z
+DTEND:20270811T130000Z
+DESCRIPTION:BLS inflation print. Big BTC volatility window. Info only\, not
+  a trade signal.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:US CPI (Jul)
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:26c0d62445ebad1e@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟢 UK CPI (Jul)
+DTSTART:20270818T060000Z
+DTEND:20270818T061500Z
+DESCRIPTION:ONS inflation. Feeds BoE path and GBP. Info only\, not a trade 
+ signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:8953bc38ed430567@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟢 FOMC minutes
+DTSTART:20270818T180000Z
+DTEND:20270818T181500Z
+DESCRIPTION:Expected date (3 weeks after meeting). Confirm on federalreserv
+ e.gov. Info only\, not a trade signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:c646b5df6345e1d1@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟠 Monthly BTC options/futures expiry
+DTSTART:20270827T080000Z
+DTEND:20270827T083000Z
+DESCRIPTION:Deribit options expire 08:00 UTC\; CME BTC futures settle 16:00
+  London. Price often pinned/whippy around expiry. Info only\, not a trade 
+ signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:265978b4e4ebdd6e@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟠 US jobs report (Aug)
+DTSTART:20270903T123000Z
+DTEND:20270903T130000Z
+DESCRIPTION:BLS Employment Situation (non-farm payrolls). Info only\, not a
+  trade signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:34272f75bbac8eca@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🔴 US CPI (Aug)
+DTSTART:20270914T123000Z
+DTEND:20270914T130000Z
+DESCRIPTION:BLS inflation print. Big BTC volatility window. Info only\, not
+  a trade signal.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:US CPI (Aug)
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:850cada4b203bf7d@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟢 UK CPI (Aug)
+DTSTART:20270915T060000Z
+DTEND:20270915T061500Z
+DESCRIPTION:ONS inflation. Feeds BoE path and GBP. Info only\, not a trade 
+ signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:b4112235549d3837@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🔴 FOMC rate decision + projections
+DTSTART:20270915T180000Z
+DTEND:20270915T190000Z
+DESCRIPTION:Statement 14:00 ET\, Chair press conference 14:30 ET. Includes 
+ dot plot (SEP). Info only\, not a trade signal.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FOMC rate decision + projections
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:25ce02b75a74ac94@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟠 BoE rate decision
+DTSTART:20270916T110000Z
+DTEND:20270916T113000Z
+DESCRIPTION:Moves GBP\, so moves your BTC/GBP price. Info only\, not a trad
+ e signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:2050a58fceadf66f@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🔴 Quarterly BTC options/futures expiry
+DTSTART:20270924T080000Z
+DTEND:20270924T083000Z
+DESCRIPTION:Deribit options expire 08:00 UTC\; CME BTC futures settle 16:00
+  London. Price often pinned/whippy around expiry. Info only\, not a trade 
+ signal.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Quarterly BTC options/futures expiry
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fb65e61e5d09eecb@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟢 FOMC minutes
+DTSTART:20271006T180000Z
+DTEND:20271006T181500Z
+DESCRIPTION:Expected date (3 weeks after meeting). Confirm on federalreserv
+ e.gov. Info only\, not a trade signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:49e52c6af1f72e54@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟠 US jobs report (Sep)
+DTSTART:20271008T123000Z
+DTEND:20271008T130000Z
+DESCRIPTION:BLS Employment Situation (non-farm payrolls). Info only\, not a
+  trade signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:9621aeefc1d4e63d@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🔴 US CPI (Sep)
+DTSTART:20271014T123000Z
+DTEND:20271014T130000Z
+DESCRIPTION:BLS inflation print. Big BTC volatility window. Info only\, not
+  a trade signal.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:US CPI (Sep)
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9d10fbbeaa8da481@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟢 UK CPI (Sep)
+DTSTART:20271020T060000Z
+DTEND:20271020T061500Z
+DESCRIPTION:ONS inflation. Feeds BoE path and GBP. Info only\, not a trade 
+ signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:8359604bae2d987a@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟠 FCA crypto regime goes live
+DTSTART;VALUE=DATE:20271025
+DTEND;VALUE=DATE:20271026
+TRANSP:TRANSPARENT
+DESCRIPTION:New UK rules for exchanges/custodians. Platforms without author
+ isation may restrict UK users. Info only\, not a trade signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:bf1a6ac34c5d6b71@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🔴 FOMC rate decision
+DTSTART:20271027T180000Z
+DTEND:20271027T190000Z
+DESCRIPTION:Statement 14:00 ET\, Chair press conference 14:30 ET. Info only
+ \, not a trade signal.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FOMC rate decision
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a0519d1d25671cb1@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟠 Monthly BTC options/futures expiry
+DTSTART:20271029T080000Z
+DTEND:20271029T083000Z
+DESCRIPTION:Deribit options expire 08:00 UTC\; CME BTC futures settle 16:00
+  London. Price often pinned/whippy around expiry. Info only\, not a trade 
+ signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:ab933b2a150c4e1d@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟢 Paper SA return deadline
+DTSTART;VALUE=DATE:20271031
+DTEND;VALUE=DATE:20271101
+TRANSP:TRANSPARENT
+DESCRIPTION:Only if filing on paper. Online deadline is 31 Jan. Info only\,
+  not a trade signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:8c9cb1990113bbfb@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟠 BoE rate decision + MPR
+DTSTART:20271104T120000Z
+DTEND:20271104T123000Z
+DESCRIPTION:Moves GBP\, so moves your BTC/GBP price. Monetary Policy Report
+  published. Info only\, not a trade signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:827635b9c3003fb4@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟠 US jobs report (Oct)
+DTSTART:20271105T123000Z
+DTEND:20271105T130000Z
+DESCRIPTION:BLS Employment Situation (non-farm payrolls). Info only\, not a
+  trade signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:11ea181b93b788b6@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🔴 US CPI (Oct)
+DTSTART:20271110T133000Z
+DTEND:20271110T140000Z
+DESCRIPTION:BLS inflation print. Big BTC volatility window. Info only\, not
+  a trade signal.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:US CPI (Oct)
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c623064fba70ffe9@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟢 UK CPI (Oct)
+DTSTART:20271117T070000Z
+DTEND:20271117T071500Z
+DESCRIPTION:ONS inflation. Feeds BoE path and GBP. Info only\, not a trade 
+ signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:d5e5b3609e395798@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟢 FOMC minutes
+DTSTART:20271117T190000Z
+DTEND:20271117T191500Z
+DESCRIPTION:Expected date (3 weeks after meeting). Confirm on federalreserv
+ e.gov. Info only\, not a trade signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:9372ef0231d22b2d@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟠 Monthly BTC options/futures expiry
+DTSTART:20271126T080000Z
+DTEND:20271126T083000Z
+DESCRIPTION:Deribit options expire 08:00 UTC\; CME BTC futures settle 16:00
+  London. Price often pinned/whippy around expiry. Info only\, not a trade 
+ signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:d20e00efc2336792@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟠 US jobs report (Nov)
+DTSTART:20271203T133000Z
+DTEND:20271203T140000Z
+DESCRIPTION:BLS Employment Situation (non-farm payrolls). Info only\, not a
+  trade signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:28692e1b94435308@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🔴 FOMC rate decision + projections
+DTSTART:20271208T190000Z
+DTEND:20271208T200000Z
+DESCRIPTION:Statement 14:00 ET\, Chair press conference 14:30 ET. Includes 
+ dot plot (SEP). Info only\, not a trade signal.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FOMC rate decision + projections
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:53f0c1136849797b@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🔴 US CPI (Nov)
+DTSTART:20271210T133000Z
+DTEND:20271210T140000Z
+DESCRIPTION:BLS inflation print. Big BTC volatility window. Info only\, not
+  a trade signal.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:US CPI (Nov)
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63031cd278a29d85@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟠 BoE rate decision
+DTSTART:20271216T120000Z
+DTEND:20271216T123000Z
+DESCRIPTION:Moves GBP\, so moves your BTC/GBP price. Info only\, not a trad
+ e signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:21ec5f3dcabd078c@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟢 FOMC minutes
+DTSTART:20271229T190000Z
+DTEND:20271229T191500Z
+DESCRIPTION:Expected date (3 weeks after meeting). Confirm on federalreserv
+ e.gov. Info only\, not a trade signal.
+END:VEVENT
+BEGIN:VEVENT
+UID:3f65584b6f1dc41e@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🔴 Quarterly BTC options/futures expiry
+DTSTART:20271231T080000Z
+DTEND:20271231T083000Z
+DESCRIPTION:Deribit options expire 08:00 UTC\; CME BTC futures settle 16:00
+  London. Price often pinned/whippy around expiry. Info only\, not a trade 
+ signal.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Quarterly BTC options/futures expiry
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:76274a9dc2870090@cryptonaire
+DTSTAMP:20261109T121256Z
+SUMMARY:🟢 BTC halving (estimate ~Apr 2028)
+DTSTART;VALUE=DATE:20280415
+DTEND;VALUE=DATE:20280416
+TRANSP:TRANSPARENT
+DESCRIPTION:Block 1\,050\,000. Date is an estimate and will drift\; v1 will
+  track it from block height. Info only\, not a trade signal.
+END:VEVENT
+END:VCALENDAR
