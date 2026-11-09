@@ -61,7 +61,7 @@ body.kiosk{background:#000}
 body.kiosk{overflow:hidden}
 body.kiosk .wrap{max-width:none;padding:0}
 body.kiosk .wrap>*:not(.main),body.kiosk .read,body.kiosk .nav{display:none}
-body.kiosk .main{position:fixed;inset:0;display:grid;place-items:center;overflow:hidden;background:#000}
+body.kiosk .main{position:fixed;inset:0;display:grid;grid-template-columns:minmax(0,1fr);place-items:center;overflow:hidden;background:#000}
 body.kiosk .stage{display:block}
 body.kiosk .watch{background:#000;border-radius:0;padding:0;max-width:none;width:var(--kiosk-size,94vmin)}
 #kdebug{position:fixed;left:6px;top:6px;font:12px var(--font-num);color:#8790a0;z-index:5}
