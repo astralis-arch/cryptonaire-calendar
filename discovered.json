@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "title": "US government funding deadline (shutdown risk)",
+    "date": "2026-12-11",
+    "time": null,
+    "tz": "America/New_York",
+    "mins": 30,
+    "tier": "🟠",
+    "note": "Stopgap funding signed in September runs out at the end of 11 Dec. A shutdown can delay BLS data (CPI, jobs) and SEC work, and tends to add risk-off noise.",
+    "source": "https://www.aljazeera.com/news/2026/9/1/us-house-passes-funding-bill-to-avert-government-shutdown-ahead-of-midterms",
+    "confirmed": false
+  }
+]
