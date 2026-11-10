@@ -19,7 +19,11 @@ KEEP = 30
 IMPACT = {"🔴": "High impact", "🟠": "Medium impact", "🟢": "Background"}
 CONF = {"High", "Medium", "Low"}
 MOODS = {"risk-on", "risk-off", "mixed", "calm"}
-SECTIONS = ["BTC", "ZEC", "Macro", "UK", "Policy", "Markets"]
+SECTIONS = ["BTC", "ZEC", "Macro", "UK", "Policy", "Markets", "ETFs", "Whales", "Protocol", "DeFi", "Beyond"]
+DESK = {"BTC": "Bitcoin Desk", "ZEC": "Zcash Desk", "Macro": "The Big Picture", "ETFs": "ETFs and Institutions", "Whales": "Whale Watch",
+        "Protocol": "Protocol and Development", "DeFi": "DEX and DeFi", "Beyond": "Beyond the Watchlist"}
+STATUS = {"New", "Developing", "Outlook changed", "No material change"}
+HORIZON = {"intraday", "swing", "longer"}
 LDN = dt.timezone.utc  # replaced below if zoneinfo is available
 try:
     from zoneinfo import ZoneInfo
@@ -38,6 +42,15 @@ def check(b, name):
     if L is not None:
         if not (L.get("headline") and isinstance(L.get("body"), list) and L["body"]): fail(f"{name}: lead needs headline and body paragraphs")
         if not 120 <= sum(len(p.split()) for p in L["body"]) <= 450: fail(f"{name}: lead body should be 120 to 450 words")
+    B = b.get("briefing")
+    if B is not None:
+        if not (isinstance(B.get("developments"), list) and 1 <= len(B["developments"]) <= 3): fail(f"{name}: briefing needs 1 to 3 developments")
+        for k in ("changed", "question", "watch"):
+            if not B.get(k): fail(f"{name}: briefing missing '{k}'")
+    X = b.get("explained")
+    if X is not None and not (X.get("title") and X.get("body")): fail(f"{name}: explained needs title and body")
+    for k in ("investigating", "corrections"):
+        if k in b and not (isinstance(b[k], list) and all(isinstance(x, str) and x for x in b[k])): fail(f"{name}: {k} must be a list of sentences")
     if not 1 <= len(b["stories"]) <= 10: fail(f"{name}: need 1 to 10 stories")
     if len(b["spoken"].split()) > 160: fail(f"{name}: spoken text over 160 words")
     for i, s in enumerate(b["stories"], 1):
@@ -47,6 +60,11 @@ def check(b, name):
         if s["impact"] not in IMPACT: fail(f"{name}: story {i} impact must be 🔴 🟠 or 🟢")
         if s["confidence"] not in CONF: fail(f"{name}: story {i} confidence must be High, Medium or Low")
         dt.date.fromisoformat(s["date"])
+        if "status" in s and s["status"] not in STATUS: fail(f"{name}: story {i} status must be one of {sorted(STATUS)}")
+        N = s.get("note")
+        if N is not None:
+            if not (N.get("read") and N.get("change")): fail(f"{name}: story {i} note needs 'read' and 'change'")
+            if N.get("horizon") and N["horizon"] not in HORIZON: fail(f"{name}: story {i} note horizon must be one of {sorted(HORIZON)}")
         for src in s["sources"]:
             if not str(src.get("url", "")).startswith("https://"): fail(f"{name}: story {i} source must be https")
     for a in b["ahead"]:
@@ -119,6 +137,19 @@ a{color:inherit;text-decoration-color:var(--hair);text-underline-offset:2px}
 .conf.Low{color:var(--red);font-weight:700}
 .src{font:12px/1.4 var(--sans);color:var(--muted)}.caveat{font:italic 13px var(--body);color:var(--amber)}
 footer{margin-top:26px;border-top:3px double var(--rule);padding-top:8px;font:12.5px/1.5 var(--sans);color:var(--muted)}footer p{margin:6px 0}
+.routes{display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap;border-bottom:1px solid var(--hair);padding:5px 0;font:12px var(--sans);text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+.routes a{color:var(--ink);font-weight:700;text-decoration:none;margin-left:10px}.routes button{font:700 12px var(--sans);background:none;color:var(--ink);border:1px solid var(--hair);border-radius:2px;padding:2px 8px;margin-left:4px;cursor:pointer}
+.briefing{border:2px solid var(--rule);padding:12px 14px;margin-top:14px;display:grid;grid-template-columns:1fr;gap:6px 26px}
+@media (min-width:700px){.briefing{grid-template-columns:1.3fr 1fr}}
+.briefing h3{grid-column:1/-1;font:700 12px var(--sans);text-transform:uppercase;letter-spacing:.1em;margin:0;color:var(--accent)}
+.briefing ol{margin:0;padding-left:1.3em;font-size:16px;line-height:1.45}.briefing li{margin-bottom:5px}
+.briefing dl{margin:0;font-size:15px;line-height:1.4}.briefing dt{font:700 11px var(--sans);text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin-top:6px}.briefing dt:first-child{margin-top:0}.briefing dd{margin:1px 0 0}
+.status{font:700 10px var(--sans);text-transform:uppercase;letter-spacing:.08em;border:1px solid currentColor;padding:0 4px;border-radius:2px}
+.status.n{color:var(--accent)}.status.o{color:var(--red)}.status.d{color:var(--amber)}.status.q{color:var(--muted)}
+.note{border-left:3px solid var(--hair);padding:2px 0 2px 10px;margin:6px 0 8px;font-size:14px;line-height:1.4}
+.note b{font:700 10.5px var(--sans);text-transform:uppercase;letter-spacing:.07em;color:var(--muted);margin-right:4px}.note p{margin:0 0 4px;font-size:14px}
+.explain p,.inv li{font-size:14.5px;line-height:1.45}.explain h4{font:700 17px/1.25 var(--head);margin:0 0 4px}.inv{margin:0;padding-left:1.1em}.inv li{margin-bottom:6px}
+.corr{font:13px var(--sans);border-top:1px solid var(--hair);padding-top:6px;color:var(--muted)}
 .arch{display:flex;flex-wrap:wrap;gap:4px 14px;font:12px var(--num)}
 """
 
@@ -136,6 +167,9 @@ async function prices(){
   }catch(e){document.querySelectorAll('.markets i').forEach(i=>{i.textContent='offline';i.previousElementSibling.textContent='—'})}
 }
 prices();setInterval(prices,60000);
+const m=document.querySelector('main');let z=1;try{z=+localStorage.getItem('postZoom')||1}catch(e){}
+const zoom=d=>{z=Math.min(1.5,Math.max(.85,+(z+d).toFixed(2)));m.style.zoom=z;try{localStorage.setItem('postZoom',z)}catch(e){}};zoom(0);
+document.getElementById('zin')?.addEventListener('click',()=>zoom(.1));document.getElementById('zout')?.addEventListener('click',()=>zoom(-.1));
 const btn=document.getElementById('listen');
 btn&&btn.addEventListener('click',()=>{
   const s=window.speechSynthesis;if(!s)return;
@@ -154,12 +188,27 @@ def page(b, briefs, prefix):
     lead = b.get("lead") or {"headline": b["stories"][0]["title"], "standfirst": "", "body": [b["headline"]]}
     copy = "".join(f"<p>{e(p)}</p>" for p in lead["body"])
     stand = f'<p class="stand">{e(lead["standfirst"])}</p>' if lead.get("standfirst") else ""
+    stat = {"New": "n", "Developing": "d", "Outlook changed": "o", "No material change": "q"}
+    B = b.get("briefing")
+    briefing = (f'<section class="briefing" id="briefing"><h3>The 60-second briefing</h3><ol>{"".join(f"<li>{e(x)}</li>" for x in B["developments"])}</ol>'
+                f'<dl><dt>What changed</dt><dd>{e(B["changed"])}</dd><dt>Biggest open question</dt><dd>{e(B["question"])}</dd><dt>Next to watch</dt><dd>{e(B["watch"])}</dd></dl></section>') if B else ""
+    X = b.get("explained")
+    explained = f'<h3>One thing explained</h3><div class="explain"><h4>{e(X["title"])}</h4>{"".join(f"<p>{e(p)}</p>" for p in (X["body"] if isinstance(X["body"], list) else [X["body"]]))}</div>' if X else ""
+    inv = f'<h3>What we are investigating</h3><ul class="inv">{"".join(f"<li>{e(x)}</li>" for x in b["investigating"])}</ul>' if b.get("investigating") else ""
+    corr = f'<p class="corr"><b>Corrections:</b> {" ".join(e(x) for x in b["corrections"])}</p>' if b.get("corrections") else ""
     stories = []
     for s in b["stories"]:
         c, label = imp[s["impact"]]
         srcs = " · ".join(f'<a href="{e(x["url"])}" rel="noopener">{e(x.get("name") or "source")}</a>' for x in s["sources"])
         cav = f'<p class="caveat">{e(s["caveat"])}</p>' if s.get("caveat") else ""
-        stories.append(f'''<article class="story"><div class="meta"><span class="kicker">{e(s["section"])}</span><span class="imp {c}">{s["impact"]} {label}</span>
+        st = f'<span class="status {stat[s["status"]]}">{e(s["status"])}</span>' if s.get("status") else ""
+        N = s.get("note")
+        note = ""
+        if N:
+            note = '<div class="note">' + (f'<p><b>Our read{" · " + e(N["horizon"]) if N.get("horizon") else ""}</b>{e(N["read"])}</p>')
+            note += (f'<p><b>Another explanation</b>{e(N["alt"])}</p>' if N.get("alt") else "") + f'<p><b>What would change this</b>{e(N["change"])}</p></div>'
+        cav += note
+        stories.append(f'''<article class="story"><div class="meta"><span class="kicker">{e(DESK.get(s["section"], s["section"]))}</span>{st}<span class="imp {c}">{s["impact"]} {label}</span>
 <span class="conf {e(s["confidence"])}">{e(s["confidence"])} confidence</span><span>{e(dt.date.fromisoformat(s["date"]).strftime("%-d %b"))}</span></div>
 <h4>{e(s["title"])}</h4><p>{e(s["why"])}</p>{cav}<div class="src">Sources: {srcs}</div></article>''')
     ahead = "".join(f'<li><span class="when">{e(a["when"])}</span>{e(a.get("impact",""))} {e(a["what"])}</li>' for a in b["ahead"])
@@ -177,15 +226,17 @@ def page(b, briefs, prefix):
 <header class="mast"><h1>The Cryptonaire Post</h1><div class="motto">All the market news that matters, curated daily</div></header>
 <div class="dateline"><span>{e(t.strftime("%A %-d %B %Y"))}</span><span>{edition} · {e(t.strftime("%H:%M"))} UK</span><span>Mood: <span class="mood {e(b["mood"])}">{e(b["mood"])}</span></span></div>
 <div class="markets"><span id="BTCUSDT"><b>BTC</b><span>…</span> <i></i></span><span id="ZECUSDT"><b>ZEC</b><span>…</span> <i></i></span><span style="color:var(--muted)">live US$</span></div>
+<nav class="routes"><span>Read:<a href="#briefing">1 min</a><a href="#lead">5 min</a><a href="#stories">Full edition</a></span><span>Text <button id="zout" type="button" aria-label="Smaller text">A−</button><button id="zin" type="button" aria-label="Larger text">A+</button></span></nav>
+{briefing}
 <div class="front">
-<article class="lead"><div class="kicker">The lead</div><h2>{e(lead["headline"])}</h2>{stand}
+<article class="lead" id="lead"><div class="kicker">The lead</div><h2>{e(lead["headline"])}</h2>{stand}
 <div class="byline"><span>By the Cryptonaire desk (Claude) · {e(t.strftime("%-d %b %Y"))}</span><button class="listen" id="listen" type="button">▶ Listen</button></div>
-<div class="copy">{copy}</div></article>
+<div class="copy">{copy}</div>{corr}</article>
 <aside class="side"><h3>In brief</h3><p class="inbrief">{e(b["headline"])}</p>
-<h3>The week ahead</h3><ul class="diary">{ahead}</ul></aside>
+<h3>The week ahead</h3><ul class="diary">{ahead}</ul>{explained}{inv}</aside>
 </div>
 <p id="spoken" hidden>{e(b["spoken"])}</p>
-<section class="also"><h3 class="sec">Also in today's edition, ranked</h3><div class="cols">{"".join(stories)}</div></section>
+<section class="also" id="stories"><h3 class="sec">Also in today's edition, ranked</h3><div class="cols">{"".join(stories)}</div></section>
 <footer><p>Written and ranked by Claude from public sources. Confidence: <b>High</b> means a primary source or 2+ independent outlets agree, <b>Medium</b> means one reputable outlet, <b>Low</b> means unconfirmed. Prices in stories are as reported; the market strip is live from Binance.</p>
 <p><b>Information only, not financial advice or a buy/sell signal.</b></p>
 <p>Back issues:</p><div class="arch">{arch}</div>
@@ -197,8 +248,9 @@ def rss(briefs):
     items = []
     for b in briefs:
         lead = b.get("lead")
-        body = (f'<h2>{e(lead["headline"])}</h2><p><i>{e(lead.get("standfirst",""))}</i></p>' + "".join(f"<p>{e(p)}</p>" for p in lead["body"]) if lead else "") + "<p>" + e(b["headline"]) + "</p><ol>" + "".join(
-            f'<li>{s["impact"]} <b>{e(s["section"])}: {e(s["title"])}</b> ({e(s["confidence"])} confidence). {e(s["why"])} '
+        B = b.get("briefing")
+        body = (("<p><b>60-second briefing:</b></p><ol>" + "".join(f"<li>{e(x)}</li>" for x in B["developments"]) + f"</ol><p>What changed: {e(B['changed'])} Next to watch: {e(B['watch'])}</p>") if B else "") + (f'<h2>{e(lead["headline"])}</h2><p><i>{e(lead.get("standfirst",""))}</i></p>' + "".join(f"<p>{e(p)}</p>" for p in lead["body"]) if lead else "") + "<p>" + e(b["headline"]) + "</p><ol>" + "".join(
+            f'<li>{s["impact"]} {e(s.get("status", ""))} <b>{e(DESK.get(s["section"], s["section"]))}: {e(s["title"])}</b> ({e(s["confidence"])} confidence). {e(s["why"])} '
             + " ".join(f'<a href="{e(x["url"])}">{e(x.get("name") or "source")}</a>' for x in s["sources"]) + "</li>"
             for s in b["stories"]) + "</ol><p>Information only, not advice.</p>"
         items.append(f'''<item><title>{e(b["_t"].astimezone(LDN).strftime("%a %-d %b %H:%M"))} · {e(b["mood"])} · {e((b.get("lead") or {}).get("headline") or b["stories"][0]["title"])}</title>
