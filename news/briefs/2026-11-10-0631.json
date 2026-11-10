@@ -1,0 +1,83 @@
+{
+  "generated": "2026-11-10T06:31:00Z",
+  "mood": "mixed",
+  "lead": {
+    "headline": "Bitcoin stuck below $75,000 as Wall Street rallies before inflation test",
+    "standfirst": "US shares had their best day since April, but bitcoin funds lost another $201m. Today's US price data at 13:30 UK is the next test.",
+    "body": [
+      "Bitcoin traded at about $74,750 early on Tuesday, CoinDesk reported, having briefly topped $75,000 overnight. On Sunday it fell to roughly $73,500, its lowest level since August, according to Cointelegraph, and about $1.12bn of leveraged positions were liquidated in the 24 hours to Monday morning, per CoinGlass.",
+      "Large investors kept selling. US spot bitcoin ETFs recorded net outflows of $201m on Monday, with BlackRock's IBIT losing $213m, according to Farside data. That followed $1.28bn of outflows last week, the largest weekly figure since June, CoinDesk reported, leaving the funds down $914m for the year to date.",
+      "Wall Street told a different story. The S&P 500 rose 2.35% on Monday and the Nasdaq 2.74%, led by chipmakers and helped by falling oil prices, even as Nvidia fell 4.3% after its board opened an inquiry into reports that its chief executive was targeted by a foreign intelligence effort.",
+      "Attention now turns to the October consumer price index, due at 13:30 UK time. Economists expect prices to have risen 0.3% on the month, with core inflation at 0.2%, CoinDesk reported. There will be no annual figure because of gaps left by last year's government shutdown. CME FedWatch put the odds of a Federal Reserve rate rise in December at about 79%, Cointelegraph reported.",
+      "Analysts cited by CoinDesk named $73,000 as the key support level, with $80,000 the line to reclaim.",
+      "Zcash fell 7.9% on Monday to about $1,165, CryptoTicker reported, as a developer proposed cutting block times again to 20 seconds."
+    ]
+  },
+  "headline": "Stocks bounced hard on Monday but bitcoin stayed stuck near $74.7k as ETF outflows continued. Today's US inflation print at 13:30 UK decides the next move, with a December Fed hike priced at about 79%.",
+  "spoken": "Cryptonaire brief, Tuesday morning. Mood: mixed. Bitcoin is around seventy-four thousand seven hundred dollars, after touching its lowest level since August on Sunday. US bitcoin funds lost another two hundred million dollars on Monday, after one point three billion last week. US shares rallied strongly, but bitcoin did not follow. The big one is today: US inflation at half past one UK time. Markets price about a seventy-nine per cent chance of a Fed rate rise in December. Zcash fell about eight per cent to around eleven hundred and sixty-five dollars. Information only, not advice.",
+  "stories": [
+    {
+      "section": "Macro", "impact": "🔴", "confidence": "High", "date": "2026-11-10",
+      "title": "US CPI today at 13:30 UK; markets price about 79% odds of a Fed hike on 9 Dec",
+      "why": "Consensus is +0.3% m/m headline and +0.2% core (September: +0.6% and +0.3%). No official year-on-year rate this month because of the 2025 shutdown gap. A hot print would firm up hike bets; a soft core reading could spark a relief bounce.",
+      "caveat": "FactSet's survey has headline nearer +0.24%.",
+      "sources": [
+        {"name": "CoinDesk", "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough"},
+        {"name": "Cointelegraph (CME FedWatch)", "url": "https://cointelegraph.com/markets/btc-price-nvidia-volatility-three-things-bitcoin-this-week"},
+        {"name": "CryptoTicker", "url": "https://cryptoticker.io/en/bitcoin-price-us-cpi-no-annual-rate/"}
+      ]
+    },
+    {
+      "section": "BTC", "impact": "🔴", "confidence": "High", "date": "2026-11-10",
+      "title": "Bitcoin about $74.7k after Sunday low near $73.5k, lowest since August",
+      "why": "About $1.12bn of leveraged positions liquidated in 24h (CoinGlass). Price is below the 50-week average (~$75.5k) and the short-term holder cost basis (~$75.7k). Analysts flag $73k as key support, $68k to $70k below, and $80k as the level to reclaim.",
+      "sources": [
+        {"name": "CoinDesk", "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough"},
+        {"name": "Cointelegraph", "url": "https://cointelegraph.com/markets/btc-price-nvidia-volatility-three-things-bitcoin-this-week"}
+      ]
+    },
+    {
+      "section": "BTC", "impact": "🔴", "confidence": "High", "date": "2026-11-09",
+      "title": "Bitcoin ETFs lose another $201m on Monday after $1.28bn last week",
+      "why": "IBIT alone saw -$213m. Last week's outflow was the biggest since June and leaves 2026 flows at -$914m, versus $20bn+ inflows in each of the past two years. ETF demand has been the main bid, so the selling caps rallies.",
+      "sources": [
+        {"name": "Farside Investors", "url": "https://farside.co.uk/btc/"},
+        {"name": "KuCoin News (Farside data)", "url": "https://www.kucoin.com/news/flash/us-bitcoin-and-ethereum-spot-etfs-recorded-net-outflows-of-201m-and-184-6m-on-nov-9"},
+        {"name": "CoinDesk Daybook (SoSoValue)", "url": "https://www.coindesk.com/daybook-us/2026/11/09/bitcoin-bulls-can-t-rely-on-etf-flows"}
+      ]
+    },
+    {
+      "section": "Markets", "impact": "🟠", "confidence": "High", "date": "2026-11-09",
+      "title": "Wall Street's best day since April: S&P +2.35%, Nasdaq +2.74%, Dow +1,104",
+      "why": "Chipmakers and falling oil (US crude near $87 to $90) led the rebound. Nvidia fell 4.3% after its board opened an inquiry into reports its CEO was targeted by a foreign intelligence effort. Bitcoin did not join the rally, a sign crypto-specific selling dominates. US 10-year yield about 4.88%.",
+      "sources": [
+        {"name": "The Motley Fool", "url": "https://www.fool.com/coverage/stock-market-today/2026/11/09/stock-market-today-nov-9-markets-rally-as-semiconductor-gains-lift-nasdaq/"},
+        {"name": "StockTitan", "url": "https://stocktitan.net/articles/stock-market-today-live-november-9-2026"},
+        {"name": "Cointelegraph", "url": "https://cointelegraph.com/markets/btc-price-nvidia-volatility-three-things-bitcoin-this-week"}
+      ]
+    },
+    {
+      "section": "ZEC", "impact": "🟠", "confidence": "Medium", "date": "2026-11-09",
+      "title": "Zcash falls 7.9% to about $1,165 as dev proposes 20-second blocks",
+      "why": "ZEC has given back its NU7 gains (down 5.1% on the week). A draft proposal for NU7.1 would cut block time from 25s to 20s while keeping daily issuance and the halving date unchanged; it still needs a community vote and has no date. Grayscale's Zcash fund saw $11m out on 5 Nov.",
+      "sources": [
+        {"name": "CryptoTicker", "url": "https://cryptoticker.io/en/zcash-falls-8-percent-nu7-1-20-second-block-time-proposal/"},
+        {"name": "CryptoTicker", "url": "https://cryptoticker.io/en/zcash-gives-back-nu7-gains-liquidations-etf-outflow"}
+      ]
+    },
+    {
+      "section": "Macro", "impact": "🟢", "confidence": "Medium", "date": "2026-11-09",
+      "title": "China extends US trade truce by two months; Xi and Trump due to meet at APEC next week",
+      "why": "The truce was due to expire today, so the extension removes one near-term shock. Trump also said new strikes on Iran were 'highly unlikely'.",
+      "sources": [
+        {"name": "CoinDesk Daybook", "url": "https://www.coindesk.com/daybook-us/2026/11/09/bitcoin-bulls-can-t-rely-on-etf-flows"}
+      ]
+    }
+  ],
+  "ahead": [
+    {"when": "Tue 10 Nov 13:30 UK", "impact": "🔴", "what": "US CPI (October), consensus +0.3% m/m, core +0.2%"},
+    {"when": "Wed 11 Nov", "impact": "🟢", "what": "US bond market closed (Veterans Day)"},
+    {"when": "Fri 13 Nov 13:30 UK", "impact": "🟠", "what": "US PPI (October)"},
+    {"when": "Wed 18 Nov 07:00 UK", "impact": "🟢", "what": "UK CPI (October); FOMC minutes 19:00 UK"}
+  ]
+}
