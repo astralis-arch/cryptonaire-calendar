@@ -1,0 +1,125 @@
+{
+  "generated": "2026-11-10T19:45:00Z",
+  "mood": "risk-off",
+  "briefing": {
+    "developments": [
+      "US inflation came in hot: prices rose 0.4% in October and core prices 0.3%, both above forecasts.",
+      "A Fed rate rise on 9 December now looks certain, and Governor Waller had said core at 0.3% or more would put a half-point rise on the table.",
+      "Bitcoin dipped to about $73,400, its weakest since 21 August, then got back above $74,000. US shares gave back part of Monday's rally."
+    ],
+    "changed": "This morning the open question was whether inflation would cool. It did not, so the debate has moved from whether the Fed hikes in December to by how much.",
+    "question": "Will the spot ETF selling stop? IBIT has seen seven straight days of redemptions, and analysts say macro relief alone may not lift bitcoin without that demand.",
+    "watch": "Whether bitcoin's daily close (midnight UTC, midnight UK) holds above $73,000, then US PPI on Fri 13 Nov at 13:30 UK."
+  },
+  "lead": {
+    "headline": "Hot US inflation puts a bigger Fed rate rise on the table",
+    "standfirst": "Prices rose faster than expected in October. Bitcoin touched an 11-week low before steadying, while Wall Street gave back part of Monday's rally.",
+    "body": [
+      "US consumer prices rose 0.4% in October, above the 0.3% economists had forecast, the Bureau of Labor Statistics said on Tuesday. Core prices, which strip out food and energy, rose 0.3% against forecasts of 0.2%, CoinDesk reported.",
+      "Food rose 0.5% and energy 0.7%, while owners' equivalent rent climbed 0.3%, according to Yahoo Finance. There was again no official annual figure, because last year's government shutdown left a gap in the data.",
+      "The report mattered because of what Federal Reserve Governor Christopher Waller said earlier in the day. He backed a quarter-point rise in December even if inflation cooled, and said a half-point move should be considered if core prices rose 0.3% or more, TheStreet reported. Core landed exactly on that line.",
+      "Markets moved quickly. The two-year Treasury yield rose 14 basis points to 4.69% and the 10-year reached 4.93%, CoinDesk reported. CME FedWatch put the chance of a half-point move at roughly 15%, with a quarter-point rise the rest.",
+      "Bitcoin fell to about $73,400 after the release, its weakest level since 21 August, Bitcoin Magazine and KuCoin reported, before recovering above $74,000. Spot bitcoin funds had already lost $201m on Monday, the seventh straight session of withdrawals from BlackRock's IBIT.",
+      "The S&P 500 was down about 0.9% and the Nasdaq 1.3% at midday in New York, according to 24/7 Wall St. Producer prices follow on Friday."
+    ]
+  },
+  "headline": "October CPI ran hot (0.4%, core 0.3%), making a December Fed hike look certain and a half-point move possible. Bitcoin touched an 11-week low near $73.4k before steadying above $74k.",
+  "spoken": "Cryptonaire evening brief, Tuesday. Mood: risk-off. US inflation came in hotter than expected. Prices rose zero point four per cent in October, and core prices zero point three. A Fed rate rise in December now looks certain, and markets see about a fifteen per cent chance of a half-point move. Bitcoin dipped to around seventy-three thousand four hundred dollars, its lowest since August, then recovered above seventy-four thousand. US shares fell about one per cent. Next up: US producer prices on Friday at half past one UK time. Information only, not advice.",
+  "stories": [
+    {
+      "section": "Macro", "impact": "🔴", "confidence": "High", "date": "2026-11-10", "status": "Outlook changed",
+      "title": "US CPI hotter than expected: +0.4% headline, +0.3% core in October",
+      "why": "Forecasts were +0.3% and +0.2%. Food +0.5%, energy +0.7%, owners' equivalent rent +0.3%. This was the Fed's last CPI before its 8 to 9 December meeting. Still no official annual rate because of the 2025 shutdown gap.",
+      "note": {
+        "horizon": "swing",
+        "read": "This morning's edition flagged a hot print as the risk. It happened, and it removes the main hope for a quick easing in the rate outlook.",
+        "alt": "Food and energy did much of the work; if PCE later in November is softer, markets could pare back the half-point talk.",
+        "change": "A soft PPI on Friday or a soft PCE on 25 November would weaken the case for a bigger hike."
+      },
+      "sources": [
+        {"name": "CoinDesk", "url": "https://www.coindesk.com/markets/2026/11/10/u-s-cpi-rose-stronger-than-expected-0-4-in-october-core-rate-rose-0-3"},
+        {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/economy/article/not-great-october-cpi-inflation-data-comes-in-hotter-than-expected-as-food-and-rent-costs-spike-142323507.html"},
+        {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-73900-cpi"}
+      ]
+    },
+    {
+      "section": "Macro", "impact": "🔴", "confidence": "High", "date": "2026-11-10", "status": "New",
+      "title": "Waller's half-point trigger was core at 0.3% or more, and core hit 0.3%",
+      "why": "Fed Governor Waller said before the data that he backs a December hike regardless, and a 50bp move should be considered if core rose 0.3%+. CME FedWatch then showed about 85% for 25bp and 15% for 50bp. The 2-year yield rose 14bp to 4.69%.",
+      "caveat": "Reported 50bp odds vary between 14.7% and 15.3% depending on the snapshot time.",
+      "note": {
+        "horizon": "swing",
+        "read": "A hike is fully priced, so the new risk for bitcoin is the size. A 50bp move is still the minority view.",
+        "alt": "One governor's threshold is not the committee's; other Fed speakers may push back this week.",
+        "change": "Other Fed officials backing or rejecting a 50bp move, or the 2-year yield reversing."
+      },
+      "sources": [
+        {"name": "TheStreet", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-10-2026"},
+        {"name": "CoinDesk", "url": "https://www.coindesk.com/markets/2026/11/10/u-s-cpi-rose-stronger-than-expected-0-4-in-october-core-rate-rose-0-3"},
+        {"name": "KuCoin News (CME FedWatch)", "url": "https://www.kucoin.com/news/flash/bitcoin-slides-toward-11-week-low-as-us-cpi-surpasses-expectations"},
+        {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/economy/article/not-great-october-cpi-inflation-data-comes-in-hotter-than-expected-as-food-and-rent-costs-spike-142323507.html"}
+      ]
+    },
+    {
+      "section": "BTC", "impact": "🔴", "confidence": "High", "date": "2026-11-10", "status": "Developing",
+      "title": "Bitcoin dips to about $73.4k, weakest since 21 August, then recovers above $74k",
+      "why": "It briefly undercut Monday's overnight low of $73,477. Analysts keep naming $73,000 as the level: a daily close below it could open $70,000, while $80,000 is the level to reclaim.",
+      "note": {
+        "horizon": "intraday",
+        "read": "The hot print added pressure but did not break the $73k floor, so far a test rather than a breakdown.",
+        "alt": "The dip and bounce may be leverage being cleared around a well-watched level rather than new selling.",
+        "change": "A daily close below $73,000, or fresh ETF inflows."
+      },
+      "sources": [
+        {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-73900-cpi"},
+        {"name": "KuCoin News", "url": "https://www.kucoin.com/news/flash/bitcoin-slides-toward-11-week-low-as-us-cpi-surpasses-expectations"},
+        {"name": "CoinDesk", "url": "https://www.coindesk.com/markets/2026/11/10/u-s-cpi-rose-stronger-than-expected-0-4-in-october-core-rate-rose-0-3"}
+      ]
+    },
+    {
+      "section": "Markets", "impact": "🟠", "confidence": "High", "date": "2026-11-10", "status": "New",
+      "title": "Stocks give back part of Monday's rally; 10-year yield nears 5%",
+      "why": "At midday in New York the S&P 500 was down about 0.9%, the Dow 0.75% and the Nasdaq 1.3%. The 10-year yield reached 4.93%. Higher yields make holding non-yielding assets like bitcoin relatively less attractive.",
+      "sources": [
+        {"name": "24/7 Wall St.", "url": "https://247wallst.com/cards/a-hotter-inflation-reading-pushed-the-10-year-treasury-yield-gspc-market-bell-01m736jv8b304zems20e9w1wgx"},
+        {"name": "TheStreet", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-10-2026"},
+        {"name": "CoinDesk", "url": "https://www.coindesk.com/markets/2026/11/10/u-s-cpi-rose-stronger-than-expected-0-4-in-october-core-rate-rose-0-3"}
+      ]
+    },
+    {
+      "section": "ETFs", "impact": "🟠", "confidence": "High", "date": "2026-11-09", "status": "No material change",
+      "title": "IBIT's seventh straight day of outflows; Tuesday's figures not yet in",
+      "why": "Monday's net outflow was $201m across US spot bitcoin ETFs, $213m of it from IBIT. Tuesday's figures normally appear overnight.",
+      "sources": [
+        {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-73900-cpi"},
+        {"name": "Farside Investors", "url": "https://farside.co.uk/btc/"}
+      ]
+    },
+    {
+      "section": "ZEC", "impact": "🟢", "confidence": "Medium", "date": "2026-11-09", "status": "No material change",
+      "title": "Zcash: no fresh news since Monday's fall and the 20-second block draft",
+      "why": "ZEC fell 7.9% to about $1,165 on Monday. The NU7.1 proposal to cut block time from 25 to 20 seconds is still a draft awaiting a community vote, with no date.",
+      "sources": [
+        {"name": "CryptoTicker", "url": "https://cryptoticker.io/en/zcash-falls-8-percent-nu7-1-20-second-block-time-proposal/"}
+      ]
+    }
+  ],
+  "explained": {
+    "title": "Why analysts talk about a \"daily close\"",
+    "body": [
+      "Crypto trades around the clock, so there is no closing bell. By convention the daily candle closes at midnight UTC, which is midnight in the UK in winter.",
+      "Analysts watch where the price sits at that moment because brief dips below a level often come from thin trading or forced liquidations and bounce straight back. A close below the level shows it failed to hold through the whole day. It is a convention, not a rule, and venues can differ by a few dollars."
+    ]
+  },
+  "investigating": [
+    "Who is selling the ETFs? Possible answers are late buyers taking losses or hedge funds unwinding futures trades. Evidence needed: CME futures open interest and the next quarterly 13F filings.",
+    "Will other Fed officials back Waller's half-point idea? Watch speeches before the 9 December meeting.",
+    "Will Zcash's 20-second block proposal win support? Watch the community forum for a vote date."
+  ],
+  "ahead": [
+    {"when": "Tonight 00:00 UK", "impact": "🟠", "what": "Bitcoin daily close: above or below $73,000"},
+    {"when": "Wed 11 Nov", "impact": "🟢", "what": "US bond market closed (Veterans Day)"},
+    {"when": "Fri 13 Nov 13:30 UK", "impact": "🟠", "what": "US PPI (October)"},
+    {"when": "Wed 18 Nov 07:00 UK", "impact": "🟢", "what": "UK CPI (October); FOMC minutes 19:00 UK"}
+  ]
+}

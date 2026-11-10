@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en-GB"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>The Cryptonaire Post</title>
+<meta name="description" content="Hot US inflation puts a bigger Fed rate rise on the table">
+<meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="Cryptonaire Post">
+<link rel="alternate" type="application/rss+xml" title="The Cryptonaire Post" href="https://astralis-arch.github.io/cryptonaire-calendar/news/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&family=Playfair+Display:wght@700;800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=Archivo:wght@400;600;700&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+:root{--paper:#f4efe4;--ink:#1b1a17;--muted:#5e5a50;--rule:#1b1a17;--hair:#cfc6b4;--red:#a61e1e;--amber:#9a5b00;--green:#2b6b3c;--accent:#7a1414;
+--mast:"UnifrakturMaguntia","Old English Text MT",serif;--head:"Playfair Display",Georgia,serif;--body:"Source Serif 4",Georgia,"Times New Roman",serif;--sans:"Archivo",system-ui,-apple-system,sans-serif;--num:"JetBrains Mono",ui-monospace,Menlo,monospace}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--paper:#16150f;--ink:#ece6d8;--muted:#a59e8e;--rule:#ece6d8;--hair:#3b382f;--red:#ff7a6b;--amber:#f2b552;--green:#7fd197;--accent:#ff9b8b;color-scheme:dark}}
+:root[data-theme="dark"]{--paper:#16150f;--ink:#ece6d8;--muted:#a59e8e;--rule:#ece6d8;--hair:#3b382f;--red:#ff7a6b;--amber:#f2b552;--green:#7fd197;--accent:#ff9b8b;color-scheme:dark}
+*{box-sizing:border-box}html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--paper);color:var(--ink);font:17px/1.55 var(--body);padding:env(safe-area-inset-top) 0 env(safe-area-inset-bottom)}
+main{max-width:980px;margin:0 auto;padding:14px 16px 40px}
+h2,h4,.copy p:first-child::first-letter{font-variant-numeric:lining-nums}
+a{color:inherit;text-decoration-color:var(--hair);text-underline-offset:2px}
+.ears{display:flex;justify-content:space-between;gap:12px;font:11px/1.3 var(--sans);text-transform:uppercase;letter-spacing:.08em;color:var(--muted)}
+.mast{text-align:center;margin:6px 0 4px}
+.mast h1{font:400 clamp(40px,11vw,84px)/1 var(--mast);margin:0;letter-spacing:.01em}
+.motto{font:italic 13px var(--body);color:var(--muted);margin-top:4px}
+.dateline{display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap;border-top:3px double var(--rule);border-bottom:1px solid var(--rule);padding:5px 0;margin-top:8px;font:12px var(--sans);text-transform:uppercase;letter-spacing:.06em}
+.mood{font-weight:700}.mood.risk-off{color:var(--red)}.mood.risk-on{color:var(--green)}.mood.mixed,.mood.calm{color:var(--amber)}
+.markets{display:flex;gap:18px;flex-wrap:wrap;justify-content:center;border-bottom:1px solid var(--rule);padding:6px 0;font:13px var(--num)}
+.markets b{font-family:var(--sans);font-size:11px;letter-spacing:.08em;margin-right:6px}
+.up{color:var(--green)}.down{color:var(--red)}
+.front{display:grid;grid-template-columns:1fr;gap:0 28px;margin-top:16px}
+@media (min-width:820px){.front{grid-template-columns:2.1fr 1fr}.side{border-left:1px solid var(--hair);padding-left:24px}}
+.kicker{font:700 11px var(--sans);text-transform:uppercase;letter-spacing:.12em;color:var(--accent)}
+.lead h2{font:800 clamp(30px,7vw,46px)/1.08 var(--head);margin:6px 0 10px;letter-spacing:-.01em}
+.stand{font:italic 19px/1.45 var(--body);color:var(--muted);margin:0 0 10px}
+.byline{font:12px var(--sans);color:var(--muted);border-top:1px solid var(--hair);border-bottom:1px solid var(--hair);padding:5px 0;margin-bottom:12px;display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap;align-items:center}
+.listen{font:600 12px var(--sans);text-transform:uppercase;letter-spacing:.06em;background:none;color:var(--ink);border:1px solid var(--ink);border-radius:2px;padding:4px 10px;cursor:pointer}
+.copy{hyphens:auto;-webkit-hyphens:auto}
+@media (min-width:620px){.copy{text-align:justify;column-count:2;column-gap:26px;column-rule:1px solid var(--hair)}}
+.copy p{margin:0 0 .8em}
+.copy p:first-child::first-letter{float:left;font:800 3.6em/.82 var(--head);padding:.06em .08em 0 0}
+.side h3,.also h3.sec{font:700 12px var(--sans);text-transform:uppercase;letter-spacing:.1em;border-top:3px solid var(--rule);padding-top:6px;margin:18px 0 8px}
+@media (min-width:820px){.side h3:first-child{margin-top:0}}
+.diary{list-style:none;margin:0;padding:0}
+.diary li{padding:7px 0;border-bottom:1px solid var(--hair);font-size:15px;line-height:1.35}
+.diary .when{display:block;font:500 12px var(--num);color:var(--muted)}
+.inbrief{font-size:15px;line-height:1.45;margin:0}
+.also{margin-top:22px}
+.cols{display:grid;grid-template-columns:1fr;gap:0 24px}
+@media (min-width:620px){.cols{grid-template-columns:1fr 1fr}}
+@media (min-width:900px){.cols{grid-template-columns:1fr 1fr 1fr}}
+.story{border-top:1px solid var(--rule);padding:10px 0 14px}
+.story h4{font:700 20px/1.2 var(--head);margin:4px 0 6px}
+.story p{margin:0 0 6px;font-size:15.5px}
+.meta{font:11px var(--sans);text-transform:uppercase;letter-spacing:.06em;color:var(--muted);display:flex;gap:8px;flex-wrap:wrap}
+.imp{font-weight:700}.imp.r{color:var(--red)}.imp.a{color:var(--amber)}.imp.g{color:var(--green)}
+.conf.Low{color:var(--red);font-weight:700}
+.src{font:12px/1.4 var(--sans);color:var(--muted)}.caveat{font:italic 13px var(--body);color:var(--amber)}
+footer{margin-top:26px;border-top:3px double var(--rule);padding-top:8px;font:12.5px/1.5 var(--sans);color:var(--muted)}footer p{margin:6px 0}
+.routes{display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap;border-bottom:1px solid var(--hair);padding:5px 0;font:12px var(--sans);text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+.routes a{color:var(--ink);font-weight:700;text-decoration:none;margin-left:10px}.routes button{font:700 12px var(--sans);background:none;color:var(--ink);border:1px solid var(--hair);border-radius:2px;padding:2px 8px;margin-left:4px;cursor:pointer}
+.briefing{border:2px solid var(--rule);padding:12px 14px;margin-top:14px;display:grid;grid-template-columns:1fr;gap:6px 26px}
+@media (min-width:700px){.briefing{grid-template-columns:1.3fr 1fr}}
+.briefing h3{grid-column:1/-1;font:700 12px var(--sans);text-transform:uppercase;letter-spacing:.1em;margin:0;color:var(--accent)}
+.briefing ol{margin:0;padding-left:1.3em;font-size:16px;line-height:1.45}.briefing li{margin-bottom:5px}
+.briefing dl{margin:0;font-size:15px;line-height:1.4}.briefing dt{font:700 11px var(--sans);text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin-top:6px}.briefing dt:first-child{margin-top:0}.briefing dd{margin:1px 0 0}
+.status{font:700 10px var(--sans);text-transform:uppercase;letter-spacing:.08em;border:1px solid currentColor;padding:0 4px;border-radius:2px}
+.status.n{color:var(--accent)}.status.o{color:var(--red)}.status.d{color:var(--amber)}.status.q{color:var(--muted)}
+.note{border-left:3px solid var(--hair);padding:2px 0 2px 10px;margin:6px 0 8px;font-size:14px;line-height:1.4}
+.note b{font:700 10.5px var(--sans);text-transform:uppercase;letter-spacing:.07em;color:var(--muted);margin-right:4px}.note p{margin:0 0 4px;font-size:14px}
+.explain p,.inv li{font-size:14.5px;line-height:1.45}.explain h4{font:700 17px/1.25 var(--head);margin:0 0 4px}.inv{margin:0;padding-left:1.1em}.inv li{margin-bottom:6px}
+.corr{font:13px var(--sans);border-top:1px solid var(--hair);padding-top:6px;color:var(--muted)}
+.arch{display:flex;flex-wrap:wrap;gap:4px 14px;font:12px var(--num)}
+</style></head><body><main>
+<div class="ears"><span>No. 2</span><span>BTC · ZEC · Markets</span></div>
+<header class="mast"><h1>The Cryptonaire Post</h1><div class="motto">All the market news that matters, curated daily</div></header>
+<div class="dateline"><span>Tuesday 10 November 2026</span><span>Evening edition · 19:45 UK</span><span>Mood: <span class="mood risk-off">risk-off</span></span></div>
+<div class="markets"><span id="BTCUSDT"><b>BTC</b><span>…</span> <i></i></span><span id="ZECUSDT"><b>ZEC</b><span>…</span> <i></i></span><span style="color:var(--muted)">live US$</span></div>
+<nav class="routes"><span>Read:<a href="#briefing">1 min</a><a href="#lead">5 min</a><a href="#stories">Full edition</a></span><span>Text <button id="zout" type="button" aria-label="Smaller text">A−</button><button id="zin" type="button" aria-label="Larger text">A+</button></span></nav>
+<section class="briefing" id="briefing"><h3>The 60-second briefing</h3><ol><li>US inflation came in hot: prices rose 0.4% in October and core prices 0.3%, both above forecasts.</li><li>A Fed rate rise on 9 December now looks certain, and Governor Waller had said core at 0.3% or more would put a half-point rise on the table.</li><li>Bitcoin dipped to about $73,400, its weakest since 21 August, then got back above $74,000. US shares gave back part of Monday&#x27;s rally.</li></ol><dl><dt>What changed</dt><dd>This morning the open question was whether inflation would cool. It did not, so the debate has moved from whether the Fed hikes in December to by how much.</dd><dt>Biggest open question</dt><dd>Will the spot ETF selling stop? IBIT has seen seven straight days of redemptions, and analysts say macro relief alone may not lift bitcoin without that demand.</dd><dt>Next to watch</dt><dd>Whether bitcoin&#x27;s daily close (midnight UTC, midnight UK) holds above $73,000, then US PPI on Fri 13 Nov at 13:30 UK.</dd></dl></section>
+<div class="front">
+<article class="lead" id="lead"><div class="kicker">The lead</div><h2>Hot US inflation puts a bigger Fed rate rise on the table</h2><p class="stand">Prices rose faster than expected in October. Bitcoin touched an 11-week low before steadying, while Wall Street gave back part of Monday&#x27;s rally.</p>
+<div class="byline"><span>By the Cryptonaire desk (Claude) · 10 Nov 2026</span><button class="listen" id="listen" type="button">▶ Listen</button></div>
+<div class="copy"><p>US consumer prices rose 0.4% in October, above the 0.3% economists had forecast, the Bureau of Labor Statistics said on Tuesday. Core prices, which strip out food and energy, rose 0.3% against forecasts of 0.2%, CoinDesk reported.</p><p>Food rose 0.5% and energy 0.7%, while owners&#x27; equivalent rent climbed 0.3%, according to Yahoo Finance. There was again no official annual figure, because last year&#x27;s government shutdown left a gap in the data.</p><p>The report mattered because of what Federal Reserve Governor Christopher Waller said earlier in the day. He backed a quarter-point rise in December even if inflation cooled, and said a half-point move should be considered if core prices rose 0.3% or more, TheStreet reported. Core landed exactly on that line.</p><p>Markets moved quickly. The two-year Treasury yield rose 14 basis points to 4.69% and the 10-year reached 4.93%, CoinDesk reported. CME FedWatch put the chance of a half-point move at roughly 15%, with a quarter-point rise the rest.</p><p>Bitcoin fell to about $73,400 after the release, its weakest level since 21 August, Bitcoin Magazine and KuCoin reported, before recovering above $74,000. Spot bitcoin funds had already lost $201m on Monday, the seventh straight session of withdrawals from BlackRock&#x27;s IBIT.</p><p>The S&amp;P 500 was down about 0.9% and the Nasdaq 1.3% at midday in New York, according to 24/7 Wall St. Producer prices follow on Friday.</p></div></article>
+<aside class="side"><h3>In brief</h3><p class="inbrief">October CPI ran hot (0.4%, core 0.3%), making a December Fed hike look certain and a half-point move possible. Bitcoin touched an 11-week low near $73.4k before steadying above $74k.</p>
+<h3>The week ahead</h3><ul class="diary"><li><span class="when">Tonight 00:00 UK</span>🟠 Bitcoin daily close: above or below $73,000</li><li><span class="when">Wed 11 Nov</span>🟢 US bond market closed (Veterans Day)</li><li><span class="when">Fri 13 Nov 13:30 UK</span>🟠 US PPI (October)</li><li><span class="when">Wed 18 Nov 07:00 UK</span>🟢 UK CPI (October); FOMC minutes 19:00 UK</li></ul><h3>One thing explained</h3><div class="explain"><h4>Why analysts talk about a &quot;daily close&quot;</h4><p>Crypto trades around the clock, so there is no closing bell. By convention the daily candle closes at midnight UTC, which is midnight in the UK in winter.</p><p>Analysts watch where the price sits at that moment because brief dips below a level often come from thin trading or forced liquidations and bounce straight back. A close below the level shows it failed to hold through the whole day. It is a convention, not a rule, and venues can differ by a few dollars.</p></div><h3>What we are investigating</h3><ul class="inv"><li>Who is selling the ETFs? Possible answers are late buyers taking losses or hedge funds unwinding futures trades. Evidence needed: CME futures open interest and the next quarterly 13F filings.</li><li>Will other Fed officials back Waller&#x27;s half-point idea? Watch speeches before the 9 December meeting.</li><li>Will Zcash&#x27;s 20-second block proposal win support? Watch the community forum for a vote date.</li></ul></aside>
+</div>
+<p id="spoken" hidden>Cryptonaire evening brief, Tuesday. Mood: risk-off. US inflation came in hotter than expected. Prices rose zero point four per cent in October, and core prices zero point three. A Fed rate rise in December now looks certain, and markets see about a fifteen per cent chance of a half-point move. Bitcoin dipped to around seventy-three thousand four hundred dollars, its lowest since August, then recovered above seventy-four thousand. US shares fell about one per cent. Next up: US producer prices on Friday at half past one UK time. Information only, not advice.</p>
+<section class="also" id="stories"><h3 class="sec">Also in today's edition, ranked</h3><div class="cols"><article class="story"><div class="meta"><span class="kicker">The Big Picture</span><span class="status o">Outlook changed</span><span class="imp r">🔴 Market mover</span>
+<span class="conf High">High confidence</span><span>10 Nov</span></div>
+<h4>US CPI hotter than expected: +0.4% headline, +0.3% core in October</h4><p>Forecasts were +0.3% and +0.2%. Food +0.5%, energy +0.7%, owners&#x27; equivalent rent +0.3%. This was the Fed&#x27;s last CPI before its 8 to 9 December meeting. Still no official annual rate because of the 2025 shutdown gap.</p><div class="note"><p><b>Our read · swing</b>This morning&#x27;s edition flagged a hot print as the risk. It happened, and it removes the main hope for a quick easing in the rate outlook.</p><p><b>Another explanation</b>Food and energy did much of the work; if PCE later in November is softer, markets could pare back the half-point talk.</p><p><b>What would change this</b>A soft PPI on Friday or a soft PCE on 25 November would weaken the case for a bigger hike.</p></div><div class="src">Sources: <a href="https://www.coindesk.com/markets/2026/11/10/u-s-cpi-rose-stronger-than-expected-0-4-in-october-core-rate-rose-0-3" rel="noopener">CoinDesk</a> · <a href="https://finance.yahoo.com/economy/article/not-great-october-cpi-inflation-data-comes-in-hotter-than-expected-as-food-and-rent-costs-spike-142323507.html" rel="noopener">Yahoo Finance</a> · <a href="https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-73900-cpi" rel="noopener">Bitcoin Magazine</a></div></article><article class="story"><div class="meta"><span class="kicker">The Big Picture</span><span class="status n">New</span><span class="imp r">🔴 Market mover</span>
+<span class="conf High">High confidence</span><span>10 Nov</span></div>
+<h4>Waller&#x27;s half-point trigger was core at 0.3% or more, and core hit 0.3%</h4><p>Fed Governor Waller said before the data that he backs a December hike regardless, and a 50bp move should be considered if core rose 0.3%+. CME FedWatch then showed about 85% for 25bp and 15% for 50bp. The 2-year yield rose 14bp to 4.69%.</p><p class="caveat">Reported 50bp odds vary between 14.7% and 15.3% depending on the snapshot time.</p><div class="note"><p><b>Our read · swing</b>A hike is fully priced, so the new risk for bitcoin is the size. A 50bp move is still the minority view.</p><p><b>Another explanation</b>One governor&#x27;s threshold is not the committee&#x27;s; other Fed speakers may push back this week.</p><p><b>What would change this</b>Other Fed officials backing or rejecting a 50bp move, or the 2-year yield reversing.</p></div><div class="src">Sources: <a href="https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-10-2026" rel="noopener">TheStreet</a> · <a href="https://www.coindesk.com/markets/2026/11/10/u-s-cpi-rose-stronger-than-expected-0-4-in-october-core-rate-rose-0-3" rel="noopener">CoinDesk</a> · <a href="https://www.kucoin.com/news/flash/bitcoin-slides-toward-11-week-low-as-us-cpi-surpasses-expectations" rel="noopener">KuCoin News (CME FedWatch)</a> · <a href="https://finance.yahoo.com/economy/article/not-great-october-cpi-inflation-data-comes-in-hotter-than-expected-as-food-and-rent-costs-spike-142323507.html" rel="noopener">Yahoo Finance</a></div></article><article class="story"><div class="meta"><span class="kicker">Bitcoin Desk</span><span class="status d">Developing</span><span class="imp r">🔴 Market mover</span>
+<span class="conf High">High confidence</span><span>10 Nov</span></div>
+<h4>Bitcoin dips to about $73.4k, weakest since 21 August, then recovers above $74k</h4><p>It briefly undercut Monday&#x27;s overnight low of $73,477. Analysts keep naming $73,000 as the level: a daily close below it could open $70,000, while $80,000 is the level to reclaim.</p><div class="note"><p><b>Our read · intraday</b>The hot print added pressure but did not break the $73k floor, so far a test rather than a breakdown.</p><p><b>Another explanation</b>The dip and bounce may be leverage being cleared around a well-watched level rather than new selling.</p><p><b>What would change this</b>A daily close below $73,000, or fresh ETF inflows.</p></div><div class="src">Sources: <a href="https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-73900-cpi" rel="noopener">Bitcoin Magazine</a> · <a href="https://www.kucoin.com/news/flash/bitcoin-slides-toward-11-week-low-as-us-cpi-surpasses-expectations" rel="noopener">KuCoin News</a> · <a href="https://www.coindesk.com/markets/2026/11/10/u-s-cpi-rose-stronger-than-expected-0-4-in-october-core-rate-rose-0-3" rel="noopener">CoinDesk</a></div></article><article class="story"><div class="meta"><span class="kicker">Markets</span><span class="status n">New</span><span class="imp a">🟠 Worth knowing</span>
+<span class="conf High">High confidence</span><span>10 Nov</span></div>
+<h4>Stocks give back part of Monday&#x27;s rally; 10-year yield nears 5%</h4><p>At midday in New York the S&amp;P 500 was down about 0.9%, the Dow 0.75% and the Nasdaq 1.3%. The 10-year yield reached 4.93%. Higher yields make holding non-yielding assets like bitcoin relatively less attractive.</p><div class="src">Sources: <a href="https://247wallst.com/cards/a-hotter-inflation-reading-pushed-the-10-year-treasury-yield-gspc-market-bell-01m736jv8b304zems20e9w1wgx" rel="noopener">24/7 Wall St.</a> · <a href="https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-10-2026" rel="noopener">TheStreet</a> · <a href="https://www.coindesk.com/markets/2026/11/10/u-s-cpi-rose-stronger-than-expected-0-4-in-october-core-rate-rose-0-3" rel="noopener">CoinDesk</a></div></article><article class="story"><div class="meta"><span class="kicker">ETFs and Institutions</span><span class="status q">No material change</span><span class="imp a">🟠 Worth knowing</span>
+<span class="conf High">High confidence</span><span>9 Nov</span></div>
+<h4>IBIT&#x27;s seventh straight day of outflows; Tuesday&#x27;s figures not yet in</h4><p>Monday&#x27;s net outflow was $201m across US spot bitcoin ETFs, $213m of it from IBIT. Tuesday&#x27;s figures normally appear overnight.</p><div class="src">Sources: <a href="https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-73900-cpi" rel="noopener">Bitcoin Magazine</a> · <a href="https://farside.co.uk/btc/" rel="noopener">Farside Investors</a></div></article><article class="story"><div class="meta"><span class="kicker">Zcash Desk</span><span class="status q">No material change</span><span class="imp g">🟢 Background</span>
+<span class="conf Medium">Medium confidence</span><span>9 Nov</span></div>
+<h4>Zcash: no fresh news since Monday&#x27;s fall and the 20-second block draft</h4><p>ZEC fell 7.9% to about $1,165 on Monday. The NU7.1 proposal to cut block time from 25 to 20 seconds is still a draft awaiting a community vote, with no date.</p><div class="src">Sources: <a href="https://cryptoticker.io/en/zcash-falls-8-percent-nu7-1-20-second-block-time-proposal/" rel="noopener">CryptoTicker</a></div></article></div></section>
+<footer><p>Written and ranked by Claude from public sources. Confidence: <b>High</b> means a primary source or 2+ independent outlets agree, <b>Medium</b> means one reputable outlet, <b>Low</b> means unconfirmed. Prices in stories are as reported; the market strip is live from Binance.</p>
+<p><b>Information only, not financial advice or a buy/sell signal.</b></p>
+<p>Back issues:</p><div class="arch"><a href="../b/2026-11-10-1945.html">10 Nov 19:45</a><a href="../b/2026-11-10-0631.html">10 Nov 06:31</a><a href="../b/2026-11-09-1800.html">9 Nov 18:00</a></div>
+<p><a href="https://astralis-arch.github.io/cryptonaire-calendar/news/feed.xml">RSS feed</a> · <a href="https://astralis-arch.github.io/cryptonaire-calendar/news/brief.txt">Spoken text</a></p></footer>
+</main><script>
+const fmt=(n,d)=>n.toLocaleString('en-US',{minimumFractionDigits:d,maximumFractionDigits:d});
+async function prices(){
+  try{
+    const r=await fetch('https://data-api.binance.vision/api/v3/ticker/24hr?symbols=%5B%22BTCUSDT%22,%22ZECUSDT%22%5D',{cache:'no-store'});
+    for(const t of await r.json()){
+      const el=document.getElementById(t.symbol);if(!el)continue;
+      const p=+t.lastPrice,c=+t.priceChangePercent;
+      el.querySelector('span').textContent='$'+fmt(p,p>=10000?0:2);
+      const i=el.querySelector('i');i.textContent=(c>=0?'▲ +':'▼ ')+c.toFixed(1)+'%';i.className=c>=0?'up':'down';
+    }
+  }catch(e){document.querySelectorAll('.markets i').forEach(i=>{i.textContent='offline';i.previousElementSibling.textContent='—'})}
+}
+prices();setInterval(prices,60000);
+const m=document.querySelector('main');let z=1;try{z=+localStorage.getItem('postZoom')||1}catch(e){}
+const zoom=d=>{z=Math.min(1.5,Math.max(.85,+(z+d).toFixed(2)));m.style.zoom=z;try{localStorage.setItem('postZoom',z)}catch(e){}};zoom(0);
+document.getElementById('zin')?.addEventListener('click',()=>zoom(.1));document.getElementById('zout')?.addEventListener('click',()=>zoom(-.1));
+const btn=document.getElementById('listen');
+btn&&btn.addEventListener('click',()=>{
+  const s=window.speechSynthesis;if(!s)return;
+  if(s.speaking){s.cancel();btn.textContent='▶ Listen';return}
+  const u=new SpeechSynthesisUtterance(document.getElementById('spoken').textContent);
+  const v=s.getVoices().find(v=>v.lang==='en-GB');if(v)u.voice=v;u.lang='en-GB';
+  u.onend=()=>btn.textContent='▶ Listen';btn.textContent='■ Stop';s.speak(u);
+});
+</script></body></html>
