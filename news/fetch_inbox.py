@@ -2,7 +2,7 @@
 """Cryptonaire Post news inbox v0. Python stdlib only.
 
 Reads news/inbox/feeds.json, fetches every RSS/Atom feed and keeps a rolling 7-day inbox:
-  news/inbox/inbox.json   new items first: title, link, source, desk, kind, published, first_seen (UTC)
+  news/inbox/inbox.json   newest first (by publish time, or first seen if later or missing): title, link, source, desk, kind, published, first_seen (UTC)
   news/inbox/status.json  per feed: last success, last error, items seen (so gaps stay visible)
   news/inbox/index.html   "The Wire": a plain page of the inbox, newest first
 Only headlines and links are stored, never article text. Run by .github/workflows/inbox.yml every 30 minutes.
@@ -66,7 +66,7 @@ def load(name, default):
 
 def wire(items, status):
     rows = "".join(
-        f'<li><span class="m">{e(i["first_seen"][5:16].replace("T", " "))} UTC · {e(i["source"])}{" · " + e(i["desk"]) if i.get("desk") else ""}</span>'
+        f'<li><span class="m">{e(min(i.get("published") or i["first_seen"], i["first_seen"])[5:16].replace("T", " "))} UTC · {e(i["source"])}{" · " + e(i["desk"]) if i.get("desk") else ""}</span>'
         f'<a href="{e(i["link"])}" rel="noopener">{e(i["title"])}</a></li>' for i in items[:400])
     bad = [s for s in status.values() if s.get("error")]
     warn = f'<p class="w">Feeds failing right now: {e(", ".join(s["name"] for s in bad))}</p>' if bad else ""
@@ -79,7 +79,7 @@ body{{margin:0;background:var(--p);color:var(--i);font:16px/1.4 Georgia,serif}}m
 h1{{font:700 28px Georgia,serif;margin:0;border-bottom:3px double var(--i);padding-bottom:6px}}p{{font:13px system-ui,sans-serif;color:var(--m)}}.w{{color:var(--w)}}
 ul{{list-style:none;padding:0;margin:0}}li{{border-bottom:1px solid var(--h);padding:8px 0}}a{{color:inherit;text-decoration:none}}
 .m{{display:block;font:11px ui-monospace,Menlo,monospace;color:var(--m)}}</style></head><body><main>
-<h1>The Wire</h1><p>Raw inbox behind <a href="../">The Cryptonaire Post</a>: every headline from {len(status)} feeds in the last {DAYS} days, unchecked and unranked. Updated {e(iso(now))}.</p>{warn}
+<h1>The Wire</h1><p>Raw inbox behind <a href="../">The Cryptonaire Post</a>: every headline from {len(status)} feeds (official feeds filtered to crypto, rates and UK topics) in the last {DAYS} days, unchecked and unranked. Updated {e(iso(now))}.</p>{warn}
 <ul>{rows}</ul></main></body></html>
 '''
 
@@ -117,7 +117,7 @@ def main():
         print(f"ok    {f['name']}: {len(got)} in feed, {kept} new")
     for url in [u for u in status if u not in {f["url"] for f in feeds}]: del status[url]
     cutoff = iso(now - dt.timedelta(days=DAYS))
-    keep = sorted((i for i in items.values() if i["first_seen"] >= cutoff), key=lambda i: (i["first_seen"], i.get("published") or ""), reverse=True)
+    keep = sorted((i for i in items.values() if i["first_seen"] >= cutoff), key=lambda i: min(i.get("published") or i["first_seen"], i["first_seen"]), reverse=True)
     (DIR / "inbox.json").write_text(json.dumps(keep, ensure_ascii=False, indent=0) + "\n", encoding="utf-8")
     (DIR / "status.json").write_text(json.dumps(status, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     (DIR / "index.html").write_text(wire(keep, status), encoding="utf-8")
