@@ -1,0 +1,33 @@
+name: News inbox
+# Every 30 minutes: read the feeds in news/inbox/feeds.json and commit any new headlines.
+on:
+  schedule:
+    - cron: "7,37 * * * *"
+  workflow_dispatch:
+  push:
+    paths: ["news/fetch_inbox.py", "news/inbox/feeds.json", ".github/workflows/inbox.yml"]
+permissions:
+  contents: write
+concurrency:
+  group: inbox-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch feeds
+        run: python3 -W error news/fetch_inbox.py
+      - name: Commit new headlines
+        run: |
+          git config user.name "cryptonaire-inbox"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add news/inbox
+          git diff --cached --quiet && { echo "No changes"; exit 0; }
+          git commit -m "Inbox: $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3; do git pull --rebase -q origin "${GITHUB_REF_NAME}" && git push -q origin "HEAD:${GITHUB_REF_NAME}" && exit 0; sleep 5; done
+          exit 1

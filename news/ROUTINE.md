@@ -4,6 +4,8 @@ A scheduled Claude session runs every morning (UK) and publishes one short, rank
 
 ## 1. Gather (last 24 hours, 72 hours on Mondays)
 
+**Start with the inbox.** `news/inbox/inbox.json` holds every headline from the feeds in `news/inbox/feeds.json` (crypto outlets, the Fed, BLS, SEC, BoE, FCA, HMRC, Bitcoin and Zcash release pages, the Zcash forum), refreshed every 30 minutes, newest first, each with `first_seen` (UTC). Read the items first seen since the previous edition (the latest file in `news/briefs/`). They are leads, not confirmation: open the original before using a fact. Items marked `backfill` came from a feed's first read and may be older news. Check `news/inbox/status.json`; if a feed is failing, say so in `investigating` when it leaves a gap. Then search the web to fill gaps and confirm.
+
 Search the web for, in this order of priority:
 
 1. **BTC**: price moves and why, US spot ETF flows, liquidations and leverage, large on-chain or exchange events, miner or treasury-company news.
@@ -64,4 +66,4 @@ Delete brief files in `news/briefs/` older than 30 days.
 
 ## 4. Build, check, publish
 
-Run `python3 -W error news/build_news.py`. It refuses a brief with missing fields, bad values or non-https sources: fix the JSON and rerun. Then commit to `main` and push. GitHub Pages serves the result at https://astralis-arch.github.io/cryptonaire-calendar/news/ within a few minutes.
+Run `python3 -W error news/build_news.py`. It refuses a brief with missing fields, bad values or non-https sources: fix the JSON and rerun. Then commit to `main`, run `git pull --rebase origin main` (the inbox job commits every 30 minutes), and push. GitHub Pages serves the result at https://astralis-arch.github.io/cryptonaire-calendar/news/ within a few minutes.
