@@ -1,0 +1,87 @@
+{
+ "https://www.coindesk.com/arc/outboundfeeds/rss/": {
+  "name": "CoinDesk",
+  "last_ok": "2026-11-10T20:00:14Z",
+  "items_in_feed": 25
+ },
+ "https://www.theblock.co/rss.xml": {
+  "name": "The Block",
+  "last_ok": "2026-11-10T20:00:14Z",
+  "items_in_feed": 20
+ },
+ "https://decrypt.co/feed": {
+  "name": "Decrypt",
+  "last_ok": "2026-11-10T20:00:14Z",
+  "items_in_feed": 38
+ },
+ "https://cointelegraph.com/rss": {
+  "name": "Cointelegraph",
+  "last_ok": "2026-11-10T20:00:14Z",
+  "items_in_feed": 30
+ },
+ "https://bitcoinmagazine.com/.rss/full/": {
+  "name": "Bitcoin Magazine",
+  "last_ok": "2026-11-10T20:00:14Z",
+  "items_in_feed": 10
+ },
+ "https://www.federalreserve.gov/feeds/press_all.xml": {
+  "name": "Federal Reserve (press)",
+  "last_ok": "2026-11-10T20:00:14Z",
+  "items_in_feed": 20
+ },
+ "https://www.federalreserve.gov/feeds/speeches.xml": {
+  "name": "Federal Reserve (speeches)",
+  "last_ok": "2026-11-10T20:00:14Z",
+  "items_in_feed": 15
+ },
+ "https://www.sec.gov/news/pressreleases.rss": {
+  "name": "SEC (press)",
+  "last_ok": "2026-11-10T20:00:14Z",
+  "items_in_feed": 25
+ },
+ "https://www.bankofengland.co.uk/rss/news": {
+  "name": "Bank of England",
+  "last_ok": "2026-11-10T20:00:14Z",
+  "items_in_feed": 50
+ },
+ "https://www.fca.org.uk/news/rss.xml": {
+  "name": "FCA",
+  "last_ok": "2026-11-10T20:00:14Z",
+  "items_in_feed": 20
+ },
+ "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=hm-revenue-customs": {
+  "name": "HMRC (GOV.UK)",
+  "last_ok": "2026-11-10T20:00:14Z",
+  "items_in_feed": 20
+ },
+ "https://github.com/bitcoin/bitcoin/releases.atom": {
+  "name": "Bitcoin Core releases",
+  "last_ok": "2026-11-10T20:00:14Z",
+  "items_in_feed": 10
+ },
+ "https://bitcoinops.org/feed.xml": {
+  "name": "Bitcoin Optech",
+  "last_ok": "2026-11-10T20:00:14Z",
+  "items_in_feed": 10
+ },
+ "https://github.com/zcash/zcash/releases.atom": {
+  "name": "zcashd releases",
+  "last_ok": "2026-11-10T20:00:14Z",
+  "items_in_feed": 10
+ },
+ "https://github.com/ZcashFoundation/zebra/releases.atom": {
+  "name": "Zebra releases",
+  "last_ok": "2026-11-10T20:00:14Z",
+  "items_in_feed": 10
+ },
+ "https://zfnd.org/feed/": {
+  "name": "Zcash Foundation",
+  "last_ok": "2026-11-10T20:00:14Z",
+  "items_in_feed": 10
+ },
+ "https://forum.zcashcommunity.com/latest.rss": {
+  "name": "Zcash Community Forum",
+  "last_ok": "2026-11-10T20:00:14Z",
+  "items_in_feed": 30
+ }
+}
