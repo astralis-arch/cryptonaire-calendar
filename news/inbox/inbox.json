@@ -44,6 +44,16 @@
 "backfill": true
 },
 {
+"id": "f17ab1ed4afc2839",
+"title": "Texas Rep. Files Bill Letting Cities Invest $10 Million in Bitcoin",
+"link": "https://bitcoinmagazine.com/news/texas-bill-invest-10-million-bitcoin",
+"published": "2026-11-10T20:00:00Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
 "id": "22405558269b28f2",
 "title": "Elon Musk Calls Claude Opus 5.5 a 'Masterpiece', Admits Grok 4.8 Won't Match It",
 "link": "https://decrypt.co/382956/elon-musk-calls-claude-opus-5-5-masterpiece-grok-wont-match",
@@ -1780,5 +1790,945 @@
 "kind": "official",
 "first_seen": "2026-11-05T12:00:00Z",
 "backfill": true
+},
+{
+"id": "8d5a24149ad723ae",
+"title": "Bitcoin Optech Newsletter #429 Recap Podcast",
+"link": "https://bitcoinops.org/en/podcast/2026/11/03/",
+"published": "2026-11-03T00:00:00Z",
+"source": "Bitcoin Optech",
+"desk": "Protocol",
+"kind": "protocol",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "c7fc98affff21c9e",
+"title": "Zebra Ándale: The Fastest Zebra Yet",
+"link": "https://zfnd.org/zebra-andale-the-fastest-zebra-yet/",
+"published": "2026-10-31T03:40:49Z",
+"source": "Zcash Foundation",
+"desk": "ZEC",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "99057e782bf9dd51",
+"title": "Zebra 7.1.0-alpha.0",
+"link": "https://github.com/ZcashFoundation/zebra/releases/tag/v7.1.0-alpha.0",
+"published": "2026-10-30T23:25:05Z",
+"source": "Zebra releases",
+"desk": "ZEC",
+"kind": "protocol",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "f79a04b985522737",
+"title": "Bitcoin Optech Newsletter #429",
+"link": "https://bitcoinops.org/en/newsletters/2026/10/30/",
+"published": "2026-10-30T00:00:00Z",
+"source": "Bitcoin Optech",
+"desk": "Protocol",
+"kind": "protocol",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "d5f01f9dd738c00b",
+"title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+"link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
+"published": "2026-10-29T20:30:00Z",
+"source": "Federal Reserve (press)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "a1cdf8a2697a773d",
+"title": "Bank of England sets out approach to tokenised collateral in central clearing",
+"link": "https://www.bankofengland.co.uk/news/2026/october/bank-of-england-sets-out-approach-to-tokenised-collateral-in-central-clearing",
+"published": "2026-10-29T10:00:00Z",
+"source": "Bank of England",
+"desk": "UK",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "847a7abc2726921c",
+"title": "Federal Reserve issues FOMC statement",
+"link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+"published": "2026-10-28T18:00:00Z",
+"source": "Federal Reserve (press)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "48570679af74ee2a",
+"title": "Bitcoin Core 29.5",
+"link": "https://github.com/bitcoin/bitcoin/releases/tag/v29.5",
+"published": "2026-10-28T14:27:09Z",
+"source": "Bitcoin Core releases",
+"desk": "Protocol",
+"kind": "protocol",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "903eb81c1de0e550",
+"title": "Bitcoin Core 30.4",
+"link": "https://github.com/bitcoin/bitcoin/releases/tag/v30.4",
+"published": "2026-10-28T14:26:15Z",
+"source": "Bitcoin Core releases",
+"desk": "Protocol",
+"kind": "protocol",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "efa8155055567f4f",
+"title": "Bitcoin Core 31.2",
+"link": "https://github.com/bitcoin/bitcoin/releases/tag/v31.2",
+"published": "2026-10-28T14:24:55Z",
+"source": "Bitcoin Core releases",
+"desk": "Protocol",
+"kind": "protocol",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "9c37685d9fd6231a",
+"title": "Bitcoin Core 32.1",
+"link": "https://github.com/bitcoin/bitcoin/releases/tag/v32.1",
+"published": "2026-10-28T14:23:53Z",
+"source": "Bitcoin Core releases",
+"desk": "Protocol",
+"kind": "protocol",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "366b13df0e7197dc",
+"title": "Remit for the Monetary Policy Committee - October 2026",
+"link": "https://www.bankofengland.co.uk/letter/2026/mpc-remit-2026",
+"published": "2026-10-28T14:16:49Z",
+"source": "Bank of England",
+"desk": "UK",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "3b86774f165ebc56",
+"title": "Bitcoin Optech Newsletter #428 Recap Podcast",
+"link": "https://bitcoinops.org/en/podcast/2026/10/27/",
+"published": "2026-10-27T00:00:00Z",
+"source": "Bitcoin Optech",
+"desk": "Protocol",
+"kind": "protocol",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "4a4791dcbdbcf371",
+"title": "Bitcoin Optech Newsletter #428",
+"link": "https://bitcoinops.org/en/newsletters/2026/10/23/",
+"published": "2026-10-23T00:00:00Z",
+"source": "Bitcoin Optech",
+"desk": "Protocol",
+"kind": "protocol",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "9bc5452fd88d8b78",
+"title": "Zebra 7.0.0 Release",
+"link": "https://zfnd.org/zebra-7-0-0-release/",
+"published": "2026-10-22T16:21:28Z",
+"source": "Zcash Foundation",
+"desk": "ZEC",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "e758549a8bbca258",
+"title": "zebra-utils-v10.0.4",
+"link": "https://github.com/ZcashFoundation/zebra/releases/tag/zebra-utils-v10.0.4",
+"published": "2026-10-22T02:08:36Z",
+"source": "Zebra releases",
+"desk": "ZEC",
+"kind": "protocol",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "4243862dbba7fd27",
+"title": "zebra-test-v5.0.0",
+"link": "https://github.com/ZcashFoundation/zebra/releases/tag/zebra-test-v5.0.0",
+"published": "2026-10-22T02:08:34Z",
+"source": "Zebra releases",
+"desk": "ZEC",
+"kind": "protocol",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "d81f9ff9efb7cc64",
+"title": "zebra-state-v16.0.0",
+"link": "https://github.com/ZcashFoundation/zebra/releases/tag/zebra-state-v16.0.0",
+"published": "2026-10-22T02:08:32Z",
+"source": "Zebra releases",
+"desk": "ZEC",
+"kind": "protocol",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "91e2e1970ec1c735",
+"title": "zebra-script-v14.0.0",
+"link": "https://github.com/ZcashFoundation/zebra/releases/tag/zebra-script-v14.0.0",
+"published": "2026-10-22T02:08:30Z",
+"source": "Zebra releases",
+"desk": "ZEC",
+"kind": "protocol",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "664dc018b57bbb5c",
+"title": "zebra-rpc-v19.0.0",
+"link": "https://github.com/ZcashFoundation/zebra/releases/tag/zebra-rpc-v19.0.0",
+"published": "2026-10-22T02:08:29Z",
+"source": "Zebra releases",
+"desk": "ZEC",
+"kind": "protocol",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "9ecf4e9a514afc31",
+"title": "zebra-node-services-v13.0.0",
+"link": "https://github.com/ZcashFoundation/zebra/releases/tag/zebra-node-services-v13.0.0",
+"published": "2026-10-22T02:08:27Z",
+"source": "Zebra releases",
+"desk": "ZEC",
+"kind": "protocol",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "88233697ba58d5a0",
+"title": "zebra-network-v15.0.0",
+"link": "https://github.com/ZcashFoundation/zebra/releases/tag/zebra-network-v15.0.0",
+"published": "2026-10-22T02:08:26Z",
+"source": "Zebra releases",
+"desk": "ZEC",
+"kind": "protocol",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "b3803159cbcb22d5",
+"title": "zebra-consensus-v18.0.0",
+"link": "https://github.com/ZcashFoundation/zebra/releases/tag/zebra-consensus-v18.0.0",
+"published": "2026-10-22T02:08:24Z",
+"source": "Zebra releases",
+"desk": "ZEC",
+"kind": "protocol",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "2126c651d048d4a3",
+"title": "zebra-chain-v15.0.0",
+"link": "https://github.com/ZcashFoundation/zebra/releases/tag/zebra-chain-v15.0.0",
+"published": "2026-10-22T02:08:23Z",
+"source": "Zebra releases",
+"desk": "ZEC",
+"kind": "protocol",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "14dd3431a02bdb2d",
+"title": "v32.0: Bitcoin Core 32.0 final",
+"link": "https://github.com/bitcoin/bitcoin/releases/tag/v32.0",
+"published": "2026-10-21T13:27:27Z",
+"source": "Bitcoin Core releases",
+"desk": "Protocol",
+"kind": "protocol",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "d259578751a6318e",
+"title": "Zcash Foundation Names David Campbell Executive Director",
+"link": "https://zfnd.org/zcash-foundation-names-david-campbell-executive-director/",
+"published": "2026-10-20T15:49:49Z",
+"source": "Zcash Foundation",
+"desk": "ZEC",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "65fce75f1341c271",
+"title": "Bitcoin Optech Newsletter #427 Recap Podcast",
+"link": "https://bitcoinops.org/en/podcast/2026/10/20/",
+"published": "2026-10-20T00:00:00Z",
+"source": "Bitcoin Optech",
+"desk": "Protocol",
+"kind": "protocol",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "70363c9b200b07ab",
+"title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+"link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
+"published": "2026-10-16T15:00:00Z",
+"source": "Federal Reserve (press)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "22323d81fb486b68",
+"title": "Bitcoin Optech Newsletter #427",
+"link": "https://bitcoinops.org/en/newsletters/2026/10/16/",
+"published": "2026-10-16T00:00:00Z",
+"source": "Bitcoin Optech",
+"desk": "Protocol",
+"kind": "protocol",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "acdd4fef03c465af",
+"title": "Bowman, Supervisory Modernization After Silicon Valley Bank",
+"link": "https://www.federalreserve.gov/newsevents/speech/bowman20261014a.htm",
+"published": "2026-10-15T02:55:00Z",
+"source": "Federal Reserve (speeches)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "d85e5d3609348b27",
+"title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+"link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+"published": "2026-10-13T18:00:00Z",
+"source": "Federal Reserve (press)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "a4742ba579127e5d",
+"title": "Bitcoin Optech Newsletter #426 Recap Podcast",
+"link": "https://bitcoinops.org/en/podcast/2026/10/13/",
+"published": "2026-10-13T00:00:00Z",
+"source": "Bitcoin Optech",
+"desk": "Protocol",
+"kind": "protocol",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "a10965d24aa653c4",
+"title": "v32.0rc4: Bitcoin Core 32.0 release candidate 4",
+"link": "https://github.com/bitcoin/bitcoin/releases/tag/v32.0rc4",
+"published": "2026-10-12T04:05:19Z",
+"source": "Bitcoin Core releases",
+"desk": "Protocol",
+"kind": "protocol",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "15b4b4b5fa4c87a3",
+"title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+"link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
+"published": "2026-10-09T14:00:00Z",
+"source": "Federal Reserve (press)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "7cb7e2142c640f08",
+"title": "Bitcoin Optech Newsletter #426",
+"link": "https://bitcoinops.org/en/newsletters/2026/10/09/",
+"published": "2026-10-09T00:00:00Z",
+"source": "Bitcoin Optech",
+"desk": "Protocol",
+"kind": "protocol",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "e95750d1b74189d7",
+"title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
+"link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
+"published": "2026-10-08T20:30:00Z",
+"source": "Federal Reserve (press)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "f5d6fc297d1acc5a",
+"title": "Waller, The Signaling Value of the Summary of Economic Projections",
+"link": "https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm",
+"published": "2026-10-08T08:30:00Z",
+"source": "Federal Reserve (speeches)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "eeb8f6b78f019079",
+"title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+"link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
+"published": "2026-10-07T18:00:00Z",
+"source": "Federal Reserve (press)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "8744c31ab7fd8c59",
+"title": "Zcash Foundation Welcomes a New Technical Program Manager",
+"link": "https://zfnd.org/zcash-foundation-welcomes-a-new-technical-program-manager/",
+"published": "2026-10-07T13:10:58Z",
+"source": "Zcash Foundation",
+"desk": "ZEC",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "22c25dc7b07d5e45",
+"title": "Bowman, Modernizing the Regulatory and Supervisory Landscape",
+"link": "https://www.federalreserve.gov/newsevents/speech/bowman20261006a.htm",
+"published": "2026-10-06T14:45:00Z",
+"source": "Federal Reserve (speeches)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "46e6481f8c656bc6",
+"title": "Bitcoin Optech Newsletter #425 Recap Podcast",
+"link": "https://bitcoinops.org/en/podcast/2026/10/06/",
+"published": "2026-10-06T00:00:00Z",
+"source": "Bitcoin Optech",
+"desk": "Protocol",
+"kind": "protocol",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "a284ee3bb75500d9",
+"title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
+"link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
+"published": "2026-10-05T20:30:00Z",
+"source": "Federal Reserve (press)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "cadde35138dce92c",
+"title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
+"link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
+"published": "2026-10-02T20:45:00Z",
+"source": "Federal Reserve (press)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "fe551cc7e923e4e8",
+"title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
+"link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
+"published": "2026-10-02T20:00:00Z",
+"source": "Federal Reserve (press)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "535d95d3a09acd7d",
+"title": "Zebra 7.0.0-rc.0: NU7 Arrives on Testnet",
+"link": "https://zfnd.org/zebra-7-0-0-rc-0-nu7-arrives-on-testnet/",
+"published": "2026-10-02T17:10:27Z",
+"source": "Zcash Foundation",
+"desk": "ZEC",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "59322cafa4d9f76d",
+"title": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
+"link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
+"published": "2026-10-02T15:00:00Z",
+"source": "Federal Reserve (press)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "bc6d5ff2ab1b9fe9",
+"title": "Bowman, Modernizing Financial Regulation: Initial Observations from eSLR",
+"link": "https://www.federalreserve.gov/newsevents/speech/bowman20261001a.htm",
+"published": "2026-10-01T19:00:00Z",
+"source": "Federal Reserve (speeches)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "0f8a88c617254ec8",
+"title": "Jefferson, The U.S. Economy and Monetary Policy",
+"link": "https://www.federalreserve.gov/newsevents/speech/jefferson20261001a.htm",
+"published": "2026-10-01T17:30:00Z",
+"source": "Federal Reserve (speeches)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "23df865d27f02631",
+"title": "v32.0rc3: Bitcoin Core 32.0 release candidate 3",
+"link": "https://github.com/bitcoin/bitcoin/releases/tag/v32.0rc3",
+"published": "2026-10-01T16:41:48Z",
+"source": "Bitcoin Core releases",
+"desk": "Protocol",
+"kind": "protocol",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "5803ba4c511b2dcd",
+"title": "SEC Proposal Would Address How Investment Advisers and Funds Can Custody Crypto Assets Under the Federal Securities Laws",
+"link": "https://www.sec.gov/newsroom/press-releases/2026-100-sec-proposal-would-address-how-investment-advisers-funds-can-custody-crypto-assets-under-federal",
+"published": "2026-10-01T16:16:07Z",
+"source": "SEC (press)",
+"desk": "Policy",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "e1dfff34bb8cf81e",
+"title": "Waller, The Data Version of Godzilla versus Kong: FRED Takes on AI",
+"link": "https://www.federalreserve.gov/newsevents/speech/waller20261001a.htm",
+"published": "2026-10-01T14:00:00Z",
+"source": "Federal Reserve (speeches)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "5b13dd92b3e8254d",
+"title": "Cook, The Dual Mandate in Rural America",
+"link": "https://www.federalreserve.gov/newsevents/speech/cook20260930a.htm",
+"published": "2026-09-30T19:25:00Z",
+"source": "Federal Reserve (speeches)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "975ec4f2519a9848",
+"title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
+"link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
+"published": "2026-09-30T13:00:00Z",
+"source": "Federal Reserve (press)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "22ded81bd152aa88",
+"title": "Financial Policy Committee Record – September 2026",
+"link": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/september-2026",
+"published": "2026-09-30T09:30:00Z",
+"source": "Bank of England",
+"desk": "UK",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "1478a16716375972",
+"title": "Agencies publish resolution plan feedback letters for 15 banking organizations",
+"link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
+"published": "2026-09-29T20:00:00Z",
+"source": "Federal Reserve (press)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "aa1ac57f54e7cd23",
+"title": "Waller, Payments in the Age of AI Agents",
+"link": "https://www.federalreserve.gov/newsevents/speech/waller20260928a.htm",
+"published": "2026-09-29T19:00:00Z",
+"source": "Federal Reserve (speeches)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "96198714a74b17c2",
+"title": "Barr, Economic Conditions and Monetary Policy",
+"link": "https://www.federalreserve.gov/newsevents/speech/barr20260929a.htm",
+"published": "2026-09-29T16:40:00Z",
+"source": "Federal Reserve (speeches)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "15941f2780d8bfeb",
+"title": "Bowman, Opening Remarks",
+"link": "https://www.federalreserve.gov/newsevents/speech/bowman20260929a.htm",
+"published": "2026-09-29T15:00:00Z",
+"source": "Federal Reserve (speeches)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "279aa2af0206797a",
+"title": "Cook, An Update on AI and the Economy",
+"link": "https://www.federalreserve.gov/newsevents/speech/cook20260928a.htm",
+"published": "2026-09-28T17:25:00Z",
+"source": "Federal Reserve (speeches)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "5a0ccfacc36b1ea6",
+"title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
+"link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
+"published": "2026-09-25T20:30:00Z",
+"source": "Federal Reserve (press)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "79b985ea75d1015f",
+"title": "Zebra 6.4.2 Release",
+"link": "https://zfnd.org/zebra-6-4-2-release/",
+"published": "2026-09-25T20:05:44Z",
+"source": "Zcash Foundation",
+"desk": "ZEC",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "d2c44973e88d9cd9",
+"title": "Minutes of the Market Participants Group meeting – 24 September 2026",
+"link": "https://www.bankofengland.co.uk/minutes/2026/september/market-participants-group-meeting-25-september-2026",
+"published": "2026-09-25T06:30:00Z",
+"source": "Bank of England",
+"desk": "UK",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "a09909ffdb688fe7",
+"title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
+"link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
+"published": "2026-09-24T18:30:00Z",
+"source": "Federal Reserve (press)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "4369d45eef224b5a",
+"title": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
+"link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
+"published": "2026-09-24T15:00:00Z",
+"source": "Federal Reserve (press)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "069d1fa0c8beb700",
+"title": "Zebra 6.4.0 and 6.4.1: Security Fixes, Light Client Serving, and NU7 Preparation",
+"link": "https://zfnd.org/zebra-6-4-0-and-6-4-1-release/",
+"published": "2026-09-24T10:51:26Z",
+"source": "Zcash Foundation",
+"desk": "ZEC",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "d8e4ec431c8592eb",
+"title": "Barr, A Long-Term View on the Costs of Shelter",
+"link": "https://www.federalreserve.gov/newsevents/speech/barr20260923a.htm",
+"published": "2026-09-23T14:05:00Z",
+"source": "Federal Reserve (speeches)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "bb3326ddb25c563c",
+"title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
+"link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
+"published": "2026-09-22T20:30:00Z",
+"source": "Federal Reserve (press)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "2a7a1859c4f84301",
+"title": "Jefferson, Discount Window Modernization and Treasury Market Functioning",
+"link": "https://www.federalreserve.gov/newsevents/speech/jefferson20260922a.htm",
+"published": "2026-09-22T14:20:00Z",
+"source": "Federal Reserve (speeches)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "2d9f2c4328e910b3",
+"title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
+"link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
+"published": "2026-09-18T15:00:00Z",
+"source": "Federal Reserve (press)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "d1c5e39f15ffbacc",
+"title": "v32.0rc2: Bitcoin Core 32.0 release candidate 2",
+"link": "https://github.com/bitcoin/bitcoin/releases/tag/v32.0rc2",
+"published": "2026-09-18T14:30:08Z",
+"source": "Bitcoin Core releases",
+"desk": "Protocol",
+"kind": "protocol",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "a4923049fc3d5e36",
+"title": "Bowman, Initial Findings from Independent Review of Silicon Valley Bank",
+"link": "https://www.federalreserve.gov/newsevents/speech/bowman20260918b.htm",
+"published": "2026-09-18T13:30:00Z",
+"source": "Federal Reserve (speeches)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "fa3f95fda199b6f3",
+"title": "Transcript of the Governor's pooled broadcast interview given on 17 September 2026",
+"link": "https://www.bankofengland.co.uk/news/2026/september/the-governor-interview-transcript-17-september-2026",
+"published": "2026-09-17T13:30:00Z",
+"source": "Bank of England",
+"desk": "UK",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "dd33b1f46c866cdb",
+"title": "Monetary Policy Committee dates for 2027",
+"link": "https://www.bankofengland.co.uk/news/2026/september/mpc-dates-for-2027",
+"published": "2026-09-17T13:30:00Z",
+"source": "Bank of England",
+"desk": "UK",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "116e57d3b40999df",
+"title": "SEC Issues “Innovation Exemption” to Facilitate the Trading of Tokenized NMS Stock and Request for Comment",
+"link": "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment",
+"published": "2026-09-17T12:55:00Z",
+"source": "SEC (press)",
+"desk": "Policy",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "f48fb68d4e7cd5e2",
+"title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2026",
+"link": "https://www.bankofengland.co.uk/letter/2026/cpi-inflation-september-2026",
+"published": "2026-09-17T11:00:00Z",
+"source": "Bank of England",
+"desk": "UK",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "f1db7052911ee6d8",
+"title": "Asset Purchase Facility: Gilt Sales – Market Notice 17 September 2026",
+"link": "https://www.bankofengland.co.uk/markets/market-notices/2026/asset-purchase-facility-gilt-sales-market-notice-17-september-2026",
+"published": "2026-09-17T11:00:00Z",
+"source": "Bank of England",
+"desk": "UK",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "5d6d3fae5b3e1171",
+"title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
+"link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
+"published": "2026-09-17T11:00:00Z",
+"source": "Bank of England",
+"desk": "UK",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "8a7cc8c84b997c74",
+"title": "ZCAP Polling Results: NU7 Scope",
+"link": "https://zfnd.org/zcap-polling-results-nu7-scope/",
+"published": "2026-09-14T20:07:39Z",
+"source": "Zcash Foundation",
+"desk": "ZEC",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "6cecc7b7d756f5fc",
+"title": "v32.0rc1: Bitcoin Core 32.0 release candidate 1",
+"link": "https://github.com/bitcoin/bitcoin/releases/tag/v32.0rc1",
+"published": "2026-09-14T12:58:46Z",
+"source": "Bitcoin Core releases",
+"desk": "Protocol",
+"kind": "protocol",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "cc8423f516d39483",
+"title": "The Zcon7 Program: Building What Comes Next",
+"link": "https://zfnd.org/the-zcon7-program-building-what-comes-next/",
+"published": "2026-09-10T16:47:21Z",
+"source": "Zcash Foundation",
+"desk": "ZEC",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "a022a558a7420a20",
+"title": "ZCAP Poll Now Open: NU7",
+"link": "https://zfnd.org/zcap-poll-now-open-nu7/",
+"published": "2026-08-27T16:34:57Z",
+"source": "Zcash Foundation",
+"desk": "ZEC",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "fbd007521ac794a2",
+"title": "240 crypto millionaires revealed in new government data",
+"link": "https://www.gov.uk/government/news/240-crypto-millionaires-revealed-in-new-government-data",
+"published": "2026-08-27T13:13:26Z",
+"source": "HMRC (GOV.UK)",
+"desk": "UK",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "c23ae7025add8dfc",
+"title": "Bank Rate maintained at 3.75% - July 2026 Monetary Policy Summary and Minutes",
+"link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/july-2026",
+"published": "2026-07-30T11:00:00Z",
+"source": "Bank of England",
+"desk": "UK",
+"kind": "official",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "4595b2558882eb75",
+"title": "Bitcoin Core 29.4",
+"link": "https://github.com/bitcoin/bitcoin/releases/tag/v29.4",
+"published": "2026-07-10T14:25:37Z",
+"source": "Bitcoin Core releases",
+"desk": "Protocol",
+"kind": "protocol",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "19e830a680f5dee9",
+"title": "v6.20.0",
+"link": "https://github.com/zcash/zcash/releases/tag/v6.20.0",
+"published": "2026-06-03T21:24:57Z",
+"source": "zcashd releases",
+"desk": "ZEC",
+"kind": "protocol",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "a7551e7877177b06",
+"title": "v6.12.5",
+"link": "https://github.com/zcash/zcash/releases/tag/v6.12.5",
+"published": "2026-06-02T06:32:56Z",
+"source": "zcashd releases",
+"desk": "ZEC",
+"kind": "protocol",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "b6a3303384f46d00",
+"title": "v6.12.3",
+"link": "https://github.com/zcash/zcash/releases/tag/v6.12.3",
+"published": "2026-05-08T00:36:04Z",
+"source": "zcashd releases",
+"desk": "ZEC",
+"kind": "protocol",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "a01397612fa24947",
+"title": "v6.12.2",
+"link": "https://github.com/zcash/zcash/releases/tag/v6.12.2",
+"published": "2026-05-06T19:16:32Z",
+"source": "zcashd releases",
+"desk": "ZEC",
+"kind": "protocol",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "11b4cbfdba1c7368",
+"title": "v6.12.1",
+"link": "https://github.com/zcash/zcash/releases/tag/v6.12.1",
+"published": "2026-04-17T20:49:04Z",
+"source": "zcashd releases",
+"desk": "ZEC",
+"kind": "protocol",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "e480b3306cac434d",
+"title": "v6.12.0",
+"link": "https://github.com/zcash/zcash/releases/tag/v6.12.0",
+"published": "2026-03-31T19:11:49Z",
+"source": "zcashd releases",
+"desk": "ZEC",
+"kind": "protocol",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "b336b3fee9c26c35",
+"title": "v6.11.0",
+"link": "https://github.com/zcash/zcash/releases/tag/v6.11.0",
+"published": "2026-01-10T19:00:49Z",
+"source": "zcashd releases",
+"desk": "ZEC",
+"kind": "protocol",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "f7d1f53ad05723fa",
+"title": "v6.10.0",
+"link": "https://github.com/zcash/zcash/releases/tag/v6.10.0",
+"published": "2025-10-04T03:44:38Z",
+"source": "zcashd releases",
+"desk": "ZEC",
+"kind": "protocol",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "592929feb5dd92eb",
+"title": "v6.3.0",
+"link": "https://github.com/zcash/zcash/releases/tag/v6.3.0",
+"published": "2025-07-31T23:02:39Z",
+"source": "zcashd releases",
+"desk": "ZEC",
+"kind": "protocol",
+"first_seen": "2026-11-10T20:15:02Z"
+},
+{
+"id": "b10448cc1ee75648",
+"title": "v6.3.0-rc1",
+"link": "https://github.com/zcash/zcash/releases/tag/v6.3.0-rc1",
+"published": "2025-07-31T00:06:47Z",
+"source": "zcashd releases",
+"desk": "ZEC",
+"kind": "protocol",
+"first_seen": "2026-11-10T20:15:02Z"
 }
 ]
