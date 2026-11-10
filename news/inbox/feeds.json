@@ -6,7 +6,6 @@
   {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/.rss/full/", "kind": "news", "desk": "BTC"},
   {"name": "Federal Reserve (press)", "url": "https://www.federalreserve.gov/feeds/press_all.xml", "kind": "official", "desk": "Macro"},
   {"name": "Federal Reserve (speeches)", "url": "https://www.federalreserve.gov/feeds/speeches.xml", "kind": "official", "desk": "Macro"},
-  {"name": "BLS (CPI)", "url": "https://www.bls.gov/feed/cpi.rss", "kind": "official", "desk": "Macro"},
   {"name": "SEC (press)", "url": "https://www.sec.gov/news/pressreleases.rss", "kind": "official", "desk": "Policy",
    "keywords": ["crypto", "bitcoin", "digital asset", "token", "blockchain", "exchange-traded", "etf"]},
   {"name": "Bank of England", "url": "https://www.bankofengland.co.uk/rss/news", "kind": "official", "desk": "UK"},
@@ -18,6 +17,5 @@
   {"name": "zcashd releases", "url": "https://github.com/zcash/zcash/releases.atom", "kind": "protocol", "desk": "ZEC"},
   {"name": "Zebra releases", "url": "https://github.com/ZcashFoundation/zebra/releases.atom", "kind": "protocol", "desk": "ZEC"},
   {"name": "Zcash Foundation", "url": "https://zfnd.org/feed/", "kind": "official", "desk": "ZEC"},
-  {"name": "Electric Coin Co", "url": "https://electriccoin.co/feed/", "kind": "official", "desk": "ZEC"},
   {"name": "Zcash Community Forum", "url": "https://forum.zcashcommunity.com/latest.rss", "kind": "community", "desk": "ZEC"}
 ]
