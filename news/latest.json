@@ -1,91 +1,58 @@
 {
- "generated": "2026-11-10T19:45:00Z",
+ "generated": "2026-11-11T06:35:00Z",
  "mood": "risk-off",
  "briefing": {
   "developments": [
-   "US inflation came in hot: prices rose 0.4% in October and core prices 0.3%, both above forecasts.",
-   "A Fed rate rise on 9 December now looks certain, and Governor Waller had said core at 0.3% or more would put a half-point rise on the table.",
-   "Bitcoin dipped to about $73,400, its weakest since 21 August, then got back above $74,000. US shares gave back part of Monday's rally."
+   "Zcash fell about 12% on Tuesday and briefly traded below $1,000 for the first time since early September, as Grayscale trust redemptions added selling.",
+   "Bitcoin's low on Tuesday was deeper than first reported, about $72,640 on Coinbase, but it closed the day near $73,800, above the $73,000 line analysts were watching.",
+   "The US 10-year Treasury yield closed at 5.00% after the hot inflation report, and the Nasdaq fell 0.7% with Nvidia down 5.5%."
   ],
-  "changed": "This morning the open question was whether inflation would cool. It did not, so the debate has moved from whether the Fed hikes in December to by how much.",
-  "question": "Will the spot ETF selling stop? IBIT has seen seven straight days of redemptions, and analysts say macro relief alone may not lift bitcoin without that demand.",
-  "watch": "Whether bitcoin's daily close (midnight UTC, midnight UK) holds above $73,000, then US PPI on Fri 13 Nov at 13:30 UK."
+  "changed": "Last night's question was whether bitcoin's daily close would hold $73,000. It did, so the line held for now. The new damage is in Zcash, which lost more than bitcoin on the same macro shock.",
+  "question": "Is Zcash's fall mostly forced selling from Grayscale trust redemptions and leverage, or a broader turn in demand after the NU7 upgrade rally?",
+  "watch": "US PPI on Friday 13 November at 13:30 UK. The next big event is the Fed decision on Wednesday 9 December at 19:00 UK."
  },
  "lead": {
-  "headline": "Hot US inflation puts a bigger Fed rate rise on the table",
-  "standfirst": "Prices rose faster than expected in October. Bitcoin touched an 11-week low before steadying, while Wall Street gave back part of Monday's rally.",
+  "headline": "Zcash briefly breaks below $1,000 as bitcoin clings to $73,000",
+  "standfirst": "Zcash fell about 12% in a day, its sharpest drop in weeks, while bitcoin dipped to a near three-month low before closing just above a level traders had marked as critical.",
   "body": [
-   "US consumer prices rose 0.4% in October, above the 0.3% economists had forecast, the Bureau of Labor Statistics said on Tuesday. Core prices, which strip out food and energy, rose 0.3% against forecasts of 0.2%, CoinDesk reported.",
-   "Food rose 0.5% and energy 0.7%, while owners' equivalent rent climbed 0.3%, according to Yahoo Finance. There was again no official annual figure, because last year's government shutdown left a gap in the data.",
-   "The report mattered because of what Federal Reserve Governor Christopher Waller said earlier in the day. He backed a quarter-point rise in December even if inflation cooled, and said a half-point move should be considered if core prices rose 0.3% or more, TheStreet reported. Core landed exactly on that line.",
-   "Markets moved quickly. The two-year Treasury yield rose 14 basis points to 4.69% and the 10-year reached 4.93%, CoinDesk reported. CME FedWatch put the chance of a half-point move at roughly 15%, with a quarter-point rise the rest.",
-   "Bitcoin fell to about $73,400 after the release, its weakest level since 21 August, Bitcoin Magazine and KuCoin reported, before recovering above $74,000. Spot bitcoin funds had already lost $201m on Monday, the seventh straight session of withdrawals from BlackRock's IBIT.",
-   "The S&P 500 was down about 0.9% and the Nasdaq 1.3% at midday in New York, according to 24/7 Wall St. Producer prices follow on Friday."
+   "Zcash fell as low as $999.57 on Tuesday, its weakest level since early September, Seeking Alpha and Bitcoin.com News reported. The token was down about 12% over 24 hours and roughly 41% below its 2026 high of $1,695, reached on 26 September.",
+   "Seeking Alpha linked the fall to leveraged long positions being forced shut and to continuing redemptions from the Grayscale Zcash Trust, which require the trust to sell or withdraw the coins it holds. The same day, Grayscale launched a $1 million Zcash ecosystem programme, with $400,000 in first grants.",
+   "Bitcoin also hit its lowest level since late August. Coinbase data showed a low of $72,643 at 16:38 UTC on Tuesday, Forbes reported, after October's US inflation figures came in hotter than forecast. It recovered to about $73,800 by midnight UTC, according to KuCoin market data.",
+   "The pressure came from bond markets as well. The US 10-year Treasury yield rose about 14 basis points to 5.00%, TheStreet reported, and the Nasdaq fell 0.74%. Fed Vice Chair Michelle Bowman said in a speech that inflation progress had stalled and that policy was \"not on a preset course\".",
+   "Selling by large holders added to the mood. Bitcoin miner MARA said it had sold 13,597 bitcoin, about $1.1 billion, since 30 September and planned to sell more, CoinDesk reported.",
+   "Traders now look to US producer prices on Friday and the Fed's decision on 9 December."
   ]
  },
- "headline": "October CPI ran hot (0.4%, core 0.3%), making a December Fed hike look certain and a half-point move possible. Bitcoin touched an 11-week low near $73.4k before steadying above $74k.",
- "spoken": "Cryptonaire evening brief, Tuesday. Mood: risk-off. US inflation came in hotter than expected. Prices rose zero point four per cent in October, and core prices zero point three. A Fed rate rise in December now looks certain, and markets see about a fifteen per cent chance of a half-point move. Bitcoin dipped to around seventy-three thousand four hundred dollars, its lowest since August, then recovered above seventy-four thousand. US shares fell about one per cent. Next up: US producer prices on Friday at half past one UK time. Information only, not advice.",
+ "headline": "Zcash fell about 12% and briefly broke $1,000, while bitcoin dipped to about $72,640 before closing near $73,800. US 10-year yields hit 5% and the miner MARA said it has sold $1.1 billion of bitcoin since September.",
+ "spoken": "Good morning. The mood is risk off. Zcash fell about twelve per cent on Tuesday and briefly dropped below one thousand dollars, its lowest since early September, with Grayscale trust redemptions and forced selling blamed. Bitcoin touched about seventy two thousand six hundred dollars, its lowest since August, but closed the day near seventy three thousand eight hundred. US ten year bond yields reached five per cent after the hot inflation report. The miner MARA said it has sold about one point one billion dollars of bitcoin since the end of September. Next to watch is US producer prices on Friday at half past one UK time. Information only, not advice.",
  "stories": [
   {
-   "section": "Macro",
+   "section": "ZEC",
    "impact": "🔴",
    "confidence": "High",
    "date": "2026-11-10",
    "status": "Outlook changed",
-   "title": "US CPI hotter than expected: +0.4% headline, +0.3% core in October",
-   "why": "Forecasts were +0.3% and +0.2%. Food +0.5%, energy +0.7%, owners' equivalent rent +0.3%. This was the Fed's last CPI before its 8 to 9 December meeting. Still no official annual rate because of the 2025 shutdown gap.",
+   "title": "Zcash falls about 12% and briefly trades below $1,000",
+   "why": "ZEC hit $999.57, its lowest since early September and about 41% below its 26 September high of $1,695. On Monday it was near $1,165, so the fall has sped up. Seeking Alpha cites forced selling of leveraged longs and Grayscale Zcash Trust redemptions, which add spot selling.",
+   "caveat": "Liquidation figures for ZEC differ: Seeking Alpha gives about $16.5m across crypto in its window, while Analytics Insight puts ZEC liquidations at about $33m.",
    "note": {
     "horizon": "swing",
-    "read": "This morning's edition flagged a hot print as the risk. It happened, and it removes the main hope for a quick easing in the rate outlook.",
-    "alt": "Food and energy did much of the work; if PCE later in November is softer, markets could pare back the half-point talk.",
-    "change": "A soft PPI on Friday or a soft PCE on 25 November would weaken the case for a bigger hike."
+    "read": "ZEC fell more than twice as far as bitcoin on the same macro shock, so this looks like crowded positioning unwinding after the NU7 rally rather than Zcash-specific bad news.",
+    "alt": "Holders may be taking profits after the upgrade they were waiting for, a 'sell the news' pattern that can last longer than a leverage flush.",
+    "change": "Redemptions from the Grayscale trust stopping, or ZEC holding $1,000 on a further bitcoin dip, would point to forced selling being done."
    },
    "sources": [
     {
-     "name": "CoinDesk",
-     "url": "https://www.coindesk.com/markets/2026/11/10/u-s-cpi-rose-stronger-than-expected-0-4-in-october-core-rate-rose-0-3"
+     "name": "Seeking Alpha",
+     "url": "https://seekingalpha.com/news/4670377-zcash-slips-toward-1000-amid-derivative-liquidations-outflows"
     },
     {
-     "name": "Yahoo Finance",
-     "url": "https://finance.yahoo.com/economy/article/not-great-october-cpi-inflation-data-comes-in-hotter-than-expected-as-food-and-rent-costs-spike-142323507.html"
+     "name": "Bitcoin.com News",
+     "url": "https://news.bitcoin.com/market-updates/grayscale-pledges-1m-zcash-ecosystem-zec-plunges-below-1000/"
     },
     {
-     "name": "Bitcoin Magazine",
-     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-73900-cpi"
-    }
-   ]
-  },
-  {
-   "section": "Macro",
-   "impact": "🔴",
-   "confidence": "High",
-   "date": "2026-11-10",
-   "status": "New",
-   "title": "Waller's half-point trigger was core at 0.3% or more, and core hit 0.3%",
-   "why": "Fed Governor Waller said before the data that he backs a December hike regardless, and a 50bp move should be considered if core rose 0.3%+. CME FedWatch then showed about 85% for 25bp and 15% for 50bp. The 2-year yield rose 14bp to 4.69%.",
-   "caveat": "Reported 50bp odds vary between 14.7% and 15.3% depending on the snapshot time.",
-   "note": {
-    "horizon": "swing",
-    "read": "A hike is fully priced, so the new risk for bitcoin is the size. A 50bp move is still the minority view.",
-    "alt": "One governor's threshold is not the committee's; other Fed speakers may push back this week.",
-    "change": "Other Fed officials backing or rejecting a 50bp move, or the 2-year yield reversing."
-   },
-   "sources": [
-    {
-     "name": "TheStreet",
-     "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-10-2026"
-    },
-    {
-     "name": "CoinDesk",
-     "url": "https://www.coindesk.com/markets/2026/11/10/u-s-cpi-rose-stronger-than-expected-0-4-in-october-core-rate-rose-0-3"
-    },
-    {
-     "name": "KuCoin News (CME FedWatch)",
-     "url": "https://www.kucoin.com/news/flash/bitcoin-slides-toward-11-week-low-as-us-cpi-surpasses-expectations"
-    },
-    {
-     "name": "Yahoo Finance",
-     "url": "https://finance.yahoo.com/economy/article/not-great-october-cpi-inflation-data-comes-in-hotter-than-expected-as-food-and-rent-costs-spike-142323507.html"
+     "name": "Analytics Insight",
+     "url": "https://www.analyticsinsight.net/price-analysis/crypto-prices-today-bitcoin-slips-near-usd-73800-as-zcash-and-solana-lead-declines"
     }
    ]
   },
@@ -95,26 +62,26 @@
    "confidence": "High",
    "date": "2026-11-10",
    "status": "Developing",
-   "title": "Bitcoin dips to about $73.4k, weakest since 21 August, then recovers above $74k",
-   "why": "It briefly undercut Monday's overnight low of $73,477. Analysts keep naming $73,000 as the level: a daily close below it could open $70,000, while $80,000 is the level to reclaim.",
+   "title": "Bitcoin's low was about $72,640, but the daily close held above $73,000",
+   "why": "Coinbase showed a low of $72,643 at 16:38 UTC on Tuesday, the weakest since about 21 August. Bitcoin then closed the UTC day near $73,800, so the $73,000 close analysts flagged held. They name $70,000 as the next level below and $74,500 to $75,000 as the zone to reclaim.",
    "note": {
     "horizon": "intraday",
-    "read": "The hot print added pressure but did not break the $73k floor, so far a test rather than a breakdown.",
-    "alt": "The dip and bounce may be leverage being cleared around a well-watched level rather than new selling.",
-    "change": "A daily close below $73,000, or fresh ETF inflows."
+    "read": "Buyers defended $73,000 on a closing basis, but with ETF and miner selling still running, that defence rests on thin demand.",
+    "alt": "The intraday break below $73,000 may already have cleared the stops below it, which sometimes marks a short-term low.",
+    "change": "A daily close below $72,600 would undo the hold; a close back above $75,000 would ease the pressure."
    },
    "sources": [
     {
-     "name": "Bitcoin Magazine",
-     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-73900-cpi"
+     "name": "Forbes",
+     "url": "https://www.forbes.com/sites/digital-assets/2026/11/10/bitcoin-falls-below-73000-to-reach-lowest-since-august/"
     },
     {
-     "name": "KuCoin News",
-     "url": "https://www.kucoin.com/news/flash/bitcoin-slides-toward-11-week-low-as-us-cpi-surpasses-expectations"
+     "name": "KuCoin daily market report",
+     "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-november-11-2026"
     },
     {
      "name": "CoinDesk",
-     "url": "https://www.coindesk.com/markets/2026/11/10/u-s-cpi-rose-stronger-than-expected-0-4-in-october-core-rate-rose-0-3"
+     "url": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat"
     }
    ]
   },
@@ -123,81 +90,121 @@
    "impact": "🟠",
    "confidence": "High",
    "date": "2026-11-10",
-   "status": "New",
-   "title": "Stocks give back part of Monday's rally; 10-year yield nears 5%",
-   "why": "At midday in New York the S&P 500 was down about 0.9%, the Dow 0.75% and the Nasdaq 1.3%. The 10-year yield reached 4.93%. Higher yields make holding non-yielding assets like bitcoin relatively less attractive.",
+   "status": "Developing",
+   "title": "US 10-year yield closes at 5.00%; Nasdaq falls 0.7% as Nvidia drops 5.5%",
+   "why": "The 10-year yield rose about 14 basis points on the inflation report and the 2-year about 18 basis points to 4.73%. The S&P 500 fell 0.38% and the Nasdaq 0.74%. A 5% risk-free yield makes non-yielding assets like bitcoin less attractive to hold. US bond markets are closed today for Veterans Day.",
+   "note": {
+    "horizon": "swing",
+    "read": "Bitcoin's moves have been following rates more than stocks this week, so yields are the gauge to watch.",
+    "alt": "Part of the Nasdaq fall was Nvidia-specific (an internal investigation into its chief executive), not rates.",
+    "change": "A soft PPI print on Friday pulling the 10-year back below 4.9% would ease pressure on crypto."
+   },
    "sources": [
-    {
-     "name": "24/7 Wall St.",
-     "url": "https://247wallst.com/cards/a-hotter-inflation-reading-pushed-the-10-year-treasury-yield-gspc-market-bell-01m736jv8b304zems20e9w1wgx"
-    },
     {
      "name": "TheStreet",
      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-10-2026"
     },
     {
+     "name": "StockTitan",
+     "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-10-2026"
+    }
+   ]
+  },
+  {
+   "section": "BTC",
+   "impact": "🟠",
+   "confidence": "High",
+   "date": "2026-11-09",
+   "status": "New",
+   "title": "Miner MARA has sold 13,597 bitcoin since September and plans to sell more",
+   "why": "MARA said with its third-quarter results that it sold about $1.1 billion of bitcoin after 30 September, repaid $750m of bitcoin-backed loans, and will keep selling to fund AI infrastructure, debt and possible buybacks. It held 34,012 BTC at 30 September. Steady selling from a large holder adds supply while ETF demand is weak.",
+   "sources": [
+    {
      "name": "CoinDesk",
-     "url": "https://www.coindesk.com/markets/2026/11/10/u-s-cpi-rose-stronger-than-expected-0-4-in-october-core-rate-rose-0-3"
+     "url": "https://www.coindesk.com/daybook-us/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-sells-holdings"
+    },
+    {
+     "name": "Cryptonews.net (citing MARA's shareholder letter)",
+     "url": "https://cryptonews.net/news/bitcoin/33727387/"
     }
    ]
   },
   {
    "section": "ETFs",
    "impact": "🟠",
-   "confidence": "High",
-   "date": "2026-11-09",
-   "status": "No material change",
-   "title": "IBIT's seventh straight day of outflows; Tuesday's figures not yet in",
-   "why": "Monday's net outflow was $201m across US spot bitcoin ETFs, $213m of it from IBIT. Tuesday's figures normally appear overnight.",
+   "confidence": "Medium",
+   "date": "2026-11-10",
+   "status": "Developing",
+   "title": "ETF outflows slow to about $95m on Tuesday; IBIT redemptions continue",
+   "why": "Early figures show a net outflow of about $95m, with IBIT down $78m, Fidelity's FBTC down $37m and Morgan Stanley's MSBT up $20m. That is smaller than Monday's $201m, but it would be IBIT's eighth straight day of redemptions. Outflows since 2 November are about $1.5bn.",
+   "caveat": "Tuesday's figures come from a single tracker reported by TechFlow and are not yet confirmed by Farside or SoSoValue.",
    "sources": [
     {
-     "name": "Bitcoin Magazine",
-     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-73900-cpi"
+     "name": "KuCoin (TechFlow)",
+     "url": "https://www.kucoin.com/news/flash/us-bitcoin-spot-etfs-recorded-95m-net-outflow-on-november-10"
     },
     {
-     "name": "Farside Investors",
-     "url": "https://farside.co.uk/btc/"
+     "name": "TFTC ETF tracker",
+     "url": "https://www.tftc.io/bitcoin-etf-flows/november-2026"
     }
    ]
   },
   {
-   "section": "ZEC",
-   "impact": "🟢",
-   "confidence": "Medium",
-   "date": "2026-11-09",
-   "status": "No material change",
-   "title": "Zcash: no fresh news since Monday's fall and the 20-second block draft",
-   "why": "ZEC fell 7.9% to about $1,165 on Monday. The NU7.1 proposal to cut block time from 25 to 20 seconds is still a draft awaiting a community vote, with no date.",
+   "section": "Macro",
+   "impact": "🟠",
+   "confidence": "High",
+   "date": "2026-11-10",
+   "status": "New",
+   "title": "Fed's Bowman: inflation progress has stalled, policy 'not on a preset course'",
+   "why": "Vice Chair Bowman said core PCE inflation likely rose to 3.3% in October and there is \"still work to do\", but stopped short of backing a hike and said tightening must be weighed against costs such as housing. She is often among the more dovish officials, so a hawkish tone from her narrows the case for a pause.",
    "sources": [
     {
-     "name": "CryptoTicker",
-     "url": "https://cryptoticker.io/en/zcash-falls-8-percent-nu7-1-20-second-block-time-proposal/"
+     "name": "Federal Reserve",
+     "url": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm"
+    }
+   ]
+  },
+  {
+   "section": "Protocol",
+   "impact": "🟢",
+   "confidence": "Medium",
+   "date": "2026-11-10",
+   "status": "New",
+   "title": "Zcash NU8 proposal: 8MB blocks, Tachyon shielded pool, quantum-resistant options",
+   "why": "Developer ValarDragon proposed NU8 for a late January 2027 window, including a Tachyon pool designed against future quantum decryption and a fourfold block size rise. It is still in technical review, core engineer str4d has raised objections, and it would need a community vote.",
+   "sources": [
+    {
+     "name": "KuCoin (TechFlow)",
+     "url": "https://www.kucoin.com/news/flash/zcash-proposes-nu-8-upgrade-4x-block-size-200-tps-privacy-transactions-quantum-resistance"
     }
    ]
   }
  ],
  "explained": {
-  "title": "Why analysts talk about a \"daily close\"",
+  "title": "Why trust redemptions can push a coin's price down",
   "body": [
-   "Crypto trades around the clock, so there is no closing bell. By convention the daily candle closes at midnight UTC, which is midnight in the UK in winter.",
-   "Analysts watch where the price sits at that moment because brief dips below a level often come from thin trading or forced liquidations and bounce straight back. A close below the level shows it failed to hold through the whole day. It is a convention, not a rule, and venues can differ by a few dollars."
+   "A trust like Grayscale's Zcash fund holds real coins on behalf of its shareholders. When investors redeem shares, the trust has to sell or hand over coins to pay them, which puts those coins onto the market.",
+   "If many holders redeem at once, that selling arrives on top of normal trading, and in a smaller market like Zcash it can move the price more than it would for bitcoin."
   ]
  },
  "investigating": [
-  "Who is selling the ETFs? Possible answers are late buyers taking losses or hedge funds unwinding futures trades. Evidence needed: CME futures open interest and the next quarterly 13F filings.",
-  "Will other Fed officials back Waller's half-point idea? Watch speeches before the 9 December meeting.",
-  "Will Zcash's 20-second block proposal win support? Watch the community forum for a vote date."
+  "How much ZEC is the Grayscale trust releasing? Evidence: the trust's published holdings over the coming days.",
+  "Was Tuesday IBIT's eighth straight day of outflows? Evidence: Farside or SoSoValue figures for 10 November.",
+  "Is The Wire missing overnight headlines? Its last refresh was 00:53 UTC, so news after that came from web searches."
+ ],
+ "corrections": [
+  "Last night's edition (10 Nov, 19:45) said bitcoin's low was near $73,400. Coinbase data reported by Forbes shows a deeper low of $72,643 at 16:38 UTC."
  ],
  "ahead": [
-  {
-   "when": "Tonight 00:00 UK",
-   "impact": "🟠",
-   "what": "Bitcoin daily close: above or below $73,000"
-  },
   {
    "when": "Wed 11 Nov",
    "impact": "🟢",
    "what": "US bond market closed (Veterans Day)"
+  },
+  {
+   "when": "Tonight 00:00 UK",
+   "impact": "🟠",
+   "what": "Bitcoin daily close: above or below $73,000"
   },
   {
    "when": "Fri 13 Nov 13:30 UK",
@@ -207,8 +214,13 @@
   {
    "when": "Wed 18 Nov 07:00 UK",
    "impact": "🟢",
-   "what": "UK CPI (October); FOMC minutes 19:00 UK"
+   "what": "UK CPI (October)"
+  },
+  {
+   "when": "Wed 18 Nov 19:00 UK",
+   "impact": "🟢",
+   "what": "FOMC minutes (October meeting)"
   }
  ],
- "id": "2026-11-10-1945"
+ "id": "2026-11-11-0635"
 }
