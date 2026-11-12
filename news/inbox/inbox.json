@@ -1,5 +1,355 @@
 [
 {
+"id": "3bf0f3aa3c0f9e16",
+"title": "BitGo expands institutional stablecoin minting and redemption platform with USDC",
+"link": "https://www.theblock.co/news/business/2026-11-12-bitgo-expands-institutional-stablecoin-minting-and-redemption-platform-with-usdc-438525",
+"published": "2026-11-12T12:35:02Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T12:35:42Z"
+},
+{
+"id": "569bce674ad829d7",
+"title": "EU DeFi proposals could push users to riskier platforms, says Coinbase exec",
+"link": "https://cointelegraph.com/news/eu-defi-riskier-platforms-coinbase-exec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-12T12:21:43Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T12:35:42Z"
+},
+{
+"id": "2e1450b943cd64b5",
+"title": "Bitcoin weakness erases September's bullish signal",
+"link": "https://www.coindesk.com/daybook-us/2026/11/12/bitcoin-weakness-erases-september-s-bullish-signal",
+"published": "2026-11-12T12:15:00Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T12:35:42Z"
+},
+{
+"id": "1b9400f198191e6b",
+"title": "UK bank Griffin raises $20 million to expand into stablecoin payments",
+"link": "https://www.coindesk.com/business/2026/11/12/uk-bank-griffin-raises-usd20-million-to-expand-into-stablecoin-payments",
+"published": "2026-11-12T12:04:42Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T12:35:42Z"
+},
+{
+"id": "f7e07398188f4bc9",
+"title": "India's Financial Crimes Agency Searches CoinDCX, Delta Exchange Over Offshore Trades",
+"link": "https://decrypt.co/383126/indias-financial-crimes-agency-searches-coindcx-delta-exchange-over-offshore-trades",
+"published": "2026-11-12T12:03:10Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T12:35:42Z"
+},
+{
+"id": "47a5666574edc89e",
+"title": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027",
+"link": "https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027",
+"published": "2026-11-12T11:43:41Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T12:35:42Z"
+},
+{
+"id": "43f24d5a2e81d349",
+"title": "Stablecoin supply falls $14.2B in biggest 30-day drop since June 2022",
+"link": "https://cointelegraph.com/markets/stablecoin-supply-drops-worst-slump-since-mid-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-12T11:38:50Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T12:35:42Z"
+},
+{
+"id": "80c1b15e41c398a6",
+"title": "Bitcoin dips with Nvidia as ETF outflows reach day five",
+"link": "https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five",
+"published": "2026-11-12T11:30:00Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T12:35:42Z"
+},
+{
+"id": "226b4dab391e2170",
+"title": "Grant Application - Shielded Zcash Payments in KOKOPAI",
+"link": "https://forum.zcashcommunity.com/t/grant-application-shielded-zcash-payments-in-kokopai/59233",
+"published": "2026-11-12T11:24:50Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-12T12:35:42Z"
+},
+{
+"id": "feb5051e7ad74086",
+"title": "Bitcoin ETFs Bleed $1.4B in Five Days as Investors Cut Risk",
+"link": "https://decrypt.co/383122/bitcoin-etfs-bleed-1-4b-in-five-days-as-investors-cut-risk",
+"published": "2026-11-12T11:24:19Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T12:35:42Z"
+},
+{
+"id": "04718123cc4c5f41",
+"title": "Tron, Tether and Chainalysis form new alliance to tackle AI-powered crypto crime",
+"link": "https://www.theblock.co/news/business/2026-11-12-tron-tether-chainalysis-new-alliance-438514",
+"published": "2026-11-12T11:00:00Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T12:35:42Z"
+},
+{
+"id": "93debf29f404725c",
+"title": "Tron and Tether bring in Chainalysis after T3 crime unit folds",
+"link": "https://cointelegraph.com/news/tron-tether-chainalysis-cybercrime-task-force-laundering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-12T11:00:00Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T12:35:42Z"
+},
+{
+"id": "e60ef7368d1484bc",
+"title": "Polymarket trims workforce under investor pressure as Kalshi surges ahead",
+"link": "https://www.coindesk.com/business/2026/11/12/polymarket-trims-workforce-under-investor-pressure-as-kalshi-surges-ahead",
+"published": "2026-11-12T10:42:06Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T12:35:42Z"
+},
+{
+"id": "eef4c7c19933c66e",
+"title": "Nomura weighs Laser Digital sale as European losses hit four straight quarters",
+"link": "https://www.coindesk.com/business/2026/11/12/nomura-weighs-laser-digital-sale-as-european-losses-hit-four-straight-quarters-bloomberg",
+"published": "2026-11-12T10:32:35Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T12:35:42Z"
+},
+{
+"id": "705f70b56ddd3b82",
+"title": "Ethlabs drops Hegotá slot proposal in push for 2027 quantum readiness",
+"link": "https://cointelegraph.com/news/ethlabs-ethereum-quantum-security-2027-quick-slots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-12T10:30:29Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T12:35:42Z"
+},
+{
+"id": "af4338fa0d2ec396",
+"title": "Sygnum launches ETH Alpha Fund targeting 8% to 10% annual returns in ETH",
+"link": "https://www.theblock.co/news/business/2026-11-12-sygnum-eth-alpha-fund-staking-yields-options-arbitrage-438386",
+"published": "2026-11-12T10:30:00Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T12:35:42Z"
+},
+{
+"id": "68375809e506095a",
+"title": "India’s financial crimes watchdog raids crypto exchanges CoinDCX and Delta over alleged illegal cross-border trades",
+"link": "https://www.coindesk.com/policy/2026/11/12/india-s-financial-crimes-watchdog-raids-crypto-exchanges-coindcx-and-delta-over-alleged-illegal-cross-border-trades",
+"published": "2026-11-12T10:10:48Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T12:35:42Z"
+},
+{
+"id": "3c7f6e9555eda6a0",
+"title": "Pressure Mounts on Nvidia's Jensen Huang Amid Reports of Second Affair",
+"link": "https://decrypt.co/383114/pressure-mounts-on-nvidias-jensen-huang-amid-reports-of-second-affair",
+"published": "2026-11-12T09:47:18Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T12:35:42Z"
+},
+{
+"id": "3762232b967cc654",
+"title": "Live updates: Bitcoin ETFs bleed $300 million as AI stocks slide again",
+"link": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets",
+"published": "2026-11-12T09:15:04Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T12:35:42Z"
+},
+{
+"id": "de521e29622075ed",
+"title": "Gemini sells UK and European operations to stablecoin payments firm KAST for under $10 million",
+"link": "https://www.coindesk.com/business/2026/11/12/gemini-sells-uk-and-european-operations-to-stablecoin-payments-firm-kast-for-under-usd10-million",
+"published": "2026-11-12T09:07:00Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T12:35:42Z"
+},
+{
+"id": "58ed13bbb65784de",
+"title": "Chainstack says AI-powered security breach exposed customer data; threat now contained",
+"link": "https://www.theblock.co/news/ecosystems/2026-11-12-chainstack-security-breach-438509",
+"published": "2026-11-12T08:39:57Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T12:35:42Z"
+},
+{
+"id": "94d3a84105e765d1",
+"title": "Grant Application - Zcash Wallet Accessibility Audit",
+"link": "https://forum.zcashcommunity.com/t/grant-application-zcash-wallet-accessibility-audit/59226",
+"published": "2026-11-12T08:37:07Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-12T12:35:42Z"
+},
+{
+"id": "d62afed0ab5b4143",
+"title": "BlackRock Bitcoin ETF outflows hit $2B over nine sessions",
+"link": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-ibit-outflows-nine-day-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-12T08:06:48Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T12:35:42Z"
+},
+{
+"id": "c0662972c18ce5a3",
+"title": "Why is Zodl producing \"wrong\" t-addresses about half the time?",
+"link": "https://forum.zcashcommunity.com/t/why-is-zodl-producing-wrong-t-addresses-about-half-the-time/59225",
+"published": "2026-11-12T08:05:05Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-12T12:35:42Z"
+},
+{
+"id": "5efd84a572827781",
+"title": "Grant Application - Zcash for Python Developers: ZecHub Tutorial Series",
+"link": "https://forum.zcashcommunity.com/t/grant-application-zcash-for-python-developers-zechub-tutorial-series/59224",
+"published": "2026-11-12T07:58:39Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-12T12:35:42Z"
+},
+{
+"id": "eb627795b81843ba",
+"title": "Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96%",
+"link": "https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96",
+"published": "2026-11-12T07:41:18Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T12:35:42Z"
+},
+{
+"id": "b8bb9cc968799f4e",
+"title": "Ethlabs proposes advancing Ethereum’s post-quantum to 2027, citing AI acceleration",
+"link": "https://www.theblock.co/news/defi/2026-11-12-ethlabs-proposes-ethereum-post-quantum-2027-438494",
+"published": "2026-11-12T07:27:24Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T12:35:42Z"
+},
+{
+"id": "1d8fb9322b497adf",
+"title": "MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying machine",
+"link": "https://www.coindesk.com/markets/2026/11/12/msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin-buying-machine",
+"published": "2026-11-12T07:00:37Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T12:35:42Z"
+},
+{
+"id": "d4493844a902f512",
+"title": "South Korea to permit crypto withdrawal freezes during hacking threats",
+"link": "https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-12T05:54:48Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T12:35:42Z"
+},
+{
+"id": "34dba119c82b79bf",
+"title": "Zcash holders to vote on pulling 50,000 ZEC, worth $50 million, from grants treasury",
+"link": "https://www.coindesk.com/tech/2026/11/12/zcash-holders-to-vote-on-pulling-50-000-zec-from-grants-treasury",
+"published": "2026-11-12T05:49:44Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T12:35:42Z"
+},
+{
+"id": "25eb087409675081",
+"title": "Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor",
+"link": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor",
+"published": "2026-11-12T05:22:31Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T12:35:42Z"
+},
+{
+"id": "8402cf57f05f4ce2",
+"title": "Ripple’s bank-lending system moves closer to launch on the XRP Ledger",
+"link": "https://www.coindesk.com/tech/2026/11/12/ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger",
+"published": "2026-11-12T05:18:43Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T12:35:42Z"
+},
+{
+"id": "dba07af33bffc652",
+"title": "Binance CSO unwittingly foreshadowed $6.3B hack tactic months before attack",
+"link": "https://cointelegraph.com/news/binance-cso-foreshadowed-6b-hack-tactic-months-before-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-12T05:07:11Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T12:35:42Z"
+},
+{
+"id": "49fa9a930b853f91",
+"title": "Bitcoin traders raise odds of sub-$70,000 Christmas, Bitmine reports $6.3 billion annual net loss, and more",
+"link": "https://www.theblock.co/newsletters/the-daily/2026-11-11-bitcoin-outlook-christmas-bitmine-net-loss-more-crypto-news-438430",
+"published": "2026-11-12T04:55:00Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T12:35:42Z"
+},
+{
+"id": "8eeefc2de83d3754",
+"title": "Nvidia perps crash 7% as CEO Jensen Huang reportedly faces the axe",
+"link": "https://www.coindesk.com/markets/2026/11/12/bitcoin-listless-nvidia-perps-crash-7-as-ceo-jensen-huang-reportedly-faces-the-axe",
+"published": "2026-11-12T04:03:47Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T12:35:42Z"
+},
+{
 "id": "67a9a10dcab241e8",
 "title": "‘Milestone quarter’: Solana Company reports Q3 revenue growth driven by staking rewards",
 "link": "https://www.theblock.co/news/business/2026-11-11-solana-company-reports-q3-revenue-growth-438448",
@@ -2888,17 +3238,6 @@
 "desk": "Macro",
 "kind": "official",
 "first_seen": "2026-11-05T16:00:00Z",
-"backfill": true
-},
-{
-"id": "26d3012260db32ae",
-"title": "Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes",
-"link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
-"published": "2026-11-05T12:00:00Z",
-"source": "Bank of England",
-"desk": "UK",
-"kind": "official",
-"first_seen": "2026-11-05T12:00:00Z",
 "backfill": true
 },
 {
