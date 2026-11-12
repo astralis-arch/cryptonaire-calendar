@@ -1,131 +1,88 @@
 {
- "generated": "2026-11-11T06:35:00Z",
+ "generated": "2026-11-12T06:45:00Z",
  "mood": "risk-off",
  "briefing": {
   "developments": [
-   "Zcash fell about 12% on Tuesday and briefly traded below $1,000 for the first time since early September, as Grayscale trust redemptions added selling.",
-   "Bitcoin's low on Tuesday was deeper than first reported, about $72,640 on Coinbase, but it closed the day near $73,800, above the $73,000 line analysts were watching.",
-   "The US 10-year Treasury yield closed at 5.00% after the hot inflation report, and the Nasdaq fell 0.7% with Nvidia down 5.5%."
+   "Nvidia shares fell 8.6% after hours on Wednesday after reports that its board was preparing to remove chief executive Jensen Huang. That erased a day of gains for tech stocks.",
+   "Bitcoin stayed stuck near $73,500, below the short-term holder cost basis of about $75,600. Short-term holders sent about 47,300 BTC to exchanges at a loss in 24 hours, according to CryptoQuant.",
+   "MSCI confirmed it will drop Strategy (MSTR) from its USA Index at the close on 30 November, so index funds tracking it will have to sell the shares."
   ],
-  "changed": "Last night's question was whether bitcoin's daily close would hold $73,000. It did, so the line held for now. The new damage is in Zcash, which lost more than bitcoin on the same macro shock.",
-  "question": "Is Zcash's fall mostly forced selling from Grayscale trust redemptions and leverage, or a broader turn in demand after the NU7 upgrade rally?",
-  "watch": "US PPI on Friday 13 November at 13:30 UK. The next big event is the Fed decision on Wednesday 9 December at 19:00 UK."
+  "changed": "Yesterday's damage was in Zcash. Overnight the new risk is outside crypto: the Nvidia report turned a strong day for US tech into a sharp after-hours fall. Bitcoin itself barely moved, and ETF outflows grew again to about $300 million.",
+  "question": "Does the Nvidia shock spread into a wider risk-off session at the US open? Bitcoin has been trading like a tech stock with less buying behind it.",
+  "watch": "The US stock market open today at 14:30 UK, then US PPI on Friday 13 November at 13:30 UK. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
  },
  "lead": {
-  "headline": "Zcash briefly breaks below $1,000 as bitcoin clings to $73,000",
-  "standfirst": "Zcash fell about 12% in a day, its sharpest drop in weeks, while bitcoin dipped to a near three-month low before closing just above a level traders had marked as critical.",
+  "headline": "Nvidia boardroom shock hits tech as bitcoin stalls at $73,500",
+  "standfirst": "Nvidia shares fell almost 9% after hours on reports that its board was weighing the removal of Jensen Huang, while bitcoin held a narrow range under pressure from ETF outflows and loss-making sellers.",
   "body": [
-   "Zcash fell as low as $999.57 on Tuesday, its weakest level since early September, Seeking Alpha and Bitcoin.com News reported. The token was down about 12% over 24 hours and roughly 41% below its 2026 high of $1,695, reached on 26 September.",
-   "Seeking Alpha linked the fall to leveraged long positions being forced shut and to continuing redemptions from the Grayscale Zcash Trust, which require the trust to sell or withdraw the coins it holds. The same day, Grayscale launched a $1 million Zcash ecosystem programme, with $400,000 in first grants.",
-   "Bitcoin also hit its lowest level since late August. Coinbase data showed a low of $72,643 at 16:38 UTC on Tuesday, Forbes reported, after October's US inflation figures came in hotter than forecast. It recovered to about $73,800 by midnight UTC, according to KuCoin market data.",
-   "The pressure came from bond markets as well. The US 10-year Treasury yield rose about 14 basis points to 5.00%, TheStreet reported, and the Nasdaq fell 0.74%. Fed Vice Chair Michelle Bowman said in a speech that inflation progress had stalled and that policy was \"not on a preset course\".",
-   "Selling by large holders added to the mood. Bitcoin miner MARA said it had sold 13,597 bitcoin, about $1.1 billion, since 30 September and planned to sell more, CoinDesk reported.",
-   "Traders now look to US producer prices on Friday and the Fed's decision on 9 December."
+   "Nvidia shares fell 8.61% in after-hours trading on Wednesday to $158.78, Forbes reported, after The Wall Street Journal said the chip maker's board was preparing to oust its founder and chief executive, Jensen Huang. Reuters said the board met late on Wednesday to decide his future. No decision had been reported by early Thursday.",
+   "The fall erased a 2.9% gain in Nvidia's regular session, when the Nasdaq rose 1.6% and the S&P 500 1.3% on strong CoreWeave results. Nvidia perpetual contracts on Hyperliquid dropped about 10%, The Block reported.",
+   "Bitcoin traded near $73,500 on Kraken early on Thursday, inside a 24-hour range of $73,304 to $74,754. CryptoQuant data cited by Decrypt showed short-term holders sent about 47,300 BTC to exchanges at a loss in a day, though deposits are not proof of sales. Glassnode said stablecoin supply shrank $14.2 billion in 30 days, the fastest drop since June 2022.",
+   "US spot bitcoin ETFs saw about $300 million of net outflows on Wednesday, led by $269.7 million from BlackRock's IBIT, according to figures from Trader T relayed by KuCoin.",
+   "Separately, MSCI confirmed that Strategy will leave its USA Index at the close on 30 November. Strategy shares fell 2.6% after hours, The Block reported.",
+   "Traders now turn to the US open and Friday's producer price figures, with markets fully pricing a Fed rate rise in December."
   ]
  },
- "headline": "Zcash fell about 12% and briefly broke $1,000, while bitcoin dipped to about $72,640 before closing near $73,800. US 10-year yields hit 5% and the miner MARA said it has sold $1.1 billion of bitcoin since September.",
- "spoken": "Good morning. The mood is risk off. Zcash fell about twelve per cent on Tuesday and briefly dropped below one thousand dollars, its lowest since early September, with Grayscale trust redemptions and forced selling blamed. Bitcoin touched about seventy two thousand six hundred dollars, its lowest since August, but closed the day near seventy three thousand eight hundred. US ten year bond yields reached five per cent after the hot inflation report. The miner MARA said it has sold about one point one billion dollars of bitcoin since the end of September. Next to watch is US producer prices on Friday at half past one UK time. Information only, not advice.",
+ "headline": "Reports that Nvidia's board may oust Jensen Huang sent its shares down almost 9% after hours, putting risk appetite on edge. Bitcoin is stuck near $73,500 as ETF outflows grow and MSCI drops Strategy from its index.",
+ "spoken": "Good morning. The mood is risk-off. Nvidia shares fell almost nine per cent after hours on reports its board may remove chief executive Jensen Huang, which wiped out a strong day for tech. Bitcoin is stuck near seventy-three thousand five hundred dollars. Short-term holders moved about forty-seven thousand coins to exchanges at a loss, and bitcoin funds lost about three hundred million dollars on Wednesday. Index provider MSCI will drop Strategy from its main US index at the end of November. Zcash is just under one thousand dollars, and its founders have proposed removing fifty thousand coins from the grants treasury, with a vote from Monday. Watch the US open at half past two this afternoon, and producer prices on Friday at half past one. Information only, not advice.",
  "stories": [
   {
-   "section": "ZEC",
+   "section": "Markets",
    "impact": "🔴",
    "confidence": "High",
-   "date": "2026-11-10",
-   "status": "Outlook changed",
-   "title": "Zcash falls about 12% and briefly trades below $1,000",
-   "why": "ZEC hit $999.57, its lowest since early September and about 41% below its 26 September high of $1,695. On Monday it was near $1,165, so the fall has sped up. Seeking Alpha cites forced selling of leveraged longs and Grayscale Zcash Trust redemptions, which add spot selling.",
-   "caveat": "Liquidation figures for ZEC differ: Seeking Alpha gives about $16.5m across crypto in its window, while Analytics Insight puts ZEC liquidations at about $33m.",
-   "note": {
-    "horizon": "swing",
-    "read": "ZEC fell more than twice as far as bitcoin on the same macro shock, so this looks like crowded positioning unwinding after the NU7 rally rather than Zcash-specific bad news.",
-    "alt": "Holders may be taking profits after the upgrade they were waiting for, a 'sell the news' pattern that can last longer than a leverage flush.",
-    "change": "Redemptions from the Grayscale trust stopping, or ZEC holding $1,000 on a further bitcoin dip, would point to forced selling being done."
-   },
-   "sources": [
-    {
-     "name": "Seeking Alpha",
-     "url": "https://seekingalpha.com/news/4670377-zcash-slips-toward-1000-amid-derivative-liquidations-outflows"
-    },
-    {
-     "name": "Bitcoin.com News",
-     "url": "https://news.bitcoin.com/market-updates/grayscale-pledges-1m-zcash-ecosystem-zec-plunges-below-1000/"
-    },
-    {
-     "name": "Analytics Insight",
-     "url": "https://www.analyticsinsight.net/price-analysis/crypto-prices-today-bitcoin-slips-near-usd-73800-as-zcash-and-solana-lead-declines"
-    }
-   ]
-  },
-  {
-   "section": "BTC",
-   "impact": "🔴",
-   "confidence": "High",
-   "date": "2026-11-10",
-   "status": "Developing",
-   "title": "Bitcoin's low was about $72,640, but the daily close held above $73,000",
-   "why": "Coinbase showed a low of $72,643 at 16:38 UTC on Tuesday, the weakest since about 21 August. Bitcoin then closed the UTC day near $73,800, so the $73,000 close analysts flagged held. They name $70,000 as the next level below and $74,500 to $75,000 as the zone to reclaim.",
+   "date": "2026-11-11",
+   "status": "New",
+   "title": "Nvidia falls 8.6% after hours on reports its board may oust Jensen Huang",
+   "why": "Nvidia closed at $173.73 on Wednesday, then fell to $158.78 after hours, Forbes reported, after the WSJ said the board was preparing to remove its CEO; Reuters said the board met late Wednesday. Nvidia perps on Hyperliquid fell about 10%. Bitcoin has been moving with tech stocks, so today's US open matters for risk appetite.",
+   "caveat": "No board decision had been reported at the time of writing. Nvidia had not commented to CNBC.",
    "note": {
     "horizon": "intraday",
-    "read": "Buyers defended $73,000 on a closing basis, but with ETF and miner selling still running, that defence rests on thin demand.",
-    "alt": "The intraday break below $73,000 may already have cleared the stops below it, which sometimes marks a short-term low.",
-    "change": "A daily close below $72,600 would undo the hold; a close back above $75,000 would ease the pressure."
+    "read": "A shock at the biggest AI stock could pull the Nasdaq down at the open, and bitcoin has had little fresh buying to absorb a wider risk-off move.",
+    "alt": "The fall may stay limited to Nvidia, especially if the board settles the question quickly and the AI rally from CoreWeave holds.",
+    "change": "A clear board decision and a calm Nasdaq open would reduce the risk; a broad tech sell-off with bitcoin below $73,000 would confirm it."
    },
    "sources": [
     {
      "name": "Forbes",
-     "url": "https://www.forbes.com/sites/digital-assets/2026/11/10/bitcoin-falls-below-73000-to-reach-lowest-since-august/"
+     "url": "https://www.forbes.com/sites/siladityaray/2026/11/12/nvidia-shares-plunge-as-board-reportedly-prepares-to-oust-ceo-jensen-huang/"
     },
     {
-     "name": "KuCoin daily market report",
-     "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-november-11-2026"
-    },
-    {
-     "name": "CoinDesk",
-     "url": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat"
-    }
-   ]
-  },
-  {
-   "section": "Markets",
-   "impact": "🟠",
-   "confidence": "High",
-   "date": "2026-11-10",
-   "status": "Developing",
-   "title": "US 10-year yield closes at 5.00%; Nasdaq falls 0.7% as Nvidia drops 5.5%",
-   "why": "The 10-year yield rose about 14 basis points on the inflation report and the 2-year about 18 basis points to 4.73%. The S&P 500 fell 0.38% and the Nasdaq 0.74%. A 5% risk-free yield makes non-yielding assets like bitcoin less attractive to hold. US bond markets are closed today for Veterans Day.",
-   "note": {
-    "horizon": "swing",
-    "read": "Bitcoin's moves have been following rates more than stocks this week, so yields are the gauge to watch.",
-    "alt": "Part of the Nasdaq fall was Nvidia-specific (an internal investigation into its chief executive), not rates.",
-    "change": "A soft PPI print on Friday pulling the 10-year back below 4.9% would ease pressure on crypto."
-   },
-   "sources": [
-    {
-     "name": "TheStreet",
-     "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-10-2026"
+     "name": "Cointelegraph",
+     "url": "https://cointelegraph.com/news/nvidia-preparing-to-oust-ceo-jensen-huang-reports"
     },
     {
      "name": "StockTitan",
-     "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-10-2026"
+     "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-11-2026"
     }
    ]
   },
   {
    "section": "BTC",
-   "impact": "🟠",
+   "impact": "🔴",
    "confidence": "High",
-   "date": "2026-11-09",
-   "status": "New",
-   "title": "Miner MARA has sold 13,597 bitcoin since September and plans to sell more",
-   "why": "MARA said with its third-quarter results that it sold about $1.1 billion of bitcoin after 30 September, repaid $750m of bitcoin-backed loans, and will keep selling to fund AI infrastructure, debt and possible buybacks. It held 34,012 BTC at 30 September. Steady selling from a large holder adds supply while ETF demand is weak.",
+   "date": "2026-11-12",
+   "status": "Developing",
+   "title": "Bitcoin stalls near $73,500 as short-term holders send 47,300 BTC to exchanges at a loss",
+   "why": "Bitcoin was about $73,500 on Kraken early Thursday, range $73,304 to $74,754 over 24 hours, below the short-term holder cost basis of about $75,600 (Glassnode). New since yesterday: CryptoQuant data showed about 47,300 BTC sent to exchanges at a loss in a day, its Bull Score hit 0, and Glassnode said stablecoin supply fell $14.2 billion in 30 days, the fastest drop since June 2022.",
+   "caveat": "Exchange deposits are not proof of sales. Analysts cite $73,000 and $72,000 as support; those are opinions, not facts.",
+   "note": {
+    "horizon": "swing",
+    "read": "Recent buyers are selling at a loss and new stablecoin money is leaving, so there is less fuel for a bounce.",
+    "alt": "Loss-making deposits often cluster near local lows, and Glassnode says wallets holding 100 to 10,000 BTC have started accumulating.",
+    "change": "A return to stablecoin supply growth or a daily close back above $75,600 would weaken the bearish reading; a close below $72,000 would strengthen it."
+   },
    "sources": [
     {
-     "name": "CoinDesk",
-     "url": "https://www.coindesk.com/daybook-us/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-sells-holdings"
+     "name": "Decrypt (CryptoQuant data)",
+     "url": "https://decrypt.co/383077/bitcoin-short-term-holders-send-3-illion-btc-exchanges-loss"
     },
     {
-     "name": "Cryptonews.net (citing MARA's shareholder letter)",
-     "url": "https://cryptonews.net/news/bitcoin/33727387/"
+     "name": "Decrypt (Glassnode data)",
+     "url": "https://decrypt.co/383094/stablecoin-drain-etf-outflows-bitcoin-running-empty"
+    },
+    {
+     "name": "crypto.news",
+     "url": "https://crypto.news/bitcoin-price-stuck-73700-leverage-etf-outflows/"
     }
    ]
   },
@@ -133,83 +90,147 @@
    "section": "ETFs",
    "impact": "🟠",
    "confidence": "Medium",
-   "date": "2026-11-10",
+   "date": "2026-11-11",
    "status": "Developing",
-   "title": "ETF outflows slow to about $95m on Tuesday; IBIT redemptions continue",
-   "why": "Early figures show a net outflow of about $95m, with IBIT down $78m, Fidelity's FBTC down $37m and Morgan Stanley's MSBT up $20m. That is smaller than Monday's $201m, but it would be IBIT's eighth straight day of redemptions. Outflows since 2 November are about $1.5bn.",
-   "caveat": "Tuesday's figures come from a single tracker reported by TechFlow and are not yet confirmed by Farside or SoSoValue.",
+   "title": "Bitcoin ETF outflows grow again to about $300m, led by IBIT",
+   "why": "US spot bitcoin ETFs lost about $299.9 million on Wednesday: IBIT $269.7 million, GBTC $39.1 million, with Morgan Stanley's MSBT taking in $9 million. That is up from about $95 million on Tuesday, so yesterday's slowdown did not last. Bitfinex counts about $2.2 billion out over eight sessions from 30 October.",
+   "caveat": "Figures come from aggregators (Trader T via KuCoin, TokenPost); Farside's table was not checked.",
    "sources": [
     {
-     "name": "KuCoin (TechFlow)",
-     "url": "https://www.kucoin.com/news/flash/us-bitcoin-spot-etfs-recorded-95m-net-outflow-on-november-10"
+     "name": "KuCoin News (Trader T)",
+     "url": "https://www.kucoin.com/news/flash/us-bitcoin-spot-etfs-recorded-299-87m-net-outflow-on-november-11"
     },
     {
-     "name": "TFTC ETF tracker",
-     "url": "https://www.tftc.io/bitcoin-etf-flows/november-2026"
+     "name": "TokenPost",
+     "url": "https://www.tokenpost.com/news/investing/55014"
+    }
+   ]
+  },
+  {
+   "section": "Markets",
+   "impact": "🟠",
+   "confidence": "High",
+   "date": "2026-11-11",
+   "status": "New",
+   "title": "MSCI will drop Strategy from its USA Index at the close on 30 November",
+   "why": "MSCI confirmed Strategy (MSTR) and Metaplanet will leave its indexes under its new rules for non-operating companies, so funds tracking those indexes must sell the shares by the end of the month. Strategy fell 2.6% after hours to $119.06. Strategy is the largest corporate bitcoin holder, so pressure on its shares can weigh on sentiment, though the sale is of shares, not bitcoin.",
+   "sources": [
+    {
+     "name": "The Block",
+     "url": "https://www.theblock.co/news/markets/2026-11-11-strategy-metaplanet-lose-msci-index-membership-november-reshuffle-438437"
+    },
+    {
+     "name": "Cointelegraph",
+     "url": "https://cointelegraph.com/news/msci-confirms-strategys-removal-from-indexes-end-november"
+    },
+    {
+     "name": "Bitcoin Magazine",
+     "url": "https://bitcoinmagazine.com/markets/msci-removes-strategy-mstr-usa-index"
+    }
+   ]
+  },
+  {
+   "section": "ZEC",
+   "impact": "🟠",
+   "confidence": "Medium",
+   "date": "2026-11-12",
+   "status": "New",
+   "title": "Zcash founders propose removing 50,000 ZEC from the grants treasury; polls open Monday",
+   "why": "A draft proposal by Sean Bowe, Zooko Wilcox and Jason McGee would take 50,000 ZEC, about 55% of Zcash Community Grants' treasury, out of circulation and pay its value back through future mining rewards, CoinDesk reported. Coinholder and panel polls run 16 to 30 November, and it would need a network upgrade (NU7.1) with no date set.",
+   "caveat": "CoinDesk's headline puts the amount at about $50 million but its runway maths uses $1,300 per ZEC; at today's price it is nearer $49 million.",
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "url": "https://www.coindesk.com/tech/2026/11/12/zcash-holders-to-vote-on-pulling-50-000-zec-from-grants-treasury"
+    },
+    {
+     "name": "ChainCatcher",
+     "url": "https://www.chaincatcher.com/en/article/2304066"
+    }
+   ]
+  },
+  {
+   "section": "ZEC",
+   "impact": "🟠",
+   "confidence": "Medium",
+   "date": "2026-11-12",
+   "status": "Developing",
+   "title": "Zcash stays just under $1,000 after another dip to about $950",
+   "why": "ZEC traded about $983 on Kraken early Thursday after a 24-hour low of $949.52 and high of $1,027, so Tuesday's break below $1,000 has not been reversed. Analytics Insight put it down 3.5% on the day. No new figure on Grayscale trust redemptions was found.",
+   "sources": [
+    {
+     "name": "Analytics Insight",
+     "url": "https://analyticsinsight.net/price-analysis/crypto-prices-today-bitcoin-holds-near-usd-73600-as-zcash-falls-35"
+    },
+    {
+     "name": "Cointelegraph",
+     "url": "https://cointelegraph.com/markets/zcash-falls-1k-grayscales-1m-ecosystem-commitment"
     }
    ]
   },
   {
    "section": "Macro",
    "impact": "🟠",
-   "confidence": "High",
+   "confidence": "Medium",
    "date": "2026-11-10",
-   "status": "New",
-   "title": "Fed's Bowman: inflation progress has stalled, policy 'not on a preset course'",
-   "why": "Vice Chair Bowman said core PCE inflation likely rose to 3.3% in October and there is \"still work to do\", but stopped short of backing a hike and said tightening must be weighed against costs such as housing. She is often among the more dovish officials, so a hawkish tone from her narrows the case for a pause.",
+   "status": "Developing",
+   "title": "Futures now fully price a December Fed rate rise, with some odds of a half point",
+   "why": "After the hot October CPI, CME FedWatch showed about 88.8% for a quarter-point rise in December and 11.2% for a half point, Investing.com reported, up from about 72% for a rise a week earlier. Higher US rates have weighed on bitcoin; Friday's PPI is the next test.",
    "sources": [
     {
-     "name": "Federal Reserve",
-     "url": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm"
+     "name": "Investing.com (CME FedWatch)",
+     "url": "https://ca.investing.com/news/economy-news/fed-rate-hike-odds-in-december-at-88-after-hot-cpi-cme-fedwatch-4948680"
     }
    ]
   },
   {
    "section": "Protocol",
    "impact": "🟢",
-   "confidence": "Medium",
-   "date": "2026-11-10",
+   "confidence": "High",
+   "date": "2026-11-11",
    "status": "New",
-   "title": "Zcash NU8 proposal: 8MB blocks, Tachyon shielded pool, quantum-resistant options",
-   "why": "Developer ValarDragon proposed NU8 for a late January 2027 window, including a Tachyon pool designed against future quantum decryption and a fourfold block size rise. It is still in technical review, core engineer str4d has raised objections, and it would need a community vote.",
+   "title": "Bitcoin Core discloses three old flaws, including a high-severity mining bug, all fixed",
+   "why": "The flaws affected versions 28.0 to 29.1 and were fixed in Bitcoin Core 30.0 and 29.2 in October 2025. One could have stopped miners building valid blocks until they restarted their nodes. Background only: there is no live risk for up-to-date nodes.",
    "sources": [
     {
-     "name": "KuCoin (TechFlow)",
-     "url": "https://www.kucoin.com/news/flash/zcash-proposes-nu-8-upgrade-4x-block-size-200-tps-privacy-transactions-quantum-resistance"
+     "name": "The Block",
+     "url": "https://www.theblock.co/news/ecosystems/2026-11-11-bitcoin-core-discloses-three-patched-security-flaws-including-high-severity-mining-bug-437862"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://decrypt.co/383044/bitcoin-core-patches-bug-could-have-stalled-btc-mining"
     }
    ]
   }
  ],
  "explained": {
-  "title": "Why trust redemptions can push a coin's price down",
+  "title": "Why an index deletion forces selling",
   "body": [
-   "A trust like Grayscale's Zcash fund holds real coins on behalf of its shareholders. When investors redeem shares, the trust has to sell or hand over coins to pay them, which puts those coins onto the market.",
-   "If many holders redeem at once, that selling arrives on top of normal trading, and in a smaller market like Zcash it can move the price more than it would for bitcoin."
+   "Index funds and ETFs that track an index such as the MSCI USA must hold exactly what is in it. When MSCI removes a company, those funds have to sell its shares, usually at the closing price on the day the change takes effect, here 30 November.",
+   "Because the date is known in advance, traders often sell early or bet on the forced sale, so much of the price effect can come before the deadline. The funds sell Strategy shares, not bitcoin, but a weaker share price makes it harder for Strategy to raise money to buy more bitcoin."
   ]
  },
  "investigating": [
-  "How much ZEC is the Grayscale trust releasing? Evidence: the trust's published holdings over the coming days.",
-  "Was Tuesday IBIT's eighth straight day of outflows? Evidence: Farside or SoSoValue figures for 10 November.",
-  "Is The Wire missing overnight headlines? Its last refresh was 00:53 UTC, so news after that came from web searches."
+  "Will Nvidia's board remove Jensen Huang? Evidence: a company statement, and how the Nasdaq and bitcoin trade at the US open at 14:30 UK.",
+  "Was Wednesday really a $300m ETF outflow day? Evidence: Farside's daily table for 11 November.",
+  "Is The Wire missing overnight headlines? Its last refresh was 03:46 UTC, so later news came from web searches."
  ],
- "corrections": [
-  "Last night's edition (10 Nov, 19:45) said bitcoin's low was near $73,400. Coinbase data reported by Forbes shows a deeper low of $72,643 at 16:38 UTC."
- ],
+ "corrections": [],
  "ahead": [
   {
-   "when": "Wed 11 Nov",
-   "impact": "🟢",
-   "what": "US bond market closed (Veterans Day)"
-  },
-  {
-   "when": "Tonight 00:00 UK",
+   "when": "Today 14:30 UK",
    "impact": "🟠",
-   "what": "Bitcoin daily close: above or below $73,000"
+   "what": "US stock market open: first full session after the Nvidia report"
   },
   {
    "when": "Fri 13 Nov 13:30 UK",
    "impact": "🟠",
    "what": "US PPI (October)"
+  },
+  {
+   "when": "Mon 16 Nov",
+   "impact": "🟢",
+   "what": "Zcash coinholder polls open on the grants treasury proposal (to 30 Nov)"
   },
   {
    "when": "Wed 18 Nov 07:00 UK",
@@ -222,5 +243,5 @@
    "what": "FOMC minutes (October meeting)"
   }
  ],
- "id": "2026-11-11-0635"
+ "id": "2026-11-12-0645"
 }

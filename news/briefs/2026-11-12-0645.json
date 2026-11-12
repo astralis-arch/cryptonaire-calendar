@@ -1,0 +1,130 @@
+{
+  "generated": "2026-11-12T06:45:00Z",
+  "mood": "risk-off",
+  "briefing": {
+    "developments": [
+      "Nvidia shares fell 8.6% after hours on Wednesday after reports that its board was preparing to remove chief executive Jensen Huang. That erased a day of gains for tech stocks.",
+      "Bitcoin stayed stuck near $73,500, below the short-term holder cost basis of about $75,600. Short-term holders sent about 47,300 BTC to exchanges at a loss in 24 hours, according to CryptoQuant.",
+      "MSCI confirmed it will drop Strategy (MSTR) from its USA Index at the close on 30 November, so index funds tracking it will have to sell the shares."
+    ],
+    "changed": "Yesterday's damage was in Zcash. Overnight the new risk is outside crypto: the Nvidia report turned a strong day for US tech into a sharp after-hours fall. Bitcoin itself barely moved, and ETF outflows grew again to about $300 million.",
+    "question": "Does the Nvidia shock spread into a wider risk-off session at the US open? Bitcoin has been trading like a tech stock with less buying behind it.",
+    "watch": "The US stock market open today at 14:30 UK, then US PPI on Friday 13 November at 13:30 UK. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
+  },
+  "lead": {
+    "headline": "Nvidia boardroom shock hits tech as bitcoin stalls at $73,500",
+    "standfirst": "Nvidia shares fell almost 9% after hours on reports that its board was weighing the removal of Jensen Huang, while bitcoin held a narrow range under pressure from ETF outflows and loss-making sellers.",
+    "body": [
+      "Nvidia shares fell 8.61% in after-hours trading on Wednesday to $158.78, Forbes reported, after The Wall Street Journal said the chip maker's board was preparing to oust its founder and chief executive, Jensen Huang. Reuters said the board met late on Wednesday to decide his future. No decision had been reported by early Thursday.",
+      "The fall erased a 2.9% gain in Nvidia's regular session, when the Nasdaq rose 1.6% and the S&P 500 1.3% on strong CoreWeave results. Nvidia perpetual contracts on Hyperliquid dropped about 10%, The Block reported.",
+      "Bitcoin traded near $73,500 on Kraken early on Thursday, inside a 24-hour range of $73,304 to $74,754. CryptoQuant data cited by Decrypt showed short-term holders sent about 47,300 BTC to exchanges at a loss in a day, though deposits are not proof of sales. Glassnode said stablecoin supply shrank $14.2 billion in 30 days, the fastest drop since June 2022.",
+      "US spot bitcoin ETFs saw about $300 million of net outflows on Wednesday, led by $269.7 million from BlackRock's IBIT, according to figures from Trader T relayed by KuCoin.",
+      "Separately, MSCI confirmed that Strategy will leave its USA Index at the close on 30 November. Strategy shares fell 2.6% after hours, The Block reported.",
+      "Traders now turn to the US open and Friday's producer price figures, with markets fully pricing a Fed rate rise in December."
+    ]
+  },
+  "headline": "Reports that Nvidia's board may oust Jensen Huang sent its shares down almost 9% after hours, putting risk appetite on edge. Bitcoin is stuck near $73,500 as ETF outflows grow and MSCI drops Strategy from its index.",
+  "spoken": "Good morning. The mood is risk-off. Nvidia shares fell almost nine per cent after hours on reports its board may remove chief executive Jensen Huang, which wiped out a strong day for tech. Bitcoin is stuck near seventy-three thousand five hundred dollars. Short-term holders moved about forty-seven thousand coins to exchanges at a loss, and bitcoin funds lost about three hundred million dollars on Wednesday. Index provider MSCI will drop Strategy from its main US index at the end of November. Zcash is just under one thousand dollars, and its founders have proposed removing fifty thousand coins from the grants treasury, with a vote from Monday. Watch the US open at half past two this afternoon, and producer prices on Friday at half past one. Information only, not advice.",
+  "stories": [
+    {
+      "section": "Markets", "impact": "🔴", "confidence": "High", "date": "2026-11-11", "status": "New",
+      "title": "Nvidia falls 8.6% after hours on reports its board may oust Jensen Huang",
+      "why": "Nvidia closed at $173.73 on Wednesday, then fell to $158.78 after hours, Forbes reported, after the WSJ said the board was preparing to remove its CEO; Reuters said the board met late Wednesday. Nvidia perps on Hyperliquid fell about 10%. Bitcoin has been moving with tech stocks, so today's US open matters for risk appetite.",
+      "caveat": "No board decision had been reported at the time of writing. Nvidia had not commented to CNBC.",
+      "note": {"horizon": "intraday", "read": "A shock at the biggest AI stock could pull the Nasdaq down at the open, and bitcoin has had little fresh buying to absorb a wider risk-off move.", "alt": "The fall may stay limited to Nvidia, especially if the board settles the question quickly and the AI rally from CoreWeave holds.", "change": "A clear board decision and a calm Nasdaq open would reduce the risk; a broad tech sell-off with bitcoin below $73,000 would confirm it."},
+      "sources": [
+        {"name": "Forbes", "url": "https://www.forbes.com/sites/siladityaray/2026/11/12/nvidia-shares-plunge-as-board-reportedly-prepares-to-oust-ceo-jensen-huang/"},
+        {"name": "Cointelegraph", "url": "https://cointelegraph.com/news/nvidia-preparing-to-oust-ceo-jensen-huang-reports"},
+        {"name": "StockTitan", "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-11-2026"}
+      ]
+    },
+    {
+      "section": "BTC", "impact": "🔴", "confidence": "High", "date": "2026-11-12", "status": "Developing",
+      "title": "Bitcoin stalls near $73,500 as short-term holders send 47,300 BTC to exchanges at a loss",
+      "why": "Bitcoin was about $73,500 on Kraken early Thursday, range $73,304 to $74,754 over 24 hours, below the short-term holder cost basis of about $75,600 (Glassnode). New since yesterday: CryptoQuant data showed about 47,300 BTC sent to exchanges at a loss in a day, its Bull Score hit 0, and Glassnode said stablecoin supply fell $14.2 billion in 30 days, the fastest drop since June 2022.",
+      "caveat": "Exchange deposits are not proof of sales. Analysts cite $73,000 and $72,000 as support; those are opinions, not facts.",
+      "note": {"horizon": "swing", "read": "Recent buyers are selling at a loss and new stablecoin money is leaving, so there is less fuel for a bounce.", "alt": "Loss-making deposits often cluster near local lows, and Glassnode says wallets holding 100 to 10,000 BTC have started accumulating.", "change": "A return to stablecoin supply growth or a daily close back above $75,600 would weaken the bearish reading; a close below $72,000 would strengthen it."},
+      "sources": [
+        {"name": "Decrypt (CryptoQuant data)", "url": "https://decrypt.co/383077/bitcoin-short-term-holders-send-3-illion-btc-exchanges-loss"},
+        {"name": "Decrypt (Glassnode data)", "url": "https://decrypt.co/383094/stablecoin-drain-etf-outflows-bitcoin-running-empty"},
+        {"name": "crypto.news", "url": "https://crypto.news/bitcoin-price-stuck-73700-leverage-etf-outflows/"}
+      ]
+    },
+    {
+      "section": "ETFs", "impact": "🟠", "confidence": "Medium", "date": "2026-11-11", "status": "Developing",
+      "title": "Bitcoin ETF outflows grow again to about $300m, led by IBIT",
+      "why": "US spot bitcoin ETFs lost about $299.9 million on Wednesday: IBIT $269.7 million, GBTC $39.1 million, with Morgan Stanley's MSBT taking in $9 million. That is up from about $95 million on Tuesday, so yesterday's slowdown did not last. Bitfinex counts about $2.2 billion out over eight sessions from 30 October.",
+      "caveat": "Figures come from aggregators (Trader T via KuCoin, TokenPost); Farside's table was not checked.",
+      "sources": [
+        {"name": "KuCoin News (Trader T)", "url": "https://www.kucoin.com/news/flash/us-bitcoin-spot-etfs-recorded-299-87m-net-outflow-on-november-11"},
+        {"name": "TokenPost", "url": "https://www.tokenpost.com/news/investing/55014"}
+      ]
+    },
+    {
+      "section": "Markets", "impact": "🟠", "confidence": "High", "date": "2026-11-11", "status": "New",
+      "title": "MSCI will drop Strategy from its USA Index at the close on 30 November",
+      "why": "MSCI confirmed Strategy (MSTR) and Metaplanet will leave its indexes under its new rules for non-operating companies, so funds tracking those indexes must sell the shares by the end of the month. Strategy fell 2.6% after hours to $119.06. Strategy is the largest corporate bitcoin holder, so pressure on its shares can weigh on sentiment, though the sale is of shares, not bitcoin.",
+      "sources": [
+        {"name": "The Block", "url": "https://www.theblock.co/news/markets/2026-11-11-strategy-metaplanet-lose-msci-index-membership-november-reshuffle-438437"},
+        {"name": "Cointelegraph", "url": "https://cointelegraph.com/news/msci-confirms-strategys-removal-from-indexes-end-november"},
+        {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/markets/msci-removes-strategy-mstr-usa-index"}
+      ]
+    },
+    {
+      "section": "ZEC", "impact": "🟠", "confidence": "Medium", "date": "2026-11-12", "status": "New",
+      "title": "Zcash founders propose removing 50,000 ZEC from the grants treasury; polls open Monday",
+      "why": "A draft proposal by Sean Bowe, Zooko Wilcox and Jason McGee would take 50,000 ZEC, about 55% of Zcash Community Grants' treasury, out of circulation and pay its value back through future mining rewards, CoinDesk reported. Coinholder and panel polls run 16 to 30 November, and it would need a network upgrade (NU7.1) with no date set.",
+      "caveat": "CoinDesk's headline puts the amount at about $50 million but its runway maths uses $1,300 per ZEC; at today's price it is nearer $49 million.",
+      "sources": [
+        {"name": "CoinDesk", "url": "https://www.coindesk.com/tech/2026/11/12/zcash-holders-to-vote-on-pulling-50-000-zec-from-grants-treasury"},
+        {"name": "ChainCatcher", "url": "https://www.chaincatcher.com/en/article/2304066"}
+      ]
+    },
+    {
+      "section": "ZEC", "impact": "🟠", "confidence": "Medium", "date": "2026-11-12", "status": "Developing",
+      "title": "Zcash stays just under $1,000 after another dip to about $950",
+      "why": "ZEC traded about $983 on Kraken early Thursday after a 24-hour low of $949.52 and high of $1,027, so Tuesday's break below $1,000 has not been reversed. Analytics Insight put it down 3.5% on the day. No new figure on Grayscale trust redemptions was found.",
+      "sources": [
+        {"name": "Analytics Insight", "url": "https://analyticsinsight.net/price-analysis/crypto-prices-today-bitcoin-holds-near-usd-73600-as-zcash-falls-35"},
+        {"name": "Cointelegraph", "url": "https://cointelegraph.com/markets/zcash-falls-1k-grayscales-1m-ecosystem-commitment"}
+      ]
+    },
+    {
+      "section": "Macro", "impact": "🟠", "confidence": "Medium", "date": "2026-11-10", "status": "Developing",
+      "title": "Futures now fully price a December Fed rate rise, with some odds of a half point",
+      "why": "After the hot October CPI, CME FedWatch showed about 88.8% for a quarter-point rise in December and 11.2% for a half point, Investing.com reported, up from about 72% for a rise a week earlier. Higher US rates have weighed on bitcoin; Friday's PPI is the next test.",
+      "sources": [
+        {"name": "Investing.com (CME FedWatch)", "url": "https://ca.investing.com/news/economy-news/fed-rate-hike-odds-in-december-at-88-after-hot-cpi-cme-fedwatch-4948680"}
+      ]
+    },
+    {
+      "section": "Protocol", "impact": "🟢", "confidence": "High", "date": "2026-11-11", "status": "New",
+      "title": "Bitcoin Core discloses three old flaws, including a high-severity mining bug, all fixed",
+      "why": "The flaws affected versions 28.0 to 29.1 and were fixed in Bitcoin Core 30.0 and 29.2 in October 2025. One could have stopped miners building valid blocks until they restarted their nodes. Background only: there is no live risk for up-to-date nodes.",
+      "sources": [
+        {"name": "The Block", "url": "https://www.theblock.co/news/ecosystems/2026-11-11-bitcoin-core-discloses-three-patched-security-flaws-including-high-severity-mining-bug-437862"},
+        {"name": "Decrypt", "url": "https://decrypt.co/383044/bitcoin-core-patches-bug-could-have-stalled-btc-mining"}
+      ]
+    }
+  ],
+  "explained": {
+    "title": "Why an index deletion forces selling",
+    "body": [
+      "Index funds and ETFs that track an index such as the MSCI USA must hold exactly what is in it. When MSCI removes a company, those funds have to sell its shares, usually at the closing price on the day the change takes effect, here 30 November.",
+      "Because the date is known in advance, traders often sell early or bet on the forced sale, so much of the price effect can come before the deadline. The funds sell Strategy shares, not bitcoin, but a weaker share price makes it harder for Strategy to raise money to buy more bitcoin."
+    ]
+  },
+  "investigating": [
+    "Will Nvidia's board remove Jensen Huang? Evidence: a company statement, and how the Nasdaq and bitcoin trade at the US open at 14:30 UK.",
+    "Was Wednesday really a $300m ETF outflow day? Evidence: Farside's daily table for 11 November.",
+    "Is The Wire missing overnight headlines? Its last refresh was 03:46 UTC, so later news came from web searches."
+  ],
+  "corrections": [],
+  "ahead": [
+    {"when": "Today 14:30 UK", "impact": "🟠", "what": "US stock market open: first full session after the Nvidia report"},
+    {"when": "Fri 13 Nov 13:30 UK", "impact": "🟠", "what": "US PPI (October)"},
+    {"when": "Mon 16 Nov", "impact": "🟢", "what": "Zcash coinholder polls open on the grants treasury proposal (to 30 Nov)"},
+    {"when": "Wed 18 Nov 07:00 UK", "impact": "🟢", "what": "UK CPI (October)"},
+    {"when": "Wed 18 Nov 19:00 UK", "impact": "🟢", "what": "FOMC minutes (October meeting)"}
+  ]
+}
