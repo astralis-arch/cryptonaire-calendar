@@ -1,74 +1,44 @@
 {
- "generated": "2026-11-12T16:35:00Z",
+ "generated": "2026-11-12T21:40:00Z",
  "mood": "risk-off",
  "briefing": {
   "developments": [
-   "Jensen Huang resigned as Nvidia's chief executive and left its board with immediate effect; CFO Colette Kress is interim CEO, and Nvidia shares fell about 10% before the US open.",
-   "Bitcoin broke below $72,000 and touched about $71,100, its weakest level since August, as over $650 million of mostly long positions were liquidated across crypto.",
-   "Futures now price about a 94% chance of a December Fed rate rise, with the 10-year Treasury yield above 5%."
+   "Wall Street closed only about 0.4% lower and Nvidia cut its loss to 4.3%, after falling about 10% before the open on Jensen Huang's resignation.",
+   "Bitcoin did not share the recovery: it ended the US session near $71,500, down about 3.3% on the day and close to Thursday's low of $71,133.",
+   "The 10-year Treasury yield closed at 5.10% and oil rose about 2.7% after President Trump said the US did not need a deal with Iran."
   ],
-  "changed": "This morning bitcoin was holding $73,500 and the Nvidia story was unresolved. Since then Huang has gone, bitcoin has lost another $2,000, leveraged longs have been flushed out, and Zcash slipped further below $1,000. The Nasdaq itself held up better than Nvidia, so the shock has hit crypto harder than stocks.",
-  "question": "Is the drop to $71,000 a leverage flush that runs its course, or the start of a test of $70,000 while ETF money keeps leaving?",
-  "watch": "The US close at 21:00 UK, then US PPI on Friday 13 November at 13:30 UK. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
+  "changed": "This afternoon the question was whether Huang's exit would spread through tech. It did not: the Nasdaq fell only 0.39% and Nvidia halved its loss. Bitcoin, though, stayed pinned near its low, so the gap between crypto and stocks widened. Higher yields and oil added to the rate pressure. Zcash was little changed at about $954.",
+  "question": "Why is bitcoin failing to bounce when US stocks shrugged off the Nvidia shock: is it ETF selling, index-related selling around Strategy, or simply rate fears?",
+  "watch": "Thursday's US spot bitcoin ETF flows (due overnight), then US PPI on Friday 13 November at 13:30 UK. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
  },
  "lead": {
-  "headline": "Huang quits Nvidia as bitcoin slides to lowest since August",
-  "standfirst": "Nvidia's founder resigned with immediate effect on Thursday, and bitcoin fell through $72,000 as more than $650 million of crypto bets were liquidated.",
+  "headline": "Stocks steady after Huang's exit but bitcoin stays near lows",
+  "standfirst": "Wall Street closed only slightly lower on Thursday as Nvidia pared its losses, but bitcoin ended the US session near $71,500, close to its weakest level in about 12 weeks.",
   "body": [
-   "Jensen Huang resigned as president, chief executive and director of Nvidia with immediate effect, the company's board announced at 13:48 UK time on Thursday. Chief financial officer Colette Kress became interim chief executive and Harvey Jones was named the board's first chair, StockTitan reported, citing Nvidia's filing with the SEC.",
-   "Nvidia shares were down about 10% before the US open, wiping roughly $440 billion off its market value, but the Nasdaq was down only about 0.35% by mid-morning in New York, according to CoinDesk. Nvidia still plans to report results on 17 November.",
-   "Bitcoin fared worse. It fell below $72,000 and touched about $71,100 on Kraken, its weakest level since August. Coinglass data cited by Bitcoin.com showed more than $656 million of crypto positions liquidated in 24 hours, about $555 million of them longs.",
-   "Fund flows added to the pressure. US spot bitcoin ETFs lost $1.44 billion over five sessions to 11 November, according to SoSoValue data reported by Decrypt.",
-   "Rates kept rising. Markets priced about a 94% chance of a quarter-point Fed rate rise on 9 December, and the 10-year Treasury yield stood above 5%, CoinDesk reported.",
-   "Zcash fell to about $955. Traders now turn to the US close and Friday's producer price figures at 13:30 UK."
+   "US shares closed modestly lower on Thursday after Nvidia's founder Jensen Huang resigned as chief executive. The S&P 500 fell 0.35% to 7,592, the Nasdaq Composite 0.39% and the Dow 0.36%, according to Yahoo Finance. Nvidia closed down 4.3% at $166.19, having traded about 10% lower before the open.",
+   "Bitcoin did not recover with stocks. It traded at about $71,500 on Kraken at 21:30 UK, down about 3.3% from the day's opening level and near Thursday's low of $71,133. The Block reported that more than $750 million of crypto positions were liquidated in 24 hours, most of them bets on rising prices, citing CoinGlass.",
+   "Rates and energy added pressure. The 10-year Treasury yield closed at 5.10%, up 0.10 percentage points, and US crude rose about 2.7% after President Trump said the US did not need a deal with Iran, Yahoo Finance reported.",
+   "In crypto company news, Binance said it had completed covering the $6.34 billion of assets stolen in its 29 October hack, using its own funds, Bitcoin Magazine reported. Rumble disclosed that it had sold about two-thirds of its bitcoin in the third quarter.",
+   "Zcash was about $954, little changed since the afternoon. Thursday's ETF flow figures are due overnight, and US producer prices follow on Friday at 13:30 UK."
   ]
  },
- "headline": "Jensen Huang resigned from Nvidia and bitcoin fell below $72,000 to its lowest since August as over $650 million of leveraged bets were wiped out. Fed hike odds rose to about 94% and ETF outflows hit $1.44 billion in five days.",
- "spoken": "Cryptonaire Post, afternoon edition. The mood is risk-off. Jensen Huang has resigned as Nvidia's chief executive with immediate effect, and its shares fell about ten per cent, though the wider Nasdaq held up. Bitcoin fell below seventy-two thousand dollars, touching about seventy-one thousand one hundred, its lowest since August, as more than six hundred and fifty million dollars of crypto bets were liquidated. Bitcoin funds have lost one point four billion dollars in five days. Markets now see a ninety-four per cent chance of a Fed rate rise in December. Zcash is about nine hundred and fifty-five dollars. Next, watch US producer prices on Friday at half past one. Information only, not advice.",
+ "headline": "US stocks closed only slightly lower and Nvidia halved its loss after Jensen Huang's exit, but bitcoin stayed near $71,500, close to a 12-week low. The 10-year yield closed at 5.10% and oil jumped on Iran comments.",
+ "spoken": "Cryptonaire Post, evening edition. The mood is still risk-off. Wall Street closed only about half a per cent lower, and Nvidia ended down four per cent after falling ten per cent before the open on Jensen Huang's resignation. Bitcoin did not join the recovery. It is about seventy-one thousand five hundred dollars, down around three per cent on the day and near its lowest since August. The ten-year Treasury yield closed at five point one per cent, and oil rose after comments on Iran. Binance says it has fully covered its six billion dollar hack. Zcash is about nine hundred and fifty dollars. Next, US producer prices on Friday at half past one. Information only, not advice.",
  "stories": [
-  {
-   "section": "Markets",
-   "impact": "🔴",
-   "confidence": "High",
-   "date": "2026-11-12",
-   "status": "Outlook changed",
-   "title": "Jensen Huang resigns as Nvidia CEO; Colette Kress named interim chief",
-   "why": "This morning the board's decision was unknown. At 08:48 ET (13:48 UK) Nvidia said Huang had resigned as CEO and director with immediate effect; CFO Colette Kress is interim CEO and Harvey Jones is chair. Shares were down about 10% premarket at $155.44, but by 10:00 ET Nvidia was down about 7% and the Nasdaq only about 0.35%, CoinDesk reported. Results are still due on 17 November.",
-   "note": {
-    "horizon": "swing",
-    "read": "Removing the uncertainty quickly kept the damage mostly inside Nvidia; the wider tech market did not crack, so this alone does not explain bitcoin's fall.",
-    "alt": "A leaderless Nvidia could weigh on the whole AI trade over the coming weeks, especially if the 17 November results or guidance disappoint.",
-    "change": "A broad Nasdaq sell-off into the close, or weak Nvidia guidance on 17 November, would make this a wider risk-off driver."
-   },
-   "sources": [
-    {
-     "name": "StockTitan (Nvidia 8-K)",
-     "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-12-2026"
-    },
-    {
-     "name": "CoinDesk live",
-     "url": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets"
-    },
-    {
-     "name": "Yahoo Finance",
-     "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html"
-    }
-   ]
-  },
   {
    "section": "BTC",
    "impact": "🔴",
    "confidence": "High",
    "date": "2026-11-12",
    "status": "Developing",
-   "title": "Bitcoin breaks below $72,000 to its lowest since August as $656m is liquidated",
-   "why": "Bitcoin was about $71,630 on Kraken at 16:30 UK, after a low of $71,133, down from about $73,500 this morning. Coinglass data cited by Bitcoin.com showed $656 million of crypto liquidations in 24 hours, about $555 million longs and $237 million in BTC, with the sharpest burst around 13:15 UK. CoinDesk called it the weakest level since mid-to-late August.",
-   "caveat": "Analysts point to $70,000 as the next level to watch; that is opinion, not fact.",
+   "title": "Bitcoin ends the US session near $71,500 with no rebound",
+   "why": "Since the afternoon edition bitcoin has moved sideways at about $71,500 on Kraken, down about 3.3% from the day's open of $73,929 and just above the $71,133 low. The Block put 24-hour liquidations above $750 million, about $634 million of them longs (CoinGlass), up from $656 million reported this afternoon.",
+   "caveat": "Liquidation totals differ by data provider and time window.",
    "note": {
-    "horizon": "intraday",
-    "read": "This morning's warning signs (holders selling at a loss, shrinking stablecoin supply) played out: with little fresh buying, a crowded long position was flushed.",
-    "alt": "Large long liquidations often mark short-term exhaustion, and the Nasdaq's resilience suggests this was a crypto-specific leverage clear-out rather than a wider panic.",
-    "change": "A recovery back above $73,000 would suggest the flush is done; a daily close below $70,000 would point to a deeper reset."
+    "horizon": "swing",
+    "read": "The forced selling has slowed but buyers have not returned; bitcoin is lagging stocks, which points to crypto-specific selling (ETFs, Strategy-related flows) as much as the Nvidia shock.",
+    "alt": "Thin evening liquidity may simply be delaying a bounce that usually follows a large long flush.",
+    "change": "A move back above about $73,000 would weaken the case for a deeper reset; a daily close below $70,000 would strengthen it."
    },
    "sources": [
     {
@@ -76,35 +46,37 @@
      "url": "https://api.kraken.com/0/public/Ticker?pair=XBTUSD"
     },
     {
-     "name": "Bitcoin.com (Coinglass data)",
-     "url": "https://news.bitcoin.com/market-updates/bitcoin-price-breaks-below-72k-656m-liquidation-bloodbath/"
+     "name": "The Block",
+     "url": "https://www.theblock.co/news/markets/2026-11-12-bitcoin-12-week-low-jensen-huang-exit-nvidia-438992"
     },
     {
-     "name": "CoinDesk live",
-     "url": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets"
+     "name": "Cointelegraph",
+     "url": "https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation"
     }
    ]
   },
   {
-   "section": "ETFs",
+   "section": "Markets",
    "impact": "🟠",
    "confidence": "High",
-   "date": "2026-11-11",
-   "status": "Developing",
-   "title": "Bitcoin ETFs lose $1.44bn in five days; Wednesday's $300m outflow confirmed",
-   "why": "SoSoValue data reported by Decrypt confirms this morning's figure: $299.9 million out on Wednesday, $1.44 billion over 5 to 11 November and $1.88 billion so far in November. CoinDesk put about $270 million of Wednesday's outflow in BlackRock's IBIT, and Cointelegraph counted about $2 billion out of IBIT over nine sessions. Cumulative net inflows remain about $55 billion.",
+   "date": "2026-11-12",
+   "status": "Outlook changed",
+   "title": "Wall Street closes only 0.4% lower; Nvidia pares its loss to 4.3%",
+   "why": "This afternoon the risk was a wider tech sell-off. At the close the S&P 500 was down 0.35% at 7,592.40, the Nasdaq down 0.39% at 25,366 and the Dow down 0.36%, with Nvidia at $166.19 (down 4.3%), according to Yahoo Finance. The shock stayed largely inside Nvidia.",
+   "note": {
+    "horizon": "swing",
+    "read": "Stocks treated Huang's exit as a company problem, not a market one, which removes Nvidia as the main explanation for crypto's weakness.",
+    "alt": "The full test comes with Nvidia's results on 17 November, the first under interim CEO Colette Kress.",
+    "change": "Weak results or guidance on 17 November could turn this back into a broad AI and risk-asset sell-off."
+   },
    "sources": [
     {
-     "name": "Decrypt (SoSoValue)",
-     "url": "https://decrypt.co/383122/bitcoin-etfs-bleed-1-4b-in-five-days-as-investors-cut-risk"
+     "name": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-slides-jensen-huang-resigns-invest-165632931.html"
     },
     {
-     "name": "CoinDesk",
-     "url": "https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five"
-    },
-    {
-     "name": "Cointelegraph",
-     "url": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-ibit-outflows-nine-day-streak"
+     "name": "StockTitan",
+     "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-12-2026"
     }
    ]
   },
@@ -114,69 +86,94 @@
    "confidence": "Medium",
    "date": "2026-11-12",
    "status": "Developing",
-   "title": "December Fed hike odds rise to about 94% as the 10-year yield tops 5%",
-   "why": "Up from about 89% after Tuesday's CPI. Cleveland Fed President Beth Hammack said policy needs to be restrictive and she prefers smaller, steady rises. US jobless claims rose to 200,000 (forecast 195,000) and existing home sales fell to 3.75 million, the lowest since 2010, CoinDesk reported. The dollar index is above 103 and gold fell to about $3,868.",
+   "title": "10-year yield closes at 5.10% as oil jumps on Iran comments",
+   "why": "The 10-year Treasury yield rose 0.10 points to 5.10%, and the December crude contract rose about 2.7% to $88.90 after President Trump said the US did not need a deal with Iran, Yahoo Finance reported. Higher oil feeds inflation fears ahead of Friday's PPI, with markets already pricing a December Fed hike.",
+   "caveat": "Yahoo Finance's own text gave a different oil figure (WTI up 1.5% to $94), so the size of the oil move is uncertain.",
    "sources": [
     {
-     "name": "CoinDesk live",
-     "url": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets"
+     "name": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-slides-jensen-huang-resigns-invest-165632931.html"
+    }
+   ]
+  },
+  {
+   "section": "Markets",
+   "impact": "🟢",
+   "confidence": "Medium",
+   "date": "2026-11-12",
+   "status": "New",
+   "title": "Binance says it has finished covering the $6.34bn stolen in its October hack",
+   "why": "Binance said it replaced the affected assets from its own funds (its SAFU user fund, part of its futures insurance fund and its treasury), not by recovering the stolen coins, Bitcoin Magazine reported. It plans to rebuild SAFU to about $1 billion; withdrawals are still reopening in phases. This lowers the risk of a forced sale by the world's largest exchange.",
+   "sources": [
+    {
+     "name": "Bitcoin Magazine",
+     "url": "https://bitcoinmagazine.com/news/binance-covers-6-34-billion-hack"
+    },
+    {
+     "name": "The Block (30 Oct)",
+     "url": "https://www.theblock.co/news/ecosystems/2026-10-30-binance-says-it-has-6-34-billion-ready-to-cover-hack-losses-432208"
+    }
+   ]
+  },
+  {
+   "section": "BTC",
+   "impact": "🟢",
+   "confidence": "Medium",
+   "date": "2026-11-11",
+   "status": "New",
+   "title": "Rumble sold about two-thirds of its bitcoin in the third quarter",
+   "why": "Rumble's holdings fell from 293 BTC at the end of June to about 95 BTC on 30 September, according to its results, Bitcoin Magazine reported. It gave no reason. A small amount, but another company trimming bitcoin as cash shifts to AI businesses.",
+   "sources": [
+    {
+     "name": "Bitcoin Magazine",
+     "url": "https://bitcoinmagazine.com/news/rumble-rum-sells-two-thirds-bitcoin"
     }
    ]
   },
   {
    "section": "ZEC",
-   "impact": "🟠",
-   "confidence": "Medium",
+   "impact": "🟢",
+   "confidence": "High",
    "date": "2026-11-12",
-   "status": "Developing",
-   "title": "Zcash slips to about $955 as the only ZEC ETF loses $15m",
-   "why": "ZEC was about $955 on Kraken at 16:30 UK, after a low of $940.73, down from about $983 this morning, so the break below $1,000 is holding. CoinDesk reported the lone US ZEC ETF lost nearly $15 million in one session. The grants treasury vote from Monday is unchanged.",
+   "status": "No material change",
+   "title": "Zcash holds about $954 after a low of $928",
+   "why": "ZEC was about $954 on Kraken at 21:30 UK, unchanged since the afternoon edition, after a 24-hour low of $928. The grants treasury polls still open on Monday.",
    "sources": [
     {
      "name": "Kraken (ticker)",
      "url": "https://api.kraken.com/0/public/Ticker?pair=ZECUSD"
-    },
-    {
-     "name": "CoinDesk live",
-     "url": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets"
     }
    ]
   },
   {
-   "section": "UK",
+   "section": "Macro",
    "impact": "🟢",
-   "confidence": "Medium",
+   "confidence": "High",
    "date": "2026-11-12",
    "status": "New",
-   "title": "Gemini sells its UK and European arm to stablecoin firm KAST for under $10m",
-   "why": "CoinDesk reported that Gemini is selling the UK and EU businesses it planned to wind down to Singapore-based KAST, citing one person familiar with the deal. Buyers have valued such units for their regulatory permissions, a sign of how scarce UK crypto licences are before the FCA regime. Neither firm commented; nothing was said about UK customers.",
+   "title": "Fed publishes revised 2027 meeting dates",
+   "why": "The Federal Reserve set eight 2027 meetings, the first on 26 to 27 January. The October 2027 meeting will discuss policy strategy and will not announce a rate decision. Useful for planning next year's calendar.",
    "sources": [
     {
-     "name": "CoinDesk",
-     "url": "https://www.coindesk.com/business/2026/11/12/gemini-sells-uk-and-european-operations-to-stablecoin-payments-firm-kast-for-under-usd10-million"
+     "name": "Federal Reserve",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm"
     }
    ]
   }
  ],
  "explained": {
-  "title": "What a liquidation cascade is",
+  "title": "Why bitcoin can fall when stocks hold up",
   "body": [
-   "Traders who borrow to bet on a rise (longs) must keep enough collateral on the exchange. When the price falls far enough, the exchange closes the position automatically by selling. That forced selling pushes the price lower, which triggers the next layer of liquidations.",
-   "Cascades are fast and can overshoot. Once the crowded leverage is gone, the forced selling stops, which is why analysts watch liquidation totals for signs that a drop is exhausting itself, though that is never guaranteed."
+   "Bitcoin and tech shares often move together because the same investors own both. But crypto has its own pipes: ETF redemptions, leveraged futures that can be liquidated automatically, and companies such as Strategy whose shares are tied to bitcoin.",
+   "When those pipes are all pushing the same way, bitcoin can fall further than stocks on the same news, as it did on Thursday. When they turn, the gap can close just as quickly."
   ]
  },
  "investigating": [
-  "Does the Nasdaq hold up into the 21:00 UK close? Evidence: closing moves in Nvidia, the Nasdaq and bitcoin.",
-  "Did ETF outflows continue on Thursday? Evidence: SoSoValue and Farside figures, published tonight UK time.",
-  "The Wire's last refresh was 13:20 UTC, about three hours before this edition, so later news came from web searches. Evidence: the next status.json update."
+  "Did ETF outflows continue on Thursday for a sixth day? Evidence: SoSoValue and Farside figures, due overnight UK time.",
+  "Is selling linked to Strategy's removal from MSCI indexes on 30 November building? Evidence: Strategy's share price and premium to its bitcoin holdings over the coming days."
  ],
  "corrections": [],
  "ahead": [
-  {
-   "when": "Today 21:00 UK",
-   "impact": "🟠",
-   "what": "US market close: first full session after Huang's resignation"
-  },
   {
    "when": "Fri 13 Nov 13:30 UK",
    "impact": "🟠",
@@ -190,7 +187,7 @@
   {
    "when": "Tue 17 Nov, after US close",
    "impact": "🟠",
-   "what": "Nvidia third-quarter results"
+   "what": "Nvidia third-quarter results, the first under interim CEO Colette Kress"
   },
   {
    "when": "Wed 18 Nov 07:00 UK",
@@ -203,5 +200,5 @@
    "what": "FOMC minutes (October meeting)"
   }
  ],
- "id": "2026-11-12-1635"
+ "id": "2026-11-12-2140"
 }
