@@ -1,5 +1,25 @@
 [
 {
+"id": "21ec9da77551aa70",
+"title": "Morning Minute: Tokenized Stock Venues Are Launching Without Big Tech’s Approval",
+"link": "https://decrypt.co/383129/morning-minute-tokenized-stock-venues-are-launching-without-big-techs-approval",
+"published": "2026-11-12T13:06:24Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T13:20:26Z"
+},
+{
+"id": "2d11fd78fd1ccc1b",
+"title": "BNY taps Figment to support staking on its digital asset custody platform",
+"link": "https://www.theblock.co/news/business/2026-11-12-bny-taps-figment-to-support-staking-on-its-digital-asset-custody-platform-438538",
+"published": "2026-11-12T13:05:02Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T13:20:26Z"
+},
+{
 "id": "3bf0f3aa3c0f9e16",
 "title": "BitGo expands institutional stablecoin minting and redemption platform with USDC",
 "link": "https://www.theblock.co/news/business/2026-11-12-bitgo-expands-institutional-stablecoin-minting-and-redemption-platform-with-usdc-438525",
@@ -3239,6 +3259,16 @@
 "kind": "official",
 "first_seen": "2026-11-05T16:00:00Z",
 "backfill": true
+},
+{
+"id": "26d3012260db32ae",
+"title": "Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes",
+"link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
+"published": "2026-11-05T12:00:00Z",
+"source": "Bank of England",
+"desk": "UK",
+"kind": "official",
+"first_seen": "2026-11-12T13:20:26Z"
 },
 {
 "id": "8d5a24149ad723ae",
