@@ -111,7 +111,7 @@ body.kiosk .watch{background:#000;border-radius:0;padding:0;max-width:none;width
 
   <div class="strip" id="strip"></div>
 
-  <p class="foot">Prices, volume and the order book come from Binance spot USDT pairs, shown in US$ (1 USDT treated as $1). The Me screen converts your holding to pounds with CoinGecko's USDT/GBP rate, because UK tax works in pounds. Funding, open interest and liquidations come from Binance perpetual futures; liquidations only count from when the page was opened. Your holding stays in this browser and is never sent anywhere. Information display, not a trade signal. Flow and leverage figures come from perpetual futures markets. They are fine to read, but UK retail customers can't trade crypto derivatives with FCA-regulated firms. The CGT line uses the £3,000 annual exempt amount and ignores fees, other disposals and the share-pooling rules, so treat it as a rough guide.</p>
+  <p class="foot">ETF flows: The Commoner Bitcoin ETF Tracker by TFTC, tftc.io/bitcoin-etf-flows, CC BY 4.0. Prices, volume and the order book come from Binance spot USDT pairs, shown in US$ (1 USDT treated as $1). The Me screen converts your holding to pounds with CoinGecko's USDT/GBP rate, because UK tax works in pounds. Funding, open interest and liquidations come from Binance perpetual futures; liquidations only count from when the page was opened. Your holding stays in this browser and is never sent anywhere. Information display, not a trade signal. Flow and leverage figures come from perpetual futures markets. They are fine to read, but UK retail customers can't trade crypto derivatives with FCA-regulated firms. The CGT line uses the £3,000 annual exempt amount and ignores fees, other disposals and the share-pooling rules, so treat it as a rough guide.</p>
 </div>
 
 <script>
@@ -146,12 +146,12 @@ function makeScenario(p){
   return{bars,daily,oiCh:p.oi,funding:p.fund,bids:p.bids,taker:p.taker};
 }
 const SCEN=[
-  {id:"quiet",label:"Quiet day",target:64200,seed:11,dDrift:0.0016,mDrift:0.04,vol:0.0035,ch24:0.006,late:0,vol24:0.002,oi:0.004,fund:0.00004,bids:0.57,taker:0.98},
-  {id:"climb",label:"Steady climb",target:66800,seed:7,dDrift:0.0018,mDrift:0.06,vol:0.004,ch24:0.043,late:0.1,vol24:0.0025,oi:0.031,fund:0.00011,bids:0.61,taker:1.18},
-  {id:"hot",label:"Running hot",target:71500,seed:5,dDrift:0.0022,mDrift:0.14,vol:0.006,ch24:0.094,late:0.35,vol24:0.006,oi:0.082,fund:0.00046,bids:0.44,taker:1.42,volBoost:1.4},
-  {id:"slide",label:"Slide",target:58900,seed:21,dDrift:0.0015,mDrift:-0.12,vol:0.005,ch24:-0.041,late:0.1,vol24:0.003,oi:-0.018,fund:-0.00002,bids:0.42,taker:0.81},
-  {id:"storm",label:"Storm + big event",target:51300,seed:3,dDrift:-0.0006,mDrift:-0.15,vol:0.007,ch24:-0.13,late:0.8,vol24:0.004,oi:-0.094,fund:-0.00031,bids:0.36,taker:0.42,volBoost:1.8},
-  {id:"dawn",label:"Bounce in downtrend",target:56400,seed:17,dDrift:-0.0022,mDrift:0.05,vol:0.005,ch24:0.031,late:0.15,vol24:0.003,oi:0.012,fund:0.00002,bids:0.58,taker:1.09}
+  {id:"quiet",etf:1,label:"Quiet day",target:64200,seed:11,dDrift:0.0016,mDrift:0.04,vol:0.0035,ch24:0.006,late:0,vol24:0.002,oi:0.004,fund:0.00004,bids:0.57,taker:0.98},
+  {id:"climb",etf:3,label:"Steady climb",target:66800,seed:7,dDrift:0.0018,mDrift:0.06,vol:0.004,ch24:0.043,late:0.1,vol24:0.0025,oi:0.031,fund:0.00011,bids:0.61,taker:1.18},
+  {id:"hot",etf:6,label:"Running hot",target:71500,seed:5,dDrift:0.0022,mDrift:0.14,vol:0.006,ch24:0.094,late:0.35,vol24:0.006,oi:0.082,fund:0.00046,bids:0.44,taker:1.42,volBoost:1.4},
+  {id:"slide",etf:-2,label:"Slide",target:58900,seed:21,dDrift:0.0015,mDrift:-0.12,vol:0.005,ch24:-0.041,late:0.1,vol24:0.003,oi:-0.018,fund:-0.00002,bids:0.42,taker:0.81},
+  {id:"storm",etf:-4,label:"Storm + big event",target:51300,seed:3,dDrift:-0.0006,mDrift:-0.15,vol:0.007,ch24:-0.13,late:0.8,vol24:0.004,oi:-0.094,fund:-0.00031,bids:0.36,taker:0.42,volBoost:1.8},
+  {id:"dawn",etf:1,label:"Bounce in downtrend",target:56400,seed:17,dDrift:-0.0022,mDrift:0.05,vol:0.005,ch24:0.031,late:0.15,vol24:0.003,oi:0.012,fund:0.00002,bids:0.58,taker:1.09}
 ];
 
 /* ---------- live data ---------- */
@@ -173,7 +173,21 @@ async function loadLive(coin){
   let funding=null,oiCh=null;
   try{const [pi,oi]=await Promise.all([getJSON([`https://fapi.binance.com/fapi/v1/premiumIndex?symbol=${s}`]),getJSON([`https://fapi.binance.com/futures/data/openInterestHist?symbol=${s}&period=1h&limit=25`])]);
     funding=+pi.lastFundingRate;oiCh=+oi[oi.length-1].sumOpenInterest/ +oi[0].sumOpenInterest-1;if(!isFinite(funding)||!isFinite(oiCh)){funding=oiCh=null}}catch(e){}
-  return{bars,daily,oiCh,funding,bids:B/(B+A||1),taker:tb/Math.max(1e-9,tv-tb),rate,updated:now,coin:coin.t};
+  let etf=null;if(coin.t==="BTC")etf=await loadEtf();
+  return{bars,daily,oiCh,funding,bids:B/(B+A||1),taker:tb/Math.max(1e-9,tv-tb),rate,updated:now,coin:coin.t,etf};
+}
+let etfCache=null;
+function etfFromDays(days){
+  const d=days.filter(x=>x&&x.date&&typeof x.netFlowUsd==="number").sort((a,b)=>a.date<b.date?-1:1);
+  if(!d.length)return null;
+  const last=d[d.length-1],sg=Math.sign(last.netFlowUsd);let n=0;
+  for(let i=d.length-1;i>=0&&sg!==0&&Math.sign(d[i].netFlowUsd)===sg;i--)n++;
+  return{streak:sg*n,latest:last.netFlowUsd,date:last.date};
+}
+async function loadEtf(){
+  if(etfCache&&Date.now()-etfCache.t<30*60e3)return etfCache.v;
+  try{const j=await getJSON(["https://www.tftc.io/bitcoin-etf-flows/data.json"]);const v=etfFromDays(j.days||[]);etfCache={t:Date.now(),v};return v}
+  catch(e){return etfCache?etfCache.v:null}
 }
 function openLiq(coin){
   try{ws&&ws.close()}catch(e){}liq={};
@@ -191,13 +205,14 @@ function compute(d){
   const avgV=day.slice(0,23).reduce((a,b)=>a+b.v,0)/23;
   const D=d.daily,n200=Math.min(200,D.length),ma200=D.slice(-n200).reduce((a,b)=>a+b,0)/n200;
   const hi90=Math.max(...D.slice(-90),last),dd90=last/hi90-1,ch30=last/D[D.length-31]-1;
-  const regime=last>=ma200?(dd90>-0.10?"Clear":"Overcast"):(ch30>0?"Dawn":"Storm");
+  const n50=Math.min(50,D.length),ma50=D.slice(-n50).reduce((a,b)=>a+b,0)/n50;
+  const regime=last>=ma200?(last>=ma50?"Clear":"Overcast"):(last>=ma50?"Dawn":"Storm");
   const liqL=day.reduce((a,b)=>a+b.liqL,0),liqS=day.reduce((a,b)=>a+b.liqS,0);
   const lev=d.funding==null?"No data":d.funding>=0.0003&&d.oiCh>0.05?"Crowded long":d.funding<=-0.0001&&d.oiCh>0.03?"Crowded short":d.oiCh<=-0.05&&liqL+liqS>0?"Flushing out":"Normal";
   const flow=d.taker>=1.1?"Buyers":d.taker<=0.9?"Sellers":"Balanced";
   return{last,ch24,ch4:ch(4),hi,lo,hi7,lo7,pos:(last-lo)/(hi-lo||1),mood,day,ma,aboveMa:last>=ma,volX:day[23].v/(day[23].frac||1)/avgV,futOk:d.funding!=null,maxV:Math.max(...day.map(b=>b.v)),
     big:Math.abs(ch(4))>=0.10,oiCh:d.oiCh||0,funding:d.funding||0,bids:d.bids,taker:d.taker,flow,lev,liqL,liqS,
-    rate:d.rate||null,daily30:D.slice(-31),ma200,vs200:last/ma200-1,dd90,hi90,regime};
+    rate:d.rate||null,daily30:D.slice(-31),ma200,vs200:last/ma200-1,ma50,vs50:last/ma50-1,dd90,hi90,regime,etf:d.etf||null};
 }
 
 /* ---------- drawing helpers ---------- */
@@ -262,9 +277,11 @@ function sBig(svg,m,P){const fin=frame(svg,m,P,3,"Big picture");
   const D=m.daily30;for(let i=1;i<D.length;i++){const c=D[i]/D[i-1]-1,a=(i-1)*12,len=Math.abs(c)<0.005?3:Math.abs(c)<0.03?6:10;
     el("path",{d:arc(85-len/2,a+1,a+11),stroke:dirCol(c,P,0.005),"stroke-width":len,fill:"none"},svg)}
   el("circle",{cx:88,cy:88,r:68,fill:"none",stroke:P[m.regime],"stroke-width":3},svg);
-  text(svg,88,86,15,m.regime.toUpperCase(),P[m.regime],{ls:1});
-  text(svg,88,101,8.5,pct(m.vs200,0)+" vs 200d",m.vs200>=0?P.up:P.down,{w:400});
-  text(svg,88,114,8.5,(m.dd90>-0.005?"at 90d high":pct(m.dd90,0)+" from 90d hi"),P.dim,{w:400});fin();}
+  text(svg,88,84,15,m.regime.toUpperCase(),P[m.regime],{ls:1});
+  text(svg,88,98,8.5,pct(m.vs200,0)+" vs 200d",m.vs200>=0?P.up:P.down,{w:400});
+  text(svg,88,109,8.5,pct(m.vs50,0)+" vs 50d",m.vs50>=0?P.up:P.down,{w:400});
+  if(m.etf){const k=m.etf.streak;text(svg,88,123,9.5,"ETF "+(k>0?"+":k<0?"−":"")+Math.abs(k),k>0?P.up:k<0?P.down:P.dim)}
+  fin();}
 function sLevels(svg,m,P){const fin=frame(svg,m,P,4,"Levels");
   hourRing(svg,m,P,moveSize);nowTick(svg,m,P,67,71);
   const lv=[["7D HI",m.hi7],["24H HI",m.hi],["24H LO",m.lo],["7D LO",m.lo7]];
@@ -299,8 +316,8 @@ const SCREENS=[
    say:m=>!m.futOk?"Futures data isn't reachable from here, so leverage can't be read right now.":`Open interest is ${m.oiCh>=0?"up":"down"} ${Math.abs(m.oiCh*100).toFixed(1)}% in 24 hours and funding is ${(m.funding*100).toFixed(3)}%. Reading: ${m.lev.toLowerCase()}. Liquidations ${mode==="live"?"since you opened the page":"over 24h"}: ${usdm(m.liqL)} longs, ${usdm(m.liqS)} shorts.`,
    key:[["Dots","Hours with big liquidations. Red dot: longs wiped out. Green dot: shorts wiped out. Bigger is more."],["Top arc","Funding rate from −0.05% (left) to +0.05% (right). Right means longs are paying to stay in."],["Centre","Crowded long, crowded short, flushing out, or normal."]]},
   {name:"Big picture",q:"Is this a blip or a regime change?",draw:sBig,
-   say:m=>`Regime: ${m.regime}. Price is ${Math.abs(m.vs200*100).toFixed(0)}% ${m.vs200>=0?"above":"below"} its 200-day average and ${m.dd90>-0.005?"at its 90-day high":Math.abs(m.dd90*100).toFixed(0)+"% below its 90-day high"}.`,
-   key:[["Outer ring","Last 30 days, one segment per day, clockwise from the top."],["Ring colour","Regime: Clear, Overcast, Storm or Dawn. Same as the e-ink picture."],["Centre","Distance from the 200-day average and the 90-day high."]]},
+   say:m=>`Regime: ${m.regime}. Price is ${Math.abs(m.vs200*100).toFixed(0)}% ${m.vs200>=0?"above":"below"} its 200-day average and ${Math.abs(m.vs50*100).toFixed(0)}% ${m.vs50>=0?"above":"below"} its 50-day average.`+(m.etf?(m.etf.streak===0?" Spot Bitcoin ETFs were flat in the last session.":` Spot Bitcoin ETFs: ${Math.abs(m.etf.streak)} day${Math.abs(m.etf.streak)>1?"s":""} of net ${m.etf.streak>0?"inflows":"outflows"} in a row (latest ${m.etf.latest>=0?"+":"−"}$${Math.abs(m.etf.latest/1e6).toFixed(0)}m${m.etf.date!=="example"?", "+m.etf.date:""}).`):(COIN.t==="BTC"?" ETF flows aren't available right now.":"")),
+   key:[["Outer ring","Last 30 days, one segment per day, clockwise from the top."],["Ring colour","Regime from the 200-day and 50-day averages. Clear: above both. Overcast: above 200d, below 50d. Dawn: below 200d, above 50d. Storm: below both."],["Centre","Distance from the 200-day and 50-day averages."],["ETF","US spot Bitcoin ETF streak: +3 means three trading days of net inflows in a row, −2 means two days of net outflows. BTC only."]]},
   {name:"Levels",q:"Where are the walls?",draw:sLevels,
    say:m=>`Nearest level: ${m.nearest[0].toLowerCase().replace("hi","high").replace("lo","low")} at ${gbp(m.nearest[1])}, ${Math.abs((m.nearest[1]/m.last-1)*100).toFixed(1)}% ${m.nearest[1]>m.last?"above":"below"}. The 7-day range is ${gbpk(m.lo7)} to ${gbpk(m.hi7)}.`,
    key:[["Ladder","7-day and 24h highs and lows, with the white arrow at today's price."],["Right column","How far each level is from the price."],["Outer ring","Last 24 hours by price move, as on Now."]]},
@@ -343,7 +360,7 @@ function render(){
   $("main").classList.toggle("real",real.checked);
 }
 function go(i){idx=(i+6)%6;store("gf-idx",String(idx));render()}
-function select(id){const s=SCEN.find(x=>x.id===id)||SCEN[0];scenId=s.id;SYM="$";data=makeScenario(Object.assign({},s,{target:s.target*1.3*COIN.demo}));data.rate=0.76;[...chips.children].forEach(b=>b.setAttribute("aria-pressed",b.dataset.id===s.id));store("gf-scen",s.id);render()}
+function select(id){const s=SCEN.find(x=>x.id===id)||SCEN[0];scenId=s.id;SYM="$";data=makeScenario(Object.assign({},s,{target:s.target*1.3*COIN.demo}));data.rate=0.76;data.etf=COIN.t==="BTC"?{streak:s.etf,latest:s.etf*1.1e8,date:"example"}:null;[...chips.children].forEach(b=>b.setAttribute("aria-pressed",b.dataset.id===s.id));store("gf-scen",s.id);render()}
 async function refresh(){
   const want=COIN.t;
   try{const d=await loadLive(COIN);if(COIN.t!==want)return;live=d;SYM="$";mode="live";data=d;render()}
