@@ -1,5 +1,85 @@
 [
 {
+"id": "67a9a10dcab241e8",
+"title": "‘Milestone quarter’: Solana Company reports Q3 revenue growth driven by staking rewards",
+"link": "https://www.theblock.co/news/business/2026-11-11-solana-company-reports-q3-revenue-growth-438448",
+"published": "2026-11-12T02:25:14Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T03:46:11Z"
+},
+{
+"id": "b8945a9388378cca",
+"title": "Nvidia perps plunge 10% on Hyperliquid as board reportedly weighs ousting Jensen Huang",
+"link": "https://www.theblock.co/news/business/2026-11-11-nvidia-perps-board-weighs-ousting-jensen-huang-438447",
+"published": "2026-11-12T02:23:45Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T03:46:11Z"
+},
+{
+"id": "c3d46de23acd045a",
+"title": "Grant Application: Bitcoin Takeover Podcast",
+"link": "https://forum.zcashcommunity.com/t/grant-application-bitcoin-takeover-podcast/59220",
+"published": "2026-11-12T00:20:38Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-12T03:46:11Z"
+},
+{
+"id": "ccaf565451b7be26",
+"title": "MSCI confirms Strategy’s removal from indexes at end of November",
+"link": "https://cointelegraph.com/news/msci-confirms-strategys-removal-from-indexes-end-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-12T00:09:13Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T03:46:11Z"
+},
+{
+"id": "aab85d9a6bc7640d",
+"title": "MSCI Removes Strategy (MSTR) From Its USA Index, Forcing Index Funds to Sell by Nov. 30",
+"link": "https://bitcoinmagazine.com/markets/msci-removes-strategy-mstr-usa-index",
+"published": "2026-11-11T23:36:56Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-12T03:46:11Z"
+},
+{
+"id": "468fb22367113a23",
+"title": "Suiet wallet to shut down in latest exit from Sui ecosystem",
+"link": "https://cointelegraph.com/news/suiet-wallet-shut-down-latest-exit-sui-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-11T23:18:44Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T03:46:11Z"
+},
+{
+"id": "046ba1eb79082b8a",
+"title": "Strategy, Metaplanet lose MSCI index membership in November reshuffle",
+"link": "https://www.theblock.co/news/markets/2026-11-11-strategy-metaplanet-lose-msci-index-membership-november-reshuffle-438437",
+"published": "2026-11-11T23:09:23Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T03:46:11Z"
+},
+{
+"id": "e3ffc96f2d2e4dca",
+"title": "Nvidia preparing to oust CEO Jensen Huang after affairs: WSJ",
+"link": "https://cointelegraph.com/news/nvidia-preparing-to-oust-ceo-jensen-huang-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-11T22:44:47Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T03:46:11Z"
+},
+{
 "id": "cf959ae808b38332",
 "title": "Nvidia-Backed CoreWeave Is Surging: Here’s What It Means for the AI Boom",
 "link": "https://decrypt.co/383099/nvidia-backed-coreweave-surging-what-means-for-ai-boom",
