@@ -15,7 +15,7 @@ from email.utils import format_datetime
 
 ROOT = pathlib.Path(__file__).resolve().parent
 SITE = "https://astralis-arch.github.io/cryptonaire-calendar/news/"
-KEEP = 30
+KEEP = 45  # about 15 days at three editions a day
 IMPACT = {"🔴": "High impact", "🟠": "Medium impact", "🟢": "Background"}
 CONF = {"High", "Medium", "Low"}
 MOODS = {"risk-on", "risk-off", "mixed", "calm"}
@@ -183,7 +183,7 @@ btn&&btn.addEventListener('click',()=>{
 def page(b, briefs, prefix):
     t = b["_t"].astimezone(LDN)
     issue = (t.date() - FIRST_ISSUE).days + 1
-    edition = "Morning edition" if t.hour < 12 else "Evening edition"
+    edition = "Morning edition" if t.hour < 12 else "Afternoon edition" if t.hour < 18 else "Evening edition"
     imp = {"🔴": ("r", "Market mover"), "🟠": ("a", "Worth knowing"), "🟢": ("g", "Background")}
     lead = b.get("lead") or {"headline": b["stories"][0]["title"], "standfirst": "", "body": [b["headline"]]}
     copy = "".join(f"<p>{e(p)}</p>" for p in lead["body"])
@@ -223,7 +223,7 @@ def page(b, briefs, prefix):
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&family=Playfair+Display:wght@700;800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=Archivo:wght@400;600;700&family=JetBrains+Mono:wght@400;500&display=swap">
 <style>{CSS}</style></head><body><main>
 <div class="ears"><span>No. {issue}</span><span>BTC · ZEC · Markets</span></div>
-<header class="mast"><h1>The Cryptonaire Post</h1><div class="motto">All the market news that matters, curated daily</div></header>
+<header class="mast"><h1>The Cryptonaire Post</h1><div class="motto">All the market news that matters, three editions a day</div></header>
 <div class="dateline"><span>{e(t.strftime("%A %-d %B %Y"))}</span><span>{edition} · {e(t.strftime("%H:%M"))} UK</span><span>Mood: <span class="mood {e(b["mood"])}">{e(b["mood"])}</span></span></div>
 <div class="markets"><span id="BTCUSDT"><b>BTC</b><span>…</span> <i></i></span><span id="ZECUSDT"><b>ZEC</b><span>…</span> <i></i></span><span style="color:var(--muted)">live US$</span></div>
 <nav class="routes"><span>Read:<a href="#briefing">1 min</a><a href="#lead">5 min</a><a href="#stories">Full edition</a></span><span>Text <button id="zout" type="button" aria-label="Smaller text">A−</button><button id="zin" type="button" aria-label="Larger text">A+</button></span></nav>

@@ -1,8 +1,20 @@
-# Daily news brief rules
+# News brief rules
 
-A scheduled Claude session runs every morning (UK) and publishes one short, ranked brief as the front page of *The Cryptonaire Post* for Alistair, a UK-based personal trader who holds BTC and watches ZEC. It is read at a glance on iPhone or listened to. Information only.
+A scheduled Claude session runs three times a day and publishes one short, ranked brief as the front page of *The Cryptonaire Post* for Alistair, a UK-based personal trader who holds BTC and watches ZEC. It is read at a glance on iPhone or listened to. Information only.
 
-## 1. Gather (last 24 hours, 72 hours on Mondays)
+## 0. Which edition
+
+Work out the edition from the UK time of the run:
+
+| Edition | Runs (UK) | Covers | Focus |
+|---|---|---|---|
+| **Morning** | about 06:30 | since the previous evening edition, plus the weekend on Mondays | Overnight and Asia session moves, anything that broke while the UK slept, and what is scheduled today (UK/US data, Fed/BoE speakers). |
+| **Afternoon** | about 16:30 | since the morning edition | The US session so far: the open (14:30 UK), US data releases and the reaction, the previous day's US spot ETF flows, any intraday shock. |
+| **Evening** | about 21:30 | since the afternoon edition | The US close (21:00 UK) and the day's net change, how the day's 🔴 events actually landed, and what to watch overnight and tomorrow. |
+
+Each edition reports what is **new since the previous edition** (the latest file in `news/briefs/`). Continuing stories get `status` `Developing`, `Outlook changed` or `No material change`. On a quiet run, say it was quiet: fewer stories, a shorter lead, and `briefing.changed` saying little has moved. Never repeat the previous edition with new wording. The lead should be the most important development of this edition's window, not the day's.
+
+## 1. Gather (since the previous edition)
 
 **Start with the inbox.** `news/inbox/inbox.json` holds every headline from the feeds in `news/inbox/feeds.json` (crypto outlets, the Fed, BLS, SEC, BoE, FCA, HMRC, Bitcoin and Zcash release pages, the Zcash forum), refreshed every 30 minutes, newest first, each with `first_seen` (UTC). Read the items first seen since the previous edition (the latest file in `news/briefs/`). They are leads, not confirmation: open the original before using a fact. Items marked `backfill` came from a feed's first read and may be older news. Check `news/inbox/status.json`; if a feed is failing, say so in `investigating` when it leaves a gap. Then search the web to fill gaps and confirm.
 
@@ -63,6 +75,8 @@ Create `news/briefs/YYYY-MM-DD-HHMM.json` (UTC time of the run):
 ```
 
 Delete brief files in `news/briefs/` older than 30 days.
+
+Use the edition's own wording in `spoken` ("Cryptonaire Post, afternoon edition…").
 
 ## 4. Build, check, publish
 
