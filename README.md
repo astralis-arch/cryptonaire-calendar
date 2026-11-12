@@ -26,7 +26,7 @@ Add `#kiosk` to the end for the full-screen Raspberry Pi view.
 
 ## News brief
 
-*The Cryptonaire Post*: a newspaper-style front page with a written lead story plus a short, ranked, AI-curated brief on BTC, ZEC and the wider markets, refreshed every morning (UK) by a scheduled Claude session following `news/ROUTINE.md`. Each story shows its impact, confidence and sources. Information only, not trade signals.
+*The Cryptonaire Post*: a newspaper-style front page with a written lead story plus a short, ranked, AI-curated brief on BTC, ZEC and the wider markets, published three times a day (about 06:30, 16:30 and 21:30 UK) by a scheduled Claude session following `news/ROUTINE.md`. Each story shows its impact, confidence and sources. Information only, not trade signals.
 
 - **Read:** https://astralis-arch.github.io/cryptonaire-calendar/news/ (Share › Add to Home Screen; tap ▶ Listen to hear it)
 - **RSS:** https://astralis-arch.github.io/cryptonaire-calendar/news/feed.xml
