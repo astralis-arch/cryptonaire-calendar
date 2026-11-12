@@ -1,5 +1,575 @@
 [
 {
+"id": "ba09fc8728f86ff7",
+"title": "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
+"link": "https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-12T20:07:41Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "0a67900c162cb4c3",
+"title": "Grant Application: Paeyme - Privacy-Preserving Zcash Payments for Consumers and Merchants Across Africa",
+"link": "https://forum.zcashcommunity.com/t/grant-application-paeyme-privacy-preserving-zcash-payments-for-consumers-and-merchants-across-africa/59257",
+"published": "2026-11-12T19:51:11Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "cee96ab3a1a05ba8",
+"title": "Governance in a Shielded World",
+"link": "https://forum.zcashcommunity.com/t/governance-in-a-shielded-world/59256",
+"published": "2026-11-12T19:31:18Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "b37d3285f5a01ed5",
+"title": "Retroactive Grant Application - ZTrace",
+"link": "https://forum.zcashcommunity.com/t/retroactive-grant-application-ztrace/59254",
+"published": "2026-11-12T19:30:51Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "b37bf5564891bd38",
+"title": "Simon Dixon: What It Would Take for Me to Sell My Bitcoin for Gold",
+"link": "https://bitcoinmagazine.com/videos/simon-dixon-what-it-would-take-for-me-to-sell-my-bitcoin-for-gold",
+"published": "2026-11-12T19:19:08Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "cd36ba640b5a4c32",
+"title": "Binance Says It Has Fully Covered the $6.34 Billion Hack With Company Funds",
+"link": "https://bitcoinmagazine.com/news/binance-covers-6-34-billion-hack",
+"published": "2026-11-12T19:12:14Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "54e477112e60795a",
+"title": "Who Is Colette Kress, Jensen Huang’s Successor as Nvidia CEO?",
+"link": "https://decrypt.co/383189/who-colette-kress-jensen-huang-successor-nvidia-ceo",
+"published": "2026-11-12T18:55:03Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "82ba770a292c7512",
+"title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+"link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
+"published": "2026-11-12T18:30:00Z",
+"source": "Federal Reserve (press)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "89c11b0c0d2fc762",
+"title": "Nvidia, AMD, Broadcom: The AI Stock Winners and Losers After Jensen Huang’s Ousting",
+"link": "https://decrypt.co/383146/nvidia-amd-broadcom-ai-stock-winners-loses-jensen-huang",
+"published": "2026-11-12T18:06:03Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "02879e8d65af9ef9",
+"title": "NYDFS sets fresh advertising standards for crypto firms",
+"link": "https://www.theblock.co/news/regulation/2026-11-12-nydfs-sets-fresh-advertising-standards-crypto-firms-439014",
+"published": "2026-11-12T18:03:57Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "3d0576288a385371",
+"title": "Illinois Crypto Tax Draws Unlikely Alliance of DOJ, Banks and DeFi",
+"link": "https://decrypt.co/383144/illinois-crypto-tax-draws-alliance-doj-banks-defi",
+"published": "2026-11-12T17:46:02Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "b8182560b02548a6",
+"title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+"link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+"published": "2026-11-12T17:45:00Z",
+"source": "Federal Reserve (press)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "b4774c55a0d6fc85",
+"title": "Bitcoin falls to 12-week low as Jensen Huang’s exit from Nvidia rattles markets",
+"link": "https://www.theblock.co/news/markets/2026-11-12-bitcoin-12-week-low-jensen-huang-exit-nvidia-438992",
+"published": "2026-11-12T17:40:00Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "41627d51e4ccb1e9",
+"title": "Retroactive Grant Application - zkMarketer 9 Videos",
+"link": "https://forum.zcashcommunity.com/t/retroactive-grant-application-zkmarketer-9-videos/59250",
+"published": "2026-11-12T17:32:31Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "c0dc42316ca0581e",
+"title": "Retroactive Grant Application - zec-agent-wallet: shielded Zcash payments for AI agents",
+"link": "https://forum.zcashcommunity.com/t/retroactive-grant-application-zec-agent-wallet-shielded-zcash-payments-for-ai-agents/59248",
+"published": "2026-11-12T17:26:31Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "31a5e63b5acbac56",
+"title": "'A Massive Mistake': Tech, AI and Crypto Founders React to Jensen Huang’s Nvidia Exit",
+"link": "https://decrypt.co/383141/massive-mistake-tech-ai-crypto-founders-react-jensen-huang-nvidia-exit",
+"published": "2026-11-12T17:14:42Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "a0e356aee723f1ea",
+"title": "Exodus’ ‘cost reset is real’ as payments offset crypto wallet slowdown, StoneX says",
+"link": "https://www.theblock.co/news/markets/2026-11-12-exodus-cost-reset-real-payments-offset-crypto-wallet-slowdown-stonex-438988",
+"published": "2026-11-12T16:55:52Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "4ebc2d5146f9cf06",
+"title": "Illinois crypto tax is impossible to enforce as written, crypto industry tells court",
+"link": "https://www.coindesk.com/policy/2026/11/12/illinois-crypto-tax-is-impossible-to-enforce-as-written-crypto-industry-tells-court",
+"published": "2026-11-12T16:45:52Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "db2270565ff4bfb5",
+"title": "Israel Discount Bank to Let Customers Trade Bitcoin in App Starting Nov. 26",
+"link": "https://bitcoinmagazine.com/news/discount-bank-bitcoin-trading-nov-26",
+"published": "2026-11-12T16:45:00Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "19193a80516e9fa5",
+"title": "Tron, Tether and Chainalysis Form a New Crypto-Crime Task Force—Replacing One That Just Collapsed",
+"link": "https://decrypt.co/383139/tron-tether-chainalysis-new-crypto-crime-task-force-replacing-trm",
+"published": "2026-11-12T16:36:02Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "35e9c81ccf21384d",
+"title": "JPMorgan Lifts Its Strategy (MSTR) Stake 36% and Holds $540 Million in Bitcoin ETFs",
+"link": "https://bitcoinmagazine.com/markets/jpmorgan-lifts-strategy-mstr-stake-36",
+"published": "2026-11-12T16:19:17Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "c800b92c9553b09e",
+"title": "Crypto Exchange Gemini Sells U.K. and EU Units to KAST for Under $10 Million",
+"link": "https://bitcoinmagazine.com/news/gemini-said-to-sell-uk-eu-units-kast",
+"published": "2026-11-12T16:07:57Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "dd62688ee52ba48f",
+"title": "Anchorage Digital’s Stablecoins Can Now Settle Payments on Visa’s Network",
+"link": "https://decrypt.co/383098/anchorage-digital-stablecoins-settle-payments-visa-network",
+"published": "2026-11-12T16:01:03Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "eb1bfe5f7082bd61",
+"title": "Visa adds Western Union’s USDPT stablecoin to its settlement network in Anchorage tie-up",
+"link": "https://www.theblock.co/news/business/2026-11-12-visa-adds-western-unions-usdpt-stablecoin-to-its-settlement-network-in-anchorage-tie-up-438520",
+"published": "2026-11-12T16:00:00Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "6baae670e70b3489",
+"title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+"link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
+"published": "2026-11-12T16:00:00Z",
+"source": "Federal Reserve (press)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "d19d91ba0c0c051a",
+"title": "Tether Gold Gets Clean KPMG Audit Confirming $2.2B in Physical Gold Backing",
+"link": "https://decrypt.co/383137/tether-gold-gets-clean-kpmg-audit-confirming-2-2b-in-physical-gold-backing",
+"published": "2026-11-12T15:55:38Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "869f0016c16c0e42",
+"title": "Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down",
+"link": "https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-12T15:46:06Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "57ca70a6091bfe99",
+"title": "DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout",
+"link": "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout",
+"published": "2026-11-12T15:45:48Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "c5f4579a48edda3e",
+"title": "Unocoin ‘login suspension’ continues as exchange flags outgoing BitGo ETH transactions",
+"link": "https://www.theblock.co/news/ecosystems/2026-11-12-unocoin-login-suspension-continues-as-exchange-flags-outgoing-bitgo-eth-transactions-438654",
+"published": "2026-11-12T15:36:17Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "4de321895a2e6430",
+"title": "Crypto for Advisors: The blockchain built to run financial markets",
+"link": "https://www.coindesk.com/coindesk-indices/2026/11/12/crypto-for-advisors-the-blockchain-built-to-run-financial-markets",
+"published": "2026-11-12T15:34:29Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "00a1d1b2602fd693",
+"title": "Geopolitical Strategist: Bitcoin Is the “Third Way” Between the Dollar and Yuan",
+"link": "https://bitcoinmagazine.com/videos/geopolitical-strategist-bitcoin-is-the-third-way-between-the-dollar-and-yuan",
+"published": "2026-11-12T15:30:05Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "052df59ea8500cdf",
+"title": "Tether Gold issuer follows USDT to complete Big Four audit",
+"link": "https://www.theblock.co/news/business/2026-11-12-tether-gold-issuer-follows-usdt-to-complete-big-four-audit-438849",
+"published": "2026-11-12T15:23:26Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "e5830e3e46467143",
+"title": "BNY Mellon Raises Its Strive (ASST) Stake 28% to $7 Million as Monday’s 13F Deadline Nears",
+"link": "https://bitcoinmagazine.com/news/bny-mellon-raises-strive-asst-stake-28",
+"published": "2026-11-12T15:17:00Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "f130a3b0aa03d37d",
+"title": "Grant Application - Zecpy: Making Private Payments Accessible to the Python Ecosystem",
+"link": "https://forum.zcashcommunity.com/t/grant-application-zecpy-making-private-payments-accessible-to-the-python-ecosystem/59238",
+"published": "2026-11-12T15:04:48Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "47b4f402e776165b",
+"title": "Andreessen Horowitz, DeFi Education Fund push back against Illinois crypto tax",
+"link": "https://www.theblock.co/news/regulation/2026-11-12-andreessen-horowitz-defi-education-fund-push-back-against-illinois-crypto-tax-438573",
+"published": "2026-11-12T15:01:02Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "c726a8b2b0e3c236",
+"title": "Barr, American Inequality and the Future of AI",
+"link": "https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm",
+"published": "2026-11-12T15:00:00Z",
+"source": "Federal Reserve (speeches)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "767a209d0b32bb55",
+"title": "Rumble (RUM) Sells Two-Thirds of Its Bitcoin as AI Cloud Business Delivers First Profitable Quarter",
+"link": "https://bitcoinmagazine.com/news/rumble-rum-sells-two-thirds-bitcoin",
+"published": "2026-11-12T14:53:00Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "20b334ec9b38b917",
+"title": "Jupiter adds Anchorage-backed USDGO to its $1 billion Solana lending platform",
+"link": "https://www.coindesk.com/business/2026/11/12/jupiter-adds-anchorage-backed-usdgo-to-its-usd1-billion-solana-lending-platform",
+"published": "2026-11-12T14:45:00Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "16220cef4925ac65",
+"title": "Jensen Huang Resigns as Nvidia CEO, With CFO Colette Kress Named Interim Chief",
+"link": "https://decrypt.co/383134/jensen-huang-resigns-as-nvidia-ceo-with-cfo-colette-kress-named-interim-chief",
+"published": "2026-11-12T14:44:39Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "476a83b590c026bd",
+"title": "The next Congress will write rules for AI and emerging tech. They should use the stuff first.",
+"link": "https://www.coindesk.com/opinion/2026/11/12/the-next-congress-will-write-rules-for-ai-and-emerging-tech-they-should-use-the-stuff-first",
+"published": "2026-11-12T14:24:51Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "3affabd7a4a4921e",
+"title": "BlackRock’s IBIT Bleeds $2 Billion in Nine Straight Days of Outflows",
+"link": "https://bitcoinmagazine.com/markets/blackrock-ibit-nine-days-outflows",
+"published": "2026-11-12T14:24:00Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "34a52f39c4727cab",
+"title": "DTCC plans to bring tokenized securities to Solana in second half of 2027",
+"link": "https://www.theblock.co/news/business/2026-11-12-dtcc-plans-bring-tokenized-securities-solana-second-half-of-2027-438559",
+"published": "2026-11-12T14:23:11Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "d4e6af627c595df6",
+"title": "Bitcoin Price Falls Below $72,000 as Nvidia CEO Jensen Huang Steps Down and Strategy (MSTR) Slides",
+"link": "https://bitcoinmagazine.com/markets/bitcoin-price-falls-below-72000",
+"published": "2026-11-12T14:21:51Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "f03491084895c8f8",
+"title": "Retroactive Grant Application - Zebra Block Suppression (Low) and IPv6 Ban Evasion Fix (Medium)",
+"link": "https://forum.zcashcommunity.com/t/retroactive-grant-application-zebra-block-suppression-low-and-ipv6-ban-evasion-fix-medium/59237",
+"published": "2026-11-12T14:21:19Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "3028423a0c1668c7",
+"title": "Retroactive Grant Application - Zecpy: Making Private Payments Accessible to the Python Ecosystem",
+"link": "https://forum.zcashcommunity.com/t/retroactive-grant-application-zecpy-making-private-payments-accessible-to-the-python-ecosystem/59236",
+"published": "2026-11-12T14:16:47Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "45e887e9c944425b",
+"title": "SoFi Brings Its Bank-Issued Stablecoin to Polygon’s Payments Stack",
+"link": "https://decrypt.co/383096/sofi-brings-bank-issued-stablecoin-polygon-payments-stack",
+"published": "2026-11-12T14:01:02Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "a96fab22fb5b7569",
+"title": "Securitize and Ethena’s $100 million BlackRock BUIDL liquidity facility goes live",
+"link": "https://www.theblock.co/news/ecosystems/2026-11-12-securitize-ethena-buidl-liquidity-facility-live-usdc-438442",
+"published": "2026-11-12T14:00:00Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "007ab92c39ec8c5c",
+"title": "SoFiUSD goes live on Polygon as bank-issued stablecoin expands reach",
+"link": "https://www.theblock.co/news/ecosystems/2026-11-12-sofiusd-goes-live-on-polygon-as-bank-issued-stablecoin-expands-reach-438542",
+"published": "2026-11-12T14:00:00Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "7518d06d28b8e3ed",
+"title": "Jensen Huang resigns as Nvidia CEO, exits board; shares plunge",
+"link": "https://cointelegraph.com/news/jensen-huang-resigns-nvidia-ceo-board-member?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-12T13:59:02Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "ed809052da33e860",
+"title": "Nvidia CEO Huang quits company he co-founded, led for 3 decades. Shares slump",
+"link": "https://www.coindesk.com/markets/2026/11/12/nvidia-shares-plunge-10-as-jensen-huang-resigns",
+"published": "2026-11-12T13:57:53Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "220dee8a1f3721d7",
+"title": "Bit Digital stock falls 5% in pre-market after Q3 revenue miss",
+"link": "https://cointelegraph.com/news/bit-digital-stock-falls-q3-revenue-miss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-12T13:52:39Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "50307c4acf76839c",
+"title": "Thailand proposes $148K daily cap on stablecoin deposits and withdrawals",
+"link": "https://cointelegraph.com/news/thailand-tighter-stablecoin-rules-crypto-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-12T13:44:03Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "3db25d2c35fcb2e0",
+"title": "Zillions Keychain – Zcash Accounts, Radically Simplified",
+"link": "https://forum.zcashcommunity.com/t/zillions-keychain-zcash-accounts-radically-simplified/59235",
+"published": "2026-11-12T13:36:54Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "a55bbcf21071b9c6",
+"title": "Crypto hack losses equal 57 cents per $1 earned onchain: Ark’s Valente",
+"link": "https://cointelegraph.com/news/crypto-hackers-stole-57-cents-every-1-earned-ark?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-12T13:31:59Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "bf3b69f2f1fc9e74",
+"title": "Are Alt-L1s over? Security, costs drive smaller chains to Ethereum",
+"link": "https://cointelegraph.com/magazine/are-alt-l1s-over-security-costs-drive-smaller-chains-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-12T13:30:00Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "fd0eb47635e7fbfb",
+"title": "DTCC to Bring Tokenized Stocks and Treasuries to Solana in 2027",
+"link": "https://decrypt.co/383132/dtcc-to-bring-tokenized-stocks-and-treasuries-to-solana-in-2027",
+"published": "2026-11-12T13:25:47Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "2571fd00c238b422",
+"title": "Uber’s UK banking partner Griffin raises $20M for stablecoin services",
+"link": "https://cointelegraph.com/news/digital-bank-griffin-100m-valuation-card-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-12T13:21:56Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-12T20:26:58Z"
+},
+{
 "id": "21ec9da77551aa70",
 "title": "Morning Minute: Tokenized Stock Venues Are Launching Without Big Tech’s Approval",
 "link": "https://decrypt.co/383129/morning-minute-tokenized-stock-venues-are-launching-without-big-techs-approval",
@@ -3247,17 +3817,6 @@
 "desk": "Protocol",
 "kind": "protocol",
 "first_seen": "2026-11-06T00:00:00Z",
-"backfill": true
-},
-{
-"id": "0224349908e0b1c1",
-"title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
-"link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
-"published": "2026-11-05T16:00:00Z",
-"source": "Federal Reserve (press)",
-"desk": "Macro",
-"kind": "official",
-"first_seen": "2026-11-05T16:00:00Z",
 "backfill": true
 },
 {
