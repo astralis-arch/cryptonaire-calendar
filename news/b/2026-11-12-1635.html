@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en-GB"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>The Cryptonaire Post</title>
+<meta name="description" content="Huang quits Nvidia as bitcoin slides to lowest since August">
+<meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="Cryptonaire Post">
+<link rel="alternate" type="application/rss+xml" title="The Cryptonaire Post" href="https://astralis-arch.github.io/cryptonaire-calendar/news/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&family=Playfair+Display:wght@700;800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=Archivo:wght@400;600;700&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+:root{--paper:#f4efe4;--ink:#1b1a17;--muted:#5e5a50;--rule:#1b1a17;--hair:#cfc6b4;--red:#a61e1e;--amber:#9a5b00;--green:#2b6b3c;--accent:#7a1414;
+--mast:"UnifrakturMaguntia","Old English Text MT",serif;--head:"Playfair Display",Georgia,serif;--body:"Source Serif 4",Georgia,"Times New Roman",serif;--sans:"Archivo",system-ui,-apple-system,sans-serif;--num:"JetBrains Mono",ui-monospace,Menlo,monospace}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--paper:#16150f;--ink:#ece6d8;--muted:#a59e8e;--rule:#ece6d8;--hair:#3b382f;--red:#ff7a6b;--amber:#f2b552;--green:#7fd197;--accent:#ff9b8b;color-scheme:dark}}
+:root[data-theme="dark"]{--paper:#16150f;--ink:#ece6d8;--muted:#a59e8e;--rule:#ece6d8;--hair:#3b382f;--red:#ff7a6b;--amber:#f2b552;--green:#7fd197;--accent:#ff9b8b;color-scheme:dark}
+*{box-sizing:border-box}html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--paper);color:var(--ink);font:17px/1.55 var(--body);padding:env(safe-area-inset-top) 0 env(safe-area-inset-bottom)}
+main{max-width:980px;margin:0 auto;padding:14px 16px 40px}
+h2,h4,.copy p:first-child::first-letter{font-variant-numeric:lining-nums}
+a{color:inherit;text-decoration-color:var(--hair);text-underline-offset:2px}
+.ears{display:flex;justify-content:space-between;gap:12px;font:11px/1.3 var(--sans);text-transform:uppercase;letter-spacing:.08em;color:var(--muted)}
+.mast{text-align:center;margin:6px 0 4px}
+.mast h1{font:400 clamp(40px,11vw,84px)/1 var(--mast);margin:0;letter-spacing:.01em}
+.motto{font:italic 13px var(--body);color:var(--muted);margin-top:4px}
+.dateline{display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap;border-top:3px double var(--rule);border-bottom:1px solid var(--rule);padding:5px 0;margin-top:8px;font:12px var(--sans);text-transform:uppercase;letter-spacing:.06em}
+.mood{font-weight:700}.mood.risk-off{color:var(--red)}.mood.risk-on{color:var(--green)}.mood.mixed,.mood.calm{color:var(--amber)}
+.markets{display:flex;gap:18px;flex-wrap:wrap;justify-content:center;border-bottom:1px solid var(--rule);padding:6px 0;font:13px var(--num)}
+.markets b{font-family:var(--sans);font-size:11px;letter-spacing:.08em;margin-right:6px}
+.up{color:var(--green)}.down{color:var(--red)}
+.front{display:grid;grid-template-columns:1fr;gap:0 28px;margin-top:16px}
+@media (min-width:820px){.front{grid-template-columns:2.1fr 1fr}.side{border-left:1px solid var(--hair);padding-left:24px}}
+.kicker{font:700 11px var(--sans);text-transform:uppercase;letter-spacing:.12em;color:var(--accent)}
+.lead h2{font:800 clamp(30px,7vw,46px)/1.08 var(--head);margin:6px 0 10px;letter-spacing:-.01em}
+.stand{font:italic 19px/1.45 var(--body);color:var(--muted);margin:0 0 10px}
+.byline{font:12px var(--sans);color:var(--muted);border-top:1px solid var(--hair);border-bottom:1px solid var(--hair);padding:5px 0;margin-bottom:12px;display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap;align-items:center}
+.listen{font:600 12px var(--sans);text-transform:uppercase;letter-spacing:.06em;background:none;color:var(--ink);border:1px solid var(--ink);border-radius:2px;padding:4px 10px;cursor:pointer}
+.copy{hyphens:auto;-webkit-hyphens:auto}
+@media (min-width:620px){.copy{text-align:justify;column-count:2;column-gap:26px;column-rule:1px solid var(--hair)}}
+.copy p{margin:0 0 .8em}
+.copy p:first-child::first-letter{float:left;font:800 3.6em/.82 var(--head);padding:.06em .08em 0 0}
+.side h3,.also h3.sec{font:700 12px var(--sans);text-transform:uppercase;letter-spacing:.1em;border-top:3px solid var(--rule);padding-top:6px;margin:18px 0 8px}
+@media (min-width:820px){.side h3:first-child{margin-top:0}}
+.diary{list-style:none;margin:0;padding:0}
+.diary li{padding:7px 0;border-bottom:1px solid var(--hair);font-size:15px;line-height:1.35}
+.diary .when{display:block;font:500 12px var(--num);color:var(--muted)}
+.inbrief{font-size:15px;line-height:1.45;margin:0}
+.also{margin-top:22px}
+.cols{display:grid;grid-template-columns:1fr;gap:0 24px}
+@media (min-width:620px){.cols{grid-template-columns:1fr 1fr}}
+@media (min-width:900px){.cols{grid-template-columns:1fr 1fr 1fr}}
+.story{border-top:1px solid var(--rule);padding:10px 0 14px}
+.story h4{font:700 20px/1.2 var(--head);margin:4px 0 6px}
+.story p{margin:0 0 6px;font-size:15.5px}
+.meta{font:11px var(--sans);text-transform:uppercase;letter-spacing:.06em;color:var(--muted);display:flex;gap:8px;flex-wrap:wrap}
+.imp{font-weight:700}.imp.r{color:var(--red)}.imp.a{color:var(--amber)}.imp.g{color:var(--green)}
+.conf.Low{color:var(--red);font-weight:700}
+.src{font:12px/1.4 var(--sans);color:var(--muted)}.caveat{font:italic 13px var(--body);color:var(--amber)}
+footer{margin-top:26px;border-top:3px double var(--rule);padding-top:8px;font:12.5px/1.5 var(--sans);color:var(--muted)}footer p{margin:6px 0}
+.routes{display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap;border-bottom:1px solid var(--hair);padding:5px 0;font:12px var(--sans);text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+.routes a{color:var(--ink);font-weight:700;text-decoration:none;margin-left:10px}.routes button{font:700 12px var(--sans);background:none;color:var(--ink);border:1px solid var(--hair);border-radius:2px;padding:2px 8px;margin-left:4px;cursor:pointer}
+.briefing{border:2px solid var(--rule);padding:12px 14px;margin-top:14px;display:grid;grid-template-columns:1fr;gap:6px 26px}
+@media (min-width:700px){.briefing{grid-template-columns:1.3fr 1fr}}
+.briefing h3{grid-column:1/-1;font:700 12px var(--sans);text-transform:uppercase;letter-spacing:.1em;margin:0;color:var(--accent)}
+.briefing ol{margin:0;padding-left:1.3em;font-size:16px;line-height:1.45}.briefing li{margin-bottom:5px}
+.briefing dl{margin:0;font-size:15px;line-height:1.4}.briefing dt{font:700 11px var(--sans);text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin-top:6px}.briefing dt:first-child{margin-top:0}.briefing dd{margin:1px 0 0}
+.status{font:700 10px var(--sans);text-transform:uppercase;letter-spacing:.08em;border:1px solid currentColor;padding:0 4px;border-radius:2px}
+.status.n{color:var(--accent)}.status.o{color:var(--red)}.status.d{color:var(--amber)}.status.q{color:var(--muted)}
+.note{border-left:3px solid var(--hair);padding:2px 0 2px 10px;margin:6px 0 8px;font-size:14px;line-height:1.4}
+.note b{font:700 10.5px var(--sans);text-transform:uppercase;letter-spacing:.07em;color:var(--muted);margin-right:4px}.note p{margin:0 0 4px;font-size:14px}
+.explain p,.inv li{font-size:14.5px;line-height:1.45}.explain h4{font:700 17px/1.25 var(--head);margin:0 0 4px}.inv{margin:0;padding-left:1.1em}.inv li{margin-bottom:6px}
+.corr{font:13px var(--sans);border-top:1px solid var(--hair);padding-top:6px;color:var(--muted)}
+.arch{display:flex;flex-wrap:wrap;gap:4px 14px;font:12px var(--num)}
+</style></head><body><main>
+<div class="ears"><span>No. 4</span><span>BTC · ZEC · Markets</span></div>
+<header class="mast"><h1>The Cryptonaire Post</h1><div class="motto">All the market news that matters, three editions a day</div></header>
+<div class="dateline"><span>Thursday 12 November 2026</span><span>Afternoon edition · 16:35 UK</span><span>Mood: <span class="mood risk-off">risk-off</span></span></div>
+<div class="markets"><span id="BTCUSDT"><b>BTC</b><span>…</span> <i></i></span><span id="ZECUSDT"><b>ZEC</b><span>…</span> <i></i></span><span style="color:var(--muted)">live US$</span></div>
+<nav class="routes"><span>Read:<a href="#briefing">1 min</a><a href="#lead">5 min</a><a href="#stories">Full edition</a></span><span>Text <button id="zout" type="button" aria-label="Smaller text">A−</button><button id="zin" type="button" aria-label="Larger text">A+</button></span></nav>
+<section class="briefing" id="briefing"><h3>The 60-second briefing</h3><ol><li>Jensen Huang resigned as Nvidia&#x27;s chief executive and left its board with immediate effect; CFO Colette Kress is interim CEO, and Nvidia shares fell about 10% before the US open.</li><li>Bitcoin broke below $72,000 and touched about $71,100, its weakest level since August, as over $650 million of mostly long positions were liquidated across crypto.</li><li>Futures now price about a 94% chance of a December Fed rate rise, with the 10-year Treasury yield above 5%.</li></ol><dl><dt>What changed</dt><dd>This morning bitcoin was holding $73,500 and the Nvidia story was unresolved. Since then Huang has gone, bitcoin has lost another $2,000, leveraged longs have been flushed out, and Zcash slipped further below $1,000. The Nasdaq itself held up better than Nvidia, so the shock has hit crypto harder than stocks.</dd><dt>Biggest open question</dt><dd>Is the drop to $71,000 a leverage flush that runs its course, or the start of a test of $70,000 while ETF money keeps leaving?</dd><dt>Next to watch</dt><dd>The US close at 21:00 UK, then US PPI on Friday 13 November at 13:30 UK. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK.</dd></dl></section>
+<div class="front">
+<article class="lead" id="lead"><div class="kicker">The lead</div><h2>Huang quits Nvidia as bitcoin slides to lowest since August</h2><p class="stand">Nvidia&#x27;s founder resigned with immediate effect on Thursday, and bitcoin fell through $72,000 as more than $650 million of crypto bets were liquidated.</p>
+<div class="byline"><span>By the Cryptonaire desk (Claude) · 12 Nov 2026</span><button class="listen" id="listen" type="button">▶ Listen</button></div>
+<div class="copy"><p>Jensen Huang resigned as president, chief executive and director of Nvidia with immediate effect, the company&#x27;s board announced at 13:48 UK time on Thursday. Chief financial officer Colette Kress became interim chief executive and Harvey Jones was named the board&#x27;s first chair, StockTitan reported, citing Nvidia&#x27;s filing with the SEC.</p><p>Nvidia shares were down about 10% before the US open, wiping roughly $440 billion off its market value, but the Nasdaq was down only about 0.35% by mid-morning in New York, according to CoinDesk. Nvidia still plans to report results on 17 November.</p><p>Bitcoin fared worse. It fell below $72,000 and touched about $71,100 on Kraken, its weakest level since August. Coinglass data cited by Bitcoin.com showed more than $656 million of crypto positions liquidated in 24 hours, about $555 million of them longs.</p><p>Fund flows added to the pressure. US spot bitcoin ETFs lost $1.44 billion over five sessions to 11 November, according to SoSoValue data reported by Decrypt.</p><p>Rates kept rising. Markets priced about a 94% chance of a quarter-point Fed rate rise on 9 December, and the 10-year Treasury yield stood above 5%, CoinDesk reported.</p><p>Zcash fell to about $955. Traders now turn to the US close and Friday&#x27;s producer price figures at 13:30 UK.</p></div></article>
+<aside class="side"><h3>In brief</h3><p class="inbrief">Jensen Huang resigned from Nvidia and bitcoin fell below $72,000 to its lowest since August as over $650 million of leveraged bets were wiped out. Fed hike odds rose to about 94% and ETF outflows hit $1.44 billion in five days.</p>
+<h3>The week ahead</h3><ul class="diary"><li><span class="when">Today 21:00 UK</span>🟠 US market close: first full session after Huang&#x27;s resignation</li><li><span class="when">Fri 13 Nov 13:30 UK</span>🟠 US PPI (October)</li><li><span class="when">Mon 16 Nov</span>🟢 Zcash coinholder polls open on the grants treasury proposal (to 30 Nov)</li><li><span class="when">Tue 17 Nov, after US close</span>🟠 Nvidia third-quarter results</li><li><span class="when">Wed 18 Nov 07:00 UK</span>🟢 UK CPI (October)</li><li><span class="when">Wed 18 Nov 19:00 UK</span>🟢 FOMC minutes (October meeting)</li></ul><h3>One thing explained</h3><div class="explain"><h4>What a liquidation cascade is</h4><p>Traders who borrow to bet on a rise (longs) must keep enough collateral on the exchange. When the price falls far enough, the exchange closes the position automatically by selling. That forced selling pushes the price lower, which triggers the next layer of liquidations.</p><p>Cascades are fast and can overshoot. Once the crowded leverage is gone, the forced selling stops, which is why analysts watch liquidation totals for signs that a drop is exhausting itself, though that is never guaranteed.</p></div><h3>What we are investigating</h3><ul class="inv"><li>Does the Nasdaq hold up into the 21:00 UK close? Evidence: closing moves in Nvidia, the Nasdaq and bitcoin.</li><li>Did ETF outflows continue on Thursday? Evidence: SoSoValue and Farside figures, published tonight UK time.</li><li>The Wire&#x27;s last refresh was 13:20 UTC, about three hours before this edition, so later news came from web searches. Evidence: the next status.json update.</li></ul></aside>
+</div>
+<p id="spoken" hidden>Cryptonaire Post, afternoon edition. The mood is risk-off. Jensen Huang has resigned as Nvidia&#x27;s chief executive with immediate effect, and its shares fell about ten per cent, though the wider Nasdaq held up. Bitcoin fell below seventy-two thousand dollars, touching about seventy-one thousand one hundred, its lowest since August, as more than six hundred and fifty million dollars of crypto bets were liquidated. Bitcoin funds have lost one point four billion dollars in five days. Markets now see a ninety-four per cent chance of a Fed rate rise in December. Zcash is about nine hundred and fifty-five dollars. Next, watch US producer prices on Friday at half past one. Information only, not advice.</p>
+<section class="also" id="stories"><h3 class="sec">Also in today's edition, ranked</h3><div class="cols"><article class="story"><div class="meta"><span class="kicker">Markets</span><span class="status o">Outlook changed</span><span class="imp r">🔴 Market mover</span>
+<span class="conf High">High confidence</span><span>12 Nov</span></div>
+<h4>Jensen Huang resigns as Nvidia CEO; Colette Kress named interim chief</h4><p>This morning the board&#x27;s decision was unknown. At 08:48 ET (13:48 UK) Nvidia said Huang had resigned as CEO and director with immediate effect; CFO Colette Kress is interim CEO and Harvey Jones is chair. Shares were down about 10% premarket at $155.44, but by 10:00 ET Nvidia was down about 7% and the Nasdaq only about 0.35%, CoinDesk reported. Results are still due on 17 November.</p><div class="note"><p><b>Our read · swing</b>Removing the uncertainty quickly kept the damage mostly inside Nvidia; the wider tech market did not crack, so this alone does not explain bitcoin&#x27;s fall.</p><p><b>Another explanation</b>A leaderless Nvidia could weigh on the whole AI trade over the coming weeks, especially if the 17 November results or guidance disappoint.</p><p><b>What would change this</b>A broad Nasdaq sell-off into the close, or weak Nvidia guidance on 17 November, would make this a wider risk-off driver.</p></div><div class="src">Sources: <a href="https://www.stocktitan.net/articles/stock-market-today-live-november-12-2026" rel="noopener">StockTitan (Nvidia 8-K)</a> · <a href="https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets" rel="noopener">CoinDesk live</a> · <a href="https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html" rel="noopener">Yahoo Finance</a></div></article><article class="story"><div class="meta"><span class="kicker">Bitcoin Desk</span><span class="status d">Developing</span><span class="imp r">🔴 Market mover</span>
+<span class="conf High">High confidence</span><span>12 Nov</span></div>
+<h4>Bitcoin breaks below $72,000 to its lowest since August as $656m is liquidated</h4><p>Bitcoin was about $71,630 on Kraken at 16:30 UK, after a low of $71,133, down from about $73,500 this morning. Coinglass data cited by Bitcoin.com showed $656 million of crypto liquidations in 24 hours, about $555 million longs and $237 million in BTC, with the sharpest burst around 13:15 UK. CoinDesk called it the weakest level since mid-to-late August.</p><p class="caveat">Analysts point to $70,000 as the next level to watch; that is opinion, not fact.</p><div class="note"><p><b>Our read · intraday</b>This morning&#x27;s warning signs (holders selling at a loss, shrinking stablecoin supply) played out: with little fresh buying, a crowded long position was flushed.</p><p><b>Another explanation</b>Large long liquidations often mark short-term exhaustion, and the Nasdaq&#x27;s resilience suggests this was a crypto-specific leverage clear-out rather than a wider panic.</p><p><b>What would change this</b>A recovery back above $73,000 would suggest the flush is done; a daily close below $70,000 would point to a deeper reset.</p></div><div class="src">Sources: <a href="https://api.kraken.com/0/public/Ticker?pair=XBTUSD" rel="noopener">Kraken (ticker)</a> · <a href="https://news.bitcoin.com/market-updates/bitcoin-price-breaks-below-72k-656m-liquidation-bloodbath/" rel="noopener">Bitcoin.com (Coinglass data)</a> · <a href="https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets" rel="noopener">CoinDesk live</a></div></article><article class="story"><div class="meta"><span class="kicker">ETFs and Institutions</span><span class="status d">Developing</span><span class="imp a">🟠 Worth knowing</span>
+<span class="conf High">High confidence</span><span>11 Nov</span></div>
+<h4>Bitcoin ETFs lose $1.44bn in five days; Wednesday&#x27;s $300m outflow confirmed</h4><p>SoSoValue data reported by Decrypt confirms this morning&#x27;s figure: $299.9 million out on Wednesday, $1.44 billion over 5 to 11 November and $1.88 billion so far in November. CoinDesk put about $270 million of Wednesday&#x27;s outflow in BlackRock&#x27;s IBIT, and Cointelegraph counted about $2 billion out of IBIT over nine sessions. Cumulative net inflows remain about $55 billion.</p><div class="src">Sources: <a href="https://decrypt.co/383122/bitcoin-etfs-bleed-1-4b-in-five-days-as-investors-cut-risk" rel="noopener">Decrypt (SoSoValue)</a> · <a href="https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five" rel="noopener">CoinDesk</a> · <a href="https://cointelegraph.com/markets/blackrock-bitcoin-etf-ibit-outflows-nine-day-streak" rel="noopener">Cointelegraph</a></div></article><article class="story"><div class="meta"><span class="kicker">The Big Picture</span><span class="status d">Developing</span><span class="imp a">🟠 Worth knowing</span>
+<span class="conf Medium">Medium confidence</span><span>12 Nov</span></div>
+<h4>December Fed hike odds rise to about 94% as the 10-year yield tops 5%</h4><p>Up from about 89% after Tuesday&#x27;s CPI. Cleveland Fed President Beth Hammack said policy needs to be restrictive and she prefers smaller, steady rises. US jobless claims rose to 200,000 (forecast 195,000) and existing home sales fell to 3.75 million, the lowest since 2010, CoinDesk reported. The dollar index is above 103 and gold fell to about $3,868.</p><div class="src">Sources: <a href="https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets" rel="noopener">CoinDesk live</a></div></article><article class="story"><div class="meta"><span class="kicker">Zcash Desk</span><span class="status d">Developing</span><span class="imp a">🟠 Worth knowing</span>
+<span class="conf Medium">Medium confidence</span><span>12 Nov</span></div>
+<h4>Zcash slips to about $955 as the only ZEC ETF loses $15m</h4><p>ZEC was about $955 on Kraken at 16:30 UK, after a low of $940.73, down from about $983 this morning, so the break below $1,000 is holding. CoinDesk reported the lone US ZEC ETF lost nearly $15 million in one session. The grants treasury vote from Monday is unchanged.</p><div class="src">Sources: <a href="https://api.kraken.com/0/public/Ticker?pair=ZECUSD" rel="noopener">Kraken (ticker)</a> · <a href="https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets" rel="noopener">CoinDesk live</a></div></article><article class="story"><div class="meta"><span class="kicker">UK</span><span class="status n">New</span><span class="imp g">🟢 Background</span>
+<span class="conf Medium">Medium confidence</span><span>12 Nov</span></div>
+<h4>Gemini sells its UK and European arm to stablecoin firm KAST for under $10m</h4><p>CoinDesk reported that Gemini is selling the UK and EU businesses it planned to wind down to Singapore-based KAST, citing one person familiar with the deal. Buyers have valued such units for their regulatory permissions, a sign of how scarce UK crypto licences are before the FCA regime. Neither firm commented; nothing was said about UK customers.</p><div class="src">Sources: <a href="https://www.coindesk.com/business/2026/11/12/gemini-sells-uk-and-european-operations-to-stablecoin-payments-firm-kast-for-under-usd10-million" rel="noopener">CoinDesk</a></div></article></div></section>
+<footer><p>Written and ranked by Claude from public sources. Confidence: <b>High</b> means a primary source or 2+ independent outlets agree, <b>Medium</b> means one reputable outlet, <b>Low</b> means unconfirmed. Prices in stories are as reported; the market strip is live from Binance.</p>
+<p><b>Information only, not financial advice or a buy/sell signal.</b></p>
+<p>Back issues:</p><div class="arch"><a href="../b/2026-11-12-1635.html">12 Nov 16:35</a><a href="../b/2026-11-12-0645.html">12 Nov 06:45</a><a href="../b/2026-11-11-0635.html">11 Nov 06:35</a><a href="../b/2026-11-10-1945.html">10 Nov 19:45</a><a href="../b/2026-11-10-0631.html">10 Nov 06:31</a><a href="../b/2026-11-09-1800.html">9 Nov 18:00</a></div>
+<p><a href="https://astralis-arch.github.io/cryptonaire-calendar/news/feed.xml">RSS feed</a> · <a href="https://astralis-arch.github.io/cryptonaire-calendar/news/brief.txt">Spoken text</a></p></footer>
+</main><script>
+const fmt=(n,d)=>n.toLocaleString('en-US',{minimumFractionDigits:d,maximumFractionDigits:d});
+async function prices(){
+  try{
+    const r=await fetch('https://data-api.binance.vision/api/v3/ticker/24hr?symbols=%5B%22BTCUSDT%22,%22ZECUSDT%22%5D',{cache:'no-store'});
+    for(const t of await r.json()){
+      const el=document.getElementById(t.symbol);if(!el)continue;
+      const p=+t.lastPrice,c=+t.priceChangePercent;
+      el.querySelector('span').textContent='$'+fmt(p,p>=10000?0:2);
+      const i=el.querySelector('i');i.textContent=(c>=0?'▲ +':'▼ ')+c.toFixed(1)+'%';i.className=c>=0?'up':'down';
+    }
+  }catch(e){document.querySelectorAll('.markets i').forEach(i=>{i.textContent='offline';i.previousElementSibling.textContent='—'})}
+}
+prices();setInterval(prices,60000);
+const m=document.querySelector('main');let z=1;try{z=+localStorage.getItem('postZoom')||1}catch(e){}
+const zoom=d=>{z=Math.min(1.5,Math.max(.85,+(z+d).toFixed(2)));m.style.zoom=z;try{localStorage.setItem('postZoom',z)}catch(e){}};zoom(0);
+document.getElementById('zin')?.addEventListener('click',()=>zoom(.1));document.getElementById('zout')?.addEventListener('click',()=>zoom(-.1));
+const btn=document.getElementById('listen');
+btn&&btn.addEventListener('click',()=>{
+  const s=window.speechSynthesis;if(!s)return;
+  if(s.speaking){s.cancel();btn.textContent='▶ Listen';return}
+  const u=new SpeechSynthesisUtterance(document.getElementById('spoken').textContent);
+  const v=s.getVoices().find(v=>v.lang==='en-GB');if(v)u.voice=v;u.lang='en-GB';
+  u.onend=()=>btn.textContent='▶ Listen';btn.textContent='■ Stop';s.speak(u);
+});
+</script></body></html>
