@@ -1,5 +1,175 @@
 [
 {
+"id": "698f80da5706c9d7",
+"title": "Retroactive Grant Application - Minezcash: Zcash Forum Moderator Long Service Award",
+"link": "https://forum.zcashcommunity.com/t/retroactive-grant-application-minezcash-zcash-forum-moderator-long-service-award/59273",
+"published": "2026-11-13T08:35:04Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-13T08:43:57Z"
+},
+{
+"id": "ec953d5341a3af6f",
+"title": "Retroactive Grant Application - Minezcash: Zcash Forum Moderation Long Service Award",
+"link": "https://forum.zcashcommunity.com/t/retroactive-grant-application-minezcash-zcash-forum-moderation-long-service-award/59272",
+"published": "2026-11-13T08:27:37Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-13T08:43:57Z"
+},
+{
+"id": "08657c98975995f9",
+"title": "Microsoft 365 outage hits Outlook email and Teams calendars worldwide",
+"link": "https://cointelegraph.com/news/microsoft-365-global-outage-outlook-teams-ai-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-13T08:26:01Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T08:43:57Z"
+},
+{
+"id": "168e9cac529cc12f",
+"title": "Where's My ZEC — a free, keyless way to find a stuck ZEC swap (and your refund window)",
+"link": "https://forum.zcashcommunity.com/t/wheres-my-zec-a-free-keyless-way-to-find-a-stuck-zec-swap-and-your-refund-window/59271",
+"published": "2026-11-13T07:16:47Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-13T08:43:57Z"
+},
+{
+"id": "f60812551964f551",
+"title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
+"link": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
+"published": "2026-11-13T07:05:29Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T08:43:57Z"
+},
+{
+"id": "395593ae55d63eed",
+"title": "Bitcoin tumbles below $69,000 as Nvidia turmoil adds to Fed-driven market jitters",
+"link": "https://www.theblock.co/news/markets/2026-11-13-bitcoin-tumbles-below-69000-439643",
+"published": "2026-11-13T06:23:43Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T08:43:57Z"
+},
+{
+"id": "2f34e556993a55e7",
+"title": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
+"link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
+"published": "2026-11-13T06:03:41Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T08:43:57Z"
+},
+{
+"id": "8724d357c943fcdf",
+"title": "Bitcoin slides below $70K amid thin liquidity, ETF outflows",
+"link": "https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-13T06:00:15Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T08:43:57Z"
+},
+{
+"id": "5b07f09552a06732",
+"title": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
+"link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year",
+"published": "2026-11-13T05:45:26Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T08:43:57Z"
+},
+{
+"id": "e0384f5c33c1ef33",
+"title": "SpaceX-Tesla merger talks put 30,000 bitcoin back in focus",
+"link": "https://www.coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus",
+"published": "2026-11-13T05:08:59Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T08:43:57Z"
+},
+{
+"id": "e974bf4d7bd5718f",
+"title": "TRM Labs launches new service to help police seize stolen crypto in minutes",
+"link": "https://www.theblock.co/news/defi/2026-11-13-trm-labs-beacon-concierge-439609",
+"published": "2026-11-13T05:08:25Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T08:43:57Z"
+},
+{
+"id": "3341fa81c8b1ffb4",
+"title": "White House sends crypto-relevant picks to fill SEC and CFTC seats",
+"link": "https://www.theblock.co/news/regulation/2026-11-12-white-house-crypto-picks-sec-cftc-439175",
+"published": "2026-11-13T04:56:47Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T08:43:57Z"
+},
+{
+"id": "38d0312ac1ae5db4",
+"title": "Bitcoin falls to 12-week low, Strategy and Metaplanet to lose MSCI index membership, and more",
+"link": "https://www.theblock.co/newsletters/the-daily/2026-11-12-bitcoin-12-week-low-strategy-metaplanet-msci-more-crypto-news-439049",
+"published": "2026-11-13T04:20:00Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T08:43:57Z"
+},
+{
+"id": "aecaef79d2788762",
+"title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
+"link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace",
+"published": "2026-11-13T03:37:00Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T08:43:57Z"
+},
+{
+"id": "375d811b44aefe1d",
+"title": "Retroactive Grant Application - Zebra Fuzzing Maintenance and Upstream CI Integration",
+"link": "https://forum.zcashcommunity.com/t/retroactive-grant-application-zebra-fuzzing-maintenance-and-upstream-ci-integration/59268",
+"published": "2026-11-13T02:30:57Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-13T08:43:57Z"
+},
+{
+"id": "6db2b76108e5f1da",
+"title": "Trump nominates Hester Peirce successor among SEC, CFTC picks",
+"link": "https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-13T02:29:27Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T08:43:57Z"
+},
+{
+"id": "f6a5e56d2c1efea8",
+"title": "Former Nvidia CEO Huang had third alleged affair: Reuters",
+"link": "https://cointelegraph.com/news/former-nvidia-ceo-huang-had-third-alleged-affair-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-13T01:26:27Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T08:43:57Z"
+},
+{
 "id": "5d2f59fde3e0478f",
 "title": "Gemini’s quarterly retail trading volume sinks to 3-year low",
 "link": "https://cointelegraph.com/markets/geminis-quarterly-retail-trading-volume-sinks-to-3-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -4077,6 +4247,16 @@
 "kind": "news",
 "first_seen": "2026-11-06T17:42:31Z",
 "backfill": true
+},
+{
+"id": "523fcaffe803342d",
+"title": "Bitcoin Optech Newsletter #430",
+"link": "https://bitcoinops.org/en/newsletters/2026/11/06/",
+"published": "2026-11-06T00:00:00Z",
+"source": "Bitcoin Optech",
+"desk": "Protocol",
+"kind": "protocol",
+"first_seen": "2026-11-13T08:43:57Z"
 },
 {
 "id": "0224349908e0b1c1",
