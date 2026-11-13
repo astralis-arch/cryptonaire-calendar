@@ -1,0 +1,116 @@
+{
+  "generated": "2026-11-13T06:45:00Z",
+  "mood": "risk-off",
+  "briefing": {
+    "developments": [
+      "Bitcoin broke below $70,000 overnight and touched $67,500 on Kraken around 05:00 UK, its lowest since August, before steadying near $68,900.",
+      "CoinDesk, citing CoinGlass, put 24-hour crypto liquidations above $1.2 billion, including about $677 million in bitcoin, as the fall through $70,000 forced out leveraged long positions.",
+      "A stronger dollar, a 10-year Treasury yield above 5% and Iran's unverified claim of a strike on a US radar in Bahrain added pressure while the UK slept."
+    ],
+    "changed": "Last night bitcoin was holding near $71,500 and the question was whether it would bounce. It did not: it fell a further 3.5% or so in Asian hours, and the sell-off moved from a slow drift to a forced liquidation. Zcash dipped to $880 before recovering to about $938. Sentiment has hit 'extreme fear'.",
+    "question": "Is the flush through $70,000 the capitulation that clears leverage, or the start of a slide toward the mid-$60,000s as ETF and Strategy-related selling continues?",
+    "watch": "US producer prices (PPI) today at 13:30 UK, then Thursday's full ETF flow figures. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
+  },
+  "lead": {
+    "headline": "Bitcoin breaks below $70,000 as overnight liquidations top $1bn",
+    "standfirst": "Bitcoin fell through $70,000 during Asian trading on Friday and touched $67,500, its weakest level since August, as leveraged bets on higher prices were forced out.",
+    "body": [
+      "Bitcoin dropped below $70,000 in the early hours of Friday, UK time, and reached $67,500 on Kraken shortly after 05:00. It was trading near $68,900 at 06:45, about 3.5% below its level at the close of US trading on Thursday evening.",
+      "More than $1.2 billion of crypto futures positions were liquidated over 24 hours, including about $677 million in bitcoin, CoinDesk reported, citing CoinGlass. Nearly $500 million was forced out as the price fell through $70,000. Ether dropped below $2,000 for the first time since August.",
+      "CoinDesk linked the move to a stronger dollar, with the dollar index above 103, its highest since April 2025, and to rising bets on a December Fed rate hike after last week's hot consumer price data. Iran's Revolutionary Guards also claimed to have destroyed a US early-warning radar in Bahrain, a claim that could not be independently verified, investingLive reported.",
+      "The Crypto Fear and Greed Index fell to 20, 'extreme fear', its lowest in more than four months, Cointelegraph reported. Preliminary Farside data showed further spot bitcoin ETF outflows on Thursday, with the largest funds still to report.",
+      "Zcash fell as low as $880 before recovering to about $938. US producer price figures are due at 13:30 UK."
+    ]
+  },
+  "headline": "Bitcoin broke below $70,000 overnight, touching $67,500, as more than $1.2 billion of crypto positions were liquidated. A strong dollar, 5% Treasury yields and an unverified Iranian strike claim kept the mood risk-off ahead of US PPI at 13:30 UK.",
+  "spoken": "Cryptonaire Post, morning edition. The mood is risk-off. Bitcoin fell below seventy thousand dollars overnight and touched sixty-seven thousand five hundred just after five this morning, its lowest since August. It is now about sixty-eight thousand nine hundred. More than one point two billion dollars of crypto bets were liquidated in a day. A strong dollar and Treasury yields above five per cent are weighing, and Iran claims it struck a US radar in Bahrain, which is unconfirmed. Sentiment is at extreme fear. Zcash dipped to eight hundred and eighty dollars and is back near nine hundred and forty. Next, US producer prices at half past one. Information only, not advice.",
+  "stories": [
+    {
+      "section": "BTC", "impact": "🔴", "confidence": "High", "date": "2026-11-13", "status": "Outlook changed",
+      "title": "Bitcoin breaks below $70,000 and touches $67,500",
+      "why": "Last night bitcoin was holding near $71,500. In Asian hours it slid through $70,000 around 03:00 UK and hit $67,500 on Kraken just after 05:00, its lowest since August, before recovering to about $68,900. CoinDesk, citing CoinGlass, put 24-hour liquidations above $1.2 billion, with about $677 million in bitcoin and nearly $500 million triggered as $70,000 broke. Ether fell below $2,000.",
+      "caveat": "CoinDesk gives both $1.2 billion and $1.3 billion for 24-hour liquidations; totals vary by provider and window.",
+      "note": {"horizon": "swing", "read": "The break of $70,000 turned a slow drift into a forced sale of leveraged longs; once that is cleared, selling pressure often eases for a while.", "alt": "With ETF outflows and Strategy-related selling still running, the flush may be the first leg of a deeper move rather than the end of one.", "change": "A return above $71,000 would suggest the move was mostly leverage; a daily close below about $67,500 would point to sellers still in control."},
+      "sources": [
+        {"name": "Kraken (OHLC)", "url": "https://api.kraken.com/0/public/OHLC?pair=XBTUSD&interval=60"},
+        {"name": "CoinDesk", "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace"},
+        {"name": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-13/bitcoin-slips-below-70-000-as-higher-yields-weigh-on-crypto"}
+      ]
+    },
+    {
+      "section": "Macro", "impact": "🟠", "confidence": "Medium", "date": "2026-11-13", "status": "Developing",
+      "title": "Dollar at highest since April 2025 as December hike bets grow",
+      "why": "The dollar index traded above 103, its highest since April 2025 and up nearly 2% since early October, CoinDesk reported, as odds of a half-point Fed hike in December rose after last week's hot CPI. 10x Research, cited by Cointelegraph, pointed to the 10-year yield above 5%: bitcoin fell 5.9% from 5 to 12 November while the Nasdaq 100 rose 6.4%.",
+      "note": {"horizon": "swing", "read": "Rate and dollar pressure is now the clearest outside driver; it explains why bitcoin is weak while stocks are not.", "alt": "Much of the gap with stocks may be crypto's own selling (ETFs, Strategy, leverage), with rates only the backdrop.", "change": "A soft PPI today that pulls hike odds down would ease this pressure; a hot one would add to it."},
+      "sources": [
+        {"name": "CoinDesk", "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace"},
+        {"name": "Cointelegraph", "url": "https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear"}
+      ]
+    },
+    {
+      "section": "Macro", "impact": "🟠", "confidence": "Low", "date": "2026-11-13", "status": "New",
+      "title": "Iran claims strike on US radar in Bahrain; unverified",
+      "why": "Iran's Revolutionary Guards said they destroyed a US early-warning radar in Bahrain in retaliation for an air attack on a telecoms tower at Sirik on Iran's Hormuz coast, and warned firms working with the US over Hormuz oil shipments, investingLive reported. There was no immediate US or Bahraini comment. WTI was around $88, CoinDesk said.",
+      "caveat": "The claim came from Iranian state media and had not been independently verified at the time of writing.",
+      "sources": [
+        {"name": "investingLive", "url": "https://investinglive.com/commodities/iran-s-guards-claim-strike-on-us-radar-in-bahrain-warn-firms-over-hormuz-oil-trade/"},
+        {"name": "Middle East Eye", "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-irgc-says-it-targeted-us-radar-bahrain"}
+      ]
+    },
+    {
+      "section": "ETFs", "impact": "🟠", "confidence": "Medium", "date": "2026-11-13", "status": "Developing",
+      "title": "ETF outflows continue on Thursday, early data shows",
+      "why": "Preliminary Farside data showed $47.7 million of net outflows from US spot bitcoin ETFs on Thursday, with BlackRock and Fidelity still to report, Cointelegraph said. That would be a sixth straight day, after about $1.44 billion left in the previous five sessions and more than $2 billion left BlackRock's IBIT over nine sessions.",
+      "caveat": "Thursday's total is incomplete until BlackRock and Fidelity report.",
+      "sources": [
+        {"name": "Cointelegraph", "url": "https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear"},
+        {"name": "Cointelegraph (IBIT)", "url": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-ibit-outflows-nine-day-streak"}
+      ]
+    },
+    {
+      "section": "BTC", "impact": "🟠", "confidence": "Medium", "date": "2026-11-12", "status": "Developing",
+      "title": "Strategy shares fall 6.5% ahead of MSCI index removal",
+      "why": "Strategy (MSTR) closed Thursday at $114.41, down 6.49%, Cointelegraph reported. MSCI confirmed it will drop the company from its global indexes after the 30 November close; JPMorgan estimated about $2.8 billion of related selling. Bitcoin Magazine reported that Jane Street raised its Strategy stake by 54% to 4.1 million shares.",
+      "sources": [
+        {"name": "Cointelegraph", "url": "https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin"},
+        {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/news/jane-street-lifts-strategy-mstr-stake"}
+      ]
+    },
+    {
+      "section": "ZEC", "impact": "🟢", "confidence": "High", "date": "2026-11-13", "status": "Developing",
+      "title": "Zcash dips to $880 with bitcoin, then recovers to about $938",
+      "why": "ZEC slid from about $955 to $880 on Kraken between 03:00 and 05:00 UK as bitcoin broke down, then bounced to about $938 by 06:45. It is down about 2% since last night, a smaller fall than bitcoin's. No Zcash-specific news explained the move.",
+      "sources": [
+        {"name": "Kraken (OHLC)", "url": "https://api.kraken.com/0/public/OHLC?pair=ZECUSD&interval=60"}
+      ]
+    },
+    {
+      "section": "Policy", "impact": "🟢", "confidence": "High", "date": "2026-11-12", "status": "New",
+      "title": "US moves to seize $1.2bn from Binance hack; Trump names SEC and CFTC nominees",
+      "why": "The Justice Department won court authority to seize or restrain more than $1.2 billion stolen in North Korea's Binance hack, part of over $2.7 billion now frozen, The Block reported. Separately, President Trump nominated Kristin Johnson and Steven Levine to the SEC and Nathan Anonick and Matthew Rowland to the CFTC, filling seats empty since January 2025, CoinDesk reported.",
+      "sources": [
+        {"name": "The Block", "url": "https://www.theblock.co/news/business/2026-11-12-doj-seize-1-2-billion-binance-hack-north-korea-facestealer-439065"},
+        {"name": "CoinDesk", "url": "https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year"}
+      ]
+    }
+  ],
+  "explained": {
+    "title": "Why round numbers like $70,000 can trigger a cascade",
+    "body": [
+      "Many traders borrow to bet on rising prices and set their stop-loss orders, or have their liquidation levels, just below obvious round numbers. When the price breaks through, those positions are closed automatically, which means more selling, which pushes the price to the next cluster.",
+      "That is why falls through a big level are often fast and then pause: once the forced sellers are gone, there is less pressure left. It says nothing on its own about where the price goes next."
+    ]
+  },
+  "investigating": [
+    "How large were Thursday's ETF outflows once BlackRock and Fidelity report? Evidence: final Farside and SoSoValue figures later today.",
+    "Is Iran's radar claim real, and does it lead to wider escalation? Evidence: US or Bahraini confirmation and the oil price through the UK morning."
+  ],
+  "corrections": [],
+  "ahead": [
+    {"when": "Fri 13 Nov 13:30 UK", "impact": "🟠", "what": "US PPI (October)"},
+    {"when": "Mon 16 Nov", "impact": "🟢", "what": "Zcash coinholder polls open on the grants treasury proposal (to 30 Nov)"},
+    {"when": "Tue 17 Nov, after US close", "impact": "🟠", "what": "Nvidia third-quarter results, the first under interim CEO Colette Kress"},
+    {"when": "Wed 18 Nov 07:00 UK", "impact": "🟢", "what": "UK CPI (October)"},
+    {"when": "Wed 18 Nov 19:00 UK", "impact": "🟢", "what": "FOMC minutes (October meeting)"}
+  ]
+}
