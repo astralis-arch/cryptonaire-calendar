@@ -1,5 +1,425 @@
 [
 {
+"id": "7200d5a7c56159c5",
+"title": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
+"link": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations",
+"published": "2026-11-13T17:05:43Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T17:09:38Z"
+},
+{
+"id": "1e617a18cbd277ea",
+"title": "Invest Zone ZEC Swaps Integration",
+"link": "https://forum.zcashcommunity.com/t/invest-zone-zec-swaps-integration/59288",
+"published": "2026-11-13T16:39:41Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-13T17:09:38Z"
+},
+{
+"id": "1b3d206790508730",
+"title": "FutureBit’s Apollo III Bitcoin Miner Hits Micro Center Shelves in Its First Brick-and-Mortar Launch",
+"link": "https://bitcoinmagazine.com/news/futurebit-apollo-iii-hits-micro-center-shelves",
+"published": "2026-11-13T16:39:33Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-13T17:09:38Z"
+},
+{
+"id": "517c1d5d435b7cd6",
+"title": "Bitcoin holds below $70K as stocks slip despite a cooler US PPI print",
+"link": "https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-13T16:39:11Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T17:09:38Z"
+},
+{
+"id": "cd2933904b2e1f1b",
+"title": "Hyperliquid leapfrogs Bybit, Kraken and OKX in open interest as Q3 positions grow 80%",
+"link": "https://www.theblock.co/news/markets/2026-11-13-hyperliquid-leapfrogs-bybit-kraken-okx-open-interest-q3-positions-grow-440053",
+"published": "2026-11-13T16:37:26Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T17:09:38Z"
+},
+{
+"id": "82b739f24b42db14",
+"title": "Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms",
+"link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms",
+"published": "2026-11-13T16:01:27Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T17:09:38Z"
+},
+{
+"id": "2c8505574b152a61",
+"title": "Zeeder Docker Image Renamed to zfnd/zeeder: Switch by 14 December 2026",
+"link": "https://forum.zcashcommunity.com/t/zeeder-docker-image-renamed-to-zfnd-zeeder-switch-by-14-december-2026/59285",
+"published": "2026-11-13T15:41:05Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-13T17:09:38Z"
+},
+{
+"id": "bd1f26a6dccd57bf",
+"title": "Kraken parent Payward posts 66% drop in Q3 adjusted EBITDA, plans US prediction markets and personal finance AI agent",
+"link": "https://www.theblock.co/news/business/2026-11-13-kraken-parent-payward-posts-66-drop-in-q3-adjusted-ebitda-plans-us-prediction-markets-and-personal-finance-ai-agent-439721",
+"published": "2026-11-13T15:31:22Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T17:09:38Z"
+},
+{
+"id": "ba1a4e6ae0fccb1c",
+"title": "Robinhood’s Crypto Trading Volume Falls 48% in October as Event Contracts More Than Double",
+"link": "https://bitcoinmagazine.com/news/robinhood-crypto-volume-falls-48-percent",
+"published": "2026-11-13T15:30:00Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-13T17:09:38Z"
+},
+{
+"id": "e19449b92657bd4c",
+"title": "Retroactive Grant Application — Zodl Android Wallet OSS Improvements",
+"link": "https://forum.zcashcommunity.com/t/retroactive-grant-application-zodl-android-wallet-oss-improvements/59284",
+"published": "2026-11-13T15:05:11Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-13T17:09:38Z"
+},
+{
+"id": "6578fa36a1818c9b",
+"title": "Over 300 Pro-Crypto Lawmakers Are Coming Into Congress",
+"link": "https://bitcoinmagazine.com/videos/over-300-pro-crypto-lawmakers-are-coming-into-congress",
+"published": "2026-11-13T15:00:13Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-13T17:09:38Z"
+},
+{
+"id": "125a0c24f13907cb",
+"title": "Tether-backed Twenty One Capital reports $1.09 billion Q3 net income on bitcoin gains",
+"link": "https://www.theblock.co/news/business/2026-11-13-tether-backed-twenty-one-capital-reports-1-09-billion-q3-net-income-on-bitcoin-gains-439711",
+"published": "2026-11-13T14:50:49Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T17:09:38Z"
+},
+{
+"id": "6cb0ff29b61f223e",
+"title": "President Trump Taps Two Democrats in Bipartisan Slate of SEC and CFTC Nominees as Both Agencies Run Short-Handed",
+"link": "https://bitcoinmagazine.com/news/trump-sec-cftc-nominees-bipartisan",
+"published": "2026-11-13T14:45:00Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-13T17:09:38Z"
+},
+{
+"id": "8d92d1f3d7af1f1d",
+"title": "Ethereum and Layer 1s Explained",
+"link": "https://www.theblock.co/learn/campus/ethereum-and-layer-1s-explained-435883",
+"published": "2026-11-13T14:12:23Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T17:09:38Z"
+},
+{
+"id": "592251199388c3e6",
+"title": "Bitcoin Price Briefly Crashes to $67,500, Lowest Since August, as Dollar Holds 19-Month High",
+"link": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-69100-dollar",
+"published": "2026-11-13T14:11:44Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-13T17:09:38Z"
+},
+{
+"id": "d9e8030a15a8f6c5",
+"title": "Q4 2026 Retroactive Grant Application: Open-Source Zcash Hardware-Wallet SDK",
+"link": "https://forum.zcashcommunity.com/t/q4-2026-retroactive-grant-application-open-source-zcash-hardware-wallet-sdk/59283",
+"published": "2026-11-13T14:11:31Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-13T17:09:38Z"
+},
+{
+"id": "01752792d9dd6cb0",
+"title": "Kraken parent Payward says expansion outside crypto trading helps cushion revenue decline",
+"link": "https://www.coindesk.com/business/2026/11/13/kraken-parent-payward-says-expansion-outside-crypto-trading-helps-cushion-revenue-decline",
+"published": "2026-11-13T14:02:00Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T17:09:38Z"
+},
+{
+"id": "b70101dcf65471fb",
+"title": "Crypto Laundering a 'Material Risk' for UK Ahead of FATF Review: RUSI",
+"link": "https://decrypt.co/383227/crypto-laundering-a-material-risk-for-uk-ahead-of-fatf-review-rusi",
+"published": "2026-11-13T13:55:25Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T17:09:38Z"
+},
+{
+"id": "dedfcc43d016bc7c",
+"title": "Arthur Hayes ‘flattered’ as Coinbase backs US stock perps",
+"link": "https://cointelegraph.com/news/arthur-hayes-coinbase-us-stock-perps-cftc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-13T13:41:26Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T17:09:38Z"
+},
+{
+"id": "5ccfbac98a3e1658",
+"title": "‘Roadmap is Complete,' Cardano Founder Charles Hoskinson Says",
+"link": "https://decrypt.co/383221/roadmap-is-complete-cardano-founder-charles-hoskinson-says",
+"published": "2026-11-13T13:36:29Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T17:09:38Z"
+},
+{
+"id": "468ad87c4c0dc7dc",
+"title": "From $6 to $6.9 million: Two dormant Bitcoin addresses wake up to move 100 BTC after more than 16 years",
+"link": "https://www.theblock.co/news/markets/2026-11-13-from-6-to-6-9-million-two-dormant-bitcoin-addresses-wake-up-to-move-100-btc-after-more-than-16-years-439698",
+"published": "2026-11-13T13:34:46Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T17:09:38Z"
+},
+{
+"id": "47395a9941757bfc",
+"title": "We made Zcash wallet sync ~21x faster. Yes, really",
+"link": "https://forum.zcashcommunity.com/t/we-made-zcash-wallet-sync-21x-faster-yes-really/59281",
+"published": "2026-11-13T13:22:23Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-13T17:09:38Z"
+},
+{
+"id": "7ba8fa21cfb4a018",
+"title": "Nakamoto shares fall 6% premarket after Q3 revenue turns negative",
+"link": "https://cointelegraph.com/markets/nakamoto-shares-fall-after-negative-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-13T13:04:19Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T17:09:38Z"
+},
+{
+"id": "1f8dc4036359078c",
+"title": "Morning Minute: Crypto Plummets as Jensen Huang Exits Nvidia",
+"link": "https://decrypt.co/383222/morning-minute-crypto-plummets-as-jensen-huang-exits-nvidia",
+"published": "2026-11-13T13:03:40Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T17:09:38Z"
+},
+{
+"id": "d4c65ddb93bb7dbd",
+"title": "UK, Singapore, and Thailand central banks complete foreign exchange settlement trial linking traditional and tokenized systems",
+"link": "https://www.theblock.co/news/regulation/2026-11-13-uk-singapore-and-thailand-central-banks-complete-foreign-exchange-settlement-trial-linking-traditional-and-tokenized-systems-439692",
+"published": "2026-11-13T12:27:41Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T17:09:38Z"
+},
+{
+"id": "a1eed89f94377709",
+"title": "Israeli police arrest five in $5M WhatsApp crypto trading probe",
+"link": "https://cointelegraph.com/news/israel-police-arrest-five-5m-whatsapp-crypto-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-13T12:19:01Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T17:09:38Z"
+},
+{
+"id": "dd2c1d5bae533e87",
+"title": "Bitcoin's momentum gauge is turning red, could send prices back below $60,000",
+"link": "https://www.coindesk.com/daybook-us/2026/11/13/bitcoin-s-momentum-gauge-is-turning-red-could-send-prices-back-below-usd60-000",
+"published": "2026-11-13T12:14:22Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T17:09:38Z"
+},
+{
+"id": "ee78463c72d415e4",
+"title": "Digital Credit: Comparing The Six Bitcoin Preferred Stocks",
+"link": "https://bitcoinmagazine.com/bitcoin-for-corporations/digital-credit-comparing-the-six-bitcoin-preferred-stocks",
+"published": "2026-11-13T12:03:47Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-13T17:09:38Z"
+},
+{
+"id": "4086232d1edc0239",
+"title": "Retroactive Grant Application - zcrowd",
+"link": "https://forum.zcashcommunity.com/t/retroactive-grant-application-zcrowd/59279",
+"published": "2026-11-13T12:01:30Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-13T17:09:38Z"
+},
+{
+"id": "3012a19fabb41431",
+"title": "Nvidia Employees Push Board to Bring Back Jensen Huang: Report",
+"link": "https://decrypt.co/383217/nvidia-employees-push-board-to-bring-back-jensen-huang-report",
+"published": "2026-11-13T11:58:47Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T17:09:38Z"
+},
+{
+"id": "4b6d18197b0a430d",
+"title": "Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion",
+"link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion",
+"published": "2026-11-13T11:52:25Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T17:09:38Z"
+},
+{
+"id": "0f46772695ef8b3a",
+"title": "Bitcoin Drops to $69K On 'Concentrated Liquidation' and 'Weakening' Demand",
+"link": "https://decrypt.co/383214/bitcoin-drops-to-69k-on-concentrated-liquidation-and-weakening-demand",
+"published": "2026-11-13T11:20:44Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T17:09:38Z"
+},
+{
+"id": "43938483e86251b9",
+"title": "Congress Summons Ex-Nvidia CEO Jensen Huang, Lutnick Over Chip Exports to China",
+"link": "https://decrypt.co/383211/congress-summons-ex-nvidia-ceo-jensen-huang-lutnick-over-chip-exports-to-china",
+"published": "2026-11-13T10:55:54Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T17:09:38Z"
+},
+{
+"id": "b25c822d706e87f9",
+"title": "Retroactive Grant Application - Zebra Peer Enforcement and Operational Reliability",
+"link": "https://forum.zcashcommunity.com/t/retroactive-grant-application-zebra-peer-enforcement-and-operational-reliability/59275",
+"published": "2026-11-13T10:45:51Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-13T17:09:38Z"
+},
+{
+"id": "56b7e38be9522105",
+"title": "Thailand seeks $148,000 daily cap on certain stablecoin transfers to curb money laundering",
+"link": "https://www.theblock.co/news/regulation/2026-11-13-thailand-seeks-daily-stablecoin-cap-439676",
+"published": "2026-11-13T10:16:04Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T17:09:38Z"
+},
+{
+"id": "c3172ed329295863",
+"title": "JPMorgan reports 36% rise in Strategy share holdings and $540 million in BlackRock’s bitcoin ETF",
+"link": "https://www.theblock.co/news/business/2026-11-13-jpmorgan-reports-36-rise-in-strategy-share-holdings-and-540-million-in-blackrocks-bitcoin-etf-439671",
+"published": "2026-11-13T09:59:16Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T17:09:38Z"
+},
+{
+"id": "286d10d5b1155e1e",
+"title": "Unocoin keeps deposits and withdrawals halted over suspect transfers",
+"link": "https://cointelegraph.com/news/unocoin-withdrawals-halted-bitgo-wallet-transfer-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-13T09:58:21Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T17:09:38Z"
+},
+{
+"id": "21af0e2329c1d5cc",
+"title": "Bitcoin returns to 200-week trend line as analyst sees risk of $57.7K next",
+"link": "https://cointelegraph.com/markets/bitcoin-returns-200-week-trend-line-analyst-sees-risk-57k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-13T09:39:05Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T17:09:38Z"
+},
+{
+"id": "c36aedbbac6a1aa5",
+"title": "DOJ, CFTC sue Arkansas to block state enforcement action against Kalshi",
+"link": "https://www.theblock.co/news/regulation/2026-11-13-doj-cftc-sue-arkansas-to-block-state-enforcement-action-against-kalshi-439669",
+"published": "2026-11-13T09:32:39Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T17:09:38Z"
+},
+{
+"id": "39ef97df9becdaff",
+"title": "DOJ moves to seize $1.2B from Binance hack, disrupts FaceStealer scam",
+"link": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-13T09:27:14Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T17:09:38Z"
+},
+{
+"id": "cf6de2d2e1e7e53a",
+"title": "Live updates: Bitcoin plunges back towards bear market lows, wiping out late summer rally",
+"link": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
+"published": "2026-11-13T09:16:58Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T17:09:38Z"
+},
+{
+"id": "d6351520faf1c3f1",
+"title": "Jane Street boosts Fidelity Bitcoin ETF holdings nearly 8x, trims IBIT",
+"link": "https://cointelegraph.com/news/jane-street-add-fidelity-bitcoin-etf-ibit-cut-q3-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-13T09:05:10Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T17:09:38Z"
+},
+{
 "id": "698f80da5706c9d7",
 "title": "Retroactive Grant Application - Minezcash: Zcash Forum Moderator Long Service Award",
 "link": "https://forum.zcashcommunity.com/t/retroactive-grant-application-minezcash-zcash-forum-moderator-long-service-award/59273",
@@ -198,6 +618,16 @@
 "desk": "BTC",
 "kind": "news",
 "first_seen": "2026-11-13T01:28:03Z"
+},
+{
+"id": "9c459691928d5f6a",
+"title": "Bitcoin Optech Newsletter #431",
+"link": "https://bitcoinops.org/en/newsletters/2026/11/13/",
+"published": "2026-11-13T00:00:00Z",
+"source": "Bitcoin Optech",
+"desk": "Protocol",
+"kind": "protocol",
+"first_seen": "2026-11-13T17:09:38Z"
 },
 {
 "id": "d83951ce89f19f4b",
