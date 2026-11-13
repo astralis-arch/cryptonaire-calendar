@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en-GB"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>The Cryptonaire Post</title>
+<meta name="description" content="Stocks claw back losses but bitcoin stays pinned near $68,000">
+<meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="Cryptonaire Post">
+<link rel="alternate" type="application/rss+xml" title="The Cryptonaire Post" href="https://astralis-arch.github.io/cryptonaire-calendar/news/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&family=Playfair+Display:wght@700;800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=Archivo:wght@400;600;700&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+:root{--paper:#f4efe4;--ink:#1b1a17;--muted:#5e5a50;--rule:#1b1a17;--hair:#cfc6b4;--red:#a61e1e;--amber:#9a5b00;--green:#2b6b3c;--accent:#7a1414;
+--mast:"UnifrakturMaguntia","Old English Text MT",serif;--head:"Playfair Display",Georgia,serif;--body:"Source Serif 4",Georgia,"Times New Roman",serif;--sans:"Archivo",system-ui,-apple-system,sans-serif;--num:"JetBrains Mono",ui-monospace,Menlo,monospace}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--paper:#16150f;--ink:#ece6d8;--muted:#a59e8e;--rule:#ece6d8;--hair:#3b382f;--red:#ff7a6b;--amber:#f2b552;--green:#7fd197;--accent:#ff9b8b;color-scheme:dark}}
+:root[data-theme="dark"]{--paper:#16150f;--ink:#ece6d8;--muted:#a59e8e;--rule:#ece6d8;--hair:#3b382f;--red:#ff7a6b;--amber:#f2b552;--green:#7fd197;--accent:#ff9b8b;color-scheme:dark}
+*{box-sizing:border-box}html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--paper);color:var(--ink);font:17px/1.55 var(--body);padding:env(safe-area-inset-top) 0 env(safe-area-inset-bottom)}
+main{max-width:980px;margin:0 auto;padding:14px 16px 40px}
+h2,h4,.copy p:first-child::first-letter{font-variant-numeric:lining-nums}
+a{color:inherit;text-decoration-color:var(--hair);text-underline-offset:2px}
+.ears{display:flex;justify-content:space-between;gap:12px;font:11px/1.3 var(--sans);text-transform:uppercase;letter-spacing:.08em;color:var(--muted)}
+.mast{text-align:center;margin:6px 0 4px}
+.mast h1{font:400 clamp(40px,11vw,84px)/1 var(--mast);margin:0;letter-spacing:.01em}
+.motto{font:italic 13px var(--body);color:var(--muted);margin-top:4px}
+.dateline{display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap;border-top:3px double var(--rule);border-bottom:1px solid var(--rule);padding:5px 0;margin-top:8px;font:12px var(--sans);text-transform:uppercase;letter-spacing:.06em}
+.mood{font-weight:700}.mood.risk-off{color:var(--red)}.mood.risk-on{color:var(--green)}.mood.mixed,.mood.calm{color:var(--amber)}
+.markets{display:flex;gap:18px;flex-wrap:wrap;justify-content:center;border-bottom:1px solid var(--rule);padding:6px 0;font:13px var(--num)}
+.markets b{font-family:var(--sans);font-size:11px;letter-spacing:.08em;margin-right:6px}
+.up{color:var(--green)}.down{color:var(--red)}
+.front{display:grid;grid-template-columns:1fr;gap:0 28px;margin-top:16px}
+@media (min-width:820px){.front{grid-template-columns:2.1fr 1fr}.side{border-left:1px solid var(--hair);padding-left:24px}}
+.kicker{font:700 11px var(--sans);text-transform:uppercase;letter-spacing:.12em;color:var(--accent)}
+.lead h2{font:800 clamp(30px,7vw,46px)/1.08 var(--head);margin:6px 0 10px;letter-spacing:-.01em}
+.stand{font:italic 19px/1.45 var(--body);color:var(--muted);margin:0 0 10px}
+.byline{font:12px var(--sans);color:var(--muted);border-top:1px solid var(--hair);border-bottom:1px solid var(--hair);padding:5px 0;margin-bottom:12px;display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap;align-items:center}
+.listen{font:600 12px var(--sans);text-transform:uppercase;letter-spacing:.06em;background:none;color:var(--ink);border:1px solid var(--ink);border-radius:2px;padding:4px 10px;cursor:pointer}
+.copy{hyphens:auto;-webkit-hyphens:auto}
+@media (min-width:620px){.copy{text-align:justify;column-count:2;column-gap:26px;column-rule:1px solid var(--hair)}}
+.copy p{margin:0 0 .8em}
+.copy p:first-child::first-letter{float:left;font:800 3.6em/.82 var(--head);padding:.06em .08em 0 0}
+.side h3,.also h3.sec{font:700 12px var(--sans);text-transform:uppercase;letter-spacing:.1em;border-top:3px solid var(--rule);padding-top:6px;margin:18px 0 8px}
+@media (min-width:820px){.side h3:first-child{margin-top:0}}
+.diary{list-style:none;margin:0;padding:0}
+.diary li{padding:7px 0;border-bottom:1px solid var(--hair);font-size:15px;line-height:1.35}
+.diary .when{display:block;font:500 12px var(--num);color:var(--muted)}
+.inbrief{font-size:15px;line-height:1.45;margin:0}
+.also{margin-top:22px}
+.cols{display:grid;grid-template-columns:1fr;gap:0 24px}
+@media (min-width:620px){.cols{grid-template-columns:1fr 1fr}}
+@media (min-width:900px){.cols{grid-template-columns:1fr 1fr 1fr}}
+.story{border-top:1px solid var(--rule);padding:10px 0 14px}
+.story h4{font:700 20px/1.2 var(--head);margin:4px 0 6px}
+.story p{margin:0 0 6px;font-size:15.5px}
+.meta{font:11px var(--sans);text-transform:uppercase;letter-spacing:.06em;color:var(--muted);display:flex;gap:8px;flex-wrap:wrap}
+.imp{font-weight:700}.imp.r{color:var(--red)}.imp.a{color:var(--amber)}.imp.g{color:var(--green)}
+.conf.Low{color:var(--red);font-weight:700}
+.src{font:12px/1.4 var(--sans);color:var(--muted)}.caveat{font:italic 13px var(--body);color:var(--amber)}
+footer{margin-top:26px;border-top:3px double var(--rule);padding-top:8px;font:12.5px/1.5 var(--sans);color:var(--muted)}footer p{margin:6px 0}
+.routes{display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap;border-bottom:1px solid var(--hair);padding:5px 0;font:12px var(--sans);text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+.routes a{color:var(--ink);font-weight:700;text-decoration:none;margin-left:10px}.routes button{font:700 12px var(--sans);background:none;color:var(--ink);border:1px solid var(--hair);border-radius:2px;padding:2px 8px;margin-left:4px;cursor:pointer}
+.briefing{border:2px solid var(--rule);padding:12px 14px;margin-top:14px;display:grid;grid-template-columns:1fr;gap:6px 26px}
+@media (min-width:700px){.briefing{grid-template-columns:1.3fr 1fr}}
+.briefing h3{grid-column:1/-1;font:700 12px var(--sans);text-transform:uppercase;letter-spacing:.1em;margin:0;color:var(--accent)}
+.briefing ol{margin:0;padding-left:1.3em;font-size:16px;line-height:1.45}.briefing li{margin-bottom:5px}
+.briefing dl{margin:0;font-size:15px;line-height:1.4}.briefing dt{font:700 11px var(--sans);text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin-top:6px}.briefing dt:first-child{margin-top:0}.briefing dd{margin:1px 0 0}
+.status{font:700 10px var(--sans);text-transform:uppercase;letter-spacing:.08em;border:1px solid currentColor;padding:0 4px;border-radius:2px}
+.status.n{color:var(--accent)}.status.o{color:var(--red)}.status.d{color:var(--amber)}.status.q{color:var(--muted)}
+.note{border-left:3px solid var(--hair);padding:2px 0 2px 10px;margin:6px 0 8px;font-size:14px;line-height:1.4}
+.note b{font:700 10.5px var(--sans);text-transform:uppercase;letter-spacing:.07em;color:var(--muted);margin-right:4px}.note p{margin:0 0 4px;font-size:14px}
+.explain p,.inv li{font-size:14.5px;line-height:1.45}.explain h4{font:700 17px/1.25 var(--head);margin:0 0 4px}.inv{margin:0;padding-left:1.1em}.inv li{margin-bottom:6px}
+.corr{font:13px var(--sans);border-top:1px solid var(--hair);padding-top:6px;color:var(--muted)}
+.arch{display:flex;flex-wrap:wrap;gap:4px 14px;font:12px var(--num)}
+</style></head><body><main>
+<div class="ears"><span>No. 5</span><span>BTC · ZEC · Markets</span></div>
+<header class="mast"><h1>The Cryptonaire Post</h1><div class="motto">All the market news that matters, three editions a day</div></header>
+<div class="dateline"><span>Friday 13 November 2026</span><span>Evening edition · 21:35 UK</span><span>Mood: <span class="mood risk-off">risk-off</span></span></div>
+<div class="markets"><span id="BTCUSDT"><b>BTC</b><span>…</span> <i></i></span><span id="ZECUSDT"><b>ZEC</b><span>…</span> <i></i></span><span style="color:var(--muted)">live US$</span></div>
+<nav class="routes"><span>Read:<a href="#briefing">1 min</a><a href="#lead">5 min</a><a href="#stories">Full edition</a></span><span>Text <button id="zout" type="button" aria-label="Smaller text">A−</button><button id="zin" type="button" aria-label="Larger text">A+</button></span></nav>
+<section class="briefing" id="briefing"><h3>The 60-second briefing</h3><ol><li>Wall Street closed mixed after a volatile day: the S&amp;P 500 fell 0.4% and the Nasdaq 0.9%, while the Dow edged up 0.1%, according to 24/7 Wall St, so stocks recovered much of their midday slide.</li><li>Bitcoin did not join the recovery. It traded near $68,260 on Kraken at 21:35 UK, about 4.4% down on the day, sitting on its 200-week average near $68,000, and CoinDesk said it is on course for a sixth weekly loss.</li><li>President Trump sent bipartisan nominees for the short-handed SEC and CFTC to the Senate, Bitcoin Magazine reported, with the Clarity Act market-structure bill still stalled.</li></ol><dl><dt>What changed</dt><dd>This afternoon bitcoin was near $68,700 and the Nasdaq was down about 1.6%. Stocks have since cut their losses, but bitcoin has drifted slightly lower, so the gap between crypto and equities widened into the close. Friday&#x27;s ETF flow figures are not yet out. Zcash has given back some of its afternoon gain, to about $938.</dd><dt>Biggest open question</dt><dd>Is bitcoin&#x27;s weakness now its own story, with ETF outflows and investors possibly raising cash for next week&#x27;s Anthropic listing, rather than simply following tech stocks?</dd><dt>Next to watch</dt><dd>Friday&#x27;s ETF flow figures overnight, then Nvidia results on Tuesday 17 November after the US close. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK.</dd></dl></section>
+<div class="front">
+<article class="lead" id="lead"><div class="kicker">The lead</div><h2>Stocks claw back losses but bitcoin stays pinned near $68,000</h2><p class="stand">Wall Street recovered much of a midday sell-off by Friday&#x27;s close, but bitcoin ended the US session about 4% lower, resting on its 200-week average and heading for a sixth weekly fall.</p>
+<div class="byline"><span>By the Cryptonaire desk (Claude) · 13 Nov 2026</span><button class="listen" id="listen" type="button">▶ Listen</button></div>
+<div class="copy"><p>Bitcoin traded near $68,260 on Kraken at 21:35 UK on Friday, about 4.4% below where it started the day, after US stock markets closed well off their lows.</p><p>The S&amp;P 500 finished 0.4% lower and the Nasdaq 0.9% lower, while the Dow Jones rose 0.1%, according to 24/7 Wall St. At midday in New York the Nasdaq had been down about 1.6%, Yahoo Finance reported, as Nvidia&#x27;s leadership turmoil and a 10-year Treasury yield of up to 5.17% weighed on technology shares.</p><p>Bitcoin did not share in the late recovery. It is sitting on its 200-week moving average, about $67,993, which it slipped below on Friday for the first time in 11 weeks, Cointelegraph reported. CoinDesk said bitcoin is on course for its sixth weekly loss in a row and is down 11% in November.</p><p>CoinDesk also pointed to next week&#x27;s expected initial public offering of Anthropic, which is seeking to raise up to $64.4 billion on Nasdaq, as one possible reason investors were freeing up cash. That link is a suggestion, not an established cause.</p><p>US spot bitcoin ETFs had six straight days of outflows to Thursday. Friday&#x27;s figures are due overnight. Nvidia reports results on Tuesday, and the Fed&#x27;s December decision follows on 9 December.</p></div></article>
+<aside class="side"><h3>In brief</h3><p class="inbrief">US stocks recovered most of Friday&#x27;s tech sell-off by the close, but bitcoin stayed about 4% lower near $68,260, on its 200-week average and heading for a sixth weekly loss. Bipartisan SEC and CFTC nominees went to the Senate.</p>
+<h3>The week ahead</h3><ul class="diary"><li><span class="when">Sat 14 Nov, early UK</span>🟢 Friday&#x27;s spot bitcoin ETF flow figures</li><li><span class="when">Mon 16 Nov</span>🟢 Zcash coinholder polls open on the grants treasury proposal (to 30 Nov)</li><li><span class="when">Next week (date TBC)</span>🟠 Anthropic&#x27;s expected Nasdaq listing</li><li><span class="when">Tue 17 Nov, after US close</span>🟠 Nvidia third-quarter results, the first under interim CEO Colette Kress</li><li><span class="when">Wed 18 Nov 07:00 UK</span>🟢 UK CPI (October)</li><li><span class="when">Wed 18 Nov 19:00 UK</span>🟢 FOMC minutes (October meeting)</li></ul><h3>One thing explained</h3><div class="explain"><h4>The 200-week moving average</h4><p>The 200-week moving average is the average closing price over roughly the last four years. Because it smooths out whole market cycles, many traders treat it as a long-term floor: in past bear markets bitcoin has spent time near or below it.</p><p>It is a reference point, not a guarantee. Bitcoin traded around this line for months in 2023 and again from June to August this year, so touching it says more about where the long-run trend sits than about what happens next.</p></div><h3>What we are investigating</h3><ul class="inv"><li>Did US spot bitcoin ETF outflows continue on Friday for a seventh day? Evidence: Farside and SoSoValue figures overnight.</li><li>Is cash being raised for the Anthropic listing a real driver of crypto selling? Evidence: ETF and exchange flows in the days either side of the listing.</li><li>Will the bipartisan SEC and CFTC slate get a quick Senate hearing? Evidence: a Senate Banking Committee hearing date.</li></ul></aside>
+</div>
+<p id="spoken" hidden>Cryptonaire Post, evening edition. Wall Street closed mixed: the S and P five hundred fell about half a percent and the Nasdaq just under one percent, well off the day&#x27;s lows, while the Dow edged higher. Bitcoin did not join the recovery. It is near sixty-eight thousand three hundred dollars, about four percent down on the day, sitting on its two-hundred-week average and heading for a sixth weekly loss. President Trump has sent new nominees for the short-staffed SEC and CFTC to the Senate. Zcash is near nine hundred and forty dollars. Friday&#x27;s bitcoin fund flows are due overnight, and Nvidia reports on Tuesday evening. Information only, not advice.</p>
+<section class="also" id="stories"><h3 class="sec">Also in today's edition, ranked</h3><div class="cols"><article class="story"><div class="meta"><span class="kicker">Bitcoin Desk</span><span class="status d">Developing</span><span class="imp r">🔴 Market mover</span>
+<span class="conf High">High confidence</span><span>13 Nov</span></div>
+<h4>Bitcoin ends the US session near $68,260, on its 200-week average</h4><p>Since this afternoon&#x27;s $68,700, bitcoin has drifted lower even as stocks recovered, trading near $68,260 on Kraken at 21:35 UK, about 4.4% down on the day (range $67,500 to $71,540). Cointelegraph put the 200-week moving average at about $67,993, first touched in 11 weeks. CoinDesk said bitcoin is heading for a sixth straight weekly loss, down 11% in November and 21% in 2026.</p><div class="note"><p><b>Our read · swing</b>Bitcoin weakening while stocks recover suggests crypto-specific selling, consistent with the run of ETF outflows, rather than only a tech-led move.</p><p><b>Another explanation</b>Friday-evening liquidity is thin and bitcoin often lags equities into the weekend; the gap may close on Monday.</p><p><b>What would change this</b>A weekly close back above $70,000 would weaken the risk-off read; a sustained break below the $67,500 low and the 200-week average would strengthen it.</p></div><div class="src">Sources: <a href="https://www.kraken.com/prices/bitcoin" rel="noopener">Kraken (price data)</a> · <a href="https://cointelegraph.com/markets/bitcoin-returns-200-week-trend-line-analyst-sees-risk-57k-next" rel="noopener">Cointelegraph</a> · <a href="https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms" rel="noopener">CoinDesk</a></div></article><article class="story"><div class="meta"><span class="kicker">Markets</span><span class="status o">Outlook changed</span><span class="imp a">🟠 Worth knowing</span>
+<span class="conf Medium">Medium confidence</span><span>13 Nov</span></div>
+<h4>Wall Street closes mixed, well off its midday lows</h4><p>This afternoon the Nasdaq was down about 1.6%. By the 21:00 UK close it was down 0.9%, the S&amp;P 500 0.4%, and the Dow was up 0.1%, according to 24/7 Wall St. The 10-year Treasury yield touched 5.17% during the day, Yahoo Finance reported. The late rebound eases the tech-shock picture for stocks, though not for bitcoin.</p><p class="caveat">Closing figures come from one outlet; its page header showed slightly different numbers, so treat them as approximate.</p><div class="note"><p><b>Our read · swing</b>Equity buyers stepped in on the dip, which limits the read-across from Nvidia&#x27;s turmoil to wider risk appetite.</p><p><b>Another explanation</b>Pre-weekend short covering may explain the rebound, and Tuesday&#x27;s Nvidia results could reopen the sell-off.</p><p><b>What would change this</b>Nvidia&#x27;s results on 17 November and whether the 10-year yield stays above 5%.</p></div><div class="src">Sources: <a href="https://247wallst.com/cards/money-moved-out-of-tech-and-into-everything-else-today-the-gspc-market-bell-01m7bbjh5wpep4vmjk7jwpas8h" rel="noopener">24/7 Wall St</a> · <a href="https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html" rel="noopener">Yahoo Finance</a></div></article><article class="story"><div class="meta"><span class="kicker">Markets</span><span class="status n">New</span><span class="imp a">🟠 Worth knowing</span>
+<span class="conf Medium">Medium confidence</span><span>13 Nov</span></div>
+<h4>Anthropic&#x27;s planned listing next week cited as a drain on risk cash</h4><p>CoinDesk reported that Anthropic aims to raise up to $64.4 billion in a Nasdaq listing next week, with Bloomberg saying orders are about six times the shares on offer. CoinDesk suggested investors may be raising cash for it, noting bitcoin fell from about $75,000 to $60,000 in the days before SpaceX&#x27;s June listing.</p><p class="caveat">The link between the listing and bitcoin&#x27;s fall is CoinDesk&#x27;s suggestion, not an established cause. The Cryptonaire Post is written by Claude, an Anthropic model; this story is reported as published.</p><div class="note"><p><b>Our read · swing</b>A very large listing can pull money from other speculative assets in the days around it, which fits the timing of this week&#x27;s selling.</p><p><b>Another explanation</b>Bitcoin&#x27;s fall also lines up with ETF outflows, a strong dollar and rate-hike talk, which may explain it without the listing.</p><p><b>What would change this</b>How bitcoin trades in the days after the listing starts, compared with the SpaceX pattern.</p></div><div class="src">Sources: <a href="https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms" rel="noopener">CoinDesk (citing Bloomberg)</a></div></article><article class="story"><div class="meta"><span class="kicker">Policy</span><span class="status n">New</span><span class="imp a">🟠 Worth knowing</span>
+<span class="conf Medium">Medium confidence</span><span>13 Nov</span></div>
+<h4>Trump sends bipartisan SEC and CFTC nominees to the Senate</h4><p>Nominees are Kristin Johnson (Democrat) and Steven Levine (Republican) for the SEC, and Nathan Anonick (Republican) and Matthew Rowland (Democrat) for the CFTC, Bitcoin Magazine reported. The SEC has two commissioners and the CFTC one. The Clarity Act failed a Senate vote 49 to 50 in September and lapses on 3 January unless revived, so the agencies are setting crypto policy on their own for now.</p><div class="src">Sources: <a href="https://bitcoinmagazine.com/news/trump-sec-cftc-nominees-bipartisan" rel="noopener">Bitcoin Magazine</a> · <a href="https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations" rel="noopener">CoinDesk</a></div></article><article class="story"><div class="meta"><span class="kicker">Zcash Desk</span><span class="status d">Developing</span><span class="imp g">🟢 Background</span>
+<span class="conf High">High confidence</span><span>13 Nov</span></div>
+<h4>Zcash slips back to about $938</h4><p>ZEC was near $954 this afternoon after a high of $992. It traded near $938 on Kraken at 21:35 UK, about 1.9% down on the day, still holding up better than bitcoin. No Zcash-specific news explained the move.</p><div class="src">Sources: <a href="https://www.kraken.com/prices/zcash" rel="noopener">Kraken (price data)</a></div></article><article class="story"><div class="meta"><span class="kicker">UK</span><span class="status n">New</span><span class="imp g">🟢 Background</span>
+<span class="conf Medium">Medium confidence</span><span>13 Nov</span></div>
+<h4>RUSI calls crypto laundering a &#x27;material risk&#x27; for the UK before its FATF review</h4><p>A RUSI taskforce said the UK&#x27;s crypto regime starts on 25 October 2027, after FATF assessors visit in June 2027, and warned that high-risk assets such as USDT could sit outside FCA oversight, Decrypt reported. It is background for how strict FCA rules and HMRC reporting may become.</p><div class="src">Sources: <a href="https://decrypt.co/383227/crypto-laundering-a-material-risk-for-uk-ahead-of-fatf-review-rusi" rel="noopener">Decrypt</a></div></article><article class="story"><div class="meta"><span class="kicker">Policy</span><span class="status n">New</span><span class="imp g">🟢 Background</span>
+<span class="conf Medium">Medium confidence</span><span>13 Nov</span></div>
+<h4>US moves to seize $1.2 billion of the Binance hack proceeds</h4><p>The Justice Department obtained court authorisation to seize or restrain more than $1.2 billion of the $6.3 billion stolen from Binance on 29 October, which the FBI attributes to North Korea, Cointelegraph reported. More than $2.7 billion has been frozen in all. It reduces the overhang of stolen coins that could be sold.</p><div class="src">Sources: <a href="https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme" rel="noopener">Cointelegraph</a></div></article><article class="story"><div class="meta"><span class="kicker">Protocol and Development</span><span class="status n">New</span><span class="imp g">🟢 Background</span>
+<span class="conf Low">Low confidence</span><span>13 Nov</span></div>
+<h4>Unstoppable Wallet team reports Zcash wallet sync about 21 times faster</h4><p>A forum post says a new &#x27;Slipstream&#x27; engine restored a Zcash wallet on an iPhone in under 10 minutes against a projected three and a half hours. Slow sync has long been a usability complaint for shielded Zcash wallets.</p><p class="caveat">Self-reported benchmark in a grant application; not independently tested, and a public release is not confirmed.</p><div class="src">Sources: <a href="https://forum.zcashcommunity.com/t/we-made-zcash-wallet-sync-21x-faster-yes-really/59281" rel="noopener">Zcash Community Forum</a></div></article></div></section>
+<footer><p>Written and ranked by Claude from public sources. Confidence: <b>High</b> means a primary source or 2+ independent outlets agree, <b>Medium</b> means one reputable outlet, <b>Low</b> means unconfirmed. Prices in stories are as reported; the market strip is live from Binance.</p>
+<p><b>Information only, not financial advice or a buy/sell signal.</b></p>
+<p>Back issues:</p><div class="arch"><a href="../b/2026-11-13-2135.html">13 Nov 21:35</a><a href="../b/2026-11-13-1645.html">13 Nov 16:45</a><a href="../b/2026-11-13-0645.html">13 Nov 06:45</a><a href="../b/2026-11-12-2140.html">12 Nov 21:40</a><a href="../b/2026-11-12-1635.html">12 Nov 16:35</a><a href="../b/2026-11-12-0645.html">12 Nov 06:45</a><a href="../b/2026-11-11-0635.html">11 Nov 06:35</a><a href="../b/2026-11-10-1945.html">10 Nov 19:45</a><a href="../b/2026-11-10-0631.html">10 Nov 06:31</a><a href="../b/2026-11-09-1800.html">9 Nov 18:00</a></div>
+<p><a href="https://astralis-arch.github.io/cryptonaire-calendar/news/feed.xml">RSS feed</a> · <a href="https://astralis-arch.github.io/cryptonaire-calendar/news/brief.txt">Spoken text</a></p></footer>
+</main><script>
+const fmt=(n,d)=>n.toLocaleString('en-US',{minimumFractionDigits:d,maximumFractionDigits:d});
+async function prices(){
+  try{
+    const r=await fetch('https://data-api.binance.vision/api/v3/ticker/24hr?symbols=%5B%22BTCUSDT%22,%22ZECUSDT%22%5D',{cache:'no-store'});
+    for(const t of await r.json()){
+      const el=document.getElementById(t.symbol);if(!el)continue;
+      const p=+t.lastPrice,c=+t.priceChangePercent;
+      el.querySelector('span').textContent='$'+fmt(p,p>=10000?0:2);
+      const i=el.querySelector('i');i.textContent=(c>=0?'▲ +':'▼ ')+c.toFixed(1)+'%';i.className=c>=0?'up':'down';
+    }
+  }catch(e){document.querySelectorAll('.markets i').forEach(i=>{i.textContent='offline';i.previousElementSibling.textContent='—'})}
+}
+prices();setInterval(prices,60000);
+const m=document.querySelector('main');let z=1;try{z=+localStorage.getItem('postZoom')||1}catch(e){}
+const zoom=d=>{z=Math.min(1.5,Math.max(.85,+(z+d).toFixed(2)));m.style.zoom=z;try{localStorage.setItem('postZoom',z)}catch(e){}};zoom(0);
+document.getElementById('zin')?.addEventListener('click',()=>zoom(.1));document.getElementById('zout')?.addEventListener('click',()=>zoom(-.1));
+const btn=document.getElementById('listen');
+btn&&btn.addEventListener('click',()=>{
+  const s=window.speechSynthesis;if(!s)return;
+  if(s.speaking){s.cancel();btn.textContent='▶ Listen';return}
+  const u=new SpeechSynthesisUtterance(document.getElementById('spoken').textContent);
+  const v=s.getVoices().find(v=>v.lang==='en-GB');if(v)u.voice=v;u.lang='en-GB';
+  u.onend=()=>btn.textContent='▶ Listen';btn.textContent='■ Stop';s.speak(u);
+});
+</script></body></html>

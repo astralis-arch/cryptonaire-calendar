@@ -1,30 +1,29 @@
 {
- "generated": "2026-11-13T16:45:00Z",
+ "generated": "2026-11-13T21:35:00Z",
  "mood": "risk-off",
  "briefing": {
   "developments": [
-   "US producer prices rose 0.3% in October, below the 0.4% forecast, and bitcoin jumped to $70,190 on Kraken within the hour of the 13:30 UK release.",
-   "The bounce did not hold: after Wall Street opened, the Nasdaq fell about 1.6% on Nvidia's leadership turmoil, the 10-year yield touched 5.16%, and bitcoin slipped back to about $68,700 by 16:45 UK.",
-   "Final figures put Thursday's US spot bitcoin ETF outflows at $284 million, a sixth straight day, with BlackRock's IBIT losing $204 million, according to SoSoValue data."
+   "Wall Street closed mixed after a volatile day: the S&P 500 fell 0.4% and the Nasdaq 0.9%, while the Dow edged up 0.1%, according to 24/7 Wall St, so stocks recovered much of their midday slide.",
+   "Bitcoin did not join the recovery. It traded near $68,260 on Kraken at 21:35 UK, about 4.4% down on the day, sitting on its 200-week average near $68,000, and CoinDesk said it is on course for a sixth weekly loss.",
+   "President Trump sent bipartisan nominees for the short-handed SEC and CFTC to the Senate, Bitcoin Magazine reported, with the Clarity Act market-structure bill still stalled."
   ],
-  "changed": "This morning bitcoin was near $68,900 after the overnight flush to $67,500. A softer PPI gave a brief lift above $70,000, but US stocks turned lower and bitcoin gave it all back, so the picture is little changed: still risk-off, still below $70,000. The US military has denied Iran's radar-strike claim, which takes some edge off the geopolitical worry. Zcash has held up better, back near $954.",
-  "question": "With producer inflation at 6.5% and the 10-year above 5%, does a softer monthly PPI change anything for a December Fed hike, or does the market keep pricing a larger move?",
-  "watch": "The US close at 21:00 UK and tonight's Friday ETF flow figures. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
+  "changed": "This afternoon bitcoin was near $68,700 and the Nasdaq was down about 1.6%. Stocks have since cut their losses, but bitcoin has drifted slightly lower, so the gap between crypto and equities widened into the close. Friday's ETF flow figures are not yet out. Zcash has given back some of its afternoon gain, to about $938.",
+  "question": "Is bitcoin's weakness now its own story, with ETF outflows and investors possibly raising cash for next week's Anthropic listing, rather than simply following tech stocks?",
+  "watch": "Friday's ETF flow figures overnight, then Nvidia results on Tuesday 17 November after the US close. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
  },
  "lead": {
-  "headline": "Bitcoin's PPI bounce fades as tech sell-off drags Wall Street",
-  "standfirst": "A softer-than-expected US producer price reading lifted bitcoin briefly above $70,000, but the gain vanished as Nvidia's leadership crisis pulled the Nasdaq lower and Treasury yields climbed.",
+  "headline": "Stocks claw back losses but bitcoin stays pinned near $68,000",
+  "standfirst": "Wall Street recovered much of a midday sell-off by Friday's close, but bitcoin ended the US session about 4% lower, resting on its 200-week average and heading for a sixth weekly fall.",
   "body": [
-   "Bitcoin rose to $70,190 on Kraken shortly after 13:30 UK on Friday, when the US Bureau of Labor Statistics reported that producer prices for final demand rose 0.3% in October, below the 0.4% economists had forecast. About $39 million of short positions were liquidated within an hour of the release, crypto.news reported, citing CoinGlass.",
-   "The relief was short-lived. US stocks opened higher at 14:30 UK and then turned lower, with the Nasdaq down about 1.6% and the S&P 500 down about 0.8% by late morning in New York, Yahoo Finance reported. Nvidia shares swung sharply after Jensen Huang stepped down as chief executive, and the 10-year Treasury yield reached 5.16%, its highest since October.",
-   "Bitcoin slid back to about $68,000 in the hour after the open and traded near $68,700 at 16:45 UK, according to Kraken data, down about 3.7% on the day.",
-   "The annual picture gave little comfort. Producer inflation reached 6.5% over 12 months, the largest annual increase since November 2022, and core prices rose 5.0%. Traders remain divided between a quarter-point and half-point Fed hike in December, crypto.news reported.",
-   "Selling from US spot bitcoin ETFs also continued. Thursday's final figures showed $284 million of net outflows, the sixth day in a row, with BlackRock's IBIT accounting for $204 million, according to SoSoValue data reported by PANews.",
-   "Friday's ETF flows and the US close at 21:00 UK are next. The Fed's December decision is due on 9 December."
+   "Bitcoin traded near $68,260 on Kraken at 21:35 UK on Friday, about 4.4% below where it started the day, after US stock markets closed well off their lows.",
+   "The S&P 500 finished 0.4% lower and the Nasdaq 0.9% lower, while the Dow Jones rose 0.1%, according to 24/7 Wall St. At midday in New York the Nasdaq had been down about 1.6%, Yahoo Finance reported, as Nvidia's leadership turmoil and a 10-year Treasury yield of up to 5.17% weighed on technology shares.",
+   "Bitcoin did not share in the late recovery. It is sitting on its 200-week moving average, about $67,993, which it slipped below on Friday for the first time in 11 weeks, Cointelegraph reported. CoinDesk said bitcoin is on course for its sixth weekly loss in a row and is down 11% in November.",
+   "CoinDesk also pointed to next week's expected initial public offering of Anthropic, which is seeking to raise up to $64.4 billion on Nasdaq, as one possible reason investors were freeing up cash. That link is a suggestion, not an established cause.",
+   "US spot bitcoin ETFs had six straight days of outflows to Thursday. Friday's figures are due overnight. Nvidia reports results on Tuesday, and the Fed's December decision follows on 9 December."
   ]
  },
- "headline": "A softer US PPI lifted bitcoin briefly above $70,000, but a Nvidia-led tech sell-off and 5.16% Treasury yields pushed it back to about $68,700. ETF outflows reached a sixth day, while the US denied Iran's radar-strike claim.",
- "spoken": "Cryptonaire Post, afternoon edition. US producer prices rose zero point three percent in October, a little softer than expected, and bitcoin briefly jumped above seventy thousand dollars just after half past one. The bounce faded once Wall Street opened: the Nasdaq fell about one and a half percent as Nvidia's leadership turmoil hit tech, and the ten-year Treasury yield touched five point one six percent. Bitcoin is back near sixty-eight thousand seven hundred dollars. Spot bitcoin funds lost two hundred and eighty-four million dollars on Thursday, a sixth day of outflows. The US has denied Iran's claim to have hit a radar in Bahrain. Zcash is steadier, near nine hundred and fifty dollars. Information only, not advice.",
+ "headline": "US stocks recovered most of Friday's tech sell-off by the close, but bitcoin stayed about 4% lower near $68,260, on its 200-week average and heading for a sixth weekly loss. Bipartisan SEC and CFTC nominees went to the Senate.",
+ "spoken": "Cryptonaire Post, evening edition. Wall Street closed mixed: the S and P five hundred fell about half a percent and the Nasdaq just under one percent, well off the day's lows, while the Dow edged higher. Bitcoin did not join the recovery. It is near sixty-eight thousand three hundred dollars, about four percent down on the day, sitting on its two-hundred-week average and heading for a sixth weekly loss. President Trump has sent new nominees for the short-staffed SEC and CFTC to the Senate. Zcash is near nine hundred and forty dollars. Friday's bitcoin fund flows are due overnight, and Nvidia reports on Tuesday evening. Information only, not advice.",
  "stories": [
   {
    "section": "BTC",
@@ -32,13 +31,13 @@
    "confidence": "High",
    "date": "2026-11-13",
    "status": "Developing",
-   "title": "Bitcoin's jump above $70,000 on soft PPI fades after the US open",
-   "why": "Since this morning's $68,900, bitcoin rose to $70,190 on Kraken in the hour after the 13:30 UK PPI release, then fell to about $68,040 after the 14:30 US open and traded near $68,700 at 16:45 UK, down about 3.7% on the day. crypto.news, citing CoinGlass, said about $39 million of shorts were liquidated after the data and $1.42 billion of positions over 24 hours, 83% of them longs.",
+   "title": "Bitcoin ends the US session near $68,260, on its 200-week average",
+   "why": "Since this afternoon's $68,700, bitcoin has drifted lower even as stocks recovered, trading near $68,260 on Kraken at 21:35 UK, about 4.4% down on the day (range $67,500 to $71,540). Cointelegraph put the 200-week moving average at about $67,993, first touched in 11 weeks. CoinDesk said bitcoin is heading for a sixth straight weekly loss, down 11% in November and 21% in 2026.",
    "note": {
-    "horizon": "intraday",
-    "read": "The failed push through $70,000 suggests sellers are still in control and that bitcoin is trading with US tech stocks and yields rather than on its own news.",
-    "alt": "Friday afternoon liquidity is thin; the reversal may reflect position-squaring before the weekend more than fresh selling.",
-    "change": "A close back above $70,000 with ETF outflows stopping would weaken the risk-off read; a break below this morning's $67,500 low would strengthen it."
+    "horizon": "swing",
+    "read": "Bitcoin weakening while stocks recover suggests crypto-specific selling, consistent with the run of ETF outflows, rather than only a tech-led move.",
+    "alt": "Friday-evening liquidity is thin and bitcoin often lags equities into the weekend; the gap may close on Monday.",
+    "change": "A weekly close back above $70,000 would weaken the risk-off read; a sustained break below the $67,500 low and the 200-week average would strengthen it."
    },
    "sources": [
     {
@@ -46,38 +45,38 @@
      "url": "https://www.kraken.com/prices/bitcoin"
     },
     {
-     "name": "crypto.news",
-     "url": "https://crypto.news/crypto-market-sees-brief-relief-after-cooler-us-ppi-data/"
+     "name": "Cointelegraph",
+     "url": "https://cointelegraph.com/markets/bitcoin-returns-200-week-trend-line-analyst-sees-risk-57k-next"
+    },
+    {
+     "name": "CoinDesk",
+     "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms"
     }
    ]
   },
   {
-   "section": "Macro",
+   "section": "Markets",
    "impact": "🟠",
-   "confidence": "High",
+   "confidence": "Medium",
    "date": "2026-11-13",
-   "status": "New",
-   "title": "US producer prices rise 0.3% in October, softer than forecast",
-   "why": "Final demand PPI rose 0.3% against 0.4% expected, with core also up 0.3%, in line. Over 12 months PPI rose 6.5% (forecast 6.6%), the biggest annual rise since November 2022, and core rose 5.0%. September was revised to 1.4%. It eases this week's inflation scare a little, after Tuesday's hot CPI.",
-   "caveat": "The BLS release page could not be loaded directly; figures are from StockTitan and crypto.news, which agree.",
+   "status": "Outlook changed",
+   "title": "Wall Street closes mixed, well off its midday lows",
+   "why": "This afternoon the Nasdaq was down about 1.6%. By the 21:00 UK close it was down 0.9%, the S&P 500 0.4%, and the Dow was up 0.1%, according to 24/7 Wall St. The 10-year Treasury yield touched 5.17% during the day, Yahoo Finance reported. The late rebound eases the tech-shock picture for stocks, though not for bitcoin.",
+   "caveat": "Closing figures come from one outlet; its page header showed slightly different numbers, so treat them as approximate.",
    "note": {
     "horizon": "swing",
-    "read": "A one-tenth miss on the monthly figure is small next to 6.5% annual producer inflation; it does little to take a December hike off the table.",
-    "alt": "If the softer monthly pace continues into November data, markets may start to price a smaller December move.",
-    "change": "Fed officials signalling a quarter-point rather than a half-point hike, or CME FedWatch odds shifting that way."
+    "read": "Equity buyers stepped in on the dip, which limits the read-across from Nvidia's turmoil to wider risk appetite.",
+    "alt": "Pre-weekend short covering may explain the rebound, and Tuesday's Nvidia results could reopen the sell-off.",
+    "change": "Nvidia's results on 17 November and whether the 10-year yield stays above 5%."
    },
    "sources": [
     {
-     "name": "US Bureau of Labor Statistics",
-     "url": "https://www.bls.gov/news.release/archives/ppi_11132026.htm"
+     "name": "24/7 Wall St",
+     "url": "https://247wallst.com/cards/money-moved-out-of-tech-and-into-everything-else-today-the-gspc-market-bell-01m7bbjh5wpep4vmjk7jwpas8h"
     },
     {
-     "name": "StockTitan",
-     "url": "https://www.stocktitan.net/articles/october-2026-ppi-report"
-    },
-    {
-     "name": "crypto.news",
-     "url": "https://crypto.news/crypto-market-sees-brief-relief-after-cooler-us-ppi-data/"
+     "name": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
     }
    ]
   },
@@ -87,58 +86,38 @@
    "confidence": "Medium",
    "date": "2026-11-13",
    "status": "New",
-   "title": "Nasdaq falls about 1.6% as Nvidia turmoil and 5.16% yields weigh",
-   "why": "US stocks opened higher, then reversed: by late morning in New York the Nasdaq was down about 1.6%, the S&P 500 about 0.8% and the Dow 0.2%, Yahoo Finance reported. Nvidia fell as much as 14% at the open after Jensen Huang stepped down as CEO, with CFO Colette Kress as interim CEO. The 10-year yield hit 5.16% and the VIX rose above 20. Bitcoin has tracked the Nasdaq lower.",
-   "caveat": "Yahoo's live blog gave slightly different index figures in its text and quote table; the numbers are approximate.",
+   "title": "Anthropic's planned listing next week cited as a drain on risk cash",
+   "why": "CoinDesk reported that Anthropic aims to raise up to $64.4 billion in a Nasdaq listing next week, with Bloomberg saying orders are about six times the shares on offer. CoinDesk suggested investors may be raising cash for it, noting bitcoin fell from about $75,000 to $60,000 in the days before SpaceX's June listing.",
+   "caveat": "The link between the listing and bitcoin's fall is CoinDesk's suggestion, not an established cause. The Cryptonaire Post is written by Claude, an Anthropic model; this story is reported as published.",
    "note": {
     "horizon": "swing",
-    "read": "Leadership risk at the market's biggest AI stock, on top of 5% yields, is a fresh headwind for risk assets including bitcoin.",
-    "alt": "Nvidia recovered part of its opening drop, and the major indices are still on course for weekly gains, so this may be a one-day shock.",
-    "change": "Nvidia's results on Tuesday 17 November after the US close, and whether the 10-year yield falls back below 5%."
+    "read": "A very large listing can pull money from other speculative assets in the days around it, which fits the timing of this week's selling.",
+    "alt": "Bitcoin's fall also lines up with ETF outflows, a strong dollar and rate-hike talk, which may explain it without the listing.",
+    "change": "How bitcoin trades in the days after the listing starts, compared with the SpaceX pattern."
    },
    "sources": [
     {
-     "name": "Yahoo Finance",
-     "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+     "name": "CoinDesk (citing Bloomberg)",
+     "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms"
     }
    ]
   },
   {
-   "section": "ETFs",
+   "section": "Policy",
    "impact": "🟠",
    "confidence": "Medium",
    "date": "2026-11-13",
-   "status": "Developing",
-   "title": "Thursday's ETF outflows finalised at $284 million, sixth day in a row",
-   "why": "This morning's early figure was $47.7 million with BlackRock and Fidelity still to report. SoSoValue data, reported by PANews, now puts Thursday's total net outflow at $284 million, with BlackRock's IBIT losing $204 million. Cointelegraph had already counted more than $2 billion leaving IBIT over the nine sessions to Wednesday, so Thursday extends that run to ten.",
-   "caveat": "Farside's own Thursday total could not be checked; the SoSoValue figure is reported through a single aggregator.",
+   "status": "New",
+   "title": "Trump sends bipartisan SEC and CFTC nominees to the Senate",
+   "why": "Nominees are Kristin Johnson (Democrat) and Steven Levine (Republican) for the SEC, and Nathan Anonick (Republican) and Matthew Rowland (Democrat) for the CFTC, Bitcoin Magazine reported. The SEC has two commissioners and the CFTC one. The Clarity Act failed a Senate vote 49 to 50 in September and lapses on 3 January unless revived, so the agencies are setting crypto policy on their own for now.",
    "sources": [
     {
-     "name": "KuCoin News (PANews, SoSoValue data)",
-     "url": "https://kucoin.com/news/flash/bitcoin-spot-etfs-record-284m-net-outflow-on-november-12-marking-6th-consecutive-day-of-outflows"
+     "name": "Bitcoin Magazine",
+     "url": "https://bitcoinmagazine.com/news/trump-sec-cftc-nominees-bipartisan"
     },
     {
-     "name": "Cointelegraph",
-     "url": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-ibit-outflows-nine-day-streak"
-    }
-   ]
-  },
-  {
-   "section": "Macro",
-   "impact": "🟠",
-   "confidence": "High",
-   "date": "2026-11-13",
-   "status": "Outlook changed",
-   "title": "US denies Iran's Bahrain radar-strike claim, says it downed two drones",
-   "why": "This morning the claim was unverified. The US military has since denied that any radar was hit, saying it shot down two one-way attack drones launched by the Revolutionary Guards towards Bahrain with no harm done, AP reported via Yahoo. Oil was little changed near $89 after Thursday's spike, per Yahoo Finance. The denial lowers the immediate escalation risk, though the Strait of Hormuz standoff continues.",
-   "sources": [
-    {
-     "name": "Yahoo News (AP)",
-     "url": "https://www.yahoo.com/news/articles/irans-guards-targeted-us-early-045737524.html"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks"
+     "name": "CoinDesk",
+     "url": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations"
     }
    ]
   },
@@ -148,8 +127,8 @@
    "confidence": "High",
    "date": "2026-11-13",
    "status": "Developing",
-   "title": "Zcash recovers to about $954, outperforming bitcoin",
-   "why": "ZEC rose from about $938 this morning to a high of $992 on Kraken before settling near $954 at 16:45 UK, roughly flat on the day while bitcoin is down about 3.7%. No Zcash-specific news explained the move.",
+   "title": "Zcash slips back to about $938",
+   "why": "ZEC was near $954 this afternoon after a high of $992. It traded near $938 on Kraken at 21:35 UK, about 1.9% down on the day, still holding up better than bitcoin. No Zcash-specific news explained the move.",
    "sources": [
     {
      "name": "Kraken (price data)",
@@ -158,60 +137,80 @@
    ]
   },
   {
-   "section": "BTC",
+   "section": "UK",
    "impact": "🟢",
    "confidence": "Medium",
    "date": "2026-11-13",
    "status": "New",
-   "title": "Bitcoin treasury firm Nakamoto owes Kraken more than its market value",
-   "why": "Nakamoto owes Kraken 165 million USDT, backed by 3,030 pledged BTC worth about $208 million (roughly 126% of the debt) at $69,000, CoinDesk calculated. Its market value is about $104 million. A 12 November amendment pushed $60 million of repayments to December 2027. It shows how a falling bitcoin price squeezes leveraged treasury companies.",
-   "caveat": "The loan's margin-call threshold is not disclosed.",
+   "title": "RUSI calls crypto laundering a 'material risk' for the UK before its FATF review",
+   "why": "A RUSI taskforce said the UK's crypto regime starts on 25 October 2027, after FATF assessors visit in June 2027, and warned that high-risk assets such as USDT could sit outside FCA oversight, Decrypt reported. It is background for how strict FCA rules and HMRC reporting may become.",
    "sources": [
     {
-     "name": "CoinDesk",
-     "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value"
+     "name": "Decrypt",
+     "url": "https://decrypt.co/383227/crypto-laundering-a-material-risk-for-uk-ahead-of-fatf-review-rusi"
     }
    ]
   },
   {
-   "section": "Beyond",
+   "section": "Policy",
    "impact": "🟢",
    "confidence": "Medium",
    "date": "2026-11-13",
    "status": "New",
-   "title": "SpaceX–Tesla merger talks would combine about 30,220 bitcoin",
-   "why": "Bloomberg reported that SpaceX and Tesla are in merger talks, with an announcement possible as soon as December, CoinDesk said. Together they hold about 30,220 BTC (about $2.1 billion). A deal would combine existing holdings and needs no new buying.",
+   "title": "US moves to seize $1.2 billion of the Binance hack proceeds",
+   "why": "The Justice Department obtained court authorisation to seize or restrain more than $1.2 billion of the $6.3 billion stolen from Binance on 29 October, which the FBI attributes to North Korea, Cointelegraph reported. More than $2.7 billion has been frozen in all. It reduces the overhang of stolen coins that could be sold.",
    "sources": [
     {
-     "name": "CoinDesk (citing Bloomberg)",
-     "url": "https://www.coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus"
+     "name": "Cointelegraph",
+     "url": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme"
+    }
+   ]
+  },
+  {
+   "section": "Protocol",
+   "impact": "🟢",
+   "confidence": "Low",
+   "date": "2026-11-13",
+   "status": "New",
+   "title": "Unstoppable Wallet team reports Zcash wallet sync about 21 times faster",
+   "why": "A forum post says a new 'Slipstream' engine restored a Zcash wallet on an iPhone in under 10 minutes against a projected three and a half hours. Slow sync has long been a usability complaint for shielded Zcash wallets.",
+   "caveat": "Self-reported benchmark in a grant application; not independently tested, and a public release is not confirmed.",
+   "sources": [
+    {
+     "name": "Zcash Community Forum",
+     "url": "https://forum.zcashcommunity.com/t/we-made-zcash-wallet-sync-21x-faster-yes-really/59281"
     }
    ]
   }
  ],
  "explained": {
-  "title": "Producer prices versus consumer prices",
+  "title": "The 200-week moving average",
   "body": [
-   "The Producer Price Index (PPI) measures what businesses receive for their goods and services, while the Consumer Price Index (CPI) measures what households pay. Because firms often pass costs on, PPI is watched as an early signal of where consumer inflation may head.",
-   "Markets react to the surprise, not the level. Today's 0.3% monthly rise beat the 0.4% forecast, which is why bitcoin jumped, even though the 6.5% annual rate is the highest since 2022."
+   "The 200-week moving average is the average closing price over roughly the last four years. Because it smooths out whole market cycles, many traders treat it as a long-term floor: in past bear markets bitcoin has spent time near or below it.",
+   "It is a reference point, not a guarantee. Bitcoin traded around this line for months in 2023 and again from June to August this year, so touching it says more about where the long-run trend sits than about what happens next."
   ]
  },
  "investigating": [
-  "Does the 5.16% 10-year yield push markets towards a half-point December hike? Evidence: CME FedWatch odds and Fed speakers over the next week.",
-  "Did ETF outflows continue on Friday for a seventh day? Evidence: Farside and SoSoValue figures tonight.",
-  "The Wire news inbox has not refreshed since 08:43 UK today, so this edition relied on direct web searches. Evidence: the next successful run of the inbox job in news/inbox/status.json."
+  "Did US spot bitcoin ETF outflows continue on Friday for a seventh day? Evidence: Farside and SoSoValue figures overnight.",
+  "Is cash being raised for the Anthropic listing a real driver of crypto selling? Evidence: ETF and exchange flows in the days either side of the listing.",
+  "Will the bipartisan SEC and CFTC slate get a quick Senate hearing? Evidence: a Senate Banking Committee hearing date."
  ],
  "corrections": [],
  "ahead": [
   {
-   "when": "Fri 13 Nov 21:00 UK",
+   "when": "Sat 14 Nov, early UK",
    "impact": "🟢",
-   "what": "US market close and Friday's spot bitcoin ETF flows"
+   "what": "Friday's spot bitcoin ETF flow figures"
   },
   {
    "when": "Mon 16 Nov",
    "impact": "🟢",
    "what": "Zcash coinholder polls open on the grants treasury proposal (to 30 Nov)"
+  },
+  {
+   "when": "Next week (date TBC)",
+   "impact": "🟠",
+   "what": "Anthropic's expected Nasdaq listing"
   },
   {
    "when": "Tue 17 Nov, after US close",
@@ -229,5 +228,5 @@
    "what": "FOMC minutes (October meeting)"
   }
  ],
- "id": "2026-11-13-1645"
+ "id": "2026-11-13-2135"
 }
