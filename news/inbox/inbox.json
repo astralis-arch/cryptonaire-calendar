@@ -1,5 +1,265 @@
 [
 {
+"id": "5d2f59fde3e0478f",
+"title": "Gemini’s quarterly retail trading volume sinks to 3-year low",
+"link": "https://cointelegraph.com/markets/geminis-quarterly-retail-trading-volume-sinks-to-3-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-13T00:52:42Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T01:28:03Z"
+},
+{
+"id": "cefb71621db8473c",
+"title": "Trustless, self-custodial shielded subscriptions, built natively into Zcash!",
+"link": "https://forum.zcashcommunity.com/t/trustless-self-custodial-shielded-subscriptions-built-natively-into-zcash/59263",
+"published": "2026-11-13T00:24:05Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-13T01:28:03Z"
+},
+{
+"id": "46e3b79f1d111ca4",
+"title": "DOJ Wins Court Authority to Seize $1.2 Billion of North Korea’s Stolen Binance Crypto as Freezes Top $2.7 Billion",
+"link": "https://bitcoinmagazine.com/news/doj-north-korea-binance-1-2-billion-seize",
+"published": "2026-11-13T00:15:00Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-13T01:28:03Z"
+},
+{
+"id": "d83951ce89f19f4b",
+"title": "Bitcoin Price Trades Near $71,200 After a Fresh Session Low as the 10-Year Yield Holds Above 5%",
+"link": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-71200-yields",
+"published": "2026-11-12T23:52:59Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-13T01:28:03Z"
+},
+{
+"id": "014d26814e033ba2",
+"title": "Jane Street Lifts Its Strategy (MSTR) Stake 54% to 4.1 Million Shares",
+"link": "https://bitcoinmagazine.com/news/jane-street-lifts-strategy-mstr-stake",
+"published": "2026-11-12T23:30:47Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-13T01:28:03Z"
+},
+{
+"id": "68c91e36534fccd8",
+"title": "Maple Finance’s strategy rift sends co-founder, COO to the exits",
+"link": "https://cointelegraph.com/news/maple-finance-strategy-rift-co-founder-coo-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-12T23:12:55Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T01:28:03Z"
+},
+{
+"id": "7b04d3ccad91be96",
+"title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
+"link": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
+"published": "2026-11-12T22:55:52Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T01:28:03Z"
+},
+{
+"id": "13a41199ba66555f",
+"title": "U.S. President Trump names CFTC, SEC nominees for first time in a year",
+"link": "https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year",
+"published": "2026-11-12T22:47:41Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T01:28:03Z"
+},
+{
+"id": "47d53eebc302e0c7",
+"title": "DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme",
+"link": "https://www.theblock.co/news/business/2026-11-12-doj-seize-1-2-billion-binance-hack-north-korea-facestealer-439065",
+"published": "2026-11-12T22:40:22Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T01:28:03Z"
+},
+{
+"id": "212289fcbe270608",
+"title": "Republican Senator Wants to Freeze AI Data Center Boom as Congress Pushes to Expand It",
+"link": "https://decrypt.co/383206/republican-senator-freeze-ai-data-center-boom-congress-pushes-expand",
+"published": "2026-11-12T22:36:02Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T01:28:03Z"
+},
+{
+"id": "115db14582602d86",
+"title": "DOJ’s Operation TorNado Arrests 354 and Seizes $234 Million in Cash and Crypto",
+"link": "https://bitcoinmagazine.com/news/doj-europol-operation-tornado-234-million",
+"published": "2026-11-12T22:35:22Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-13T01:28:03Z"
+},
+{
+"id": "57d16c2d5c4420e3",
+"title": "Bitcoin Faces Two Red Years For the First Time Ever",
+"link": "https://bitcoinmagazine.com/videos/bitcoin-faces-two-red-years-for-the-first-time-ever",
+"published": "2026-11-12T22:30:06Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-13T01:28:03Z"
+},
+{
+"id": "ddefa12fba718427",
+"title": "NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express",
+"link": "https://cointelegraph.com/magazine/nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-12T22:29:58Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T01:28:03Z"
+},
+{
+"id": "217dd77548c78dd1",
+"title": "Gemini trading volume drops 73% as Q3 revenue falls to $41 million",
+"link": "https://www.theblock.co/news/markets/2026-11-12-gemini-trading-volume-drops-q3-revenue-falls-to-41-million-439050",
+"published": "2026-11-12T22:18:10Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T01:28:03Z"
+},
+{
+"id": "6a8e478f4cc5e51d",
+"title": "North Korea Stole $400 Million in Crypto Using Deepfake Video Calls, DOJ Says",
+"link": "https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls",
+"published": "2026-11-12T22:06:03Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T01:28:03Z"
+},
+{
+"id": "7a293df7e4ccf30d",
+"title": "Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters",
+"link": "https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-12T22:05:01Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T01:28:03Z"
+},
+{
+"id": "2ecb255d86532718",
+"title": "Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off",
+"link": "https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-12T21:52:04Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T01:28:03Z"
+},
+{
+"id": "ad3aad0495c46e41",
+"title": "Louisiana sues Kalshi, Robinhood and other prediction markets in escalating regulatory fight",
+"link": "https://www.theblock.co/news/regulation/2026-11-12-louisiana-sues-kalshi-robinhood-other-prediction-markets-escalating-regulatory-fight-439052",
+"published": "2026-11-12T21:44:30Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T01:28:03Z"
+},
+{
+"id": "e988e8fc8252f895",
+"title": "Strategy Made $19.5 Billion in Profit. So Why Is MSCI Removing It From Stock Indexes?",
+"link": "https://decrypt.co/383204/why-msci-removing-bitcoin-treasury-strategy-stock-indexes",
+"published": "2026-11-12T21:26:03Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T01:28:03Z"
+},
+{
+"id": "6535f801503ec2d3",
+"title": "Retroactive Grant Application - LeoDex",
+"link": "https://forum.zcashcommunity.com/t/retroactive-grant-application-leodex/59261",
+"published": "2026-11-12T21:13:51Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-13T01:28:03Z"
+},
+{
+"id": "25c4264c9162c34a",
+"title": "Kalshi ends Donald Trump Jr.’s advisory contract over 1789 Capital’s Polymarket investment",
+"link": "https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment",
+"published": "2026-11-12T21:07:49Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T01:28:03Z"
+},
+{
+"id": "b2aa358877539e13",
+"title": "Jensen Huang Steps Down: Are the Cracks Beginning to Show in Circular AI Financing",
+"link": "https://bitcoinmagazine.com/videos/jensen-huang-steps-down-are-the-cracks-beginning-to-show-in-circular-ai-financing",
+"published": "2026-11-12T21:00:13Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-13T01:28:03Z"
+},
+{
+"id": "69fbc41521965eb4",
+"title": "US Justice Department, business groups and DeFi firms challenge Illinois crypto tax",
+"link": "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-12T20:58:06Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T01:28:03Z"
+},
+{
+"id": "173eaed62132a198",
+"title": "ZecBlock Private: look up transactions, blocks and addresses with PIR",
+"link": "https://forum.zcashcommunity.com/t/zecblock-private-look-up-transactions-blocks-and-addresses-with-pir/59258",
+"published": "2026-11-12T20:51:08Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-13T01:28:03Z"
+},
+{
+"id": "b07492d31f2b2f6e",
+"title": "Why the Path to Quantum Resistance Runs Uphill for Bitcoin Wallet Makers",
+"link": "https://decrypt.co/383201/why-path-quantum-resistance-runs-uphill-bitcoin-wallet",
+"published": "2026-11-12T20:36:03Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T01:28:03Z"
+},
+{
+"id": "84739602571490cd",
+"title": "Peter Schiff on the Bitcoin Crash: “Get the Hell Out”",
+"link": "https://bitcoinmagazine.com/videos/peter-schiff-on-the-bitcoin-crash-get-the-hell-out",
+"published": "2026-11-12T20:15:28Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-13T01:28:03Z"
+},
+{
 "id": "ba09fc8728f86ff7",
 "title": "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
 "link": "https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -8,6 +268,16 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-12T20:26:58Z"
+},
+{
+"id": "aa09ccdcb4368a5e",
+"title": "Avalanche Owns Five Percent of Tokenized Stocks",
+"link": "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-12-avalanche-owns-five-percent-tokenized-stocks-437310",
+"published": "2026-11-12T20:02:00Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-13T01:28:03Z"
 },
 {
 "id": "0a67900c162cb4c3",
@@ -3809,15 +4079,14 @@
 "backfill": true
 },
 {
-"id": "523fcaffe803342d",
-"title": "Bitcoin Optech Newsletter #430",
-"link": "https://bitcoinops.org/en/newsletters/2026/11/06/",
-"published": "2026-11-06T00:00:00Z",
-"source": "Bitcoin Optech",
-"desk": "Protocol",
-"kind": "protocol",
-"first_seen": "2026-11-06T00:00:00Z",
-"backfill": true
+"id": "0224349908e0b1c1",
+"title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+"link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
+"published": "2026-11-05T16:00:00Z",
+"source": "Federal Reserve (press)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-13T01:28:03Z"
 },
 {
 "id": "26d3012260db32ae",
