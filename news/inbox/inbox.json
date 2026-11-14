@@ -1,5 +1,45 @@
 [
 {
+"id": "063b626dfff60756",
+"title": "Louisiana AG calls CFTC chair an ‘obsequious standard bearer’ for prediction markets following agency lawsuit",
+"link": "https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342",
+"published": "2026-11-14T19:06:59Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-14T21:24:56Z"
+},
+{
+"id": "2bd65f4f0cce2d4a",
+"title": "The Week Jensen Huang Fell: How a Spy Scandal Toppled Nvidia’s CEO",
+"link": "https://decrypt.co/383280/the-week-jensen-huang-fell-how-spy-scandal-toppled-nvidia-ceo",
+"published": "2026-11-14T18:01:02Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-14T21:24:56Z"
+},
+{
+"id": "ce7bf9209c7439f5",
+"title": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding",
+"link": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337",
+"published": "2026-11-14T17:50:41Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-14T21:24:56Z"
+},
+{
+"id": "10f1e096d4b97864",
+"title": "OpenAI, Anthropic, Google and Other AI Giants Face Lawsuit Demanding Development Freeze",
+"link": "https://decrypt.co/383270/openai-anthropic-google-ai-giants-lawsuit-development-freeze",
+"published": "2026-11-14T17:01:02Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-14T21:24:56Z"
+},
+{
 "id": "6639c3891073cda7",
 "title": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
 "link": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
@@ -5037,17 +5077,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-08T14:01:03Z",
-"backfill": true
-},
-{
-"id": "43206ebba159ad39",
-"title": "Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue",
-"link": "https://decrypt.co/382768/apple-meta-every-magnificent-seven-stock-opts-out-okx-ice-venue",
-"published": "2026-11-07T17:01:03Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-07T17:01:03Z",
 "backfill": true
 },
 {
