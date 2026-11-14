@@ -1,43 +1,44 @@
 {
- "generated": "2026-11-13T21:35:00Z",
+ "generated": "2026-11-14T06:40:00Z",
  "mood": "risk-off",
  "briefing": {
   "developments": [
-   "Wall Street closed mixed after a volatile day: the S&P 500 fell 0.4% and the Nasdaq 0.9%, while the Dow edged up 0.1%, according to 24/7 Wall St, so stocks recovered much of their midday slide.",
-   "Bitcoin did not join the recovery. It traded near $68,260 on Kraken at 21:35 UK, about 4.4% down on the day, sitting on its 200-week average near $68,000, and CoinDesk said it is on course for a sixth weekly loss.",
-   "President Trump sent bipartisan nominees for the short-handed SEC and CFTC to the Senate, Bitcoin Magazine reported, with the Clarity Act market-structure bill still stalled."
+   "Bitcoin slipped overnight to about $66,400 on Kraken, its lowest since mid-August, and traded near $67,310 at 06:32 UK, below its 200-week average of about $68,000.",
+   "US spot bitcoin ETFs lost a net $185.4 million on Friday, a seventh straight day of outflows, almost all from BlackRock's IBIT and Fidelity's FBTC, according to SoSoValue.",
+   "Fed Governor Philip Jefferson said inflation remains well above target, with core PCE at 3.1%, and that the next move depends on the data, keeping talk of higher rates alive."
   ],
-  "changed": "This afternoon bitcoin was near $68,700 and the Nasdaq was down about 1.6%. Stocks have since cut their losses, but bitcoin has drifted slightly lower, so the gap between crypto and equities widened into the close. Friday's ETF flow figures are not yet out. Zcash has given back some of its afternoon gain, to about $938.",
-  "question": "Is bitcoin's weakness now its own story, with ETF outflows and investors possibly raising cash for next week's Anthropic listing, rather than simply following tech stocks?",
-  "watch": "Friday's ETF flow figures overnight, then Nvidia results on Tuesday 17 November after the US close. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
+  "changed": "At last night's edition bitcoin was near $68,260 and resting on its 200-week average. It has since broken below that line in thin weekend trade, about 1.4% lower. Friday's ETF figures confirmed the outflow streak has reached seven days. Zcash eased to about $922, still steadier than bitcoin over the week.",
+  "question": "Does bitcoin hold below its 200-week average through the weekend, or is this a thin-liquidity dip that reverses when US markets reopen on Monday?",
+  "watch": "The weekly close on Sunday night, then Nvidia results on Tuesday 17 November after the US close. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
  },
  "lead": {
-  "headline": "Stocks claw back losses but bitcoin stays pinned near $68,000",
-  "standfirst": "Wall Street recovered much of a midday sell-off by Friday's close, but bitcoin ended the US session about 4% lower, resting on its 200-week average and heading for a sixth weekly fall.",
+  "headline": "Bitcoin breaks below its four-year average as ETF exodus hits seven days",
+  "standfirst": "Bitcoin fell to its lowest level since mid-August in early Saturday trading, slipping beneath its 200-week moving average after another day of withdrawals from US spot funds.",
   "body": [
-   "Bitcoin traded near $68,260 on Kraken at 21:35 UK on Friday, about 4.4% below where it started the day, after US stock markets closed well off their lows.",
-   "The S&P 500 finished 0.4% lower and the Nasdaq 0.9% lower, while the Dow Jones rose 0.1%, according to 24/7 Wall St. At midday in New York the Nasdaq had been down about 1.6%, Yahoo Finance reported, as Nvidia's leadership turmoil and a 10-year Treasury yield of up to 5.17% weighed on technology shares.",
-   "Bitcoin did not share in the late recovery. It is sitting on its 200-week moving average, about $67,993, which it slipped below on Friday for the first time in 11 weeks, Cointelegraph reported. CoinDesk said bitcoin is on course for its sixth weekly loss in a row and is down 11% in November.",
-   "CoinDesk also pointed to next week's expected initial public offering of Anthropic, which is seeking to raise up to $64.4 billion on Nasdaq, as one possible reason investors were freeing up cash. That link is a suggestion, not an established cause.",
-   "US spot bitcoin ETFs had six straight days of outflows to Thursday. Friday's figures are due overnight. Nvidia reports results on Tuesday, and the Fed's December decision follows on 9 December."
+   "Bitcoin dropped to about $66,400 on Kraken overnight and traded near $67,310 at 06:32 UK on Saturday, roughly $950 below where it stood at the close of US trading on Friday evening.",
+   "The fall took it beneath its 200-week moving average, about $68,000, a long-run trend line it first touched on Friday for the first time in 11 weeks, Cointelegraph reported. Finwire, citing CryptoPotato, said it was bitcoin's lowest level since mid-August, and that nearly $700 million of leveraged positions had been liquidated over the past day, according to CoinGlass.",
+   "US spot bitcoin ETFs recorded net outflows of $185.4 million on Friday, the seventh session in a row, according to SoSoValue data reported by TokenPost. BlackRock's IBIT accounted for $143.5 million and Fidelity's FBTC for $41.9 million. The funds lost more than $1.8 billion in the first eight trading days of November, BTC Pulse's tally of Farside and SoSoValue figures showed.",
+   "The selling came as Federal Reserve Governor Philip Jefferson said on Friday that inflation remained well above the Fed's 2% goal, with core PCE at 3.1% in September, and that future policy moves would depend on the data.",
+   "Weekend trading is typically thin. US markets reopen on Monday, and Nvidia reports results on Tuesday after the close."
   ]
  },
- "headline": "US stocks recovered most of Friday's tech sell-off by the close, but bitcoin stayed about 4% lower near $68,260, on its 200-week average and heading for a sixth weekly loss. Bipartisan SEC and CFTC nominees went to the Senate.",
- "spoken": "Cryptonaire Post, evening edition. Wall Street closed mixed: the S and P five hundred fell about half a percent and the Nasdaq just under one percent, well off the day's lows, while the Dow edged higher. Bitcoin did not join the recovery. It is near sixty-eight thousand three hundred dollars, about four percent down on the day, sitting on its two-hundred-week average and heading for a sixth weekly loss. President Trump has sent new nominees for the short-staffed SEC and CFTC to the Senate. Zcash is near nine hundred and forty dollars. Friday's bitcoin fund flows are due overnight, and Nvidia reports on Tuesday evening. Information only, not advice.",
+ "headline": "Bitcoin slid overnight to about $66,400, its lowest since mid-August, and sits near $67,300 below its 200-week average. Spot bitcoin ETFs lost $185 million on Friday, a seventh straight day of outflows.",
+ "spoken": "Cryptonaire Post, morning edition. Bitcoin fell further overnight, touching about sixty-six thousand four hundred dollars, its lowest since mid-August. It is near sixty-seven thousand three hundred this morning, now below its two-hundred-week average. US bitcoin funds lost about one hundred and eighty-five million dollars on Friday, the seventh day of outflows in a row. Fed Governor Jefferson said inflation is still well above target. Zcash is near nine hundred and twenty dollars. It is the weekend, so trading is thin. Next up, Nvidia results on Tuesday evening. Information only, not advice.",
  "stories": [
   {
    "section": "BTC",
    "impact": "🔴",
    "confidence": "High",
-   "date": "2026-11-13",
+   "date": "2026-11-14",
    "status": "Developing",
-   "title": "Bitcoin ends the US session near $68,260, on its 200-week average",
-   "why": "Since this afternoon's $68,700, bitcoin has drifted lower even as stocks recovered, trading near $68,260 on Kraken at 21:35 UK, about 4.4% down on the day (range $67,500 to $71,540). Cointelegraph put the 200-week moving average at about $67,993, first touched in 11 weeks. CoinDesk said bitcoin is heading for a sixth straight weekly loss, down 11% in November and 21% in 2026.",
+   "title": "Bitcoin breaks below its 200-week average, lowest since mid-August",
+   "why": "Since last night's $68,260, bitcoin fell to about $66,400 on Kraken overnight and traded near $67,310 at 06:32 UK, below the 200-week average of about $68,000 that Cointelegraph flagged on Friday. Finwire, citing CryptoPotato, called it the lowest level since mid-August and put liquidations at nearly $700 million over the past day, per CoinGlass.",
+   "caveat": "Liquidation totals vary by source and time window; earlier in the week Bitcoin.com reported $1.6 billion over 24 hours.",
    "note": {
     "horizon": "swing",
-    "read": "Bitcoin weakening while stocks recover suggests crypto-specific selling, consistent with the run of ETF outflows, rather than only a tech-led move.",
-    "alt": "Friday-evening liquidity is thin and bitcoin often lags equities into the weekend; the gap may close on Monday.",
-    "change": "A weekly close back above $70,000 would weaken the risk-off read; a sustained break below the $67,500 low and the 200-week average would strengthen it."
+    "read": "A break below the 200-week line on continued fund outflows fits a market still shedding leverage and institutional exposure rather than one finding a floor.",
+    "alt": "Weekend order books are thin, and a move made on low volume can reverse quickly once US desks return on Monday.",
+    "change": "A weekly close back above about $68,000 would weaken this read; a further drop through $66,400 on Monday's volume would strengthen it."
    },
    "sources": [
     {
@@ -45,79 +46,81 @@
      "url": "https://www.kraken.com/prices/bitcoin"
     },
     {
+     "name": "Finwire (citing CryptoPotato)",
+     "url": "https://finwire.io/news/crypto-news/btc-dives-below-67k-as-xrp-breaks-under-100-in-fresh-crypto-sell-off-weekend-watch"
+    },
+    {
      "name": "Cointelegraph",
      "url": "https://cointelegraph.com/markets/bitcoin-returns-200-week-trend-line-analyst-sees-risk-57k-next"
-    },
-    {
-     "name": "CoinDesk",
-     "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms"
     }
    ]
   },
   {
-   "section": "Markets",
+   "section": "ETFs",
    "impact": "🟠",
-   "confidence": "Medium",
+   "confidence": "High",
    "date": "2026-11-13",
-   "status": "Outlook changed",
-   "title": "Wall Street closes mixed, well off its midday lows",
-   "why": "This afternoon the Nasdaq was down about 1.6%. By the 21:00 UK close it was down 0.9%, the S&P 500 0.4%, and the Dow was up 0.1%, according to 24/7 Wall St. The 10-year Treasury yield touched 5.17% during the day, Yahoo Finance reported. The late rebound eases the tech-shock picture for stocks, though not for bitcoin.",
-   "caveat": "Closing figures come from one outlet; its page header showed slightly different numbers, so treat them as approximate.",
+   "status": "Developing",
+   "title": "Spot bitcoin ETFs lose $185 million on Friday, a seventh straight outflow",
+   "why": "This answers last night's open question: outflows continued. IBIT lost $143.5 million and FBTC $41.9 million, and the other ten funds were flat, according to SoSoValue data reported by TokenPost; Bloomingbit reported the same total from Farside. November outflows passed $1.8 billion in the first eight trading days, per BTC Pulse.",
    "note": {
     "horizon": "swing",
-    "read": "Equity buyers stepped in on the dip, which limits the read-across from Nvidia's turmoil to wider risk appetite.",
-    "alt": "Pre-weekend short covering may explain the rebound, and Tuesday's Nvidia results could reopen the sell-off.",
-    "change": "Nvidia's results on 17 November and whether the 10-year yield stays above 5%."
+    "read": "Friday's outflow was smaller than earlier in the week, so the selling from funds is persistent but not accelerating.",
+    "alt": "Some of the outflow may be basis-trade unwinds by hedge funds rather than investors giving up on bitcoin.",
+    "change": "A day of net inflows next week would break the streak; outflows above $400 million a day would signal it is getting worse."
    },
    "sources": [
     {
-     "name": "24/7 Wall St",
-     "url": "https://247wallst.com/cards/money-moved-out-of-tech-and-into-everything-else-today-the-gspc-market-bell-01m7bbjh5wpep4vmjk7jwpas8h"
+     "name": "TokenPost (citing SoSoValue)",
+     "url": "https://www.tokenpost.com/news/investing/57216"
     },
     {
-     "name": "Yahoo Finance",
-     "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+     "name": "Bloomingbit (citing Farside)",
+     "url": "https://en.bloomingbit.io/feed/news/124432"
+    },
+    {
+     "name": "BTC Pulse",
+     "url": "https://btc-pulse.com/bitcoin/bitcoin-etf-flows-november-2026/"
     }
    ]
   },
   {
-   "section": "Markets",
+   "section": "Macro",
    "impact": "🟠",
-   "confidence": "Medium",
+   "confidence": "High",
    "date": "2026-11-13",
    "status": "New",
-   "title": "Anthropic's planned listing next week cited as a drain on risk cash",
-   "why": "CoinDesk reported that Anthropic aims to raise up to $64.4 billion in a Nasdaq listing next week, with Bloomberg saying orders are about six times the shares on offer. CoinDesk suggested investors may be raising cash for it, noting bitcoin fell from about $75,000 to $60,000 in the days before SpaceX's June listing.",
-   "caveat": "The link between the listing and bitcoin's fall is CoinDesk's suggestion, not an established cause. The Cryptonaire Post is written by Claude, an Anthropic model; this story is reported as published.",
+   "title": "Fed's Jefferson: inflation still well above target, moves depend on the data",
+   "why": "In a speech in San Diego, Governor Philip Jefferson said core PCE inflation was 3.1% and headline 3.6% in September, partly from energy and demand for AI chips, with unemployment at 4.1%. He gave no hint of cuts, which keeps the higher-rates backdrop that has weighed on bitcoin this month.",
    "note": {
-    "horizon": "swing",
-    "read": "A very large listing can pull money from other speculative assets in the days around it, which fits the timing of this week's selling.",
-    "alt": "Bitcoin's fall also lines up with ETF outflows, a strong dollar and rate-hike talk, which may explain it without the listing.",
-    "change": "How bitcoin trades in the days after the listing starts, compared with the SpaceX pattern."
+    "horizon": "longer",
+    "read": "A Fed governor stressing above-target inflation leaves the door open to tighter policy, which tends to weigh on assets like bitcoin.",
+    "alt": "He also said AI productivity could raise the neutral rate, a technical point that does not by itself signal a hike.",
+    "change": "The FOMC minutes on 18 November and November CPI on 10 December."
    },
    "sources": [
     {
-     "name": "CoinDesk (citing Bloomberg)",
-     "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms"
+     "name": "Federal Reserve",
+     "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm"
     }
    ]
   },
   {
-   "section": "Policy",
-   "impact": "🟠",
-   "confidence": "Medium",
-   "date": "2026-11-13",
-   "status": "New",
-   "title": "Trump sends bipartisan SEC and CFTC nominees to the Senate",
-   "why": "Nominees are Kristin Johnson (Democrat) and Steven Levine (Republican) for the SEC, and Nathan Anonick (Republican) and Matthew Rowland (Democrat) for the CFTC, Bitcoin Magazine reported. The SEC has two commissioners and the CFTC one. The Clarity Act failed a Senate vote 49 to 50 in September and lapses on 3 January unless revived, so the agencies are setting crypto policy on their own for now.",
+   "section": "ZEC",
+   "impact": "🟢",
+   "confidence": "High",
+   "date": "2026-11-14",
+   "status": "Developing",
+   "title": "Zcash eases to about $922 but holds up better than bitcoin",
+   "why": "ZEC traded near $922 on Kraken at 06:32 UK, down from $938 last night, after a 24-hour range of $891 to $992. Finwire listed it among the few large coins to hold small gains over the past day. No Zcash-specific news explained the move.",
    "sources": [
     {
-     "name": "Bitcoin Magazine",
-     "url": "https://bitcoinmagazine.com/news/trump-sec-cftc-nominees-bipartisan"
+     "name": "Kraken (price data)",
+     "url": "https://www.kraken.com/prices/zcash"
     },
     {
-     "name": "CoinDesk",
-     "url": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations"
+     "name": "Finwire (citing CryptoPotato)",
+     "url": "https://finwire.io/news/crypto-news/btc-dives-below-67k-as-xrp-breaks-under-100-in-fresh-crypto-sell-off-weekend-watch"
     }
    ]
   },
@@ -126,81 +129,50 @@
    "impact": "🟢",
    "confidence": "High",
    "date": "2026-11-13",
-   "status": "Developing",
-   "title": "Zcash slips back to about $938",
-   "why": "ZEC was near $954 this afternoon after a high of $992. It traded near $938 on Kraken at 21:35 UK, about 1.9% down on the day, still holding up better than bitcoin. No Zcash-specific news explained the move.",
-   "sources": [
-    {
-     "name": "Kraken (price data)",
-     "url": "https://www.kraken.com/prices/zcash"
-    }
-   ]
-  },
-  {
-   "section": "UK",
-   "impact": "🟢",
-   "confidence": "Medium",
-   "date": "2026-11-13",
    "status": "New",
-   "title": "RUSI calls crypto laundering a 'material risk' for the UK before its FATF review",
-   "why": "A RUSI taskforce said the UK's crypto regime starts on 25 October 2027, after FATF assessors visit in June 2027, and warned that high-risk assets such as USDT could sit outside FCA oversight, Decrypt reported. It is background for how strict FCA rules and HMRC reporting may become.",
-   "sources": [
-    {
-     "name": "Decrypt",
-     "url": "https://decrypt.co/383227/crypto-laundering-a-material-risk-for-uk-ahead-of-fatf-review-rusi"
-    }
-   ]
-  },
-  {
-   "section": "Policy",
-   "impact": "🟢",
-   "confidence": "Medium",
-   "date": "2026-11-13",
-   "status": "New",
-   "title": "US moves to seize $1.2 billion of the Binance hack proceeds",
-   "why": "The Justice Department obtained court authorisation to seize or restrain more than $1.2 billion of the $6.3 billion stolen from Binance on 29 October, which the FBI attributes to North Korea, Cointelegraph reported. More than $2.7 billion has been frozen in all. It reduces the overhang of stolen coins that could be sold.",
-   "sources": [
-    {
-     "name": "Cointelegraph",
-     "url": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme"
-    }
-   ]
-  },
-  {
-   "section": "Protocol",
-   "impact": "🟢",
-   "confidence": "Low",
-   "date": "2026-11-13",
-   "status": "New",
-   "title": "Unstoppable Wallet team reports Zcash wallet sync about 21 times faster",
-   "why": "A forum post says a new 'Slipstream' engine restored a Zcash wallet on an iPhone in under 10 minutes against a projected three and a half hours. Slow sync has long been a usability complaint for shielded Zcash wallets.",
-   "caveat": "Self-reported benchmark in a grant application; not independently tested, and a public release is not confirmed.",
+   "title": "Zcash Q4 retroactive grants enter review, including an audited zcashd alternative",
+   "why": "The coinholder-directed retroactive grant programme opened its review period, with applications including an audited zcashd replacement from Zec.rocks, shielded voting and core protocol work, according to the Zcash forum. It sits alongside the coinholder polls opening on Monday.",
    "sources": [
     {
      "name": "Zcash Community Forum",
-     "url": "https://forum.zcashcommunity.com/t/we-made-zcash-wallet-sync-21x-faster-yes-really/59281"
+     "url": "https://forum.zcashcommunity.com/t/q4-2026-coinholder-directed-retroactive-grant-program-cdrgp-review-period/59298"
+    }
+   ]
+  },
+  {
+   "section": "Whales",
+   "impact": "🟢",
+   "confidence": "Medium",
+   "date": "2026-11-13",
+   "status": "New",
+   "title": "Bitcoin wallets dormant for 16 years move $6.9 million",
+   "why": "Decrypt reported that early-era wallets untouched since about 2010 moved roughly $6.9 million of bitcoin. A transfer is not proof of a sale, and the sum is small next to daily ETF flows.",
+   "sources": [
+    {
+     "name": "Decrypt",
+     "url": "https://decrypt.co/383264/dormant-bitcoin-wallets-wake-up-after-16-years"
     }
    ]
   }
  ],
  "explained": {
-  "title": "The 200-week moving average",
+  "title": "Why weekend moves can mislead",
   "body": [
-   "The 200-week moving average is the average closing price over roughly the last four years. Because it smooths out whole market cycles, many traders treat it as a long-term floor: in past bear markets bitcoin has spent time near or below it.",
-   "It is a reference point, not a guarantee. Bitcoin traded around this line for months in 2023 and again from June to August this year, so touching it says more about where the long-run trend sits than about what happens next."
+   "US spot ETFs, futures desks and most institutional traders are closed at weekends, so fewer orders sit in the market. With thinner order books, a modest wave of selling or forced liquidations can push the price further than it would on a weekday.",
+   "That cuts both ways: weekend breakdowns sometimes reverse on Monday, and sometimes the weekday market confirms them. The first few hours after the US reopens usually show which."
   ]
  },
  "investigating": [
-  "Did US spot bitcoin ETF outflows continue on Friday for a seventh day? Evidence: Farside and SoSoValue figures overnight.",
-  "Is cash being raised for the Anthropic listing a real driver of crypto selling? Evidence: ETF and exchange flows in the days either side of the listing.",
-  "Will the bipartisan SEC and CFTC slate get a quick Senate hearing? Evidence: a Senate Banking Committee hearing date."
+  "Is the weekend break below the 200-week average holding? Evidence: the Sunday weekly close and Monday's US session.",
+  "Will ETF outflows extend to an eighth day? Evidence: Farside and SoSoValue figures for Monday 16 November.",
+  "Is cash being raised for the Anthropic listing a real driver of crypto selling? Evidence: ETF and exchange flows in the days either side of the listing."
  ],
  "corrections": [],
  "ahead": [
   {
-   "when": "Sat 14 Nov, early UK",
+   "when": "Sun 15 Nov, midnight UK",
    "impact": "🟢",
-   "what": "Friday's spot bitcoin ETF flow figures"
+   "what": "Bitcoin weekly close"
   },
   {
    "when": "Mon 16 Nov",
@@ -215,7 +187,7 @@
   {
    "when": "Tue 17 Nov, after US close",
    "impact": "🟠",
-   "what": "Nvidia third-quarter results, the first under interim CEO Colette Kress"
+   "what": "Nvidia third-quarter results"
   },
   {
    "when": "Wed 18 Nov 07:00 UK",
@@ -228,5 +200,5 @@
    "what": "FOMC minutes (October meeting)"
   }
  ],
- "id": "2026-11-13-2135"
+ "id": "2026-11-14-0640"
 }
