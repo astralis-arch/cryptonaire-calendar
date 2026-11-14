@@ -1,29 +1,30 @@
 {
- "generated": "2026-11-14T06:40:00Z",
+ "generated": "2026-11-14T16:35:00Z",
  "mood": "risk-off",
  "briefing": {
   "developments": [
-   "Bitcoin slipped overnight to about $66,400 on Kraken, its lowest since mid-August, and traded near $67,310 at 06:32 UK, below its 200-week average of about $68,000.",
-   "US spot bitcoin ETFs lost a net $185.4 million on Friday, a seventh straight day of outflows, almost all from BlackRock's IBIT and Fidelity's FBTC, according to SoSoValue.",
-   "Fed Governor Philip Jefferson said inflation remains well above target, with core PCE at 3.1%, and that the next move depends on the data, keeping talk of higher rates alive."
+   "Weekend selling pushed bitcoin to about $65,010 on Kraken this afternoon, its lowest since August, and it traded near $65,290 at 16:30 UK, down about 4% on the day and some 14% on the week.",
+   "About $1.47 billion of crypto positions were liquidated over 24 hours, $1.31 billion of them bullish bets and about $677 million in bitcoin, according to CoinGlass data cited by Investing.com.",
+   "Zcash lost its relative calm, falling about 8% on the day to near $861 on Kraken."
   ],
-  "changed": "At last night's edition bitcoin was near $68,260 and resting on its 200-week average. It has since broken below that line in thin weekend trade, about 1.4% lower. Friday's ETF figures confirmed the outflow streak has reached seven days. Zcash eased to about $922, still steadier than bitcoin over the week.",
-  "question": "Does bitcoin hold below its 200-week average through the weekend, or is this a thin-liquidity dip that reverses when US markets reopen on Monday?",
-  "watch": "The weekly close on Sunday night, then Nvidia results on Tuesday 17 November after the US close. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
+  "changed": "At the morning edition bitcoin was near $67,310 and had just slipped under its 200-week average. Selling picked up after 13:00 UK and took it about $2,000 lower, through Friday's low, with long positions forced out. Zcash, which had been holding up better than bitcoin, has now fallen harder on the day.",
+  "question": "Is this a thin-weekend flush of leveraged longs that steadies once US markets reopen, or the start of a deeper leg as ETF outflows and Fed hike bets persist?",
+  "watch": "The bitcoin weekly close at midnight UK tonight, then Monday's US spot ETF flows. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
  },
  "lead": {
-  "headline": "Bitcoin breaks below its four-year average as ETF exodus hits seven days",
-  "standfirst": "Bitcoin fell to its lowest level since mid-August in early Saturday trading, slipping beneath its 200-week moving average after another day of withdrawals from US spot funds.",
+  "headline": "Bitcoin sinks to $65,000 as weekend selling breaks Friday's low",
+  "standfirst": "The world's largest cryptocurrency fell to its weakest level since August on Saturday, extending a 14% weekly slide as leveraged bets were forced out in thin trade.",
   "body": [
-   "Bitcoin dropped to about $66,400 on Kraken overnight and traded near $67,310 at 06:32 UK on Saturday, roughly $950 below where it stood at the close of US trading on Friday evening.",
-   "The fall took it beneath its 200-week moving average, about $68,000, a long-run trend line it first touched on Friday for the first time in 11 weeks, Cointelegraph reported. Finwire, citing CryptoPotato, said it was bitcoin's lowest level since mid-August, and that nearly $700 million of leveraged positions had been liquidated over the past day, according to CoinGlass.",
-   "US spot bitcoin ETFs recorded net outflows of $185.4 million on Friday, the seventh session in a row, according to SoSoValue data reported by TokenPost. BlackRock's IBIT accounted for $143.5 million and Fidelity's FBTC for $41.9 million. The funds lost more than $1.8 billion in the first eight trading days of November, BTC Pulse's tally of Farside and SoSoValue figures showed.",
-   "The selling came as Federal Reserve Governor Philip Jefferson said on Friday that inflation remained well above the Fed's 2% goal, with core PCE at 3.1% in September, and that future policy moves would depend on the data.",
-   "Weekend trading is typically thin. US markets reopen on Monday, and Nvidia reports results on Tuesday after the close."
+   "Bitcoin fell to about $65,010 on Kraken on Saturday afternoon, its lowest level since August, and traded near $65,290 at 16:30 UK time, down about 4% on the day.",
+   "Bitcoin Magazine reported that selling accelerated after 13:00 UK, breaking Friday's low near $67,555 in thin weekend trade. The coin has lost about 13% to 14% since trading near $75,750 on 7 November.",
+   "The fall forced out leveraged traders. About $1.47 billion of crypto positions were liquidated over 24 hours, $1.31 billion of them bullish bets, and about $677 million in bitcoin, according to CoinGlass data cited by Investing.com.",
+   "The slide follows a week of steady withdrawals from US spot bitcoin funds. Farside Investors data reported by Cointelegraph showed $1.07 billion of net outflows in the week to Friday, after $1.28 billion the week before, with BlackRock's IBIT losing money for 11 straight sessions.",
+   "Bitcoin Magazine also pointed to a dollar near a 19-month high, 10-year Treasury yields above 5.1% and a quarter-point Fed rate rise in December being fully priced. Zcash, which had held up better than bitcoin this week, fell about 8% on the day to near $861.",
+   "Traders now watch the weekly close at midnight and Monday's ETF figures for any sign that selling is easing."
   ]
  },
- "headline": "Bitcoin slid overnight to about $66,400, its lowest since mid-August, and sits near $67,300 below its 200-week average. Spot bitcoin ETFs lost $185 million on Friday, a seventh straight day of outflows.",
- "spoken": "Cryptonaire Post, morning edition. Bitcoin fell further overnight, touching about sixty-six thousand four hundred dollars, its lowest since mid-August. It is near sixty-seven thousand three hundred this morning, now below its two-hundred-week average. US bitcoin funds lost about one hundred and eighty-five million dollars on Friday, the seventh day of outflows in a row. Fed Governor Jefferson said inflation is still well above target. Zcash is near nine hundred and twenty dollars. It is the weekend, so trading is thin. Next up, Nvidia results on Tuesday evening. Information only, not advice.",
+ "headline": "Bitcoin fell through Friday's low to about $65,000 this afternoon, its weakest since August, as $1.47 billion of crypto positions were liquidated. Zcash dropped about 8% to near $861.",
+ "spoken": "Cryptonaire Post, afternoon edition. Bitcoin fell to about sixty-five thousand dollars this afternoon, its lowest since August, after selling picked up from around one o'clock UK time. It is down about four percent today and fourteen percent on the week. Around one and a half billion dollars of crypto bets were forced closed in a day, mostly traders betting on rises. Zcash fell about eight percent to around eight hundred and sixty dollars, losing its calm of earlier in the week. US spot bitcoin funds lost over a billion dollars last week. Watch the weekly close at midnight and Monday's fund flows. Information only, not advice.",
  "stories": [
   {
    "section": "BTC",
@@ -31,27 +32,64 @@
    "confidence": "High",
    "date": "2026-11-14",
    "status": "Developing",
-   "title": "Bitcoin breaks below its 200-week average, lowest since mid-August",
-   "why": "Since last night's $68,260, bitcoin fell to about $66,400 on Kraken overnight and traded near $67,310 at 06:32 UK, below the 200-week average of about $68,000 that Cointelegraph flagged on Friday. Finwire, citing CryptoPotato, called it the lowest level since mid-August and put liquidations at nearly $700 million over the past day, per CoinGlass.",
-   "caveat": "Liquidation totals vary by source and time window; earlier in the week Bitcoin.com reported $1.6 billion over 24 hours.",
+   "title": "Bitcoin breaks Friday's low and falls to about $65,000",
+   "why": "Since the morning edition bitcoin has dropped a further $2,000 to a low near $65,010 on Kraken, its weakest since August, and traded near $65,290 at 16:30 UK. Bitcoin Magazine said selling accelerated after 13:00 UK in thin weekend trade, taking the weekly fall to about 14%.",
+   "caveat": "Reported lows differ by venue: about $65,010 on Kraken, $65,200 to $65,500 in Bitcoin Magazine, $65,625 in Investing.com at 15:14 UK.",
    "note": {
     "horizon": "swing",
-    "read": "A break below the 200-week line on continued fund outflows fits a market still shedding leverage and institutional exposure rather than one finding a floor.",
-    "alt": "Weekend order books are thin, and a move made on low volume can reverse quickly once US desks return on Monday.",
-    "change": "A weekly close back above about $68,000 would weaken this read; a further drop through $66,400 on Monday's volume would strengthen it."
+    "read": "A break of a widely watched low on a weekend, with funds still withdrawing and rate-hike bets firm, points to sellers still in control rather than a single shock.",
+    "alt": "Weekend order books are thin; the move may be exaggerated by forced selling and partly reverse when US trading resumes on Monday.",
+    "change": "A weekly close back above about $67,500 and ETF inflows on Monday would weaken the bearish read."
    },
    "sources": [
     {
-     "name": "Kraken (price data)",
+     "name": "Bitcoin Magazine",
+     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-crashes-13-percent-65600"
+    },
+    {
+     "name": "Investing.com",
+     "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-below-68000-as-anthropic-ipo-frenzy-drains-market-liquidity-5027106"
+    },
+    {
+     "name": "Kraken (BTC/USD)",
      "url": "https://www.kraken.com/prices/bitcoin"
-    },
+    }
+   ]
+  },
+  {
+   "section": "Markets",
+   "impact": "🟠",
+   "confidence": "Medium",
+   "date": "2026-11-14",
+   "status": "New",
+   "title": "$1.47 billion of crypto positions liquidated in 24 hours, mostly longs",
+   "why": "CoinGlass data cited by Investing.com showed $1.31 billion of bullish bets forced closed, about $677 million of it in bitcoin. Forced selling of this size can deepen a fall in thin weekend markets, and also clears out leverage.",
+   "caveat": "Liquidation totals vary between data providers and update through the day.",
+   "note": {
+    "horizon": "intraday",
+    "read": "Most of the damage fell on traders betting on rises, which fits a flush of crowded long positions after a week of falling prices.",
+    "alt": "Liquidations may be a symptom of the fall rather than its cause; the underlying driver could still be fund outflows and rate expectations.",
+    "change": "Funding rates turning sharply negative or open interest rebuilding quickly would change how much leverage is left to unwind."
+   },
+   "sources": [
     {
-     "name": "Finwire (citing CryptoPotato)",
-     "url": "https://finwire.io/news/crypto-news/btc-dives-below-67k-as-xrp-breaks-under-100-in-fresh-crypto-sell-off-weekend-watch"
-    },
+     "name": "Investing.com",
+     "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-below-68000-as-anthropic-ipo-frenzy-drains-market-liquidity-5027106"
+    }
+   ]
+  },
+  {
+   "section": "ZEC",
+   "impact": "🟠",
+   "confidence": "High",
+   "date": "2026-11-14",
+   "status": "Outlook changed",
+   "title": "Zcash falls about 8% to near $861, losing its relative calm",
+   "why": "At the morning edition Zcash was near $922 and holding up better than bitcoin. It has since traded as low as about $859 on Kraken and sat near $861 at 16:30 UK, down about 8% on the day against bitcoin's 4%.",
+   "sources": [
     {
-     "name": "Cointelegraph",
-     "url": "https://cointelegraph.com/markets/bitcoin-returns-200-week-trend-line-analyst-sees-risk-57k-next"
+     "name": "Kraken (ZEC/USD)",
+     "url": "https://www.kraken.com/prices/zec-zcash-price-chart"
     }
    ]
   },
@@ -59,113 +97,63 @@
    "section": "ETFs",
    "impact": "🟠",
    "confidence": "High",
-   "date": "2026-11-13",
+   "date": "2026-11-14",
    "status": "Developing",
-   "title": "Spot bitcoin ETFs lose $185 million on Friday, a seventh straight outflow",
-   "why": "This answers last night's open question: outflows continued. IBIT lost $143.5 million and FBTC $41.9 million, and the other ten funds were flat, according to SoSoValue data reported by TokenPost; Bloomingbit reported the same total from Farside. November outflows passed $1.8 billion in the first eight trading days, per BTC Pulse.",
-   "note": {
-    "horizon": "swing",
-    "read": "Friday's outflow was smaller than earlier in the week, so the selling from funds is persistent but not accelerating.",
-    "alt": "Some of the outflow may be basis-trade unwinds by hedge funds rather than investors giving up on bitcoin.",
-    "change": "A day of net inflows next week would break the streak; outflows above $400 million a day would signal it is getting worse."
-   },
+   "title": "Spot bitcoin ETFs lost $2.35 billion over two weeks; IBIT out 11 sessions in a row",
+   "why": "Cointelegraph, using Farside data, reported $1.07 billion of net outflows in the week to Friday after $1.28 billion the week before. BlackRock's IBIT has lost money for 11 straight sessions and accounts for about 90% of November's net withdrawals. No new flow data arrives until Monday.",
    "sources": [
     {
-     "name": "TokenPost (citing SoSoValue)",
-     "url": "https://www.tokenpost.com/news/investing/57216"
+     "name": "Cointelegraph",
+     "url": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak"
     },
     {
-     "name": "Bloomingbit (citing Farside)",
-     "url": "https://en.bloomingbit.io/feed/news/124432"
-    },
+     "name": "Investing.com",
+     "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-below-68000-as-anthropic-ipo-frenzy-drains-market-liquidity-5027106"
+    }
+   ]
+  },
+  {
+   "section": "Policy",
+   "impact": "🟢",
+   "confidence": "Medium",
+   "date": "2026-11-14",
+   "status": "New",
+   "title": "US Justice Department moves to seize $1.2 billion stolen from Binance",
+   "why": "The Block reported the DOJ won court approval to seize or restrain more than $1.2 billion from October's Binance hack, which the FBI attributes to North Korea's TraderTraitor group. More than $2.7 billion of the stolen funds is now frozen; Investing.com reported Binance says it has covered 95% of the stolen tokens.",
+   "sources": [
     {
-     "name": "BTC Pulse",
-     "url": "https://btc-pulse.com/bitcoin/bitcoin-etf-flows-november-2026/"
+     "name": "The Block",
+     "url": "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304"
     }
    ]
   },
   {
    "section": "Macro",
-   "impact": "🟠",
-   "confidence": "High",
-   "date": "2026-11-13",
-   "status": "New",
-   "title": "Fed's Jefferson: inflation still well above target, moves depend on the data",
-   "why": "In a speech in San Diego, Governor Philip Jefferson said core PCE inflation was 3.1% and headline 3.6% in September, partly from energy and demand for AI chips, with unemployment at 4.1%. He gave no hint of cuts, which keeps the higher-rates backdrop that has weighed on bitcoin this month.",
-   "note": {
-    "horizon": "longer",
-    "read": "A Fed governor stressing above-target inflation leaves the door open to tighter policy, which tends to weigh on assets like bitcoin.",
-    "alt": "He also said AI productivity could raise the neutral rate, a technical point that does not by itself signal a hike.",
-    "change": "The FOMC minutes on 18 November and November CPI on 10 December."
-   },
-   "sources": [
-    {
-     "name": "Federal Reserve",
-     "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm"
-    }
-   ]
-  },
-  {
-   "section": "ZEC",
-   "impact": "🟢",
-   "confidence": "High",
-   "date": "2026-11-14",
-   "status": "Developing",
-   "title": "Zcash eases to about $922 but holds up better than bitcoin",
-   "why": "ZEC traded near $922 on Kraken at 06:32 UK, down from $938 last night, after a 24-hour range of $891 to $992. Finwire listed it among the few large coins to hold small gains over the past day. No Zcash-specific news explained the move.",
-   "sources": [
-    {
-     "name": "Kraken (price data)",
-     "url": "https://www.kraken.com/prices/zcash"
-    },
-    {
-     "name": "Finwire (citing CryptoPotato)",
-     "url": "https://finwire.io/news/crypto-news/btc-dives-below-67k-as-xrp-breaks-under-100-in-fresh-crypto-sell-off-weekend-watch"
-    }
-   ]
-  },
-  {
-   "section": "ZEC",
-   "impact": "🟢",
-   "confidence": "High",
-   "date": "2026-11-13",
-   "status": "New",
-   "title": "Zcash Q4 retroactive grants enter review, including an audited zcashd alternative",
-   "why": "The coinholder-directed retroactive grant programme opened its review period, with applications including an audited zcashd replacement from Zec.rocks, shielded voting and core protocol work, according to the Zcash forum. It sits alongside the coinholder polls opening on Monday.",
-   "sources": [
-    {
-     "name": "Zcash Community Forum",
-     "url": "https://forum.zcashcommunity.com/t/q4-2026-coinholder-directed-retroactive-grant-program-cdrgp-review-period/59298"
-    }
-   ]
-  },
-  {
-   "section": "Whales",
    "impact": "🟢",
    "confidence": "Medium",
-   "date": "2026-11-13",
-   "status": "New",
-   "title": "Bitcoin wallets dormant for 16 years move $6.9 million",
-   "why": "Decrypt reported that early-era wallets untouched since about 2010 moved roughly $6.9 million of bitcoin. A transfer is not proof of a sale, and the sum is small next to daily ETF flows.",
+   "date": "2026-11-14",
+   "status": "No material change",
+   "title": "Strong dollar, high yields and December hike bets still weigh",
+   "why": "Nothing new on rates today. Bitcoin Magazine noted the dollar index near a 19-month high, the 10-year Treasury yield at about 5.15% and a quarter-point Fed rise on 9 December fully priced, the same backdrop as this morning.",
    "sources": [
     {
-     "name": "Decrypt",
-     "url": "https://decrypt.co/383264/dormant-bitcoin-wallets-wake-up-after-16-years"
+     "name": "Bitcoin Magazine",
+     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-crashes-13-percent-65600"
     }
    ]
   }
  ],
  "explained": {
-  "title": "Why weekend moves can mislead",
+  "title": "What a liquidation is",
   "body": [
-   "US spot ETFs, futures desks and most institutional traders are closed at weekends, so fewer orders sit in the market. With thinner order books, a modest wave of selling or forced liquidations can push the price further than it would on a weekday.",
-   "That cuts both ways: weekend breakdowns sometimes reverse on Monday, and sometimes the weekday market confirms them. The first few hours after the US reopens usually show which."
+   "Traders who borrow to bet on a price move must keep enough collateral on the exchange. If the price moves against them far enough, the exchange closes the position automatically and sells (or buys) at market to repay the loan. That forced trade is a liquidation.",
+   "When many traders are betting the same way, one wave of liquidations pushes the price further, triggering the next. That is why falls on thin weekend markets can look sharper than the news behind them."
   ]
  },
  "investigating": [
-  "Is the weekend break below the 200-week average holding? Evidence: the Sunday weekly close and Monday's US session.",
+  "Does the forced selling exhaust itself? Evidence: the size of liquidations over the next 24 hours and the bitcoin weekly close at midnight UK.",
   "Will ETF outflows extend to an eighth day? Evidence: Farside and SoSoValue figures for Monday 16 November.",
-  "Is cash being raised for the Anthropic listing a real driver of crypto selling? Evidence: ETF and exchange flows in the days either side of the listing."
+  "Our news inbox has not refreshed since about 10:53 UTC today, so headlines after that came from web searches. Evidence: the next inbox update on The Wire."
  ],
  "corrections": [],
  "ahead": [
@@ -200,5 +188,5 @@
    "what": "FOMC minutes (October meeting)"
   }
  ],
- "id": "2026-11-14-0640"
+ "id": "2026-11-14-1635"
 }
