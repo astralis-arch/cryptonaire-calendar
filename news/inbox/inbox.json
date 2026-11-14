@@ -1,5 +1,25 @@
 [
 {
+"id": "9ea03567012702e4",
+"title": "Jefferson, New Technology, Old Questions: Productivity Puzzles and the Macroeconomy",
+"link": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
+"published": "2026-11-14T00:00:00Z",
+"source": "Federal Reserve (speeches)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-14T03:08:11Z"
+},
+{
+"id": "5694955e7c2517ec",
+"title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
+"link": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
+"published": "2026-11-13T23:30:00Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-14T03:08:11Z"
+},
+{
 "id": "54ab18e0f858e90f",
 "title": "Could a Former Nvidia Executive Replace Jensen Huang? Arm’s Rene Haas Emerges as Candidate",
 "link": "https://decrypt.co/383276/nvidia-arm-ceo-rene-haas-replace-jensen-huang",
