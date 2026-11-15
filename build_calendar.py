@@ -9,13 +9,17 @@ NY, LDN, UTC = ZoneInfo("America/New_York"), ZoneInfo("Europe/London"), ZoneInfo
 E = []  # (tier, title, date 'YYYY-MM-DD', 'HH:MM' or None for all-day, tz, minutes, note)
 def add(tier, title, d, t=None, tz=LDN, mins=30, note=""): E.append((tier, title, d, t, tz, mins, note))
 
-# --- US Fed (federalreserve.gov, checked 9 Nov 2026). Decision 14:00 ET, presser 14:30 ET.
-for d, sep in [("2026-12-09",1),("2027-01-27",0),("2027-03-17",1),("2027-04-28",0),("2027-06-09",1),
-               ("2027-07-28",0),("2027-09-15",1),("2027-10-27",0),("2027-12-08",1)]:
+# --- US Fed (federalreserve.gov, checked 15 Nov 2026). Decision 14:00 ET, presser 14:30 ET.
+# 2027 calendar revised Oct 2026: seven rate meetings (Nov replaces Dec) + an Oct strategy meeting with no rate vote.
+for d, sep in [("2026-12-09",1),("2027-01-27",0),("2027-03-17",0),("2027-04-28",0),("2027-06-09",0),
+               ("2027-07-28",0),("2027-09-15",0),("2027-11-17",0)]:
     add("🔴", "FOMC rate decision" + (" + projections" if sep else ""), d, "14:00", NY, 60,
-        "Statement 14:00 ET, Chair press conference 14:30 ET." + (" Includes dot plot (SEP)." if sep else ""))
+        "Statement 14:00 ET, Chair press conference usually 14:30 ET." + (" Includes dot plot (SEP)." if sep else
+        (" Which 2027 meetings carry projections (SEP) is not yet published." if d >= "2027" else "")))
+add("🟢", "FOMC strategy meeting (no rate vote)", "2027-10-27", None, NY, 0,
+    "Fed's 26-27 Oct 2027 meeting is a monetary policy strategy meeting; no rate decision expected. Watch for framework changes.")
 # FOMC minutes: published 3 weeks after each meeting, 14:00 ET (expected, not on Fed page yet)
-for d in ["2026-11-18","2026-12-30","2027-02-17","2027-04-07","2027-05-19","2027-06-30","2027-08-18","2027-10-06","2027-11-17","2027-12-29"]:
+for d in ["2026-11-18","2026-12-30","2027-02-17","2027-04-07","2027-05-19","2027-06-30","2027-08-18","2027-10-06","2027-12-08"]:
     add("🟢", "FOMC minutes", d, "14:00", NY, 15, "Expected date (3 weeks after meeting). Confirm on federalreserve.gov.")
 # --- US CPI (bls.gov), 08:30 ET
 for d, m in [("2026-11-10","Oct"),("2026-12-10","Nov"),("2027-01-13","Dec"),("2027-02-11","Jan"),("2027-03-10","Feb"),
