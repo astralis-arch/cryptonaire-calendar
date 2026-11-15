@@ -1,44 +1,44 @@
 {
- "generated": "2026-11-15T06:34:00Z",
+ "generated": "2026-11-15T16:35:00Z",
  "mood": "mixed",
  "briefing": {
   "developments": [
-   "Bitcoin fell to about $61,970 on Kraken around 01:00 to 02:00 UK, its weakest level since mid-July according to Bloomberg, then bounced more than 5% within two hours and traded near $64,470 at 06:30 UK.",
-   "About $2 billion of leveraged crypto positions were liquidated in the 24 hours to 01:00 UK, including $774 million in bitcoin, Bloomberg reported, citing Coinglass.",
-   "Zcash rebounded sharply, rising from about $840 to a high near $931 on Kraken after 02:00 UK, and traded near $894, up about 8% since the evening edition."
+   "Bitcoin extended its overnight rebound to about $66,090 on Kraken between 09:00 and 10:00 UK, then gave back most of the gain after 14:00 and traded near $64,640 at 16:30 UK.",
+   "US spot bitcoin ETFs lost $185.4 million on Friday, their seventh straight day of outflows, taking November's withdrawals to about $2.1 billion, Decrypt reported.",
+   "Stablecoin supply fell by $17 billion in a month, the steepest drop since 2022, according to Glassnode analysts quoted by CoinDesk, a sign of money leaving crypto."
   ],
-  "changed": "At the evening edition bitcoin was near $64,490 after breaking $64,000. Overnight it fell another 4% to just under $62,000, then recovered all of that, so it is roughly where it was at 21:30 UK but after a deeper low. Zcash has turned from the day's worst performer to the best, up about 8%. Our news inbox last refreshed at 01:17 UK, so it misses the overnight hours.",
-  "question": "Was the overnight drop to $62,000 the flush-out that ends this leg of selling, or a pause before a test of $60,000 and the July low near $57,700?",
+  "changed": "Little has moved since the morning edition. Bitcoin is near $64,640 against $64,470 at 06:30 UK, after a rally to $66,000 faded. Zcash is near $902, slightly above the morning's $894. The new information is weekend data confirming the backdrop: a seven-day ETF outflow streak, shrinking stablecoin supply and sentiment at extreme fear.",
+  "question": "Can bitcoin hold above $62,000 into the weekly close and Monday's US session, or does the faded rally mean sellers are still in control?",
   "watch": "The bitcoin weekly close at midnight UK tonight, then Monday's US spot ETF flows. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
  },
  "lead": {
-  "headline": "Bitcoin dips near $62,000 overnight, then snaps back",
-  "standfirst": "A further wave of forced selling in Asian trade took bitcoin to its weakest level since July before buyers pushed it back above $64,000, with Zcash rebounding harder still.",
+  "headline": "Bitcoin's Sunday rally fades as outflow data piles up",
+  "standfirst": "Bitcoin climbed to $66,000 on Sunday morning before slipping back towards $64,600, while weekend data showed money still leaving crypto funds and stablecoins.",
   "body": [
-   "Bitcoin fell to about $61,970 on Kraken between 01:00 and 02:00 UK time on Sunday, extending the weekend sell-off, before rebounding to about $65,590 by 03:00. It traded near $64,470 at 06:30 UK.",
-   "Bloomberg reported the low as its weakest level since 14 July, after a 5.7% fall during Saturday's US hours and a further 3.6% in Asia. About $2 billion of leveraged positions were liquidated across exchanges in the 24 hours to 9am Singapore time, including $774 million in bitcoin and $488 million in ether, Bloomberg said, citing Coinglass.",
-   "GSR co-founder Rich Rosenblum described the slide below the 200-day moving average, near $73,000, as a technical move, according to Bloomberg. The report also pointed to expectations of higher US interest rates and almost $3 billion of outflows from US spot bitcoin ETFs between 30 October and 13 November.",
-   "Zcash moved more sharply in the other direction. After touching about $840 on Kraken overnight, it jumped to about $931 shortly after 02:00 UK and traded near $894, up about 8% since Saturday evening.",
-   "Bitcoin remains about 25% below its 21 October level, Bloomberg reported. Its 2026 low is about $57,700, set on 1 July. Attention turns to the weekly close at midnight UK tonight and Monday's ETF flow figures."
+   "Bitcoin rose to about $66,090 on Kraken between 09:00 and 10:00 UK time on Sunday, extending its rebound from an overnight low near $61,970. It drifted back after 14:00 and traded near $64,640 at 16:30 UK, little changed from the morning.",
+   "US spot bitcoin ETFs lost $185.4 million on Friday, their seventh consecutive day of outflows, Decrypt reported. That took November's withdrawals to about $2.1 billion and total fund assets to $94.9 billion, below the $100 billion held through much of October.",
+   "Money is also draining from stablecoins. Glassnode analysts said supply fell by $17 billion over the past month, the steepest drop since 2022, and the combined value of USDT and USDC slid to $244 billion, its lowest since September 2025, CoinDesk reported.",
+   "The Crypto Fear and Greed Index fell to 10 on Sunday, deep in extreme fear, according to Cointelegraph. XRP touched 89 cents, its weakest since November 2024, CoinDesk said.",
+   "Zcash held most of its overnight gains, trading near $902 at 16:30 UK after a high of about $930 before midday. Attention now turns to the weekly close at midnight UK and Monday's ETF figures."
   ]
  },
- "headline": "Bitcoin fell to about $62,000 overnight, its weakest since July, as $2 billion of leveraged bets were wiped out, then bounced back to about $64,500. Zcash rebounded about 8%.",
- "spoken": "Cryptonaire Post, morning edition. Overnight, bitcoin fell to just under sixty-two thousand dollars between one and two o'clock UK time, its weakest level since July, as about two billion dollars of leveraged bets were forced closed. It then bounced more than five percent and is trading near sixty-four and a half thousand, roughly where it was last night. Zcash rebounded strongly, up about eight percent to near eight hundred and ninety-four dollars. Watch the weekly close at midnight tonight and Monday's fund flows. Information only, not advice.",
+ "headline": "A quiet Sunday afternoon: bitcoin's rally to $66,000 faded back to about $64,600. Weekend data showed a seventh day of ETF outflows and shrinking stablecoin supply.",
+ "spoken": "Cryptonaire Post, afternoon edition. A quiet Sunday. Bitcoin climbed to about sixty-six thousand dollars this morning, then slipped back and is trading near sixty-four thousand six hundred, close to where it was at breakfast. Weekend figures showed US bitcoin funds lost money for a seventh day running on Friday, about two point one billion dollars so far in November, and stablecoin supply is shrinking fast. Zcash is holding near nine hundred dollars. Watch the weekly close at midnight and Monday's fund flows. Information only, not advice.",
  "stories": [
   {
    "section": "BTC",
-   "impact": "🔴",
+   "impact": "🟠",
    "confidence": "High",
    "date": "2026-11-15",
    "status": "Developing",
-   "title": "Bitcoin dips to about $62,000, its weakest since July, then rebounds",
-   "why": "Since the evening edition bitcoin fell from about $64,490 to a low near $61,970 on Kraken around 01:00 to 02:00 UK, then rallied to about $65,590 by 03:00 and traded near $64,470 at 06:30 UK. Bloomberg reported a further 3.6% fall in Asia to as low as $62,112, the weakest since 14 July.",
-   "caveat": "Exchanges printed slightly different lows: about $61,970 on Kraken, $62,112 in Bloomberg's figures.",
+   "title": "Bitcoin's rebound reaches $66,000, then fades",
+   "why": "Since the morning edition bitcoin rose from about $64,470 to a high near $66,090 on Kraken between 09:00 and 10:00 UK, held around $65,300 to $65,500 into early afternoon, then fell to about $64,430 after 14:00 and traded near $64,640 at 16:30 UK. Cointelegraph, citing CoinGecko, put the overnight low at $62,081 and the weekly fall at nearly 15%.",
+   "caveat": "Exchanges printed slightly different figures: the overnight low was about $61,970 on Kraken and $62,081 on CoinGecko.",
    "note": {
     "horizon": "swing",
-    "read": "A quick spike below a round number followed by a fast recovery often marks forced sellers being cleared out, which can lead to a pause in the decline.",
-    "alt": "Sunday liquidity is thin, and the bounce may just be short sellers taking profit; the drivers named by Bloomberg, ETF outflows and rate-hike expectations, have not changed.",
-    "change": "A weekly close back above about $65,500 and a turn to ETF inflows would support a pause; a return below $62,000 would point to a test of $60,000."
+    "read": "Failing to hold $65,500 suggests buyers are cautious after the flush; the overnight low is now the line traders will watch.",
+    "alt": "Sunday trade is thin, and the drift back may be routine profit-taking rather than renewed selling.",
+    "change": "A weekly close above about $65,500 would ease the pressure; a return below $62,000 would point to a test of $60,000."
    },
    "sources": [
     {
@@ -46,8 +46,34 @@
      "url": "https://www.kraken.com/prices/bitcoin"
     },
     {
-     "name": "Bloomberg via Business Standard",
-     "url": "https://www.business-standard.com/amp/markets/cryptocurrency/bitcoin-tumbles-to-four-month-low-as-leveraged-bets-face-mass-liquidations-126111500058_1.html"
+     "name": "Cointelegraph",
+     "url": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff"
+    }
+   ]
+  },
+  {
+   "section": "ETFs",
+   "impact": "🟠",
+   "confidence": "High",
+   "date": "2026-11-15",
+   "status": "Developing",
+   "title": "Bitcoin ETF outflows hit seven straight days",
+   "why": "Decrypt reported $185.4 million of outflows on Friday, the seventh straight trading day, about $2.1 billion so far in November and total assets of $94.9 billion. Cointelegraph said BlackRock's iShares Bitcoin Trust has now had outflows for 11 sessions in a row.",
+   "caveat": "Weekly totals differ by tracker: about $829 million for the week (Decrypt) against $1.07 billion (Cointelegraph).",
+   "note": {
+    "horizon": "swing",
+    "read": "Steady withdrawals from the largest fund suggest institutional buyers are stepping back rather than buying the dip.",
+    "alt": "Some outflows may be hedge funds unwinding trades that pair ETF holdings with futures, which says less about long-term demand.",
+    "change": "A day of net inflows on Monday or Tuesday, especially into BlackRock's fund, would break the pattern."
+   },
+   "sources": [
+    {
+     "name": "Decrypt",
+     "url": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days"
+    },
+    {
+     "name": "Cointelegraph",
+     "url": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff"
     }
    ]
   },
@@ -57,37 +83,29 @@
    "confidence": "Medium",
    "date": "2026-11-15",
    "status": "New",
-   "title": "About $2 billion of leveraged crypto bets liquidated in a day",
-   "why": "Bloomberg, citing Coinglass, reported about $2 billion of liquidations in the 24 hours to 01:00 UK, including $774 million in bitcoin and $488 million in ether, on top of $1.3 billion on Friday. Ether fell to about $1,711, its lowest since 8 July.",
-   "caveat": "Liquidation totals differ by data provider and time window; other outlets put the figure between $1.96 billion and just over $2 billion.",
+   "title": "Stablecoin supply shrinks $17 billion in a month",
+   "why": "Glassnode analysts said stablecoin supply fell $17 billion over the past month, the steepest drop since 2022, and the combined value of USDT and USDC fell to $244 billion from about $270 billion in early May, CoinDesk reported. Fewer stablecoins means less ready cash on exchanges to buy crypto.",
    "note": {
-    "horizon": "intraday",
-    "read": "Liquidations this large, mostly from long bets, remove much of the leverage that was forcing sales, which helps explain the sharp rebound.",
-    "alt": "Traders can rebuild leverage quickly, and new short positions opened during the slide could add to the next move either way.",
-    "change": "Funding rates and open interest climbing back quickly would suggest leverage is returning."
+    "horizon": "longer",
+    "read": "Shrinking stablecoin supply alongside ETF outflows points to money leaving crypto altogether, not just moving between coins.",
+    "alt": "Some of the fall may reflect redemptions for other uses, such as payments or moves into tokenised Treasury funds, rather than sellers exiting.",
+    "change": "Stablecoin supply growing again for several weeks would suggest fresh money returning."
    },
    "sources": [
     {
-     "name": "Bloomberg via Business Standard",
-     "url": "https://www.business-standard.com/amp/markets/cryptocurrency/bitcoin-tumbles-to-four-month-low-as-leveraged-bets-face-mass-liquidations-126111500058_1.html"
+     "name": "CoinDesk",
+     "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto"
     }
    ]
   },
   {
    "section": "ZEC",
-   "impact": "🟠",
+   "impact": "🟢",
    "confidence": "High",
    "date": "2026-11-15",
-   "status": "Outlook changed",
-   "title": "Zcash rebounds about 8% to near $894",
-   "why": "At the evening edition Zcash was near $826 and falling twice as fast as bitcoin. Overnight it held above $839 on Kraken even as bitcoin made a lower low, then jumped to about $931 after 02:00 UK and traded near $894, up about 8% against bitcoin's flat move.",
-   "caveat": "We found no reputable report explaining the move; it may reflect short sellers closing positions.",
-   "note": {
-    "horizon": "intraday",
-    "read": "Holding above $800 and outpacing bitcoin's bounce suggests last night's sharp fall was partly an overshoot.",
-    "alt": "Zcash swings much more than bitcoin in both directions, so a large bounce on thin Sunday trade says little about the trend.",
-    "change": "A drop back towards $830 while bitcoin holds steady would undo this read."
-   },
+   "status": "No material change",
+   "title": "Zcash holds near $900",
+   "why": "Zcash kept its overnight rebound, reaching about $930 on Kraken before midday, dipping to about $876 after 14:00 with bitcoin, and trading near $902 at 16:30 UK, slightly above the morning's $894. No new Zcash news found.",
    "sources": [
     {
      "name": "Kraken (ZEC/USD)",
@@ -96,37 +114,17 @@
    ]
   },
   {
-   "section": "ETFs",
-   "impact": "🟢",
-   "confidence": "High",
-   "date": "2026-11-15",
-   "status": "No material change",
-   "title": "ETF outflows still the backdrop until Monday's data",
-   "why": "No new flow data over the weekend. Bloomberg put net outflows from US spot bitcoin ETFs at almost $3 billion between 30 October and 13 November. Monday's figures will show whether the weekend fall drew more withdrawals.",
-   "caveat": "Totals vary with the start date: $2.35 billion over two weeks (Cointelegraph), almost $3 billion since 30 October (Bloomberg).",
-   "sources": [
-    {
-     "name": "Bloomberg via Business Standard",
-     "url": "https://www.business-standard.com/amp/markets/cryptocurrency/bitcoin-tumbles-to-four-month-low-as-leveraged-bets-face-mass-liquidations-126111500058_1.html"
-    },
-    {
-     "name": "The Block",
-     "url": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337"
-    }
-   ]
-  },
-  {
-   "section": "ZEC",
+   "section": "Markets",
    "impact": "🟢",
    "confidence": "Medium",
-   "date": "2026-11-14",
+   "date": "2026-11-15",
    "status": "New",
-   "title": "Zcash forum debates whether coin-weighted polls represent small holders",
-   "why": "Ahead of coinholder polls opening on Monday, a forum post argued that wealth-weighted votes drown out small holders, citing about 2.18 million ZEC voted on each proposal in the Q3 retroactive grants round. It proposed that wallets announce polls to their users. Background for governance, not a market mover.",
+   "title": "Crypto sentiment index falls to 10, extreme fear",
+   "why": "The Crypto Fear and Greed Index fell to 10 on Sunday from 13 on Saturday and 20 on Friday, Cointelegraph reported, citing Alternative.me. Total crypto market value fell about 4% in 24 hours to $2.26 trillion.",
    "sources": [
     {
-     "name": "Zcash Community Forum",
-     "url": "https://forum.zcashcommunity.com/t/are-zcash-users-represented-in-todays-polling/59310"
+     "name": "Cointelegraph",
+     "url": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff"
     }
    ]
   },
@@ -134,33 +132,30 @@
    "section": "Beyond",
    "impact": "🟢",
    "confidence": "Medium",
-   "date": "2026-11-14",
+   "date": "2026-11-15",
    "status": "New",
-   "title": "Kava Lend drained of about $3.8 million, KAVA falls nearly 40%",
-   "why": "The Block reported an attacker inflated deposits in a dormant market and borrowed about 55 million KAVA, bridging most of it to BNB Chain and selling it. Kava said the incident was contained within Kava Lend and paused its Axelar bridge. Another reminder of DeFi risk during a sell-off.",
+   "title": "XRP falls to 89 cents, its lowest since November 2024",
+   "why": "CoinDesk reported XRP down 36% this quarter, with US XRP ETFs losing $19.13 million last week, their largest weekly outflow since March, according to SoSoValue. A sign the sell-off is broad, not bitcoin-specific.",
    "sources": [
     {
-     "name": "The Block",
-     "url": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350"
+     "name": "CoinDesk",
+     "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto"
     }
    ]
   }
  ],
  "explained": {
-  "title": "What a liquidation cascade is",
+  "title": "Why stablecoin supply matters",
   "body": [
-   "Traders who borrow to bet on a rising price must keep enough collateral on the exchange. When the price falls far enough, the exchange closes the position automatically by selling, which is a liquidation.",
-   "Those forced sales push the price lower, which triggers the next layer of liquidations, and so on. Once most of the borrowed bets are gone, the selling pressure can vanish quickly, which is why sharp drops like last night's are often followed by fast rebounds."
+   "Stablecoins such as USDT and USDC are tokens pegged to the dollar. Traders hold them on exchanges as ready cash, so the total supply is a rough gauge of how much money is sitting inside crypto waiting to be used.",
+   "When supply grows, new dollars are coming in. When it shrinks, holders are redeeming tokens for real dollars and taking them out, which leaves less buying power for bitcoin and other coins."
   ]
  },
  "investigating": [
   "Was $62,000 the low of this leg? Evidence: the weekly close tonight and whether bitcoin holds above $62,000 into Monday's US session.",
-  "Will ETF outflows extend to a third week? Evidence: Farside and SoSoValue figures for Monday 16 November.",
-  "Our news inbox has not refreshed since 01:17 UK, so overnight headlines may be missing. Evidence: the next inbox update."
+  "Will ETF outflows run to an eighth day? Evidence: Farside and SoSoValue figures for Monday 16 November."
  ],
- "corrections": [
-  "The evening edition of 14 November said the bitcoin weekly close was at midnight UK that night. The weekly candle closes at midnight UK on Sunday night, tonight."
- ],
+ "corrections": [],
  "ahead": [
   {
    "when": "Sun 15 Nov, midnight UK",
@@ -193,5 +188,5 @@
    "what": "FOMC minutes (October meeting)"
   }
  ],
- "id": "2026-11-15-0634"
+ "id": "2026-11-15-1635"
 }
