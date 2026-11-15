@@ -1,45 +1,44 @@
 {
- "generated": "2026-11-14T21:35:00Z",
- "mood": "risk-off",
+ "generated": "2026-11-15T06:34:00Z",
+ "mood": "mixed",
  "briefing": {
   "developments": [
-   "Bitcoin slipped below $64,000 on Kraken around 21:00 UK, touching about $63,854, and traded near $64,490 at 21:30 UK, down about 5.5% over 24 hours and some 15% on the week.",
-   "Zcash fell harder again, briefly touching about $801 on Kraken before trading near $826, down about 11.5% over 24 hours.",
-   "Options data from Greeks.Live, reported by CoinDesk, showed dealers positioned in a way that can amplify moves in either direction between roughly $58,000 and $72,000."
+   "Bitcoin fell to about $61,970 on Kraken around 01:00 to 02:00 UK, its weakest level since mid-July according to Bloomberg, then bounced more than 5% within two hours and traded near $64,470 at 06:30 UK.",
+   "About $2 billion of leveraged crypto positions were liquidated in the 24 hours to 01:00 UK, including $774 million in bitcoin, Bloomberg reported, citing Coinglass.",
+   "Zcash rebounded sharply, rising from about $840 to a high near $931 on Kraken after 02:00 UK, and traded near $894, up about 8% since the evening edition."
   ],
-  "changed": "At the afternoon edition bitcoin was near $65,290 after breaking Friday's low. It bounced to about $66,100 in the early evening, then a second wave of selling after 20:00 UK took it to a new three-month low under $64,000. Zcash's fall deepened from about 8% to about 11.5%. Our news inbox, which had stalled this morning, is refreshing again.",
-  "question": "Does bitcoin hold the mid-$60,000s into the weekly close, or does dealer hedging and forced selling carry it lower in thin overnight trade?",
+  "changed": "At the evening edition bitcoin was near $64,490 after breaking $64,000. Overnight it fell another 4% to just under $62,000, then recovered all of that, so it is roughly where it was at 21:30 UK but after a deeper low. Zcash has turned from the day's worst performer to the best, up about 8%. Our news inbox last refreshed at 01:17 UK, so it misses the overnight hours.",
+  "question": "Was the overnight drop to $62,000 the flush-out that ends this leg of selling, or a pause before a test of $60,000 and the July low near $57,700?",
   "watch": "The bitcoin weekly close at midnight UK tonight, then Monday's US spot ETF flows. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
  },
  "lead": {
-  "headline": "Bitcoin slips under $64,000 in second wave of weekend selling",
-  "standfirst": "The world's largest cryptocurrency set a fresh three-month low on Saturday evening, with Zcash falling twice as fast, as options positioning threatened to exaggerate swings.",
+  "headline": "Bitcoin dips near $62,000 overnight, then snaps back",
+  "standfirst": "A further wave of forced selling in Asian trade took bitcoin to its weakest level since July before buyers pushed it back above $64,000, with Zcash rebounding harder still.",
   "body": [
-   "Bitcoin fell below $64,000 on Kraken shortly after 21:00 UK time on Saturday, touching about $63,854, its lowest level since August. It traded near $64,490 at 21:30 UK, down about 5.5% over 24 hours.",
-   "The fall came after a brief early-evening bounce to about $66,100 faded. CoinDesk reported the coin was down about 13.5% on the week, with ether down 18%, and that it had slipped nearly 3% since US stock markets closed on Friday.",
-   "Options positioning may be adding to the swings. CoinDesk, citing Greeks.Live data, reported that dealers were net short gamma between roughly $58,000 and $72,000, meaning their hedging tends to sell into falls and buy into rallies. Hedging only turns calming above about $73,000.",
-   "Zcash fell harder than bitcoin. It briefly touched about $801 on Kraken and traded near $826, down about 11.5% over 24 hours, having held up better earlier in the week.",
-   "Glassnode analyst James Check told CoinDesk the slide was the fourth capitulation wave since bitcoin's all-time high, with many sellers having bought in the $80,000s in September. He said prices were in a 'deep value' zone but stressed that did not mean the bottom was in.",
-   "Attention now turns to the weekly close at midnight UK and Monday's US spot ETF flows, after two weeks of outflows totalling $2.35 billion."
+   "Bitcoin fell to about $61,970 on Kraken between 01:00 and 02:00 UK time on Sunday, extending the weekend sell-off, before rebounding to about $65,590 by 03:00. It traded near $64,470 at 06:30 UK.",
+   "Bloomberg reported the low as its weakest level since 14 July, after a 5.7% fall during Saturday's US hours and a further 3.6% in Asia. About $2 billion of leveraged positions were liquidated across exchanges in the 24 hours to 9am Singapore time, including $774 million in bitcoin and $488 million in ether, Bloomberg said, citing Coinglass.",
+   "GSR co-founder Rich Rosenblum described the slide below the 200-day moving average, near $73,000, as a technical move, according to Bloomberg. The report also pointed to expectations of higher US interest rates and almost $3 billion of outflows from US spot bitcoin ETFs between 30 October and 13 November.",
+   "Zcash moved more sharply in the other direction. After touching about $840 on Kraken overnight, it jumped to about $931 shortly after 02:00 UK and traded near $894, up about 8% since Saturday evening.",
+   "Bitcoin remains about 25% below its 21 October level, Bloomberg reported. Its 2026 low is about $57,700, set on 1 July. Attention turns to the weekly close at midnight UK tonight and Monday's ETF flow figures."
   ]
  },
- "headline": "Bitcoin slid below $64,000 this evening, a new three-month low, after an early bounce faded. Zcash fell about 11.5% on the day, touching $801.",
- "spoken": "Cryptonaire Post, evening edition. Bitcoin fell below sixty-four thousand dollars just after nine o'clock UK time, a new three-month low, after a brief bounce earlier in the evening faded. It is down about five and a half percent today and around fifteen percent on the week. Zcash fell harder, briefly touching about eight hundred dollars, down around eleven percent today. Options data suggests dealer hedging could exaggerate moves either way between fifty-eight and seventy-two thousand dollars. Watch the weekly close at midnight and Monday's fund flows. Information only, not advice.",
+ "headline": "Bitcoin fell to about $62,000 overnight, its weakest since July, as $2 billion of leveraged bets were wiped out, then bounced back to about $64,500. Zcash rebounded about 8%.",
+ "spoken": "Cryptonaire Post, morning edition. Overnight, bitcoin fell to just under sixty-two thousand dollars between one and two o'clock UK time, its weakest level since July, as about two billion dollars of leveraged bets were forced closed. It then bounced more than five percent and is trading near sixty-four and a half thousand, roughly where it was last night. Zcash rebounded strongly, up about eight percent to near eight hundred and ninety-four dollars. Watch the weekly close at midnight tonight and Monday's fund flows. Information only, not advice.",
  "stories": [
   {
    "section": "BTC",
    "impact": "🔴",
    "confidence": "High",
-   "date": "2026-11-14",
+   "date": "2026-11-15",
    "status": "Developing",
-   "title": "Bitcoin slips under $64,000 to a fresh three-month low",
-   "why": "Since the afternoon edition bitcoin bounced to about $66,100 around 17:00 UK, then fell again after 20:00 UK to a low near $63,854 on Kraken. It traded near $64,490 at 21:30 UK, down about 5.5% over 24 hours. CoinDesk put the weekly fall at about 13.5%.",
-   "caveat": "Weekly change depends on the start point: about 13.5% in CoinDesk, about 15% measured from $75,750 on 7 November.",
+   "title": "Bitcoin dips to about $62,000, its weakest since July, then rebounds",
+   "why": "Since the evening edition bitcoin fell from about $64,490 to a low near $61,970 on Kraken around 01:00 to 02:00 UK, then rallied to about $65,590 by 03:00 and traded near $64,470 at 06:30 UK. Bloomberg reported a further 3.6% fall in Asia to as low as $62,112, the weakest since 14 July.",
+   "caveat": "Exchanges printed slightly different lows: about $61,970 on Kraken, $62,112 in Bloomberg's figures.",
    "note": {
     "horizon": "swing",
-    "read": "A failed bounce followed by a lower low suggests selling has not exhausted itself, even after Friday's and this afternoon's liquidations.",
-    "alt": "Saturday night liquidity is very thin; a small amount of selling can print a new low that is reclaimed once Asian and US markets reopen.",
-    "change": "A weekly close back above about $65,500 to $66,000 and a turn to ETF inflows on Monday would weaken the bearish read."
+    "read": "A quick spike below a round number followed by a fast recovery often marks forced sellers being cleared out, which can lead to a pause in the decline.",
+    "alt": "Sunday liquidity is thin, and the bounce may just be short sellers taking profit; the drivers named by Bloomberg, ETF outflows and rate-hike expectations, have not changed.",
+    "change": "A weekly close back above about $65,500 and a turn to ETF inflows would support a pause; a return below $62,000 would point to a test of $60,000."
    },
    "sources": [
     {
@@ -47,8 +46,30 @@
      "url": "https://www.kraken.com/prices/bitcoin"
     },
     {
-     "name": "CoinDesk",
-     "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst"
+     "name": "Bloomberg via Business Standard",
+     "url": "https://www.business-standard.com/amp/markets/cryptocurrency/bitcoin-tumbles-to-four-month-low-as-leveraged-bets-face-mass-liquidations-126111500058_1.html"
+    }
+   ]
+  },
+  {
+   "section": "Markets",
+   "impact": "🟠",
+   "confidence": "Medium",
+   "date": "2026-11-15",
+   "status": "New",
+   "title": "About $2 billion of leveraged crypto bets liquidated in a day",
+   "why": "Bloomberg, citing Coinglass, reported about $2 billion of liquidations in the 24 hours to 01:00 UK, including $774 million in bitcoin and $488 million in ether, on top of $1.3 billion on Friday. Ether fell to about $1,711, its lowest since 8 July.",
+   "caveat": "Liquidation totals differ by data provider and time window; other outlets put the figure between $1.96 billion and just over $2 billion.",
+   "note": {
+    "horizon": "intraday",
+    "read": "Liquidations this large, mostly from long bets, remove much of the leverage that was forcing sales, which helps explain the sharp rebound.",
+    "alt": "Traders can rebuild leverage quickly, and new short positions opened during the slide could add to the next move either way.",
+    "change": "Funding rates and open interest climbing back quickly would suggest leverage is returning."
+   },
+   "sources": [
+    {
+     "name": "Bloomberg via Business Standard",
+     "url": "https://www.business-standard.com/amp/markets/cryptocurrency/bitcoin-tumbles-to-four-month-low-as-leveraged-bets-face-mass-liquidations-126111500058_1.html"
     }
    ]
   },
@@ -56,15 +77,16 @@
    "section": "ZEC",
    "impact": "🟠",
    "confidence": "High",
-   "date": "2026-11-14",
-   "status": "Developing",
-   "title": "Zcash falls about 11.5% on the day, briefly touching $801",
-   "why": "At the afternoon edition Zcash was near $861. It fell with bitcoin after 20:00 UK, touching about $801 on Kraken, and traded near $826 at 21:30 UK, down about 11.5% over 24 hours against bitcoin's 5.5%.",
+   "date": "2026-11-15",
+   "status": "Outlook changed",
+   "title": "Zcash rebounds about 8% to near $894",
+   "why": "At the evening edition Zcash was near $826 and falling twice as fast as bitcoin. Overnight it held above $839 on Kraken even as bitcoin made a lower low, then jumped to about $931 after 02:00 UK and traded near $894, up about 8% against bitcoin's flat move.",
+   "caveat": "We found no reputable report explaining the move; it may reflect short sellers closing positions.",
    "note": {
     "horizon": "intraday",
-    "read": "Zcash is now behaving like a higher-beta version of bitcoin rather than the relative safe spot it was earlier in the week.",
-    "alt": "Zcash's earlier outperformance may simply be unwinding; the fall could reflect profit-taking on its own rally rather than fresh bad news.",
-    "change": "Holding above $800 on another bitcoin dip would suggest the round number is acting as support."
+    "read": "Holding above $800 and outpacing bitcoin's bounce suggests last night's sharp fall was partly an overshoot.",
+    "alt": "Zcash swings much more than bitcoin in both directions, so a large bounce on thin Sunday trade says little about the trend.",
+    "change": "A drop back towards $830 while bitcoin holds steady would undo this read."
    },
    "sources": [
     {
@@ -74,84 +96,71 @@
    ]
   },
   {
-   "section": "Markets",
-   "impact": "🟠",
-   "confidence": "Medium",
-   "date": "2026-11-14",
-   "status": "New",
-   "title": "Options dealers' hedging may amplify swings between $58,000 and $72,000",
-   "why": "CoinDesk, citing Greeks.Live, reported that bitcoin options dealers were net short gamma across a range of roughly $58,000 to $72,000, so their hedging tends to add to falls and rallies. Positioning only turns stabilising above about $73,000, leaving bitcoin inside the volatile zone.",
-   "caveat": "Gamma estimates come from one data provider and shift as options are traded and expire.",
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "url": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility"
-    }
-   ]
-  },
-  {
-   "section": "BTC",
-   "impact": "🟢",
-   "confidence": "Medium",
-   "date": "2026-11-14",
-   "status": "New",
-   "title": "Glassnode analyst calls the slide a fourth capitulation wave",
-   "why": "James Check told CoinDesk that many recent sellers bought in the $80,000s in September and are now selling at a loss, the fourth such wave since the all-time high. He said prices had reached a 'deep value' zone last seen in February and late June, but that this did not mark a bottom.",
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst"
-    }
-   ]
-  },
-  {
    "section": "ETFs",
    "impact": "🟢",
    "confidence": "High",
-   "date": "2026-11-14",
+   "date": "2026-11-15",
    "status": "No material change",
-   "title": "No new ETF data until Monday after $2.35 billion two-week outflow",
-   "why": "Nothing new since the afternoon edition. The Block also reported US spot bitcoin funds lost about $1 billion for a second straight week. Monday's figures will show whether the weekend fall drew more withdrawals.",
+   "title": "ETF outflows still the backdrop until Monday's data",
+   "why": "No new flow data over the weekend. Bloomberg put net outflows from US spot bitcoin ETFs at almost $3 billion between 30 October and 13 November. Monday's figures will show whether the weekend fall drew more withdrawals.",
+   "caveat": "Totals vary with the start date: $2.35 billion over two weeks (Cointelegraph), almost $3 billion since 30 October (Bloomberg).",
    "sources": [
+    {
+     "name": "Bloomberg via Business Standard",
+     "url": "https://www.business-standard.com/amp/markets/cryptocurrency/bitcoin-tumbles-to-four-month-low-as-leveraged-bets-face-mass-liquidations-126111500058_1.html"
+    },
     {
      "name": "The Block",
      "url": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337"
-    },
-    {
-     "name": "Cointelegraph",
-     "url": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak"
     }
    ]
   },
   {
-   "section": "UK",
+   "section": "ZEC",
    "impact": "🟢",
    "confidence": "Medium",
    "date": "2026-11-14",
    "status": "New",
-   "title": "Bank of England tests blockchain-linked FX settlement with Singapore and Thailand",
-   "why": "CoinDesk reported Project Meridian FX APAC tested payment-versus-payment settlement across conventional and blockchain systems. The Bank of England plans a live synchronisation interface in 2028, a sign of its slow, infrastructure-first approach to tokenised money.",
+   "title": "Zcash forum debates whether coin-weighted polls represent small holders",
+   "why": "Ahead of coinholder polls opening on Monday, a forum post argued that wealth-weighted votes drown out small holders, citing about 2.18 million ZEC voted on each proposal in the Q3 retroactive grants round. It proposed that wallets announce polls to their users. Background for governance, not a market mover.",
    "sources": [
     {
-     "name": "CoinDesk",
-     "url": "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground"
+     "name": "Zcash Community Forum",
+     "url": "https://forum.zcashcommunity.com/t/are-zcash-users-represented-in-todays-polling/59310"
+    }
+   ]
+  },
+  {
+   "section": "Beyond",
+   "impact": "🟢",
+   "confidence": "Medium",
+   "date": "2026-11-14",
+   "status": "New",
+   "title": "Kava Lend drained of about $3.8 million, KAVA falls nearly 40%",
+   "why": "The Block reported an attacker inflated deposits in a dormant market and borrowed about 55 million KAVA, bridging most of it to BNB Chain and selling it. Kava said the incident was contained within Kava Lend and paused its Axelar bridge. Another reminder of DeFi risk during a sell-off.",
+   "sources": [
+    {
+     "name": "The Block",
+     "url": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350"
     }
    ]
   }
  ],
  "explained": {
-  "title": "What negative gamma means",
+  "title": "What a liquidation cascade is",
   "body": [
-   "Banks and trading firms that sell options hedge their risk by buying or selling the underlying coin. When they are 'short gamma', the hedge forces them to sell more as the price falls and buy more as it rises.",
-   "That makes moves bigger in both directions while the price stays inside the affected range. When dealers are 'long gamma' the opposite happens: they buy dips and sell rallies, which tends to calm the market."
+   "Traders who borrow to bet on a rising price must keep enough collateral on the exchange. When the price falls far enough, the exchange closes the position automatically by selling, which is a liquidation.",
+   "Those forced sales push the price lower, which triggers the next layer of liquidations, and so on. Once most of the borrowed bets are gone, the selling pressure can vanish quickly, which is why sharp drops like last night's are often followed by fast rebounds."
   ]
  },
  "investigating": [
-  "Does the selling exhaust itself overnight? Evidence: the bitcoin weekly close at midnight UK and Sunday's liquidation totals.",
+  "Was $62,000 the low of this leg? Evidence: the weekly close tonight and whether bitcoin holds above $62,000 into Monday's US session.",
   "Will ETF outflows extend to a third week? Evidence: Farside and SoSoValue figures for Monday 16 November.",
-  "Is Zcash's sharper fall about bitcoin or about Zcash? Evidence: whether ZEC keeps underperforming if bitcoin steadies on Sunday."
+  "Our news inbox has not refreshed since 01:17 UK, so overnight headlines may be missing. Evidence: the next inbox update."
  ],
- "corrections": [],
+ "corrections": [
+  "The evening edition of 14 November said the bitcoin weekly close was at midnight UK that night. The weekly candle closes at midnight UK on Sunday night, tonight."
+ ],
  "ahead": [
   {
    "when": "Sun 15 Nov, midnight UK",
@@ -184,5 +193,5 @@
    "what": "FOMC minutes (October meeting)"
   }
  ],
- "id": "2026-11-14-2135"
+ "id": "2026-11-15-0634"
 }
