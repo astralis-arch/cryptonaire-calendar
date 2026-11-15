@@ -1,5 +1,45 @@
 [
 {
+"id": "6762ac9036f70de2",
+"title": "Enterprise blockchain is going to come back from the dead",
+"link": "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-15T14:30:00Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-15T15:51:38Z"
+},
+{
+"id": "bddcae0d0eff9f2a",
+"title": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
+"link": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
+"published": "2026-11-15T14:01:02Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-15T15:51:38Z"
+},
+{
+"id": "2b65f49987c721d5",
+"title": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
+"link": "https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session",
+"published": "2026-11-15T14:00:00Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-15T15:51:38Z"
+},
+{
+"id": "eaa4d539629746bc",
+"title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
+"link": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-15T10:23:17Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-15T15:51:38Z"
+},
+{
 "id": "94375fcedff7a6d1",
 "title": "Coinone warns of phishing, identity theft after customer data breach",
 "link": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -5126,17 +5166,6 @@
 "desk": "ZEC",
 "kind": "community",
 "first_seen": "2026-11-08T23:32:50Z",
-"backfill": true
-},
-{
-"id": "f8d0c05caac5fb88",
-"title": "This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet",
-"link": "https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet",
-"published": "2026-11-08T14:01:03Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-08T14:01:03Z",
 "backfill": true
 },
 {
