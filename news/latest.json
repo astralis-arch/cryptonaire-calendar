@@ -1,29 +1,29 @@
 {
- "generated": "2026-11-15T16:35:00Z",
- "mood": "mixed",
+ "generated": "2026-11-15T21:35:00Z",
+ "mood": "calm",
  "briefing": {
   "developments": [
-   "Bitcoin extended its overnight rebound to about $66,090 on Kraken between 09:00 and 10:00 UK, then gave back most of the gain after 14:00 and traded near $64,640 at 16:30 UK.",
-   "US spot bitcoin ETFs lost $185.4 million on Friday, their seventh straight day of outflows, taking November's withdrawals to about $2.1 billion, Decrypt reported.",
-   "Stablecoin supply fell by $17 billion in a month, the steepest drop since 2022, according to Glassnode analysts quoted by CoinDesk, a sign of money leaving crypto."
+   "Bitcoin traded in a narrow band between about $64,230 and $65,170 on Kraken through Sunday evening and stood near $64,940 at 21:30 UK, heading into the weekly close at midnight.",
+   "A new draft proposal on the Zcash forum would cap both of Zcash's development treasuries, the day before the advisory poll on the future of Zcash Community Grants opens on Monday.",
+   "Traders claimed $6 million in profit after spotting a public BitGo code change ahead of Robinhood memecoin listings, The Block reported, a reminder that public code can leak market-moving information."
   ],
-  "changed": "Little has moved since the morning edition. Bitcoin is near $64,640 against $64,470 at 06:30 UK, after a rally to $66,000 faded. Zcash is near $902, slightly above the morning's $894. The new information is weekend data confirming the backdrop: a seven-day ETF outflow streak, shrinking stablecoin supply and sentiment at extreme fear.",
-  "question": "Can bitcoin hold above $62,000 into the weekly close and Monday's US session, or does the faded rally mean sellers are still in control?",
-  "watch": "The bitcoin weekly close at midnight UK tonight, then Monday's US spot ETF flows. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
+  "changed": "Little has moved since the afternoon edition. Bitcoin is near $64,940 against $64,640 at 16:30 UK, and Zcash is near $899 against $902. There was no US session on Sunday and no new ETF data; the only fresh news was in Zcash governance and a front-running story with no direct link to bitcoin or Zcash prices.",
+  "question": "Does Monday's US session bring an eighth straight day of ETF outflows, or a first day of buying after the slide to $62,000?",
+  "watch": "The bitcoin weekly close at midnight UK, then Monday's US spot ETF flows after the US close. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
  },
  "lead": {
-  "headline": "Bitcoin's Sunday rally fades as outflow data piles up",
-  "standfirst": "Bitcoin climbed to $66,000 on Sunday morning before slipping back towards $64,600, while weekend data showed money still leaving crypto funds and stablecoins.",
+  "headline": "Bitcoin steadies near $65,000 ahead of the weekly close",
+  "standfirst": "A quiet Sunday evening left bitcoin little changed in a $1,000 range, while Zcash's community prepared for Monday's treasury vote.",
   "body": [
-   "Bitcoin rose to about $66,090 on Kraken between 09:00 and 10:00 UK time on Sunday, extending its rebound from an overnight low near $61,970. It drifted back after 14:00 and traded near $64,640 at 16:30 UK, little changed from the morning.",
-   "US spot bitcoin ETFs lost $185.4 million on Friday, their seventh consecutive day of outflows, Decrypt reported. That took November's withdrawals to about $2.1 billion and total fund assets to $94.9 billion, below the $100 billion held through much of October.",
-   "Money is also draining from stablecoins. Glassnode analysts said supply fell by $17 billion over the past month, the steepest drop since 2022, and the combined value of USDT and USDC slid to $244 billion, its lowest since September 2025, CoinDesk reported.",
-   "The Crypto Fear and Greed Index fell to 10 on Sunday, deep in extreme fear, according to Cointelegraph. XRP touched 89 cents, its weakest since November 2024, CoinDesk said.",
-   "Zcash held most of its overnight gains, trading near $902 at 16:30 UK after a high of about $930 before midday. Attention now turns to the weekly close at midnight UK and Monday's ETF figures."
+   "Bitcoin traded between about $64,230 and $65,170 on Kraken from 16:00 to 21:30 UK on Sunday and stood near $64,940 at 21:30, little changed from $64,640 at the afternoon edition.",
+   "The price remains well below the $66,090 reached on Sunday morning and above the overnight low of about $61,970. The weekly candle closes at midnight UK, and there was no new US spot ETF data over the weekend after Friday's seventh straight day of outflows.",
+   "Zcash held near $899, with an evening range of roughly $890 to $914 on Kraken. On the Zcash community forum, a member posted a draft proposal that would apply one test to both of Zcash's development treasuries, sending any money above each programme's commitments and a two-year reserve to the network's sustainability fund. The advisory poll on the future of Zcash Community Grants opens on Monday.",
+   "Elsewhere, The Block reported that a trader group claimed more than $6 million in profit by spotting a public code change at custody firm BitGo and buying two memecoins before Robinhood listed them. The Block said it could not verify the profit figures.",
+   "Attention now turns to the weekly close and Monday's ETF flows."
   ]
  },
- "headline": "A quiet Sunday afternoon: bitcoin's rally to $66,000 faded back to about $64,600. Weekend data showed a seventh day of ETF outflows and shrinking stablecoin supply.",
- "spoken": "Cryptonaire Post, afternoon edition. A quiet Sunday. Bitcoin climbed to about sixty-six thousand dollars this morning, then slipped back and is trading near sixty-four thousand six hundred, close to where it was at breakfast. Weekend figures showed US bitcoin funds lost money for a seventh day running on Friday, about two point one billion dollars so far in November, and stablecoin supply is shrinking fast. Zcash is holding near nine hundred dollars. Watch the weekly close at midnight and Monday's fund flows. Information only, not advice.",
+ "headline": "A quiet Sunday evening: bitcoin held near $65,000 into the weekly close and Zcash near $900. Zcash's treasury debate sharpened ahead of Monday's advisory poll.",
+ "spoken": "Cryptonaire Post, evening edition. A quiet Sunday night. Bitcoin has spent the evening in a tight range and is trading near sixty-five thousand dollars, a little above this afternoon, ahead of the weekly close at midnight. Zcash is steady near nine hundred dollars. In Zcash governance, a new draft proposal would cap both development treasuries, the day before Monday's advisory poll opens. Tomorrow, watch whether US bitcoin funds see an eighth day of outflows. The next big scheduled event is the Fed decision on the ninth of December at seven in the evening. Information only, not advice.",
  "stories": [
   {
    "section": "BTC",
@@ -31,70 +31,40 @@
    "confidence": "High",
    "date": "2026-11-15",
    "status": "Developing",
-   "title": "Bitcoin's rebound reaches $66,000, then fades",
-   "why": "Since the morning edition bitcoin rose from about $64,470 to a high near $66,090 on Kraken between 09:00 and 10:00 UK, held around $65,300 to $65,500 into early afternoon, then fell to about $64,430 after 14:00 and traded near $64,640 at 16:30 UK. Cointelegraph, citing CoinGecko, put the overnight low at $62,081 and the weekly fall at nearly 15%.",
-   "caveat": "Exchanges printed slightly different figures: the overnight low was about $61,970 on Kraken and $62,081 on CoinGecko.",
+   "title": "Bitcoin holds near $65,000 into the weekly close",
+   "why": "Since the afternoon edition bitcoin traded between about $64,230 and $65,170 on Kraken and stood near $64,940 at 21:30 UK, up from $64,640. It stays between the overnight low near $61,970 and the morning high near $66,090.",
    "note": {
     "horizon": "swing",
-    "read": "Failing to hold $65,500 suggests buyers are cautious after the flush; the overnight low is now the line traders will watch.",
-    "alt": "Sunday trade is thin, and the drift back may be routine profit-taking rather than renewed selling.",
-    "change": "A weekly close above about $65,500 would ease the pressure; a return below $62,000 would point to a test of $60,000."
+    "read": "A calm evening after a sharp week suggests selling has paused, but not that buyers have returned in size.",
+    "alt": "Sunday evening trade is thin, so the steadiness may simply reflect low volume before US markets reopen.",
+    "change": "A weekly close above about $65,500 would ease the pressure; a fall back below $62,000 on Monday would point to a test of $60,000."
    },
    "sources": [
     {
      "name": "Kraken (BTC/USD)",
      "url": "https://www.kraken.com/prices/bitcoin"
-    },
-    {
-     "name": "Cointelegraph",
-     "url": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff"
     }
    ]
   },
   {
-   "section": "ETFs",
-   "impact": "🟠",
+   "section": "ZEC",
+   "impact": "🟢",
    "confidence": "High",
    "date": "2026-11-15",
-   "status": "Developing",
-   "title": "Bitcoin ETF outflows hit seven straight days",
-   "why": "Decrypt reported $185.4 million of outflows on Friday, the seventh straight trading day, about $2.1 billion so far in November and total assets of $94.9 billion. Cointelegraph said BlackRock's iShares Bitcoin Trust has now had outflows for 11 sessions in a row.",
-   "caveat": "Weekly totals differ by tracker: about $829 million for the week (Decrypt) against $1.07 billion (Cointelegraph).",
-   "note": {
-    "horizon": "swing",
-    "read": "Steady withdrawals from the largest fund suggest institutional buyers are stepping back rather than buying the dip.",
-    "alt": "Some outflows may be hedge funds unwinding trades that pair ETF holdings with futures, which says less about long-term demand.",
-    "change": "A day of net inflows on Monday or Tuesday, especially into BlackRock's fund, would break the pattern."
-   },
-   "sources": [
-    {
-     "name": "Decrypt",
-     "url": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days"
-    },
-    {
-     "name": "Cointelegraph",
-     "url": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff"
-    }
-   ]
-  },
-  {
-   "section": "Markets",
-   "impact": "🟠",
-   "confidence": "Medium",
-   "date": "2026-11-15",
    "status": "New",
-   "title": "Stablecoin supply shrinks $17 billion in a month",
-   "why": "Glassnode analysts said stablecoin supply fell $17 billion over the past month, the steepest drop since 2022, and the combined value of USDT and USDC fell to $244 billion from about $270 billion in early May, CoinDesk reported. Fewer stablecoins means less ready cash on exchanges to buy crypto.",
+   "title": "Draft Zcash proposal would cap both development treasuries",
+   "why": "A forum post on Sunday proposed a draft ZIP applying one test to both the Zcash Community Grants and the coinholder-controlled fund, sending anything above each programme's commitments and a two-year reserve to the network sustainability fund, with caps and US dollar valuation. It is an early draft for comment; the advisory poll on Zcash Community Grants' future opens on Monday 16 November.",
+   "caveat": "A single community member's draft, not an adopted proposal. The author said they will vote for the status quo in the advisory poll.",
    "note": {
     "horizon": "longer",
-    "read": "Shrinking stablecoin supply alongside ETF outflows points to money leaving crypto altogether, not just moving between coins.",
-    "alt": "Some of the fall may reflect redemptions for other uses, such as payments or moves into tokenised Treasury funds, rather than sellers exiting.",
-    "change": "Stablecoin supply growing again for several weeks would suggest fresh money returning."
+    "read": "The debate over how much new Zcash goes to development funds is widening, which affects long-run supply and who steers the project.",
+    "alt": "Draft proposals are common on the forum and many never reach a vote, so this may change little.",
+    "change": "Strong support for a cap option in the advisory poll, or the draft being taken up by the Zcash Foundation or ECC."
    },
    "sources": [
     {
-     "name": "CoinDesk",
-     "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto"
+     "name": "Zcash Community Forum",
+     "url": "https://forum.zcashcommunity.com/t/one-zip-for-both-taps-fixing-the-colossal-treasury-problem/59325"
     }
    ]
   },
@@ -104,8 +74,8 @@
    "confidence": "High",
    "date": "2026-11-15",
    "status": "No material change",
-   "title": "Zcash holds near $900",
-   "why": "Zcash kept its overnight rebound, reaching about $930 on Kraken before midday, dipping to about $876 after 14:00 with bitcoin, and trading near $902 at 16:30 UK, slightly above the morning's $894. No new Zcash news found.",
+   "title": "Zcash steady near $900",
+   "why": "Zcash traded between about $890 and $914 on Kraken this evening and stood near $899 at 21:30 UK, against $902 at the afternoon edition. No new price-moving Zcash news.",
    "sources": [
     {
      "name": "Kraken (ZEC/USD)",
@@ -114,17 +84,17 @@
    ]
   },
   {
-   "section": "Markets",
-   "impact": "🟢",
-   "confidence": "Medium",
+   "section": "ETFs",
+   "impact": "🟠",
+   "confidence": "High",
    "date": "2026-11-15",
-   "status": "New",
-   "title": "Crypto sentiment index falls to 10, extreme fear",
-   "why": "The Crypto Fear and Greed Index fell to 10 on Sunday from 13 on Saturday and 20 on Friday, Cointelegraph reported, citing Alternative.me. Total crypto market value fell about 4% in 24 hours to $2.26 trillion.",
+   "status": "No material change",
+   "title": "ETF outflow streak awaits Monday's data",
+   "why": "No new data over the weekend. The last figures showed seven straight days of outflows to Friday and about $2.1 billion withdrawn in November, Decrypt reported. Monday's flows, published after the US close, are the next test.",
    "sources": [
     {
-     "name": "Cointelegraph",
-     "url": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff"
+     "name": "Decrypt",
+     "url": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days"
     }
    ]
   },
@@ -134,26 +104,35 @@
    "confidence": "Medium",
    "date": "2026-11-15",
    "status": "New",
-   "title": "XRP falls to 89 cents, its lowest since November 2024",
-   "why": "CoinDesk reported XRP down 36% this quarter, with US XRP ETFs losing $19.13 million last week, their largest weekly outflow since March, according to SoSoValue. A sign the sell-off is broad, not bitcoin-specific.",
+   "title": "Traders claim $6 million from front-running Robinhood memecoin listings",
+   "why": "A trader group said it made more than $6 million by spotting a public BitGo code change adding the Cash Cat token and watching Wintermute's onchain activity, then buying before Robinhood listed it in August, The Block reported. The Block confirmed several public records but could not verify the profits.",
+   "sources": [
+    {
+     "name": "The Block",
+     "url": "https://www.theblock.co/news/defi/2026-11-15-traders-claim-6-million-profit-by-spotting-bitgos-public-pull-request-and-frontrunning-memecoin-listing-440363"
+    }
+   ]
+  },
+  {
+   "section": "Policy",
+   "impact": "🟢",
+   "confidence": "Medium",
+   "date": "2026-11-15",
+   "status": "New",
+   "title": "Prediction markets mostly called the US midterms, with notable misses",
+   "why": "CoinDesk found Polymarket, Kalshi and polls matched most key race winners but missed upsets including Democratic Senate wins in Iowa, Mississippi and South Carolina. Background for how Congress handles crypto bills in the lame-duck session; the article gave no detail on that.",
    "sources": [
     {
      "name": "CoinDesk",
-     "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto"
+     "url": "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto"
     }
    ]
   }
  ],
- "explained": {
-  "title": "Why stablecoin supply matters",
-  "body": [
-   "Stablecoins such as USDT and USDC are tokens pegged to the dollar. Traders hold them on exchanges as ready cash, so the total supply is a rough gauge of how much money is sitting inside crypto waiting to be used.",
-   "When supply grows, new dollars are coming in. When it shrinks, holders are redeeming tokens for real dollars and taking them out, which leaves less buying power for bitcoin and other coins."
-  ]
- },
  "investigating": [
-  "Was $62,000 the low of this leg? Evidence: the weekly close tonight and whether bitcoin holds above $62,000 into Monday's US session.",
-  "Will ETF outflows run to an eighth day? Evidence: Farside and SoSoValue figures for Monday 16 November."
+  "Was $62,000 the low of this leg? Evidence: the weekly close tonight and whether bitcoin holds above $62,000 through Monday's US session.",
+  "Will ETF outflows run to an eighth day? Evidence: Farside and SoSoValue figures for Monday 16 November.",
+  "How will Zcash coinholders vote on the grants programme? Evidence: early advisory poll results from Monday 16 November."
  ],
  "corrections": [],
  "ahead": [
@@ -165,7 +144,7 @@
   {
    "when": "Mon 16 Nov",
    "impact": "🟢",
-   "what": "Zcash coinholder polls open on the grants treasury proposal (to 30 Nov)"
+   "what": "Zcash advisory poll on Zcash Community Grants opens (to 30 Nov)"
   },
   {
    "when": "Next week (date TBC)",
@@ -188,5 +167,5 @@
    "what": "FOMC minutes (October meeting)"
   }
  ],
- "id": "2026-11-15-1635"
+ "id": "2026-11-15-2135"
 }

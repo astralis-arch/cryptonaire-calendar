@@ -1,0 +1,128 @@
+{
+ "generated": "2026-11-15T21:35:00Z",
+ "mood": "calm",
+ "briefing": {
+  "developments": [
+   "Bitcoin traded in a narrow band between about $64,230 and $65,170 on Kraken through Sunday evening and stood near $64,940 at 21:30 UK, heading into the weekly close at midnight.",
+   "A new draft proposal on the Zcash forum would cap both of Zcash's development treasuries, the day before the advisory poll on the future of Zcash Community Grants opens on Monday.",
+   "Traders claimed $6 million in profit after spotting a public BitGo code change ahead of Robinhood memecoin listings, The Block reported, a reminder that public code can leak market-moving information."
+  ],
+  "changed": "Little has moved since the afternoon edition. Bitcoin is near $64,940 against $64,640 at 16:30 UK, and Zcash is near $899 against $902. There was no US session on Sunday and no new ETF data; the only fresh news was in Zcash governance and a front-running story with no direct link to bitcoin or Zcash prices.",
+  "question": "Does Monday's US session bring an eighth straight day of ETF outflows, or a first day of buying after the slide to $62,000?",
+  "watch": "The bitcoin weekly close at midnight UK, then Monday's US spot ETF flows after the US close. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
+ },
+ "lead": {
+  "headline": "Bitcoin steadies near $65,000 ahead of the weekly close",
+  "standfirst": "A quiet Sunday evening left bitcoin little changed in a $1,000 range, while Zcash's community prepared for Monday's treasury vote.",
+  "body": [
+   "Bitcoin traded between about $64,230 and $65,170 on Kraken from 16:00 to 21:30 UK on Sunday and stood near $64,940 at 21:30, little changed from $64,640 at the afternoon edition.",
+   "The price remains well below the $66,090 reached on Sunday morning and above the overnight low of about $61,970. The weekly candle closes at midnight UK, and there was no new US spot ETF data over the weekend after Friday's seventh straight day of outflows.",
+   "Zcash held near $899, with an evening range of roughly $890 to $914 on Kraken. On the Zcash community forum, a member posted a draft proposal that would apply one test to both of Zcash's development treasuries, sending any money above each programme's commitments and a two-year reserve to the network's sustainability fund. The advisory poll on the future of Zcash Community Grants opens on Monday.",
+   "Elsewhere, The Block reported that a trader group claimed more than $6 million in profit by spotting a public code change at custody firm BitGo and buying two memecoins before Robinhood listed them. The Block said it could not verify the profit figures.",
+   "Attention now turns to the weekly close and Monday's ETF flows."
+  ]
+ },
+ "headline": "A quiet Sunday evening: bitcoin held near $65,000 into the weekly close and Zcash near $900. Zcash's treasury debate sharpened ahead of Monday's advisory poll.",
+ "spoken": "Cryptonaire Post, evening edition. A quiet Sunday night. Bitcoin has spent the evening in a tight range and is trading near sixty-five thousand dollars, a little above this afternoon, ahead of the weekly close at midnight. Zcash is steady near nine hundred dollars. In Zcash governance, a new draft proposal would cap both development treasuries, the day before Monday's advisory poll opens. Tomorrow, watch whether US bitcoin funds see an eighth day of outflows. The next big scheduled event is the Fed decision on the ninth of December at seven in the evening. Information only, not advice.",
+ "stories": [
+  {
+   "section": "BTC",
+   "impact": "🟠",
+   "confidence": "High",
+   "date": "2026-11-15",
+   "status": "Developing",
+   "title": "Bitcoin holds near $65,000 into the weekly close",
+   "why": "Since the afternoon edition bitcoin traded between about $64,230 and $65,170 on Kraken and stood near $64,940 at 21:30 UK, up from $64,640. It stays between the overnight low near $61,970 and the morning high near $66,090.",
+   "note": {
+    "horizon": "swing",
+    "read": "A calm evening after a sharp week suggests selling has paused, but not that buyers have returned in size.",
+    "alt": "Sunday evening trade is thin, so the steadiness may simply reflect low volume before US markets reopen.",
+    "change": "A weekly close above about $65,500 would ease the pressure; a fall back below $62,000 on Monday would point to a test of $60,000."
+   },
+   "sources": [
+    {"name": "Kraken (BTC/USD)", "url": "https://www.kraken.com/prices/bitcoin"}
+   ]
+  },
+  {
+   "section": "ZEC",
+   "impact": "🟢",
+   "confidence": "High",
+   "date": "2026-11-15",
+   "status": "New",
+   "title": "Draft Zcash proposal would cap both development treasuries",
+   "why": "A forum post on Sunday proposed a draft ZIP applying one test to both the Zcash Community Grants and the coinholder-controlled fund, sending anything above each programme's commitments and a two-year reserve to the network sustainability fund, with caps and US dollar valuation. It is an early draft for comment; the advisory poll on Zcash Community Grants' future opens on Monday 16 November.",
+   "caveat": "A single community member's draft, not an adopted proposal. The author said they will vote for the status quo in the advisory poll.",
+   "note": {
+    "horizon": "longer",
+    "read": "The debate over how much new Zcash goes to development funds is widening, which affects long-run supply and who steers the project.",
+    "alt": "Draft proposals are common on the forum and many never reach a vote, so this may change little.",
+    "change": "Strong support for a cap option in the advisory poll, or the draft being taken up by the Zcash Foundation or ECC."
+   },
+   "sources": [
+    {"name": "Zcash Community Forum", "url": "https://forum.zcashcommunity.com/t/one-zip-for-both-taps-fixing-the-colossal-treasury-problem/59325"}
+   ]
+  },
+  {
+   "section": "ZEC",
+   "impact": "🟢",
+   "confidence": "High",
+   "date": "2026-11-15",
+   "status": "No material change",
+   "title": "Zcash steady near $900",
+   "why": "Zcash traded between about $890 and $914 on Kraken this evening and stood near $899 at 21:30 UK, against $902 at the afternoon edition. No new price-moving Zcash news.",
+   "sources": [
+    {"name": "Kraken (ZEC/USD)", "url": "https://www.kraken.com/prices/zec-zcash-price-chart"}
+   ]
+  },
+  {
+   "section": "ETFs",
+   "impact": "🟠",
+   "confidence": "High",
+   "date": "2026-11-15",
+   "status": "No material change",
+   "title": "ETF outflow streak awaits Monday's data",
+   "why": "No new data over the weekend. The last figures showed seven straight days of outflows to Friday and about $2.1 billion withdrawn in November, Decrypt reported. Monday's flows, published after the US close, are the next test.",
+   "sources": [
+    {"name": "Decrypt", "url": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days"}
+   ]
+  },
+  {
+   "section": "Beyond",
+   "impact": "🟢",
+   "confidence": "Medium",
+   "date": "2026-11-15",
+   "status": "New",
+   "title": "Traders claim $6 million from front-running Robinhood memecoin listings",
+   "why": "A trader group said it made more than $6 million by spotting a public BitGo code change adding the Cash Cat token and watching Wintermute's onchain activity, then buying before Robinhood listed it in August, The Block reported. The Block confirmed several public records but could not verify the profits.",
+   "sources": [
+    {"name": "The Block", "url": "https://www.theblock.co/news/defi/2026-11-15-traders-claim-6-million-profit-by-spotting-bitgos-public-pull-request-and-frontrunning-memecoin-listing-440363"}
+   ]
+  },
+  {
+   "section": "Policy",
+   "impact": "🟢",
+   "confidence": "Medium",
+   "date": "2026-11-15",
+   "status": "New",
+   "title": "Prediction markets mostly called the US midterms, with notable misses",
+   "why": "CoinDesk found Polymarket, Kalshi and polls matched most key race winners but missed upsets including Democratic Senate wins in Iowa, Mississippi and South Carolina. Background for how Congress handles crypto bills in the lame-duck session; the article gave no detail on that.",
+   "sources": [
+    {"name": "CoinDesk", "url": "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto"}
+   ]
+  }
+ ],
+ "investigating": [
+  "Was $62,000 the low of this leg? Evidence: the weekly close tonight and whether bitcoin holds above $62,000 through Monday's US session.",
+  "Will ETF outflows run to an eighth day? Evidence: Farside and SoSoValue figures for Monday 16 November.",
+  "How will Zcash coinholders vote on the grants programme? Evidence: early advisory poll results from Monday 16 November."
+ ],
+ "corrections": [],
+ "ahead": [
+  {"when": "Sun 15 Nov, midnight UK", "impact": "🟢", "what": "Bitcoin weekly close"},
+  {"when": "Mon 16 Nov", "impact": "🟢", "what": "Zcash advisory poll on Zcash Community Grants opens (to 30 Nov)"},
+  {"when": "Next week (date TBC)", "impact": "🟠", "what": "Anthropic's expected Nasdaq listing"},
+  {"when": "Tue 17 Nov, after US close", "impact": "🟠", "what": "Nvidia third-quarter results"},
+  {"when": "Wed 18 Nov 07:00 UK", "impact": "🟢", "what": "UK CPI (October)"},
+  {"when": "Wed 18 Nov 19:00 UK", "impact": "🟢", "what": "FOMC minutes (October meeting)"}
+ ]
+}

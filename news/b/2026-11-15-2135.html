@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en-GB"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>The Cryptonaire Post</title>
+<meta name="description" content="Bitcoin steadies near $65,000 ahead of the weekly close">
+<meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="Cryptonaire Post">
+<link rel="alternate" type="application/rss+xml" title="The Cryptonaire Post" href="https://astralis-arch.github.io/cryptonaire-calendar/news/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&family=Playfair+Display:wght@700;800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=Archivo:wght@400;600;700&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+:root{--paper:#f4efe4;--ink:#1b1a17;--muted:#5e5a50;--rule:#1b1a17;--hair:#cfc6b4;--red:#a61e1e;--amber:#9a5b00;--green:#2b6b3c;--accent:#7a1414;
+--mast:"UnifrakturMaguntia","Old English Text MT",serif;--head:"Playfair Display",Georgia,serif;--body:"Source Serif 4",Georgia,"Times New Roman",serif;--sans:"Archivo",system-ui,-apple-system,sans-serif;--num:"JetBrains Mono",ui-monospace,Menlo,monospace}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--paper:#16150f;--ink:#ece6d8;--muted:#a59e8e;--rule:#ece6d8;--hair:#3b382f;--red:#ff7a6b;--amber:#f2b552;--green:#7fd197;--accent:#ff9b8b;color-scheme:dark}}
+:root[data-theme="dark"]{--paper:#16150f;--ink:#ece6d8;--muted:#a59e8e;--rule:#ece6d8;--hair:#3b382f;--red:#ff7a6b;--amber:#f2b552;--green:#7fd197;--accent:#ff9b8b;color-scheme:dark}
+*{box-sizing:border-box}html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--paper);color:var(--ink);font:17px/1.55 var(--body);padding:env(safe-area-inset-top) 0 env(safe-area-inset-bottom)}
+main{max-width:980px;margin:0 auto;padding:14px 16px 40px}
+h2,h4,.copy p:first-child::first-letter{font-variant-numeric:lining-nums}
+a{color:inherit;text-decoration-color:var(--hair);text-underline-offset:2px}
+.ears{display:flex;justify-content:space-between;gap:12px;font:11px/1.3 var(--sans);text-transform:uppercase;letter-spacing:.08em;color:var(--muted)}
+.mast{text-align:center;margin:6px 0 4px}
+.mast h1{font:400 clamp(40px,11vw,84px)/1 var(--mast);margin:0;letter-spacing:.01em}
+.motto{font:italic 13px var(--body);color:var(--muted);margin-top:4px}
+.dateline{display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap;border-top:3px double var(--rule);border-bottom:1px solid var(--rule);padding:5px 0;margin-top:8px;font:12px var(--sans);text-transform:uppercase;letter-spacing:.06em}
+.mood{font-weight:700}.mood.risk-off{color:var(--red)}.mood.risk-on{color:var(--green)}.mood.mixed,.mood.calm{color:var(--amber)}
+.markets{display:flex;gap:18px;flex-wrap:wrap;justify-content:center;border-bottom:1px solid var(--rule);padding:6px 0;font:13px var(--num)}
+.markets b{font-family:var(--sans);font-size:11px;letter-spacing:.08em;margin-right:6px}
+.up{color:var(--green)}.down{color:var(--red)}
+.front{display:grid;grid-template-columns:1fr;gap:0 28px;margin-top:16px}
+@media (min-width:820px){.front{grid-template-columns:2.1fr 1fr}.side{border-left:1px solid var(--hair);padding-left:24px}}
+.kicker{font:700 11px var(--sans);text-transform:uppercase;letter-spacing:.12em;color:var(--accent)}
+.lead h2{font:800 clamp(30px,7vw,46px)/1.08 var(--head);margin:6px 0 10px;letter-spacing:-.01em}
+.stand{font:italic 19px/1.45 var(--body);color:var(--muted);margin:0 0 10px}
+.byline{font:12px var(--sans);color:var(--muted);border-top:1px solid var(--hair);border-bottom:1px solid var(--hair);padding:5px 0;margin-bottom:12px;display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap;align-items:center}
+.listen{font:600 12px var(--sans);text-transform:uppercase;letter-spacing:.06em;background:none;color:var(--ink);border:1px solid var(--ink);border-radius:2px;padding:4px 10px;cursor:pointer}
+.copy{hyphens:auto;-webkit-hyphens:auto}
+@media (min-width:620px){.copy{text-align:justify;column-count:2;column-gap:26px;column-rule:1px solid var(--hair)}}
+.copy p{margin:0 0 .8em}
+.copy p:first-child::first-letter{float:left;font:800 3.6em/.82 var(--head);padding:.06em .08em 0 0}
+.side h3,.also h3.sec{font:700 12px var(--sans);text-transform:uppercase;letter-spacing:.1em;border-top:3px solid var(--rule);padding-top:6px;margin:18px 0 8px}
+@media (min-width:820px){.side h3:first-child{margin-top:0}}
+.diary{list-style:none;margin:0;padding:0}
+.diary li{padding:7px 0;border-bottom:1px solid var(--hair);font-size:15px;line-height:1.35}
+.diary .when{display:block;font:500 12px var(--num);color:var(--muted)}
+.inbrief{font-size:15px;line-height:1.45;margin:0}
+.also{margin-top:22px}
+.cols{display:grid;grid-template-columns:1fr;gap:0 24px}
+@media (min-width:620px){.cols{grid-template-columns:1fr 1fr}}
+@media (min-width:900px){.cols{grid-template-columns:1fr 1fr 1fr}}
+.story{border-top:1px solid var(--rule);padding:10px 0 14px}
+.story h4{font:700 20px/1.2 var(--head);margin:4px 0 6px}
+.story p{margin:0 0 6px;font-size:15.5px}
+.meta{font:11px var(--sans);text-transform:uppercase;letter-spacing:.06em;color:var(--muted);display:flex;gap:8px;flex-wrap:wrap}
+.imp{font-weight:700}.imp.r{color:var(--red)}.imp.a{color:var(--amber)}.imp.g{color:var(--green)}
+.conf.Low{color:var(--red);font-weight:700}
+.src{font:12px/1.4 var(--sans);color:var(--muted)}.caveat{font:italic 13px var(--body);color:var(--amber)}
+footer{margin-top:26px;border-top:3px double var(--rule);padding-top:8px;font:12.5px/1.5 var(--sans);color:var(--muted)}footer p{margin:6px 0}
+.routes{display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap;border-bottom:1px solid var(--hair);padding:5px 0;font:12px var(--sans);text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+.routes a{color:var(--ink);font-weight:700;text-decoration:none;margin-left:10px}.routes button{font:700 12px var(--sans);background:none;color:var(--ink);border:1px solid var(--hair);border-radius:2px;padding:2px 8px;margin-left:4px;cursor:pointer}
+.briefing{border:2px solid var(--rule);padding:12px 14px;margin-top:14px;display:grid;grid-template-columns:1fr;gap:6px 26px}
+@media (min-width:700px){.briefing{grid-template-columns:1.3fr 1fr}}
+.briefing h3{grid-column:1/-1;font:700 12px var(--sans);text-transform:uppercase;letter-spacing:.1em;margin:0;color:var(--accent)}
+.briefing ol{margin:0;padding-left:1.3em;font-size:16px;line-height:1.45}.briefing li{margin-bottom:5px}
+.briefing dl{margin:0;font-size:15px;line-height:1.4}.briefing dt{font:700 11px var(--sans);text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin-top:6px}.briefing dt:first-child{margin-top:0}.briefing dd{margin:1px 0 0}
+.status{font:700 10px var(--sans);text-transform:uppercase;letter-spacing:.08em;border:1px solid currentColor;padding:0 4px;border-radius:2px}
+.status.n{color:var(--accent)}.status.o{color:var(--red)}.status.d{color:var(--amber)}.status.q{color:var(--muted)}
+.note{border-left:3px solid var(--hair);padding:2px 0 2px 10px;margin:6px 0 8px;font-size:14px;line-height:1.4}
+.note b{font:700 10.5px var(--sans);text-transform:uppercase;letter-spacing:.07em;color:var(--muted);margin-right:4px}.note p{margin:0 0 4px;font-size:14px}
+.explain p,.inv li{font-size:14.5px;line-height:1.45}.explain h4{font:700 17px/1.25 var(--head);margin:0 0 4px}.inv{margin:0;padding-left:1.1em}.inv li{margin-bottom:6px}
+.corr{font:13px var(--sans);border-top:1px solid var(--hair);padding-top:6px;color:var(--muted)}
+.arch{display:flex;flex-wrap:wrap;gap:4px 14px;font:12px var(--num)}
+</style></head><body><main>
+<div class="ears"><span>No. 7</span><span>BTC · ZEC · Markets</span></div>
+<header class="mast"><h1>The Cryptonaire Post</h1><div class="motto">All the market news that matters, three editions a day</div></header>
+<div class="dateline"><span>Sunday 15 November 2026</span><span>Evening edition · 21:35 UK</span><span>Mood: <span class="mood calm">calm</span></span></div>
+<div class="markets"><span id="BTCUSDT"><b>BTC</b><span>…</span> <i></i></span><span id="ZECUSDT"><b>ZEC</b><span>…</span> <i></i></span><span style="color:var(--muted)">live US$</span></div>
+<nav class="routes"><span>Read:<a href="#briefing">1 min</a><a href="#lead">5 min</a><a href="#stories">Full edition</a></span><span>Text <button id="zout" type="button" aria-label="Smaller text">A−</button><button id="zin" type="button" aria-label="Larger text">A+</button></span></nav>
+<section class="briefing" id="briefing"><h3>The 60-second briefing</h3><ol><li>Bitcoin traded in a narrow band between about $64,230 and $65,170 on Kraken through Sunday evening and stood near $64,940 at 21:30 UK, heading into the weekly close at midnight.</li><li>A new draft proposal on the Zcash forum would cap both of Zcash&#x27;s development treasuries, the day before the advisory poll on the future of Zcash Community Grants opens on Monday.</li><li>Traders claimed $6 million in profit after spotting a public BitGo code change ahead of Robinhood memecoin listings, The Block reported, a reminder that public code can leak market-moving information.</li></ol><dl><dt>What changed</dt><dd>Little has moved since the afternoon edition. Bitcoin is near $64,940 against $64,640 at 16:30 UK, and Zcash is near $899 against $902. There was no US session on Sunday and no new ETF data; the only fresh news was in Zcash governance and a front-running story with no direct link to bitcoin or Zcash prices.</dd><dt>Biggest open question</dt><dd>Does Monday&#x27;s US session bring an eighth straight day of ETF outflows, or a first day of buying after the slide to $62,000?</dd><dt>Next to watch</dt><dd>The bitcoin weekly close at midnight UK, then Monday&#x27;s US spot ETF flows after the US close. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK.</dd></dl></section>
+<div class="front">
+<article class="lead" id="lead"><div class="kicker">The lead</div><h2>Bitcoin steadies near $65,000 ahead of the weekly close</h2><p class="stand">A quiet Sunday evening left bitcoin little changed in a $1,000 range, while Zcash&#x27;s community prepared for Monday&#x27;s treasury vote.</p>
+<div class="byline"><span>By the Cryptonaire desk (Claude) · 15 Nov 2026</span><button class="listen" id="listen" type="button">▶ Listen</button></div>
+<div class="copy"><p>Bitcoin traded between about $64,230 and $65,170 on Kraken from 16:00 to 21:30 UK on Sunday and stood near $64,940 at 21:30, little changed from $64,640 at the afternoon edition.</p><p>The price remains well below the $66,090 reached on Sunday morning and above the overnight low of about $61,970. The weekly candle closes at midnight UK, and there was no new US spot ETF data over the weekend after Friday&#x27;s seventh straight day of outflows.</p><p>Zcash held near $899, with an evening range of roughly $890 to $914 on Kraken. On the Zcash community forum, a member posted a draft proposal that would apply one test to both of Zcash&#x27;s development treasuries, sending any money above each programme&#x27;s commitments and a two-year reserve to the network&#x27;s sustainability fund. The advisory poll on the future of Zcash Community Grants opens on Monday.</p><p>Elsewhere, The Block reported that a trader group claimed more than $6 million in profit by spotting a public code change at custody firm BitGo and buying two memecoins before Robinhood listed them. The Block said it could not verify the profit figures.</p><p>Attention now turns to the weekly close and Monday&#x27;s ETF flows.</p></div></article>
+<aside class="side"><h3>In brief</h3><p class="inbrief">A quiet Sunday evening: bitcoin held near $65,000 into the weekly close and Zcash near $900. Zcash&#x27;s treasury debate sharpened ahead of Monday&#x27;s advisory poll.</p>
+<h3>The week ahead</h3><ul class="diary"><li><span class="when">Sun 15 Nov, midnight UK</span>🟢 Bitcoin weekly close</li><li><span class="when">Mon 16 Nov</span>🟢 Zcash advisory poll on Zcash Community Grants opens (to 30 Nov)</li><li><span class="when">Next week (date TBC)</span>🟠 Anthropic&#x27;s expected Nasdaq listing</li><li><span class="when">Tue 17 Nov, after US close</span>🟠 Nvidia third-quarter results</li><li><span class="when">Wed 18 Nov 07:00 UK</span>🟢 UK CPI (October)</li><li><span class="when">Wed 18 Nov 19:00 UK</span>🟢 FOMC minutes (October meeting)</li></ul><h3>What we are investigating</h3><ul class="inv"><li>Was $62,000 the low of this leg? Evidence: the weekly close tonight and whether bitcoin holds above $62,000 through Monday&#x27;s US session.</li><li>Will ETF outflows run to an eighth day? Evidence: Farside and SoSoValue figures for Monday 16 November.</li><li>How will Zcash coinholders vote on the grants programme? Evidence: early advisory poll results from Monday 16 November.</li></ul></aside>
+</div>
+<p id="spoken" hidden>Cryptonaire Post, evening edition. A quiet Sunday night. Bitcoin has spent the evening in a tight range and is trading near sixty-five thousand dollars, a little above this afternoon, ahead of the weekly close at midnight. Zcash is steady near nine hundred dollars. In Zcash governance, a new draft proposal would cap both development treasuries, the day before Monday&#x27;s advisory poll opens. Tomorrow, watch whether US bitcoin funds see an eighth day of outflows. The next big scheduled event is the Fed decision on the ninth of December at seven in the evening. Information only, not advice.</p>
+<section class="also" id="stories"><h3 class="sec">Also in today's edition, ranked</h3><div class="cols"><article class="story"><div class="meta"><span class="kicker">Bitcoin Desk</span><span class="status d">Developing</span><span class="imp a">🟠 Worth knowing</span>
+<span class="conf High">High confidence</span><span>15 Nov</span></div>
+<h4>Bitcoin holds near $65,000 into the weekly close</h4><p>Since the afternoon edition bitcoin traded between about $64,230 and $65,170 on Kraken and stood near $64,940 at 21:30 UK, up from $64,640. It stays between the overnight low near $61,970 and the morning high near $66,090.</p><div class="note"><p><b>Our read · swing</b>A calm evening after a sharp week suggests selling has paused, but not that buyers have returned in size.</p><p><b>Another explanation</b>Sunday evening trade is thin, so the steadiness may simply reflect low volume before US markets reopen.</p><p><b>What would change this</b>A weekly close above about $65,500 would ease the pressure; a fall back below $62,000 on Monday would point to a test of $60,000.</p></div><div class="src">Sources: <a href="https://www.kraken.com/prices/bitcoin" rel="noopener">Kraken (BTC/USD)</a></div></article><article class="story"><div class="meta"><span class="kicker">Zcash Desk</span><span class="status n">New</span><span class="imp g">🟢 Background</span>
+<span class="conf High">High confidence</span><span>15 Nov</span></div>
+<h4>Draft Zcash proposal would cap both development treasuries</h4><p>A forum post on Sunday proposed a draft ZIP applying one test to both the Zcash Community Grants and the coinholder-controlled fund, sending anything above each programme&#x27;s commitments and a two-year reserve to the network sustainability fund, with caps and US dollar valuation. It is an early draft for comment; the advisory poll on Zcash Community Grants&#x27; future opens on Monday 16 November.</p><p class="caveat">A single community member&#x27;s draft, not an adopted proposal. The author said they will vote for the status quo in the advisory poll.</p><div class="note"><p><b>Our read · longer</b>The debate over how much new Zcash goes to development funds is widening, which affects long-run supply and who steers the project.</p><p><b>Another explanation</b>Draft proposals are common on the forum and many never reach a vote, so this may change little.</p><p><b>What would change this</b>Strong support for a cap option in the advisory poll, or the draft being taken up by the Zcash Foundation or ECC.</p></div><div class="src">Sources: <a href="https://forum.zcashcommunity.com/t/one-zip-for-both-taps-fixing-the-colossal-treasury-problem/59325" rel="noopener">Zcash Community Forum</a></div></article><article class="story"><div class="meta"><span class="kicker">Zcash Desk</span><span class="status q">No material change</span><span class="imp g">🟢 Background</span>
+<span class="conf High">High confidence</span><span>15 Nov</span></div>
+<h4>Zcash steady near $900</h4><p>Zcash traded between about $890 and $914 on Kraken this evening and stood near $899 at 21:30 UK, against $902 at the afternoon edition. No new price-moving Zcash news.</p><div class="src">Sources: <a href="https://www.kraken.com/prices/zec-zcash-price-chart" rel="noopener">Kraken (ZEC/USD)</a></div></article><article class="story"><div class="meta"><span class="kicker">ETFs and Institutions</span><span class="status q">No material change</span><span class="imp a">🟠 Worth knowing</span>
+<span class="conf High">High confidence</span><span>15 Nov</span></div>
+<h4>ETF outflow streak awaits Monday&#x27;s data</h4><p>No new data over the weekend. The last figures showed seven straight days of outflows to Friday and about $2.1 billion withdrawn in November, Decrypt reported. Monday&#x27;s flows, published after the US close, are the next test.</p><div class="src">Sources: <a href="https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days" rel="noopener">Decrypt</a></div></article><article class="story"><div class="meta"><span class="kicker">Beyond the Watchlist</span><span class="status n">New</span><span class="imp g">🟢 Background</span>
+<span class="conf Medium">Medium confidence</span><span>15 Nov</span></div>
+<h4>Traders claim $6 million from front-running Robinhood memecoin listings</h4><p>A trader group said it made more than $6 million by spotting a public BitGo code change adding the Cash Cat token and watching Wintermute&#x27;s onchain activity, then buying before Robinhood listed it in August, The Block reported. The Block confirmed several public records but could not verify the profits.</p><div class="src">Sources: <a href="https://www.theblock.co/news/defi/2026-11-15-traders-claim-6-million-profit-by-spotting-bitgos-public-pull-request-and-frontrunning-memecoin-listing-440363" rel="noopener">The Block</a></div></article><article class="story"><div class="meta"><span class="kicker">Policy</span><span class="status n">New</span><span class="imp g">🟢 Background</span>
+<span class="conf Medium">Medium confidence</span><span>15 Nov</span></div>
+<h4>Prediction markets mostly called the US midterms, with notable misses</h4><p>CoinDesk found Polymarket, Kalshi and polls matched most key race winners but missed upsets including Democratic Senate wins in Iowa, Mississippi and South Carolina. Background for how Congress handles crypto bills in the lame-duck session; the article gave no detail on that.</p><div class="src">Sources: <a href="https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto" rel="noopener">CoinDesk</a></div></article></div></section>
+<footer><p>Written and ranked by Claude from public sources. Confidence: <b>High</b> means a primary source or 2+ independent outlets agree, <b>Medium</b> means one reputable outlet, <b>Low</b> means unconfirmed. Prices in stories are as reported; the market strip is live from Binance.</p>
+<p><b>Information only, not financial advice or a buy/sell signal.</b></p>
+<p>Back issues:</p><div class="arch"><a href="../b/2026-11-15-2135.html">15 Nov 21:35</a><a href="../b/2026-11-15-1635.html">15 Nov 16:35</a><a href="../b/2026-11-15-0634.html">15 Nov 06:34</a><a href="../b/2026-11-14-2135.html">14 Nov 21:35</a><a href="../b/2026-11-14-1635.html">14 Nov 16:35</a><a href="../b/2026-11-14-0640.html">14 Nov 06:40</a><a href="../b/2026-11-13-2135.html">13 Nov 21:35</a><a href="../b/2026-11-13-1645.html">13 Nov 16:45</a><a href="../b/2026-11-13-0645.html">13 Nov 06:45</a><a href="../b/2026-11-12-2140.html">12 Nov 21:40</a><a href="../b/2026-11-12-1635.html">12 Nov 16:35</a><a href="../b/2026-11-12-0645.html">12 Nov 06:45</a><a href="../b/2026-11-11-0635.html">11 Nov 06:35</a><a href="../b/2026-11-10-1945.html">10 Nov 19:45</a><a href="../b/2026-11-10-0631.html">10 Nov 06:31</a><a href="../b/2026-11-09-1800.html">9 Nov 18:00</a></div>
+<p><a href="https://astralis-arch.github.io/cryptonaire-calendar/news/feed.xml">RSS feed</a> · <a href="https://astralis-arch.github.io/cryptonaire-calendar/news/brief.txt">Spoken text</a></p></footer>
+</main><script>
+const fmt=(n,d)=>n.toLocaleString('en-US',{minimumFractionDigits:d,maximumFractionDigits:d});
+async function prices(){
+  try{
+    const r=await fetch('https://data-api.binance.vision/api/v3/ticker/24hr?symbols=%5B%22BTCUSDT%22,%22ZECUSDT%22%5D',{cache:'no-store'});
+    for(const t of await r.json()){
+      const el=document.getElementById(t.symbol);if(!el)continue;
+      const p=+t.lastPrice,c=+t.priceChangePercent;
+      el.querySelector('span').textContent='$'+fmt(p,p>=10000?0:2);
+      const i=el.querySelector('i');i.textContent=(c>=0?'▲ +':'▼ ')+c.toFixed(1)+'%';i.className=c>=0?'up':'down';
+    }
+  }catch(e){document.querySelectorAll('.markets i').forEach(i=>{i.textContent='offline';i.previousElementSibling.textContent='—'})}
+}
+prices();setInterval(prices,60000);
+const m=document.querySelector('main');let z=1;try{z=+localStorage.getItem('postZoom')||1}catch(e){}
+const zoom=d=>{z=Math.min(1.5,Math.max(.85,+(z+d).toFixed(2)));m.style.zoom=z;try{localStorage.setItem('postZoom',z)}catch(e){}};zoom(0);
+document.getElementById('zin')?.addEventListener('click',()=>zoom(.1));document.getElementById('zout')?.addEventListener('click',()=>zoom(-.1));
+const btn=document.getElementById('listen');
+btn&&btn.addEventListener('click',()=>{
+  const s=window.speechSynthesis;if(!s)return;
+  if(s.speaking){s.cancel();btn.textContent='▶ Listen';return}
+  const u=new SpeechSynthesisUtterance(document.getElementById('spoken').textContent);
+  const v=s.getVoices().find(v=>v.lang==='en-GB');if(v)u.voice=v;u.lang='en-GB';
+  u.onend=()=>btn.textContent='▶ Listen';btn.textContent='■ Stop';s.speak(u);
+});
+</script></body></html>
