@@ -1,5 +1,95 @@
 [
 {
+"id": "9aa2110251c88474",
+"title": "Bitcoin miners were hijacked and their BTC rewards redirected to an attacker",
+"link": "https://www.coindesk.com/tech/2026/11/16/bitcoin-miners-were-hijacked-and-their-btc-rewards-redirected-to-an-attacker",
+"published": "2026-11-16T07:51:15Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-16T07:54:54Z"
+},
+{
+"id": "a8755514927dd993",
+"title": "Cardano holders vote down $5 million bid to buy warehouse copper",
+"link": "https://www.coindesk.com/markets/2026/11/16/cardano-holders-vote-down-usd5-million-bid-to-buy-warehouse-copper",
+"published": "2026-11-16T06:27:42Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-16T07:54:54Z"
+},
+{
+"id": "390de9b30a2ccd83",
+"title": "Trump administration to name Nvidia, OpenAI and several others as AI national champions",
+"link": "https://www.coindesk.com/markets/2026/11/16/trump-administration-to-name-nvidia-openai-and-several-others-as-u-s-ai-national-champions",
+"published": "2026-11-16T06:01:41Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-16T07:54:54Z"
+},
+{
+"id": "bb6fe9df2eb49986",
+"title": "Aster CEO suspects foul play after token plunges 32% in minutes",
+"link": "https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-16T05:28:40Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-16T07:54:54Z"
+},
+{
+"id": "ec7074e20c516c8d",
+"title": "Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000",
+"link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000",
+"published": "2026-11-16T05:01:17Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-16T07:54:54Z"
+},
+{
+"id": "ae11bd5b5feb8086",
+"title": "Asian chip stocks tumble ahead of Nvidia Q3 earnings",
+"link": "https://cointelegraph.com/markets/asian-chip-stocks-tumble-ahead-of-nvidia-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-16T04:42:07Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-16T07:54:54Z"
+},
+{
+"id": "eab4f4b94114c73b",
+"title": "Luxor hit by AI-enabled attack that redirected client hashrate, says vulnerability patched",
+"link": "https://www.theblock.co/news/business/2026-11-15-luxor-attack-client-hashrate-440810",
+"published": "2026-11-16T04:35:34Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-16T07:54:54Z"
+},
+{
+"id": "f8a2faf6cafa0b71",
+"title": "Luxor CEO warns of AI ‘dark forest’ following Bitcoin miner hijack",
+"link": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-16T02:33:07Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-16T07:54:54Z"
+},
+{
+"id": "7733ea25ed7e7e5a",
+"title": "Forced Shielding and Slow t-to-t is Costing Us Zillions",
+"link": "https://forum.zcashcommunity.com/t/forced-shielding-and-slow-t-to-t-is-costing-us-zillions/59337",
+"published": "2026-11-16T01:31:22Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-16T07:54:54Z"
+},
+{
 "id": "0c91c485d1ddcb31",
 "title": "Jensen Huang weighs Nvidia comeback days after shock exit: FT",
 "link": "https://cointelegraph.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -128,6 +218,16 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-15T08:25:52Z"
+},
+{
+"id": "eb6b4e9ad5b2995c",
+"title": "Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs",
+"link": "https://www.coindesk.com/policy/2026/11/14/changing-of-lagarde-how-the-candidates-to-be-next-ecb-president-view-bitcoin-stablecoins-and-cbdcs",
+"published": "2026-11-15T07:00:00Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-16T07:54:54Z"
 },
 {
 "id": "0379a2dfbd751fa4",
@@ -898,6 +998,16 @@
 "desk": "ZEC",
 "kind": "community",
 "first_seen": "2026-11-13T17:09:38Z"
+},
+{
+"id": "03c4e70a926f58e6",
+"title": "ZODL's Slipstream Makes Zcash Wallet Sync ~21x Faster in Unstoppable Wallet",
+"link": "https://forum.zcashcommunity.com/t/zodls-slipstream-makes-zcash-wallet-sync-21x-faster-in-unstoppable-wallet/59281",
+"published": "2026-11-13T13:22:23Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-16T07:54:54Z"
 },
 {
 "id": "7ba8fa21cfb4a018",
@@ -5158,50 +5268,6 @@
 "desk": "ZEC",
 "kind": "community",
 "first_seen": "2026-11-09T08:54:01Z",
-"backfill": true
-},
-{
-"id": "d0ad5e405bbbab89",
-"title": "ZIP: The Zcash Town Square",
-"link": "https://forum.zcashcommunity.com/t/zip-the-zcash-town-square/59049",
-"published": "2026-11-09T01:18:45Z",
-"source": "Zcash Community Forum",
-"desk": "ZEC",
-"kind": "community",
-"first_seen": "2026-11-09T01:18:45Z",
-"backfill": true
-},
-{
-"id": "7e3d1f3974f41413",
-"title": "ZIP: Establish the ZCG Treasury Committee",
-"link": "https://forum.zcashcommunity.com/t/zip-establish-the-zcg-treasury-committee/59048",
-"published": "2026-11-09T01:11:41Z",
-"source": "Zcash Community Forum",
-"desk": "ZEC",
-"kind": "community",
-"first_seen": "2026-11-09T01:11:41Z",
-"backfill": true
-},
-{
-"id": "f7a1c424056a916b",
-"title": "ZIP: Expand ZCG to Seven Seats, Adjust Limits",
-"link": "https://forum.zcashcommunity.com/t/zip-expand-zcg-to-seven-seats-adjust-limits/59047",
-"published": "2026-11-09T01:07:00Z",
-"source": "Zcash Community Forum",
-"desk": "ZEC",
-"kind": "community",
-"first_seen": "2026-11-09T01:07:00Z",
-"backfill": true
-},
-{
-"id": "92c96cd012742c91",
-"title": "ZIP: Restriction of ZCG Member Grant Applications",
-"link": "https://forum.zcashcommunity.com/t/zip-restriction-of-zcg-member-grant-applications/59046",
-"published": "2026-11-09T00:59:48Z",
-"source": "Zcash Community Forum",
-"desk": "ZEC",
-"kind": "community",
-"first_seen": "2026-11-09T00:59:48Z",
 "backfill": true
 },
 {
