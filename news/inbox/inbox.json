@@ -1,5 +1,35 @@
 [
 {
+"id": "0c91c485d1ddcb31",
+"title": "Jensen Huang weighs Nvidia comeback days after shock exit: FT",
+"link": "https://cointelegraph.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-15T23:47:45Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-16T00:57:54Z"
+},
+{
+"id": "568fb5b209f18932",
+"title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest",
+"link": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-15T22:50:59Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-16T00:57:54Z"
+},
+{
+"id": "f0c503625d169864",
+"title": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
+"link": "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807",
+"published": "2026-11-15T21:57:53Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-16T00:57:54Z"
+},
+{
 "id": "78d292d3bc01b214",
 "title": "Traders claim $6 million profit by spotting BitGo’s public pull request and frontrunning memecoin listing",
 "link": "https://www.theblock.co/news/defi/2026-11-15-traders-claim-6-million-profit-by-spotting-bitgos-public-pull-request-and-frontrunning-memecoin-listing-440363",
@@ -5172,50 +5202,6 @@
 "desk": "ZEC",
 "kind": "community",
 "first_seen": "2026-11-09T00:59:48Z",
-"backfill": true
-},
-{
-"id": "4388bc3cdcb9d5f6",
-"title": "ZIP: Minimum Human Participation in Coinholder Votes",
-"link": "https://forum.zcashcommunity.com/t/zip-minimum-human-participation-in-coinholder-votes/59045",
-"published": "2026-11-09T00:54:16Z",
-"source": "Zcash Community Forum",
-"desk": "ZEC",
-"kind": "community",
-"first_seen": "2026-11-09T00:54:16Z",
-"backfill": true
-},
-{
-"id": "70fca971d2079b60",
-"title": "ZIP: Raise the Coinholder Vote Threshold",
-"link": "https://forum.zcashcommunity.com/t/zip-raise-the-coinholder-vote-threshold/59044",
-"published": "2026-11-09T00:41:23Z",
-"source": "Zcash Community Forum",
-"desk": "ZEC",
-"kind": "community",
-"first_seen": "2026-11-09T00:41:23Z",
-"backfill": true
-},
-{
-"id": "5e16d968efbf689f",
-"title": "Zingo 2026 - 2028",
-"link": "https://forum.zcashcommunity.com/t/zingo-2026-2028/59043",
-"published": "2026-11-09T00:14:12Z",
-"source": "Zcash Community Forum",
-"desk": "ZEC",
-"kind": "community",
-"first_seen": "2026-11-09T00:14:12Z",
-"backfill": true
-},
-{
-"id": "572aa1e21f80e6d1",
-"title": "Veylor: A New Zcash Wallet with a Shielded Atomic Bridge",
-"link": "https://forum.zcashcommunity.com/t/veylor-a-new-zcash-wallet-with-a-shielded-atomic-bridge/59040",
-"published": "2026-11-08T23:32:50Z",
-"source": "Zcash Community Forum",
-"desk": "ZEC",
-"kind": "community",
-"first_seen": "2026-11-08T23:32:50Z",
 "backfill": true
 },
 {
