@@ -1,5 +1,35 @@
 [
 {
+"id": "85257f2810da867b",
+"title": "NU 7.1 Poll",
+"link": "https://forum.zcashcommunity.com/t/nu-7-1-poll/59384",
+"published": "2026-11-17T14:07:09Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-17T14:07:10Z"
+},
+{
+"id": "88469f2821c7db2c",
+"title": "Bitwise launches ZDAY, its first non-crypto ETF, to bet on AI cyber defense",
+"link": "https://www.theblock.co/news/markets/2026-11-17-bitwise-zday-ai-cyber-defense-etf-442062",
+"published": "2026-11-17T14:00:00Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T14:07:10Z"
+},
+{
+"id": "bb75eb1b225bb349",
+"title": "Bernstein sees upside for bitcoin miners Riot and TeraWulf, citing discounts to implied AI data center values",
+"link": "https://www.theblock.co/news/markets/2026-11-17-bernstein-sees-upside-for-bitcoin-miners-riot-and-terawulf-citing-discounts-to-implied-ai-data-center-values-442125",
+"published": "2026-11-17T13:56:18Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T14:07:10Z"
+},
+{
 "id": "59381d6884ed757e",
 "title": "Bitcoin to $1M by 2030? ‘Almost certainly not,’ says Dragonfly’s Qureshi",
 "link": "https://cointelegraph.com/magazine/bitcoin-to-1m-by-2030-almost-certainly-not-says-dragonflys-qureshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -388,6 +418,16 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-17T09:37:10Z"
+},
+{
+"id": "b431ea497743c593",
+"title": "Here’s what happened in crypto today",
+"link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-17T06:00:00Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T14:07:10Z"
 },
 {
 "id": "e5a5758d6a16ec0a",
@@ -5773,72 +5813,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-10T14:26:02Z",
-"backfill": true
-},
-{
-"id": "fd84a91e24158f03",
-"title": "Anthropic Sets IPO Price Range at $70 to $78, Valuing Company at Up to $1.4 Trillion",
-"link": "https://decrypt.co/382939/anthropic-sets-ipo-price-range-at-70-to-78-valuing-company-at-up-to-1-4-trillion",
-"published": "2026-11-10T14:06:02Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T14:06:02Z",
-"backfill": true
-},
-{
-"id": "fa00fd363fc4f6cd",
-"title": "Moody’s Taps Chainlink to Send Credit Ratings Across Multiple Blockchains",
-"link": "https://decrypt.co/382888/moodys-chainlink-credit-ratings-across-multiple-blockchains",
-"published": "2026-11-10T14:01:02Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T14:01:02Z",
-"backfill": true
-},
-{
-"id": "471f40ca2d7a23f0",
-"title": "Visa adds Monad to stablecoin settlement network options",
-"link": "https://www.theblock.co/news/ecosystems/2026-11-10-visa-monad-stablecoin-settlement-network-437201",
-"published": "2026-11-10T14:00:02Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T14:00:02Z",
-"backfill": true
-},
-{
-"id": "3e79b60e245430e8",
-"title": "Will stablecoins survive once the banks catch up?",
-"link": "https://www.coindesk.com/opinion/2026/11/10/will-stablecoins-survive-once-the-banks-catch-up",
-"published": "2026-11-10T14:00:00Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T14:00:00Z",
-"backfill": true
-},
-{
-"id": "ebdcf952b797ca2d",
-"title": "eToro’s Q3 profit plunges 74% as weaker crypto trading weighs on earnings",
-"link": "https://www.theblock.co/news/business/2026-11-10-etoros-q3-profit-plunges-74-as-weaker-crypto-trading-weighs-on-earnings-437192",
-"published": "2026-11-10T13:44:35Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T13:44:35Z",
-"backfill": true
-},
-{
-"id": "bb0fd00e2121f24d",
-"title": "Poland’s lower house backs sanctions bill covering crypto freezes",
-"link": "https://cointelegraph.com/news/poland-bill-freeze-sanctions-crypto-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-10T13:40:39Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T13:40:39Z",
 "backfill": true
 },
 {
