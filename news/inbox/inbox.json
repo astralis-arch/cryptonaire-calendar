@@ -1,5 +1,25 @@
 [
 {
+"id": "1952ad70304b9ba6",
+"title": "Maple Finance CEO targets up to $15B in assets by the end of 2027",
+"link": "https://cointelegraph.com/news/maple-finance-15b-assets-target-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-17T21:56:35Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T22:07:09Z"
+},
+{
+"id": "7b2de7abb68ef28b",
+"title": "OpenAI's GPT 6.2 Astra Challenges Anthropic on Price, But Not Every Benchmark",
+"link": "https://decrypt.co/383488/openai-gpt-6-2-astra-challenges-anthropic-price-but-not-every-benchmark",
+"published": "2026-11-17T21:46:02Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T22:07:09Z"
+},
+{
 "id": "f4fb60cc37868744",
 "title": "Nvidia tops estimates, issues strong guidance; shares rise",
 "link": "https://www.coindesk.com/markets/2026/11/17/nvidia-tops-estimates-issues-strong-guidance-adds-usd150-billion-to-buyback-authorization",
@@ -1008,6 +1028,16 @@
 "desk": "ZEC",
 "kind": "community",
 "first_seen": "2026-11-17T02:04:19Z"
+},
+{
+"id": "9619fd0641e4c940",
+"title": "Bitcoin Optech Newsletter #431 Recap Podcast",
+"link": "https://bitcoinops.org/en/podcast/2026/11/17/",
+"published": "2026-11-17T00:00:00Z",
+"source": "Bitcoin Optech",
+"desk": "Protocol",
+"kind": "protocol",
+"first_seen": "2026-11-17T22:07:09Z"
 },
 {
 "id": "72f276c22ec3f8f7",
