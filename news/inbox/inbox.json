@@ -1,5 +1,175 @@
 [
 {
+"id": "9b80dc57527a96d0",
+"title": "What we’re learning from firms engaging with our innovation services",
+"link": "https://www.fca.org.uk/news/blogs/what-were-learning-firms-engaging-our-innovation-services",
+"published": null,
+"source": "FCA",
+"desk": "UK",
+"kind": "official",
+"first_seen": "2026-11-17T09:37:10Z"
+},
+{
+"id": "08e8b47c983603c6",
+"title": "US judge clears brothers in $25M Ethereum MEV case after mistrial",
+"link": "https://cointelegraph.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-17T09:30:05Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T09:37:10Z"
+},
+{
+"id": "f704dd92d69e7507",
+"title": "Judge Acquits MIT Brothers in $25M Ethereum MEV Case, Ending Prosecution",
+"link": "https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution",
+"published": "2026-11-17T09:27:29Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T09:37:10Z"
+},
+{
+"id": "64e1acdfe314ba60",
+"title": "Binance hacker moves $63 million in stolen ether after 2 weeks of silence",
+"link": "https://www.coindesk.com/business/2026/11/17/binance-hacker-moves-usd63-million-in-stolen-ether-after-two-weeks-of-silence",
+"published": "2026-11-17T09:21:19Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T09:37:10Z"
+},
+{
+"id": "c4b947c195ab2aec",
+"title": "Goldman Sachs reports $1.22B in Ether ETFs as ETHA share count jumps",
+"link": "https://cointelegraph.com/news/goldman-sachs-reports-122b-ether-etfs-etha-shares-jumps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-17T09:08:32Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T09:37:10Z"
+},
+{
+"id": "c61d25641ccdf426",
+"title": "Solana Foundation Backs CoinGecko as Crypto Data Giant Eyes Trading",
+"link": "https://decrypt.co/383401/solana-foundation-backs-coingecko-eyes-trading",
+"published": "2026-11-17T09:01:03Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T09:37:10Z"
+},
+{
+"id": "6ef43831e84e522b",
+"title": "Grayscale says crypto pullback offers ‘compelling entry points’ as bitcoin falls to $64,000",
+"link": "https://www.theblock.co/news/markets/2026-11-17-grayscale-compelling-entry-points-bitcoin-442083",
+"published": "2026-11-17T07:39:17Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T09:37:10Z"
+},
+{
+"id": "df6e54f27c61c3f4",
+"title": "Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says",
+"link": "https://www.coindesk.com/markets/2026/11/17/bitcoin-could-slide-into-the-usd50-000s-as-fed-rate-hike-bets-build-wintermute-says",
+"published": "2026-11-17T07:38:07Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T09:37:10Z"
+},
+{
+"id": "7dbbc41db2fbcc41",
+"title": "Cardano Foundation seeks $5 million from treasury using ADA price 33% above market",
+"link": "https://www.coindesk.com/tech/2026/11/17/cardano-foundation-seeks-usd5-million-from-treasury-using-ada-price-33-above-market",
+"published": "2026-11-17T06:54:49Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T09:37:10Z"
+},
+{
+"id": "a90c867fecae01f5",
+"title": "Ex-Robinhood engineer pleads guilty to $125K Hyperliquid trading scheme",
+"link": "https://cointelegraph.com/news/ex-robinhood-engineer-pleads-guilty-125k-crypto-trading-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-17T06:35:19Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T09:37:10Z"
+},
+{
+"id": "ba4a716fd58a4e47",
+"title": "Cathie Wood’s Ark Invest loads up on crypto stocks while selling $85 million in Nvidia",
+"link": "https://www.theblock.co/news/business/2026-11-17-ark-invest-buys-crypto-stocks-sells-nvidia-442080",
+"published": "2026-11-17T06:35:02Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T09:37:10Z"
+},
+{
+"id": "e5a5758d6a16ec0a",
+"title": "CZ denies Binance sold crypto, Bitwise sees Solana at $1,100 by 2031, and more",
+"link": "https://www.theblock.co/newsletters/the-daily/2026-11-17-cz-binance-bitwise-solana-more-crypto-news-441584",
+"published": "2026-11-17T05:45:00Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T09:37:10Z"
+},
+{
+"id": "cf2ac92fc18a01a0",
+"title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
+"link": "https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion",
+"published": "2026-11-17T05:37:23Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T09:37:10Z"
+},
+{
+"id": "6742f9b5d8e6af5f",
+"title": "Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60%",
+"link": "https://www.coindesk.com/markets/2026/11/17/ripple-backed-evernorth-has-written-down-its-pre-listing-xrp-holdings-by-60",
+"published": "2026-11-17T05:02:05Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T09:37:10Z"
+},
+{
+"id": "bc03ca1d7950bc11",
+"title": "Nozy Wallet TestFlight",
+"link": "https://forum.zcashcommunity.com/t/nozy-wallet-testflight/59372",
+"published": "2026-11-17T04:50:43Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-17T09:37:10Z"
+},
+{
+"id": "7737a7b3ac00b037",
+"title": "Trezor customer data exposed in 3rd partner breach this year",
+"link": "https://cointelegraph.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-17T03:46:22Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T09:37:10Z"
+},
+{
+"id": "2973955911282f20",
+"title": "Noir Wallet V2 Private Beta Live",
+"link": "https://forum.zcashcommunity.com/t/noir-wallet-v2-private-beta-live/59371",
+"published": "2026-11-17T03:08:43Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-17T09:37:10Z"
+},
+{
 "id": "fcfd878872939078",
 "title": "Delaying NSM reissuance to the 7th halving",
 "link": "https://forum.zcashcommunity.com/t/delaying-nsm-reissuance-to-the-7th-halving/59370",
@@ -5668,204 +5838,6 @@
 "backfill": true
 },
 {
-"id": "9cfbd20f3a01cbb0",
-"title": "Walt launches standalone crypto trading app following Wallet in Telegram rebrand",
-"link": "https://www.theblock.co/news/ecosystems/2026-11-10-walt-standalone-crypto-trading-app-436981",
-"published": "2026-11-10T09:30:00Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T09:30:00Z",
-"backfill": true
-},
-{
-"id": "dc219a194b56cbb2",
-"title": "Coinbase, Kalshi, Kraken parent back CFTC in legal fight over stock perpetual futures",
-"link": "https://www.coindesk.com/policy/2026/11/10/coinbase-kalshi-kraken-parent-back-cftc-in-legal-fight-over-stock-perpetual-futures",
-"published": "2026-11-10T09:14:30Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T09:14:30Z",
-"backfill": true
-},
-{
-"id": "720b5b97e9ad29bf",
-"title": "BitGo Q3 profit nearly doubles on crypto gains as revenue falls 51%",
-"link": "https://cointelegraph.com/news/bitgo-q3-2026-earnings-crypto-treasury-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-10T09:05:16Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T09:05:16Z",
-"backfill": true
-},
-{
-"id": "8cdfc14340a44d52",
-"title": "Waller, The Economic Outlook and Some Thoughts on Labor Market Dynamism",
-"link": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
-"published": "2026-11-10T09:00:00Z",
-"source": "Federal Reserve (speeches)",
-"desk": "Macro",
-"kind": "official",
-"first_seen": "2026-11-10T09:00:00Z",
-"backfill": true
-},
-{
-"id": "980219d6c6308880",
-"title": "BitGo revenue falls 51% in Q3 as trading slows; net income rises on treasury gains",
-"link": "https://www.theblock.co/news/business/2026-11-10-bitgo-revenue-falls-q3-436986",
-"published": "2026-11-10T08:20:53Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T08:20:53Z",
-"backfill": true
-},
-{
-"id": "91aac3c640f34794",
-"title": "Grant Application — Mock lightwalletd for Zcash wallet testing",
-"link": "https://forum.zcashcommunity.com/t/grant-application-mock-lightwalletd-for-zcash-wallet-testing/59134",
-"published": "2026-11-10T08:02:43Z",
-"source": "Zcash Community Forum",
-"desk": "ZEC",
-"kind": "community",
-"first_seen": "2026-11-10T08:02:43Z",
-"backfill": true
-},
-{
-"id": "7b6e2c72828331b4",
-"title": "BlackRock Bitcoin ETF outflows hit $1.66B over seven trading sessions",
-"link": "https://cointelegraph.com/markets/blackrock-ibit-bitcoin-etf-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-10T08:02:05Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T08:02:05Z",
-"backfill": true
-},
-{
-"id": "9d27c2da47ff1ed9",
-"title": "Voting, itself, is a moral hazard. It should not be the way decisions are made",
-"link": "https://forum.zcashcommunity.com/t/voting-itself-is-a-moral-hazard-it-should-not-be-the-way-decisions-are-made/59133",
-"published": "2026-11-10T07:58:31Z",
-"source": "Zcash Community Forum",
-"desk": "ZEC",
-"kind": "community",
-"first_seen": "2026-11-10T07:58:31Z",
-"backfill": true
-},
-{
-"id": "89567e27ed9c72d0",
-"title": "Securitize agrees to buy River One to expand into asset-backed lending",
-"link": "https://cointelegraph.com/news/securitize-river-one-asset-backed-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-10T07:49:14Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T07:49:14Z",
-"backfill": true
-},
-{
-"id": "dfccb205263fb36f",
-"title": "An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes",
-"link": "https://www.coindesk.com/tech/2026/11/10/an-11-year-old-ethereum-wallet-moved-usd4-6-million-and-dodged-a-scam-set-up-in-minutes",
-"published": "2026-11-10T07:01:06Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T07:01:06Z",
-"backfill": true
-},
-{
-"id": "e5cd4fe620e1c180",
-"title": "Coinbase, Kalshi and Payward backs CFTC in lawsuit over single-stock perp futures",
-"link": "https://www.theblock.co/news/regulation/2026-11-10-coinbase-kalshi-payward-back-cftc-perps-436971",
-"published": "2026-11-10T06:19:10Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T06:19:10Z",
-"backfill": true
-},
-{
-"id": "b225417e8fef36be",
-"title": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
-"link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more",
-"published": "2026-11-10T05:18:31Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T05:18:31Z",
-"backfill": true
-},
-{
-"id": "e14b7ac2a0b47efe",
-"title": "Crypto exchanges need hard dollar caps on hot wallets, CertiK says",
-"link": "https://cointelegraph.com/news/crypto-exchanges-need-dollar-caps-on-hot-wallets-certik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-10T05:05:58Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T05:05:58Z",
-"backfill": true
-},
-{
-"id": "ae5ed6e3d8ef162f",
-"title": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users",
-"link": "https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users",
-"published": "2026-11-10T04:51:20Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T04:51:20Z",
-"backfill": true
-},
-{
-"id": "42e553c9b1f98e3f",
-"title": "Trump Media swings to $410 million profit in Q3, driven by crypto gains",
-"link": "https://www.theblock.co/news/business/2026-11-09-trump-media-q3-profit-436964",
-"published": "2026-11-10T03:36:43Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T03:36:43Z",
-"backfill": true
-},
-{
-"id": "99015e0685547724",
-"title": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
-"link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough",
-"published": "2026-11-10T03:22:26Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T03:22:26Z",
-"backfill": true
-},
-{
-"id": "79f8b1231c826d2f",
-"title": "OpenAI builds kill switch to stop rogue agents within 35 seconds",
-"link": "https://cointelegraph.com/news/openai-builds-kill-switch-stop-rogue-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-10T03:04:54Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T03:04:54Z",
-"backfill": true
-},
-{
-"id": "424ef014129a0b98",
-"title": "Securitize shares surge 12% in after-hours trading on Q3 results and River One acquisition agreement",
-"link": "https://www.theblock.co/news/business/2026-11-09-securitize-shares-surge-river-one-436955",
-"published": "2026-11-10T02:13:07Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T02:13:07Z",
-"backfill": true
-},
-{
 "id": "de3144e9ce900fd2",
 "title": "Bitcoin Optech Newsletter #430 Recap Podcast",
 "link": "https://bitcoinops.org/en/podcast/2026/11/10/",
@@ -5874,6 +5846,16 @@
 "desk": "Protocol",
 "kind": "protocol",
 "first_seen": "2026-11-11T00:53:10Z"
+},
+{
+"id": "6e4cb5ab08bc01e5",
+"title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+"link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
+"published": "2026-11-09T21:00:00Z",
+"source": "Federal Reserve (press)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-17T09:37:10Z"
 },
 {
 "id": "523fcaffe803342d",
