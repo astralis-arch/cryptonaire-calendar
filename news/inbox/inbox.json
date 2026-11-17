@@ -1,5 +1,25 @@
 [
 {
+"id": "f715bf7c56e79175",
+"title": "Jensen Huang Says He'd Be 'Honored' to Return as Nvidia CEO, Despite Board's Resistance",
+"link": "https://decrypt.co/383454/jensen-huang-honored-return-nvidia-ceo-board-resistance",
+"published": "2026-11-17T18:23:43Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T18:37:10Z"
+},
+{
+"id": "bca8da3ccea4891f",
+"title": "Situational Awareness Dumps Bitcoin Miners After Citadel Sale",
+"link": "https://bitcoinmagazine.com/news/aschenbrenner-fund-dumps-bitcoin-miners",
+"published": "2026-11-17T18:15:00Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-17T18:37:10Z"
+},
+{
 "id": "975ce675e1e92401",
 "title": "Coinbase expands onchain crypto loans to New York via Morpho",
 "link": "https://www.theblock.co/news/business/2026-11-17-coinbase-borrow-new-york-morpho-442842",
@@ -5785,28 +5805,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-10T19:16:02Z",
-"backfill": true
-},
-{
-"id": "37879de0614c7a02",
-"title": "Goldman, Citi and Global Banks Commit $270 Million to Challenge Crypto’s Stablecoin Giants",
-"link": "https://decrypt.co/382953/goldman-citi-global-banks-270-million-challenge-crypto-stablecoin-giants",
-"published": "2026-11-10T18:33:37Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T18:33:37Z",
-"backfill": true
-},
-{
-"id": "71459e4ca9608de9",
-"title": "Mercado Bitcoin to resume cash withdrawals after $49M hack",
-"link": "https://cointelegraph.com/news/pix-withdrawals-resume-mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-10T18:12:07Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T18:12:07Z",
 "backfill": true
 },
 {
