@@ -1,5 +1,15 @@
 [
 {
+"id": "312df51b133b14b2",
+"title": "Binance Hack Wallets Move $137 Million in Ethereum After Two Weeks of Silence",
+"link": "https://decrypt.co/383446/binance-hack-wallets-move-ethereum-after-two-weeks",
+"published": "2026-11-17T17:18:41Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T17:37:11Z"
+},
+{
 "id": "27483e25e4975db9",
 "title": "U.S. Fed Governor Waller pitches keeping central bank at the center of tokenization",
 "link": "https://www.coindesk.com/policy/2026/11/17/u-s-fed-governor-waller-pitches-keeping-central-bank-at-the-center-of-tokenization",
@@ -5748,72 +5758,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-10T17:52:14Z",
-"backfill": true
-},
-{
-"id": "5fc865e5da2f1280",
-"title": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
-"link": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture",
-"published": "2026-11-10T17:32:22Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T17:32:22Z",
-"backfill": true
-},
-{
-"id": "134bde30d64e0541",
-"title": "Hot US inflation raises odds of half-point Fed hike in December",
-"link": "https://cointelegraph.com/news/hot-us-inflation-raises-rate-hike-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-10T17:31:09Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T17:31:09Z",
-"backfill": true
-},
-{
-"id": "6098557df8048823",
-"title": "TON Strategy earns $13.1 million from GRAM staking in Q3 as Telegram rolls out native wallet",
-"link": "https://www.theblock.co/news/markets/2026-11-10-ton-strategy-tonx-q3-2026-earnings-gram-staking-437278",
-"published": "2026-11-10T17:24:44Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T17:24:44Z",
-"backfill": true
-},
-{
-"id": "21408554e017e3d3",
-"title": "Canaan (CAN) Swings to an $8 Million Profit on Bitcoin Gains as Rig Sales Collapse 96%",
-"link": "https://bitcoinmagazine.com/news/canaan-can-swings-8-million-profit",
-"published": "2026-11-10T17:15:25Z",
-"source": "Bitcoin Magazine",
-"desk": "BTC",
-"kind": "news",
-"first_seen": "2026-11-10T17:15:25Z",
-"backfill": true
-},
-{
-"id": "97f4b9e94fce248a",
-"title": "Polymarket US trading volume jumps 266% despite regulatory battles",
-"link": "https://cointelegraph.com/news/polymarket-us-trading-volume-jumps-regulatory-battles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-10T17:07:48Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T17:07:48Z",
-"backfill": true
-},
-{
-"id": "fe56b2414ff435e1",
-"title": "Crypto is now teamed up with U.S. government in two legal battles over perps",
-"link": "https://www.coindesk.com/news-analysis/2026/11/10/crypto-teams-up-with-u-s-government-to-defend-stock-perps-in-legal-fight",
-"published": "2026-11-10T17:07:22Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T17:07:22Z",
 "backfill": true
 },
 {
