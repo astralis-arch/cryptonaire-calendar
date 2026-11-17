@@ -1,0 +1,93 @@
+{
+  "generated": "2026-11-17T16:33:00Z",
+  "mood": "risk-off",
+  "briefing": {
+    "developments": [
+      "US stocks fell again before Nvidia's results, with the Nasdaq down about 1.8% and the Dow about 1.3% in the US morning, Yahoo Finance reported, even though October retail sales beat forecasts.",
+      "Bitcoin dipped to about $63,270 on Kraken during the day and traded near $63,800 at 16:30 UK, below Monday's low, while spot bitcoin ETFs took in a net $7.9 million on Monday, ending a seven-day outflow streak, Farside data showed.",
+      "Malicious code planted through testing firm Optimizely ran on 178 websites including HSBC, the BBC and Ledger, swapping crypto wallet addresses that visitors pasted, CoinDesk reported."
+    ],
+    "changed": "Pressure built through the day: bitcoin slipped about $600 further from the morning edition and broke below Monday's low near $63,840, as Wall Street extended its AI sell-off. Zcash went the other way, up to about $935. The ETF outflow streak ended, but only just. Retail sales were not weak enough to soften Fed rate-rise bets.",
+    "question": "Does Nvidia's report tonight stop the tech sell-off, or does bitcoin follow the Nasdaq towards the $50,000s that Wintermute has warned of?",
+    "watch": "Nvidia's results after the US close, about 21:20 UK, then UK CPI at 07:00 UK Wednesday. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
+  },
+  "lead": {
+    "headline": "Bitcoin breaks Monday's low as Wall Street slides before Nvidia",
+    "standfirst": "US shares fell for a second day despite firmer retail sales, and bitcoin slipped to about $63,800 even as ETF outflows paused.",
+    "body": [
+      "Bitcoin fell below Monday's low on Tuesday as the sell-off in technology shares continued on Wall Street ahead of Nvidia's results. It touched about $63,270 on Kraken and traded near $63,800 at 16:30 UK, down from about $64,380 at the morning edition.",
+      "The Nasdaq was down about 1.8%, the S&P 500 about 1.1% and the Dow about 1.3% in US morning trade, Yahoo Finance reported. Nvidia reports after the close, its first results since Jensen Huang resigned as chief executive; analysts expect revenue of about $109 billion.",
+      "US retail sales rose 0.2% in October, slightly above the 0.1% forecast, with September revised up to 0.8%, Yahoo Finance reported. St. Louis Fed President Alberto Musalem called for rate rises sooner, the outlet said. Market maker Wintermute warned that bitcoin could slide into the $50,000s as bets on a December Fed rise build, CoinDesk reported.",
+      "There was some relief in fund flows. US spot bitcoin ETFs took in a net $7.9 million on Monday, ending a seven-day outflow streak, according to Farside Investors data cited by CoinDesk. BlackRock's IBIT drew $76.5 million, while Grayscale's GBTC lost about $34.6 million.",
+      "The Crypto Fear and Greed Index stood at 13, in extreme fear, CoinDesk reported."
+    ]
+  },
+  "headline": "Wall Street extended its tech sell-off before Nvidia and bitcoin broke below Monday's low to about $63,800, despite the first ETF inflow in eight days. Nvidia's results at about 21:20 UK are tonight's test.",
+  "spoken": "Cryptonaire Post, afternoon edition. US shares fell again this afternoon ahead of Nvidia's results, with the Nasdaq down nearly two percent. Bitcoin slipped below Monday's low and is near sixty-three thousand eight hundred dollars. Spot bitcoin funds took in a small net inflow on Monday, ending a seven-day run of outflows. US retail sales came in slightly better than expected, which does little to soften rate-rise bets. Zcash is up at about nine hundred and thirty-five dollars. One warning: hacked code on sites including Ledger swapped pasted wallet addresses, so check any address you paste. Nvidia reports at about twenty past nine tonight, UK time. Information only, not advice.",
+  "stories": [
+    {
+      "section": "BTC", "impact": "🔴", "confidence": "High", "date": "2026-11-17", "status": "Outlook changed",
+      "title": "Bitcoin breaks below Monday's low to about $63,800",
+      "why": "Bitcoin touched about $63,270 on Kraken and traded near $63,800 at 16:30 UK, below Monday's low near $63,840 that the morning edition flagged as the line to watch. Liquidations rose 57% to about $280 million over 24 hours and funding stayed negative on major venues, CoinDesk reported. Wintermute said bitcoin could slide into the $50,000s as Fed rate-rise bets build.",
+      "note": {"horizon": "intraday", "read": "Bitcoin is now trading with tech shares rather than holding apart from them; the break of Monday's low puts the weekend low near $62,000 back in view.", "alt": "Negative funding means many traders are already short, so a decent Nvidia report could spark a quick squeeze higher.", "change": "A recovery back above about $65,000 after Nvidia's results, or a fresh ETF outflow figure for Tuesday."},
+      "sources": [{"name": "Kraken (BTC/USD)", "url": "https://www.kraken.com/prices/bitcoin"}, {"name": "CoinDesk", "url": "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends"}, {"name": "CoinDesk (Wintermute)", "url": "https://www.coindesk.com/markets/2026/11/17/bitcoin-could-slide-into-the-usd50-000s-as-fed-rate-hike-bets-build-wintermute-says"}]
+    },
+    {
+      "section": "Markets", "impact": "🔴", "confidence": "High", "date": "2026-11-17", "status": "Developing",
+      "title": "Wall Street extends AI sell-off before Nvidia results",
+      "why": "The Nasdaq was down about 1.8%, the S&P 500 about 1.1% and the Dow about 1.3% in US morning trade, Yahoo Finance reported, after the Nasdaq lost 2.5% on Monday. Nvidia reports after the close; analysts expect revenue near $109 billion and earnings of $2.47 a share, with interim chief executive Colette Kress hosting the call.",
+      "caveat": "Yahoo Finance's text and live ticker gave different Nasdaq figures (1.8% and 1.1%) during the session.",
+      "note": {"horizon": "intraday", "read": "Investors are cutting AI exposure into the results rather than waiting; bitcoin has been moving with that selling this week.", "alt": "Much of the bad news may now be priced in, so even an in-line report could bring a relief rally.", "change": "Nvidia's guidance tonight and how Nasdaq futures trade in the hour after."},
+      "sources": [{"name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-retail-sales-143848454.html"}, {"name": "CoinDesk", "url": "https://www.coindesk.com/markets/2026/11/17/nvidia-faces-first-earnings-test-without-jensen-huang-as-ai-stocks-slide"}]
+    },
+    {
+      "section": "ETFs", "impact": "🟠", "confidence": "High", "date": "2026-11-16", "status": "Developing",
+      "title": "Spot bitcoin ETFs end seven-day outflow streak, just",
+      "why": "US spot bitcoin ETFs took in a net $7.9 million on Monday, ending seven days of outflows, Farside data cited by CoinDesk showed. BlackRock's IBIT drew $76.5 million, ending an 11-session outflow run that Cointelegraph put at $2.35 billion, while Grayscale's GBTC lost about $34.6 million. Separately, filings showed Wells Fargo and Goldman Sachs more than doubled their bitcoin ETF holdings last quarter.",
+      "note": {"horizon": "swing", "read": "Selling by ETF holders has paused, which removes one source of pressure, but a single small inflow is not a turn.", "alt": "Monday's inflow may be a one-day blip; Tuesday's price fall suggests outflows could resume.", "change": "Several days of net inflows, or a large outflow when Tuesday's figure is published."},
+      "sources": [{"name": "CoinDesk", "url": "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends"}, {"name": "Cointelegraph", "url": "https://cointelegraph.com/markets/blackrock-ibit-outflow-streak-end-extreme-fear"}, {"name": "CoinDesk (Wells Fargo)", "url": "https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion"}]
+    },
+    {
+      "section": "Macro", "impact": "🟠", "confidence": "Medium", "date": "2026-11-17", "status": "Developing",
+      "title": "US retail sales edge past forecasts; Musalem calls for earlier hikes",
+      "why": "October retail sales rose 0.2% against 0.1% expected, and 0.5% excluding autos and gas, with September revised up to 0.8%, Yahoo Finance reported. St. Louis Fed President Musalem called for rate rises sooner. Fed Governor Waller's speech was on tokenised payments and did not touch on rates. The 10-year Treasury yield was about 5.11%.",
+      "sources": [{"name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-retail-sales-143848454.html"}, {"name": "Federal Reserve (Waller speech)", "url": "https://www.federalreserve.gov/newsevents/speech/waller20261117a.htm"}]
+    },
+    {
+      "section": "Beyond", "impact": "🟠", "confidence": "High", "date": "2026-11-17", "status": "New",
+      "title": "Hacked testing code swapped wallet addresses on 178 sites including Ledger",
+      "why": "An attacker abused a flaw in Optimizely's sign-up process on 16 November to plant code on 178 organisations' sites, including HSBC, the BBC, Ledger, IG and Interactive Investor, CoinDesk and Decrypt reported. The code swapped pasted bitcoin and other wallet addresses for the attacker's and skimmed card numbers. Optimizely says it has removed the code. Check every pasted address before sending.",
+      "sources": [{"name": "CoinDesk", "url": "https://www.coindesk.com/tech/2026/11/17/hackers-planted-crypto-stealing-code-on-178-organizations-sites-including-hsbc-bbc-and-ledger"}, {"name": "Decrypt", "url": "https://decrypt.co/383414/optimizely-hack-hijacked-ledger-bbc-and-176-other-sites-to-swap-crypto-wallet-addresses"}]
+    },
+    {
+      "section": "ZEC", "impact": "🟢", "confidence": "High", "date": "2026-11-17", "status": "Developing",
+      "title": "Zcash climbs to about $935 against the market; NU7.1 poll discussion opens",
+      "why": "Zcash traded near $935 on Kraken at 16:30 UK, up from about $915 at the morning edition, after a day range of roughly $880 to $961, rising while bitcoin fell. A forum thread for the community panel's NU7.1 poll on grants funding opened on Tuesday; the poll itself runs to 1 December.",
+      "sources": [{"name": "Kraken (ZEC/USD)", "url": "https://www.kraken.com/prices/zec-zcash-price-chart"}, {"name": "Zcash Community Forum", "url": "https://forum.zcashcommunity.com/t/nu-7-1-poll/59384"}]
+    },
+    {
+      "section": "Policy", "impact": "🟢", "confidence": "Medium", "date": "2026-11-17", "status": "New",
+      "title": "Russia opens bitcoin buying to retail investors",
+      "why": "A Bank of Russia rule took effect on Tuesday letting retail investors buy bitcoin, ether and USDT, capped at 300,000 roubles (about $3,600) a year per intermediary and after a knowledge test, Bitcoin Magazine reported. Organised exchange trading can start from 22 November. A new source of demand, but small for now.",
+      "sources": [{"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/news/russia-retail-bitcoin-buying-starts"}]
+    }
+  ],
+  "explained": {
+    "title": "What negative funding tells you",
+    "body": ["Perpetual futures have no expiry date, so exchanges keep their price close to spot with a funding payment every few hours. When funding is negative, traders betting on a fall pay those betting on a rise, which means short bets are the crowded side.", "CoinDesk reported negative funding on most major venues on Tuesday. Crowded shorts can deepen a fall, but they can also fuel a sharp bounce if price rises and those traders rush to close."]
+  },
+  "investigating": [
+    "Did ETF outflows resume on Tuesday after Monday's small inflow? Evidence: Farside and SoSoValue daily figures, due Wednesday morning UK.",
+    "Why is Zcash rising while bitcoin falls? Evidence: exchange volume data and any news of large buyers such as treasury companies."
+  ],
+  "corrections": [],
+  "ahead": [
+    {"when": "Tue 17 Nov, about 21:20 UK", "impact": "🟠", "what": "Nvidia third-quarter results"},
+    {"when": "Wed 18 Nov 07:00 UK", "impact": "🟢", "what": "UK CPI (October)"},
+    {"when": "Wed 18 Nov 19:00 UK", "impact": "🟢", "what": "FOMC minutes (October meeting)"},
+    {"when": "Wed 18 to Thu 19 Nov", "impact": "🟠", "what": "Anthropic IPO expected to price and begin trading"},
+    {"when": "Sun 22 Nov", "impact": "🟢", "what": "Russian exchanges may begin organised crypto trading"},
+    {"when": "Fri 27 Nov 08:00 UK", "impact": "🟠", "what": "Monthly BTC options and futures expiry"},
+    {"when": "Wed 9 Dec 19:00 UK", "impact": "🔴", "what": "Fed rate decision and projections"}
+  ]
+}
