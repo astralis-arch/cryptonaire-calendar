@@ -1,5 +1,55 @@
 [
 {
+"id": "9fed11a9e36f62c3",
+"title": "Standard Life Chair Wants Tokenized Gilts to Open UK Government Bonds to Retail Savers",
+"link": "https://decrypt.co/383434/standard-life-chair-wants-tokenized-gilts-to-open-uk-government-bonds-to-retail-savers",
+"published": "2026-11-17T15:30:37Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T15:37:16Z"
+},
+{
+"id": "dfe3fce9373cd9bf",
+"title": "Goldman Sachs More Than Doubles Its Bitcoin ETF Holdings to $1.28 Billion",
+"link": "https://bitcoinmagazine.com/news/goldman-sachs-bitcoin-etf-holdings",
+"published": "2026-11-17T15:19:20Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-17T15:37:16Z"
+},
+{
+"id": "7b75af562ffa078d",
+"title": "Bitcoin Policy Institute Renames to Finney Foundation for Open Technology",
+"link": "https://bitcoinmagazine.com/news/bpi-becomes-finney-foundation-open-tech",
+"published": "2026-11-17T15:17:44Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-17T15:37:16Z"
+},
+{
+"id": "49eb880571e00f77",
+"title": "Twenty One Capital (XXI) Buys 154 Bitcoin, Its First Purchase of 2026",
+"link": "https://bitcoinmagazine.com/news/twenty-one-capital-xxi-buys-154-bitcoin",
+"published": "2026-11-17T15:11:12Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-17T15:37:16Z"
+},
+{
+"id": "f52a89b6ad602ad2",
+"title": "Hong Kong, Swift test tokenized deposits as banks chase stablecoin-style speed",
+"link": "https://www.coindesk.com/business/2026/11/17/hong-kong-swift-test-tokenized-deposits-as-banks-chase-stablecoin-style-speed",
+"published": "2026-11-17T15:11:00Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T15:37:16Z"
+},
+{
 "id": "31a5e43a5f3cff59",
 "title": "Russia Lets Everyday Investors Buy Bitcoin Starting Today",
 "link": "https://bitcoinmagazine.com/news/russia-retail-bitcoin-buying-starts",
@@ -5763,28 +5813,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-10T15:49:59Z",
-"backfill": true
-},
-{
-"id": "fe0028a3e3371bcd",
-"title": "Trump Media (DJT) Pledges 73% of Its Bitcoin to an Options Program as $1 Billion Note Deadline Nears",
-"link": "https://bitcoinmagazine.com/news/trump-media-pledges-73-percent-bitcoin",
-"published": "2026-11-10T15:20:00Z",
-"source": "Bitcoin Magazine",
-"desk": "BTC",
-"kind": "news",
-"first_seen": "2026-11-10T15:20:00Z",
-"backfill": true
-},
-{
-"id": "1d2ee96ed4ffc524",
-"title": "Grant Application - zecpy & pyzcash Platform and Multi-Account Hardening",
-"link": "https://forum.zcashcommunity.com/t/grant-application-zecpy-pyzcash-platform-and-multi-account-hardening/59157",
-"published": "2026-11-10T15:17:54Z",
-"source": "Zcash Community Forum",
-"desk": "ZEC",
-"kind": "community",
-"first_seen": "2026-11-10T15:17:54Z",
 "backfill": true
 },
 {
