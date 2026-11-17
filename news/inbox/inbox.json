@@ -1,5 +1,45 @@
 [
 {
+"id": "f8b448376e2279cc",
+"title": "Jito’s Lucas Bruder says crypto builders need to ‘slow down’ and fix security weaknesses",
+"link": "https://www.theblock.co/news/ecosystems/2026-11-17-jito-lucas-bruder-crypto-builders-need-slow-down-fix-security-weaknesses-442850",
+"published": "2026-11-17T19:29:15Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T19:37:10Z"
+},
+{
+"id": "99e668d58486f051",
+"title": "Ethereum Devs Weigh a Scaling Upgrade That Could Break 15,000 Apps",
+"link": "https://decrypt.co/383462/ethereum-devs-scaling-upgrade-could-break-15000-apps",
+"published": "2026-11-17T19:26:02Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T19:37:10Z"
+},
+{
+"id": "7f55f70c30faaf63",
+"title": "Predictions platform Kalshi complies with order to halt Trump mention contracts",
+"link": "https://www.coindesk.com/policy/2026/11/17/predictions-platform-kalshi-complies-with-order-to-halt-trump-mention-contracts",
+"published": "2026-11-17T19:16:00Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T19:37:10Z"
+},
+{
+"id": "dfa61e941a690b0a",
+"title": "Grant Application: MORE-ZEC — shielded settlement rails for the agent economy ($40,000)",
+"link": "https://forum.zcashcommunity.com/t/grant-application-more-zec-shielded-settlement-rails-for-the-agent-economy-40-000/59394",
+"published": "2026-11-17T19:09:03Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-17T19:37:10Z"
+},
+{
 "id": "f715bf7c56e79175",
 "title": "Jensen Huang Says He'd Be 'Honored' to Return as Nvidia CEO, Despite Board's Resistance",
 "link": "https://decrypt.co/383454/jensen-huang-honored-return-nvidia-ceo-board-resistance",
@@ -5783,28 +5823,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-10T19:38:18Z",
-"backfill": true
-},
-{
-"id": "07dcacb87f1b5eb7",
-"title": "Poland’s Parliament Votes 240-202 to Let Officials Freeze Crypto Before Court Review",
-"link": "https://bitcoinmagazine.com/news/poland-votes-240-202-freeze-crypto",
-"published": "2026-11-10T19:20:06Z",
-"source": "Bitcoin Magazine",
-"desk": "BTC",
-"kind": "news",
-"first_seen": "2026-11-10T19:20:06Z",
-"backfill": true
-},
-{
-"id": "5c2e2dee23d90c3a",
-"title": "Grayscale Bets $1 Million on Zcash as Privacy Coin Tumbles",
-"link": "https://decrypt.co/382962/grayscale-bets-1-million-on-zcash-as-privacy-coin-tumbles",
-"published": "2026-11-10T19:16:02Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T19:16:02Z",
 "backfill": true
 },
 {
