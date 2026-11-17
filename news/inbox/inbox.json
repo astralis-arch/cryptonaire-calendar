@@ -1,5 +1,65 @@
 [
 {
+"id": "4f11c6cfd92ae155",
+"title": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
+"link": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
+"published": "2026-11-17T13:02:56Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T13:07:08Z"
+},
+{
+"id": "664d0b263c2dddfa",
+"title": "Decentralized exchange Grvt looks to makes commodity trading more predictable with stable funding perps",
+"link": "https://www.coindesk.com/markets/2026/11/17/decentralized-exchange-grvt-makes-commodity-trading-more-predictable-with-stable-funding-perps",
+"published": "2026-11-17T13:00:00Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T13:07:08Z"
+},
+{
+"id": "c53d0aeabc99ba37",
+"title": "Grvt launches RWA perpetuals with funding tied to traditional markets",
+"link": "https://www.theblock.co/news/ecosystems/2026-11-17-grvt-launches-rwa-perpetuals-with-funding-tied-to-traditional-markets-442089",
+"published": "2026-11-17T13:00:00Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T13:07:08Z"
+},
+{
+"id": "a05f2770eb152f2e",
+"title": "Morning Minute: The CFTC Officially Greenlights Perps in the US, Starting with Backpack",
+"link": "https://decrypt.co/383418/morning-minute-the-cftc-officially-greenlights-perps-in-the-us-starting-with-backpack",
+"published": "2026-11-17T12:56:24Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T13:07:08Z"
+},
+{
+"id": "fb416e51acd1a7e5",
+"title": "'The Biggest Opportunity in Crypto Is Already Underway': Solana Bets Big on AI Agents",
+"link": "https://decrypt.co/383417/the-biggest-opportunity-in-crypto-is-already-underway-solana-bets-big-on-ai-agents",
+"published": "2026-11-17T12:50:55Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T13:07:08Z"
+},
+{
+"id": "6c166ffcdede96b9",
+"title": "From Devcon 8 to the World: bringing Zcash to more builders, investors and community (running log)",
+"link": "https://forum.zcashcommunity.com/t/from-devcon-8-to-the-world-bringing-zcash-to-more-builders-investors-and-community-running-log/59382",
+"published": "2026-11-17T12:44:54Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-17T13:07:08Z"
+},
+{
 "id": "ee31f3f34c75e193",
 "title": "Revolut plans four blockchain-based funds for private markets, chair says",
 "link": "https://cointelegraph.com/news/revolut-four-blockchain-funds-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -5794,28 +5854,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-10T13:15:59Z",
-"backfill": true
-},
-{
-"id": "da4a47f1982677b3",
-"title": "Binance Warns of Apple iOS Flaw That Could Expose iPhone Users' Private Keys",
-"link": "https://decrypt.co/382928/binance-warns-of-apple-ios-flaw-that-could-expose-iphone-users-private-keys",
-"published": "2026-11-10T12:45:34Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T12:45:34Z",
-"backfill": true
-},
-{
-"id": "e270a5f80967b421",
-"title": "Ripple Prime head Marc Asch to step down, Noel Kimmel named successor",
-"link": "https://www.coindesk.com/business/2026/11/09/ripple-prime-head-marc-asch-to-step-down-noel-kimmel-named-successor",
-"published": "2026-11-10T12:38:20Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T12:38:20Z",
 "backfill": true
 },
 {
