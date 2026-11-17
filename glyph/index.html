@@ -192,7 +192,7 @@ async function loadEtf(){
 }
 function openLiq(coin){
   try{ws&&ws.close()}catch(e){}liq={};
-  try{ws=new WebSocket(`wss://fstream.binance.com/ws/${coin.sym.toLowerCase()}@forceOrder`);
+  try{ws=new WebSocket(`wss://fstream.binance.com/market/ws/${coin.sym.toLowerCase()}@forceOrder`);
     ws.onmessage=e=>{try{const o=JSON.parse(e.data).o,hr=Math.floor(o.T/3600e3)*3600e3,usd=+o.q*+o.ap,b=liq[hr]||(liq[hr]={L:0,S:0});if(o.S==="SELL")b.L+=usd;else b.S+=usd;if(mode==="live")render()}catch(_){}}}catch(e){}
 }
 
