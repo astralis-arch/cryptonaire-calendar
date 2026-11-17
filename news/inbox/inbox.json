@@ -1,5 +1,25 @@
 [
 {
+"id": "2dab591e8ff9d1e6",
+"title": "Cathie Wood's ARK Sells $85 Million in Nvidia, Buys $40 Million in Crypto Stocks",
+"link": "https://decrypt.co/383463/cathie-wood-ark-sells-85-million-nvidia-buys-crypto-stocks",
+"published": "2026-11-17T19:46:03Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T19:47:50Z"
+},
+{
+"id": "cb9e5e1e82d957fd",
+"title": "Coinbase CEO says AI agents will account for '99.9%' of transactions within a decade",
+"link": "https://www.coindesk.com/markets/2026/11/17/coinbase-ceo-says-ai-agents-will-account-for-99-9-of-transactions-within-a-decade",
+"published": "2026-11-17T19:45:57Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T19:47:50Z"
+},
+{
 "id": "f8b448376e2279cc",
 "title": "Jito’s Lucas Bruder says crypto builders need to ‘slow down’ and fix security weaknesses",
 "link": "https://www.theblock.co/news/ecosystems/2026-11-17-jito-lucas-bruder-crypto-builders-need-slow-down-fix-security-weaknesses-442850",
@@ -5802,28 +5822,6 @@
 "desk": "BTC",
 "kind": "news",
 "first_seen": "2026-11-10T20:15:02Z"
-},
-{
-"id": "22405558269b28f2",
-"title": "Elon Musk Calls Claude Opus 5.5 a 'Masterpiece', Admits Grok 4.8 Won't Match It",
-"link": "https://decrypt.co/382956/elon-musk-calls-claude-opus-5-5-masterpiece-grok-wont-match",
-"published": "2026-11-10T19:46:02Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T19:46:02Z",
-"backfill": true
-},
-{
-"id": "47cf7d5b97737d75",
-"title": "Bitcoin slides below $74,000 after hotter-than-expected CPI as analysts warn of drop to $70k",
-"link": "https://www.theblock.co/news/markets/2026-11-10-bitcoin-price-cpi-inflation-73000-support-437301",
-"published": "2026-11-10T19:38:18Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T19:38:18Z",
-"backfill": true
 },
 {
 "id": "8cdfc14340a44d52",
