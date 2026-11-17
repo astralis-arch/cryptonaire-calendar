@@ -1,5 +1,15 @@
 [
 {
+"id": "490a5d1a88ca71b3",
+"title": "Nvidia Board Not Considering Jensen Huang's Return: Report",
+"link": "https://decrypt.co/383411/nvidia-board-not-considering-jensen-huangs-return-report",
+"published": "2026-11-17T09:54:32Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T10:07:10Z"
+},
+{
 "id": "9b80dc57527a96d0",
 "title": "What we’re learning from firms engaging with our innovation services",
 "link": "https://www.fca.org.uk/news/blogs/what-were-learning-firms-engaging-our-innovation-services",
@@ -5816,26 +5826,14 @@
 "backfill": true
 },
 {
-"id": "6c29d4da315467b4",
-"title": "The crypto wallet that grew up inside Telegram is striking out on its own",
-"link": "https://www.coindesk.com/business/2026/11/10/the-crypto-wallet-that-grew-up-inside-telegram-is-striking-out-on-its-own",
-"published": "2026-11-10T09:59:17Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T09:59:17Z",
-"backfill": true
-},
-{
-"id": "d2f6954c7b59516e",
-"title": "Retroactive Grant Application - Independent NU7 block timing measurement (PulseHawk)",
-"link": "https://forum.zcashcommunity.com/t/retroactive-grant-application-independent-nu7-block-timing-measurement-pulsehawk/59138",
-"published": "2026-11-10T09:40:56Z",
-"source": "Zcash Community Forum",
-"desk": "ZEC",
-"kind": "community",
-"first_seen": "2026-11-10T09:40:56Z",
-"backfill": true
+"id": "8cdfc14340a44d52",
+"title": "Waller, The Economic Outlook and Some Thoughts on Labor Market Dynamism",
+"link": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
+"published": "2026-11-10T09:00:00Z",
+"source": "Federal Reserve (speeches)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-17T10:07:10Z"
 },
 {
 "id": "de3144e9ce900fd2",
