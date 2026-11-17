@@ -1,5 +1,35 @@
 [
 {
+"id": "cf18150afd5eb4f6",
+"title": "Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump",
+"link": "https://www.coindesk.com/business/2026/11/17/ex-openai-researcher-fund-dumps-bitcoin-miners-cuts-iren-94-after-portfolio-slump",
+"published": "2026-11-17T12:00:55Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T12:07:09Z"
+},
+{
+"id": "e192c503efb17e30",
+"title": "Lighter reopens withdrawals after trader’s API key leak, returns about $5 million in USDC",
+"link": "https://www.theblock.co/news/defi/2026-11-17-lighter-reopens-withdrawals-after-traders-api-key-leak-returns-about-5-million-in-usdc-442113",
+"published": "2026-11-17T12:00:41Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T12:07:09Z"
+},
+{
+"id": "4277acab20fe24b5",
+"title": "US senators seek SEC answers on tokenized stock money laundering risks",
+"link": "https://cointelegraph.com/news/us-senators-sec-tokenized-stock-safeguards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-17T11:36:26Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T12:07:09Z"
+},
+{
 "id": "f946f06d33740919",
 "title": "Bitcoin remains penned in near $64,000 even as ETF outflow streak ends",
 "link": "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends",
@@ -5788,39 +5818,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-10T12:13:27Z",
-"backfill": true
-},
-{
-"id": "a2d70c1a2d385a64",
-"title": "Retroactive Grant Application - Can I Shield?",
-"link": "https://forum.zcashcommunity.com/t/retroactive-grant-application-can-i-shield/59146",
-"published": "2026-11-10T12:00:10Z",
-"source": "Zcash Community Forum",
-"desk": "ZEC",
-"kind": "community",
-"first_seen": "2026-11-10T12:00:10Z",
-"backfill": true
-},
-{
-"id": "4090cfe13fc12d9b",
-"title": "HIVE reports $79 million quarterly net loss as bitcoin mining revenue falls and AI business grows",
-"link": "https://www.theblock.co/news/business/2026-11-10-hive-reports-79-million-quarterly-net-loss-as-bitcoin-mining-revenue-falls-and-ai-business-grows-437177",
-"published": "2026-11-10T11:52:16Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T11:52:16Z",
-"backfill": true
-},
-{
-"id": "456abbad95e5618e",
-"title": "Coinbase, Kalshi join lawsuit backing CFTC over US stock perp futures",
-"link": "https://cointelegraph.com/news/coinbase-kalshi-cftc-stock-perpetual-futures-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-10T11:44:55Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T11:44:55Z",
 "backfill": true
 },
 {
