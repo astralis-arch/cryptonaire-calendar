@@ -1,5 +1,55 @@
 [
 {
+"id": "975ce675e1e92401",
+"title": "Coinbase expands onchain crypto loans to New York via Morpho",
+"link": "https://www.theblock.co/news/business/2026-11-17-coinbase-borrow-new-york-morpho-442842",
+"published": "2026-11-17T18:00:02Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T18:07:12Z"
+},
+{
+"id": "6f3e2fa088c75bea",
+"title": "Lighter incident exposes risks beyond withdrawal controls",
+"link": "https://cointelegraph.com/news/lighter-incident-exposes-risks-beyond-withdrawal-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-17T17:51:53Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T18:07:12Z"
+},
+{
+"id": "510b33224ac051bd",
+"title": "Druckenmiller says he is short copper, warns of economic weakness in 2027",
+"link": "https://www.coindesk.com/business/2026/11/17/druckenmiller-says-he-is-short-copper-warns-of-economic-weakness-in-2027",
+"published": "2026-11-17T17:42:40Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T18:07:12Z"
+},
+{
+"id": "a90128425e602d12",
+"title": "Fomo pays creators $30 million, sharing ‘lion’s share’ of revenue, Se Yong Park says",
+"link": "https://www.theblock.co/news/business/2026-11-17-fomo-pays-creators-30-million-sharing-lions-share-revenue-park-says-442332",
+"published": "2026-11-17T17:41:02Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T18:07:12Z"
+},
+{
+"id": "de94333d937a22bd",
+"title": "Fed’s Waller cites Binance hack in warning over tokenized finance",
+"link": "https://cointelegraph.com/news/feds-waller-cites-binance-hack-in-warning-over-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-17T17:39:41Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T18:07:12Z"
+},
+{
 "id": "312df51b133b14b2",
 "title": "Binance Hack Wallets Move $137 Million in Ethereum After Two Weeks of Silence",
 "link": "https://decrypt.co/383446/binance-hack-wallets-move-ethereum-after-two-weeks",
@@ -8,6 +58,16 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-17T17:37:11Z"
+},
+{
+"id": "3985ceab37092ab0",
+"title": "Everyone is Trading Tokenized Nvidia Derivatives",
+"link": "https://www.theblock.co/newsletters/data-and-insights/2026-11-17-everyone-is-trading-tokenized-nvidia-derivatives-442818",
+"published": "2026-11-17T17:15:23Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T18:07:12Z"
 },
 {
 "id": "27483e25e4975db9",
@@ -5747,17 +5807,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-10T18:12:07Z",
-"backfill": true
-},
-{
-"id": "c54fa201b7e04125",
-"title": "Grayscale pledges $1 million alongside Zcash ad blitz as token and ETF fall 12%",
-"link": "https://www.theblock.co/news/markets/2026-11-10-grayscale-pledges-1-million-alongside-zcash-ad-blitz-as-token-and-etf-fall-12-437277",
-"published": "2026-11-10T17:52:14Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T17:52:14Z",
 "backfill": true
 },
 {
