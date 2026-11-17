@@ -1,5 +1,35 @@
 [
 {
+"id": "a8aedb7b287021c0",
+"title": "Optimizely Hack Hijacked Ledger, BBC and 176 Other Sites to Swap Crypto Wallet Addresses",
+"link": "https://decrypt.co/383414/optimizely-hack-hijacked-ledger-bbc-and-176-other-sites-to-swap-crypto-wallet-addresses",
+"published": "2026-11-17T11:05:25Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T11:07:11Z"
+},
+{
+"id": "d2ae99129c92c926",
+"title": "Former Robinhood engineer pleads guilty to wire fraud over trades ahead of crypto listing announcements",
+"link": "https://www.theblock.co/news/regulation/2026-11-17-former-robinhood-engineer-pleads-guilty-to-wire-fraud-over-trades-ahead-of-crypto-listing-announcements-442106",
+"published": "2026-11-17T10:49:40Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T11:07:11Z"
+},
+{
+"id": "54c0b1894825b2c3",
+"title": "Fed Governor Michael Barr warns AI agents could trigger bank runs in minutes",
+"link": "https://www.coindesk.com/business/2026/11/17/fed-governor-michael-barr-warns-ai-agents-could-trigger-bank-runs-in-minutes",
+"published": "2026-11-17T10:48:12Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T11:07:11Z"
+},
+{
 "id": "922eeb9cebe7de63",
 "title": "Live updates: Bitcoin holds near $64,000 as tech slides ahead of Nvidia earnings",
 "link": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings",
@@ -5785,61 +5815,6 @@
 "desk": "ZEC",
 "kind": "community",
 "first_seen": "2026-11-10T11:17:51Z",
-"backfill": true
-},
-{
-"id": "7266fbd9a06564cc",
-"title": "Ex-employee sues Ethereum Foundation and Vitalik Buterin over firing",
-"link": "https://cointelegraph.com/news/ex-employee-sues-ethereum-foundation-vitalik-buterin-over-firing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-10T10:56:51Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T10:56:51Z",
-"backfill": true
-},
-{
-"id": "6df4932ed0c982e4",
-"title": "Exodus shares rise 10% ahead of Q3 earnings showing 7% revenue growth, $8.3 million loss",
-"link": "https://www.theblock.co/news/business/2026-11-10-exodus-shares-rise-10-ahead-of-q3-earnings-showing-7-revenue-growth-8-3-million-loss-437012",
-"published": "2026-11-10T10:53:57Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T10:53:57Z",
-"backfill": true
-},
-{
-"id": "5c7fcd71b64a9978",
-"title": "Bitcoin slips before U.S. inflation report as traders price in Fed rate increase",
-"link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-slips-before-u-s-inflation-report-as-traders-price-in-fed-rate-increase",
-"published": "2026-11-10T10:48:37Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T10:48:37Z",
-"backfill": true
-},
-{
-"id": "4d387c78ad084fc4",
-"title": "Live news: Bitcoin falls to nearly three-month low after disappointing inflation data",
-"link": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat",
-"published": "2026-11-10T10:41:45Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T10:41:45Z",
-"backfill": true
-},
-{
-"id": "0d72595d42236c57",
-"title": "'Tough Questions' Ahead: Warren Targets Prediction Markets, Trump Crypto as Banking Chair",
-"link": "https://decrypt.co/382910/tough-questions-ahead-warren-targets-prediction-markets-trump-crypto-as-banking-chair",
-"published": "2026-11-10T10:41:06Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T10:41:06Z",
 "backfill": true
 },
 {
