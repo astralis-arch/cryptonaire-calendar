@@ -1,5 +1,35 @@
 [
 {
+"id": "31a5e43a5f3cff59",
+"title": "Russia Lets Everyday Investors Buy Bitcoin Starting Today",
+"link": "https://bitcoinmagazine.com/news/russia-retail-bitcoin-buying-starts",
+"published": "2026-11-17T15:03:29Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-17T15:07:10Z"
+},
+{
+"id": "edc40e4f21385009",
+"title": "“We Need to Change Our Management”: Ricardo Salinas on Mexico’s Future, Bukele and Bitcoin",
+"link": "https://bitcoinmagazine.com/business/we-need-to-change-our-management-ricardo-salinas-on-mexicos-future-bukele-and-bitcoin",
+"published": "2026-11-17T14:54:10Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-17T15:07:10Z"
+},
+{
+"id": "f4bcd11e626359ea",
+"title": "Solana Foundation takes majority interest in crypto data firm CoinGecko",
+"link": "https://cointelegraph.com/news/coingecko-solana-foundation-majority-stake?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-17T14:45:49Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T15:07:10Z"
+},
+{
 "id": "e388fcf8f43a8f24",
 "title": "Solana’s Trump memecoin launch tested infrastructure ahead of institutional push, Lily Liu says",
 "link": "https://www.theblock.co/news/ecosystems/2026-11-17-solana-trump-memecoin-launch-tested-infrastructure-institutional-push-lily-liu-says-442132",
@@ -908,6 +938,16 @@
 "desk": "ZEC",
 "kind": "community",
 "first_seen": "2026-11-17T02:04:19Z"
+},
+{
+"id": "72cbb260cc63a745",
+"title": "Zcash Agora: one vote, one person",
+"link": "https://forum.zcashcommunity.com/t/zcash-agora-one-vote-one-person/59365",
+"published": "2026-11-16T20:19:05Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-17T15:07:10Z"
 },
 {
 "id": "facc098f1ecd6bc0",
@@ -5745,50 +5785,6 @@
 "desk": "ZEC",
 "kind": "community",
 "first_seen": "2026-11-10T15:17:54Z",
-"backfill": true
-},
-{
-"id": "a72ed0128514b107",
-"title": "Solana's Jupiter Expands Beyond Trading With Token Baskets, Yield Vaults and New Portfolio",
-"link": "https://decrypt.co/382836/solanas-jupiter-expands-beyond-trading-with-token-baskets-yield-vaults-and-new-portfolio",
-"published": "2026-11-10T15:01:02Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T15:01:02Z",
-"backfill": true
-},
-{
-"id": "260d7c2a592e27bf",
-"title": "MARA Sells 13,597 Bitcoin for $1.1 Billion, Says More Sales Are Coming",
-"link": "https://bitcoinmagazine.com/news/mara-sells-13597-bitcoin-1-1-billion",
-"published": "2026-11-10T15:00:00Z",
-"source": "Bitcoin Magazine",
-"desk": "BTC",
-"kind": "news",
-"first_seen": "2026-11-10T15:00:00Z",
-"backfill": true
-},
-{
-"id": "41e92653ec561233",
-"title": "Hyperscale Data (GPUS) Sells Its Last Bitcoin for AI Data Center, Months After Chasing $100 Million Treasury",
-"link": "https://bitcoinmagazine.com/news/hyperscale-data-sells-last-bitcoin-ai",
-"published": "2026-11-10T14:45:00Z",
-"source": "Bitcoin Magazine",
-"desk": "BTC",
-"kind": "news",
-"first_seen": "2026-11-10T14:45:00Z",
-"backfill": true
-},
-{
-"id": "898e11e3a8f89236",
-"title": "Onramp Launches Business Bitcoin Accounts With Two-Person Withdrawal Approvals as Wrench Attacks Climb",
-"link": "https://bitcoinmagazine.com/news/onramp-launches-business-bitcoin-accounts-approvals",
-"published": "2026-11-10T14:43:54Z",
-"source": "Bitcoin Magazine",
-"desk": "BTC",
-"kind": "news",
-"first_seen": "2026-11-10T14:43:54Z",
 "backfill": true
 },
 {
