@@ -1,5 +1,55 @@
 [
 {
+"id": "f946f06d33740919",
+"title": "Bitcoin remains penned in near $64,000 even as ETF outflow streak ends",
+"link": "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends",
+"published": "2026-11-17T11:36:07Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T11:37:09Z"
+},
+{
+"id": "b98a0b66f35b6361",
+"title": "Solana Foundation takes majority stake in crypto data provider CoinGecko",
+"link": "https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko",
+"published": "2026-11-17T11:29:51Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T11:37:09Z"
+},
+{
+"id": "8c44755f843f5bd2",
+"title": "New DeFi-yield generation targets ‘scam-like’ bank accounts that keep all the interest",
+"link": "https://www.coindesk.com/business/2026/11/16/new-defi-yield-generation-targets-scam-like-bank-accounts-that-keep-all-the-interest",
+"published": "2026-11-17T11:25:58Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T11:37:09Z"
+},
+{
+"id": "a5597deb1466b029",
+"title": "BlackRock’s Bitcoin ETF snaps $2.35B outflow streak amid extreme fear",
+"link": "https://cointelegraph.com/markets/blackrock-ibit-outflow-streak-end-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-17T11:18:18Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T11:37:09Z"
+},
+{
+"id": "df6c0a6c6bb4d212",
+"title": "Bitcoin realized loss metric beats June high as open interest eyes 2-year low",
+"link": "https://cointelegraph.com/markets/bitcoin-realized-loss-metric-beats-june-high-open-interest-eyes-2-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-17T11:14:05Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T11:37:09Z"
+},
+{
 "id": "a8aedb7b287021c0",
 "title": "Optimizely Hack Hijacked Ledger, BBC and 176 Other Sites to Swap Crypto Wallet Addresses",
 "link": "https://decrypt.co/383414/optimizely-hack-hijacked-ledger-bbc-and-176-other-sites-to-swap-crypto-wallet-addresses",
@@ -5771,50 +5821,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-10T11:44:55Z",
-"backfill": true
-},
-{
-"id": "52e6d24b7b50ee30",
-"title": "Nvidia, Jensen Huang Sued by Shareholders Over Alleged Ties to Suspected Chinese Spy",
-"link": "https://decrypt.co/382913/nvidia-jensen-huang-sued-by-shareholders-over-alleged-ties-to-suspected-chinese-spy",
-"published": "2026-11-10T11:26:56Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T11:26:56Z",
-"backfill": true
-},
-{
-"id": "01ce3b035a85b345",
-"title": "Binance warns iOS flaw could expose crypto wallet keys",
-"link": "https://cointelegraph.com/news/binance-warns-ios-flaw-could-expose-crypto-wallet-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-10T11:25:57Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T11:25:57Z",
-"backfill": true
-},
-{
-"id": "34f8d623a6cb40dd",
-"title": "Bitcoin lags stock rebound in advance of U.S. inflation report",
-"link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-lags-stock-rebound-in-advance-of-u-s-inflation-report",
-"published": "2026-11-10T11:24:10Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T11:24:10Z",
-"backfill": true
-},
-{
-"id": "f7996a9427a897f1",
-"title": "Wait!? Another Zcash Wallet!?",
-"link": "https://forum.zcashcommunity.com/t/wait-another-zcash-wallet/59145",
-"published": "2026-11-10T11:17:51Z",
-"source": "Zcash Community Forum",
-"desk": "ZEC",
-"kind": "community",
-"first_seen": "2026-11-10T11:17:51Z",
 "backfill": true
 },
 {
