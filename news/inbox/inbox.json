@@ -1,5 +1,45 @@
 [
 {
+"id": "c788390af25a9ee5",
+"title": "Alpaca says tokenization network tops $10 billion in minting and redemption volume",
+"link": "https://www.theblock.co/news/business/2026-11-17-alpaca-says-tokenization-network-tops-10-billion-minting-redemption-volume-442667",
+"published": "2026-11-17T16:35:07Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T16:37:10Z"
+},
+{
+"id": "c768e98272503ad2",
+"title": "v30.5: Bitcoin Core 30.5 final",
+"link": "https://github.com/bitcoin/bitcoin/releases/tag/v30.5",
+"published": "2026-11-17T16:26:30Z",
+"source": "Bitcoin Core releases",
+"desk": "Protocol",
+"kind": "protocol",
+"first_seen": "2026-11-17T16:37:10Z"
+},
+{
+"id": "be2d77dc5c417b4a",
+"title": "Trezor Shipping Partner Breach Exposes 27,000 Orders as Customers Report Scam Calls",
+"link": "https://bitcoinmagazine.com/news/trezor-skladon-partner-breach-27000-orders",
+"published": "2026-11-17T16:20:00Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-17T16:37:10Z"
+},
+{
+"id": "bf577beb388c7700",
+"title": "v31.3: Bitcoin Core 31.3 final",
+"link": "https://github.com/bitcoin/bitcoin/releases/tag/v31.3",
+"published": "2026-11-17T16:07:18Z",
+"source": "Bitcoin Core releases",
+"desk": "Protocol",
+"kind": "protocol",
+"first_seen": "2026-11-17T16:37:10Z"
+},
+{
 "id": "f115405130193796",
 "title": "Wells Fargo More Than Doubles Its Bitcoin ETF Stake to $2.35 Billion",
 "link": "https://bitcoinmagazine.com/news/wells-fargo-ibit-stake-doubles-strategy-cut",
@@ -5745,50 +5785,6 @@
 "desk": "BTC",
 "kind": "news",
 "first_seen": "2026-11-10T17:00:00Z",
-"backfill": true
-},
-{
-"id": "a62df09afe159de2",
-"title": "Bitcoin Falls as Hot US Inflation Fuels Fears of Bigger Fed Rate Hike",
-"link": "https://decrypt.co/382950/bitcoin-falls-hot-us-inflation-fears-bigger-fed-rate-hike",
-"published": "2026-11-10T16:27:57Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T16:27:57Z",
-"backfill": true
-},
-{
-"id": "e51519b93cd64386",
-"title": "Bitcoin nears 11-week low after ‘discouraging’ US CPI inflation beat",
-"link": "https://cointelegraph.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-10T16:25:03Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T16:25:03Z",
-"backfill": true
-},
-{
-"id": "12cb370d3a742a83",
-"title": "Alta raises $47.5 million Series A to build a blockchain for financial institutions",
-"link": "https://www.theblock.co/news/business/2026-11-10-alta-raises-80-million-build-blockchain-banks-payment-firms-437244",
-"published": "2026-11-10T16:19:16Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T16:19:16Z",
-"backfill": true
-},
-{
-"id": "70faab9019e8d489",
-"title": "Miami-Dade County Now Accepts Bitcoin for Property Taxes",
-"link": "https://bitcoinmagazine.com/news/miami-dade-takes-bitcoin-property-taxes",
-"published": "2026-11-10T16:15:58Z",
-"source": "Bitcoin Magazine",
-"desk": "BTC",
-"kind": "news",
-"first_seen": "2026-11-10T16:15:58Z",
 "backfill": true
 },
 {
