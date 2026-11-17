@@ -1,5 +1,15 @@
 [
 {
+"id": "f4fb60cc37868744",
+"title": "Nvidia tops estimates, issues strong guidance; shares rise",
+"link": "https://www.coindesk.com/markets/2026/11/17/nvidia-tops-estimates-issues-strong-guidance-adds-usd150-billion-to-buyback-authorization",
+"published": "2026-11-17T21:25:50Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T21:37:09Z"
+},
+{
 "id": "6070041ff9935cdb",
 "title": "Bitcoin Price Slips Below $64,000 as Strategy (MSTR) Falls Below $100",
 "link": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-near-64000-strategy",
@@ -68,6 +78,16 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-17T20:37:10Z"
+},
+{
+"id": "e7df88c2e71f31af",
+"title": "Mark Yusko: Why Bitcoin Is Falling — $58k is the Key Level to Watch",
+"link": "https://bitcoinmagazine.com/videos/mark-yusko-why-bitcoin-is-falling-58k-is-the-key-level-to-watch",
+"published": "2026-11-17T20:30:34Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-17T21:37:09Z"
 },
 {
 "id": "e9ab0e905b80dcfd",
