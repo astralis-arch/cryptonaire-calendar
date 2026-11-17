@@ -1,5 +1,25 @@
 [
 {
+"id": "ee31f3f34c75e193",
+"title": "Revolut plans four blockchain-based funds for private markets, chair says",
+"link": "https://cointelegraph.com/news/revolut-four-blockchain-funds-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-17T12:24:20Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T12:37:10Z"
+},
+{
+"id": "94d9edb0aed18c74",
+"title": "Crypto's 'casino-chips' are disappearing, adding to pain from spot ETF outflows",
+"link": "https://www.coindesk.com/daybook-us/2026/11/17/crypto-s-casino-chips-are-disappearing-adding-to-pain-from-spot-etf-outflows",
+"published": "2026-11-17T12:16:53Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-17T12:37:10Z"
+},
+{
 "id": "cf18150afd5eb4f6",
 "title": "Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump",
 "link": "https://www.coindesk.com/business/2026/11/17/ex-openai-researcher-fund-dumps-bitcoin-miners-cuts-iren-94-after-portfolio-slump",
@@ -5796,28 +5816,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-10T12:38:20Z",
-"backfill": true
-},
-{
-"id": "5ec82450b4f5649b",
-"title": "Bitcoin breaks with stocks, declines as ETF outflows mount, MARA reduces holdings",
-"link": "https://www.coindesk.com/daybook-us/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-sells-holdings",
-"published": "2026-11-10T12:15:00Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T12:15:00Z",
-"backfill": true
-},
-{
-"id": "4c9fd789dfbca4e3",
-"title": "Binance Halts MEXC Transfers as FinCEN Cuts Exchange Off From US Financial System",
-"link": "https://decrypt.co/382926/binance-halts-mexc-transfers-as-fincen-cuts-exchange-off-from-us-financial-system",
-"published": "2026-11-10T12:13:27Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-10T12:13:27Z",
 "backfill": true
 },
 {
