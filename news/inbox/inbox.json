@@ -1,5 +1,25 @@
 [
 {
+"id": "54831939cfaf9531",
+"title": "Grant Application: Blockread — Open-Source Zcash Indexer & High-Availability Explorer ($46,000)",
+"link": "https://forum.zcashcommunity.com/t/grant-application-blockread-open-source-zcash-indexer-high-availability-explorer-46-000/59405",
+"published": "2026-11-17T19:56:07Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-17T20:07:11Z"
+},
+{
+"id": "f356f714bdfad174",
+"title": "Mylo Bennett for ZCG (December 2026)",
+"link": "https://forum.zcashcommunity.com/t/mylo-bennett-for-zcg-december-2026/59402",
+"published": "2026-11-17T19:50:30Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-17T20:07:11Z"
+},
+{
 "id": "2dab591e8ff9d1e6",
 "title": "Cathie Wood's ARK Sells $85 Million in Nvidia, Buys $40 Million in Crypto Stocks",
 "link": "https://decrypt.co/383463/cathie-wood-ark-sells-85-million-nvidia-buys-crypto-stocks",
@@ -5768,50 +5788,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-11T00:53:10Z"
-},
-{
-"id": "16e6b076083bdf6e",
-"title": "The not-so-fine print: making consumer contracts fair",
-"link": "https://www.fca.org.uk/news/blogs/not-so-fine-print-making-consumer-contracts-fair",
-"published": null,
-"source": "FCA",
-"desk": "UK",
-"kind": "official",
-"first_seen": "2026-11-10T20:00:14Z",
-"backfill": true
-},
-{
-"id": "37d94926fa634c92",
-"title": "Act now to be resilient in the quantum future",
-"link": "https://www.fca.org.uk/news/blogs/act-now-be-resilient-quantum-future",
-"published": null,
-"source": "FCA",
-"desk": "UK",
-"kind": "official",
-"first_seen": "2026-11-10T20:00:14Z",
-"backfill": true
-},
-{
-"id": "052e204b31b65ad9",
-"title": "Brits nearly twice as likely to spot pressure tactics in horror films as investment red flags",
-"link": "https://www.fca.org.uk/news/press-releases/brits-nearly-twice-likely-spot-pressure-tactics-horror-films-investment-red-flags",
-"published": null,
-"source": "FCA",
-"desk": "UK",
-"kind": "official",
-"first_seen": "2026-11-10T20:00:14Z",
-"backfill": true
-},
-{
-"id": "2bbb58fbf3ff6296",
-"title": "FCA stops HTX's crypto promotions",
-"link": "https://www.fca.org.uk/news/press-releases/fca-stops-htxs-crypto-promotions",
-"published": null,
-"source": "FCA",
-"desk": "UK",
-"kind": "official",
-"first_seen": "2026-11-10T20:00:14Z",
-"backfill": true
 },
 {
 "id": "f17ab1ed4afc2839",
