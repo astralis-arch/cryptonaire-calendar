@@ -5890,6 +5890,16 @@
 "first_seen": "2026-11-11T22:40:41Z"
 },
 {
+"id": "2b7b524d13f1a180",
+"title": "Bowman, The U.S. Economy and Considerations for Monetary Policy",
+"link": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm",
+"published": "2026-11-10T20:30:00Z",
+"source": "Federal Reserve (speeches)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-18T01:37:10Z"
+},
+{
 "id": "8cdfc14340a44d52",
 "title": "Waller, The Economic Outlook and Some Thoughts on Labor Market Dynamism",
 "link": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
@@ -5898,6 +5908,16 @@
 "desk": "Macro",
 "kind": "official",
 "first_seen": "2026-11-17T10:07:10Z"
+},
+{
+"id": "de3144e9ce900fd2",
+"title": "Bitcoin Optech Newsletter #430 Recap Podcast",
+"link": "https://bitcoinops.org/en/podcast/2026/11/10/",
+"published": "2026-11-10T00:00:00Z",
+"source": "Bitcoin Optech",
+"desk": "Protocol",
+"kind": "protocol",
+"first_seen": "2026-11-18T01:37:10Z"
 },
 {
 "id": "6e4cb5ab08bc01e5",
