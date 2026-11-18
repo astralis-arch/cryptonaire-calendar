@@ -1,5 +1,45 @@
 [
 {
+"id": "dbea10a75a84833c",
+"title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+"link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+"published": "2026-11-18T19:00:00Z",
+"source": "Federal Reserve (press)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-18T19:07:10Z"
+},
+{
+"id": "a70070e0aa9c64f8",
+"title": "Ondo to launch tokenized Anthropic stock on IPO day",
+"link": "https://www.theblock.co/news/markets/2026-11-18-ondo-to-launch-tokenized-anthropic-stock-on-ipo-day-443482",
+"published": "2026-11-18T18:51:30Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-18T19:07:10Z"
+},
+{
+"id": "11dd8c0b0b13adf3",
+"title": "Binance Says It Won Court Order to Recover Frozen Hack Funds",
+"link": "https://bitcoinmagazine.com/news/binance-abu-dhabi-order-recover-frozen",
+"published": "2026-11-18T18:47:30Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-18T19:07:10Z"
+},
+{
+"id": "813408b8177ceb87",
+"title": "Bitcoin Miners Are Selling Their Stacks to Fund the AI Boom",
+"link": "https://decrypt.co/383568/bitcoin-miners-selling-fund-ai-boom",
+"published": "2026-11-18T18:46:03Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-18T19:07:10Z"
+},
+{
 "id": "8a3dc2d04dd62c08",
 "title": "Barr, Investing in America’s Underserved Communities",
 "link": "https://www.federalreserve.gov/newsevents/speech/barr20261118a.htm",
