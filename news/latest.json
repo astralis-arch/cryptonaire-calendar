@@ -1,169 +1,203 @@
 {
- "generated": "2026-11-17T21:32:00Z",
+ "generated": "2026-11-18T06:33:00Z",
  "mood": "mixed",
  "briefing": {
   "developments": [
-   "Nvidia reported third-quarter revenue of $115.8 billion against about $109 billion expected and guided to $130 billion for the next quarter, and its shares rose about 2.3% after hours, 24/7 Wall St. reported.",
-   "Bitcoin recovered to about $64,550 on Kraken at 21:30 UK, up from about $63,800 at the afternoon edition, after a day low of about $63,270, while Strategy shares fell below $100 for the first time since mid-August, Bitcoin Magazine reported.",
-   "Glassnode said bitcoin holders are realising losses at levels seen only near the 2018, 2020, 2022 and early 2023 lows, Decrypt reported, but stopped short of calling a bottom."
+   "Asian markets failed to build on Nvidia's results: the Nikkei slipped 0.3% and MSCI's Asia-Pacific index outside Japan fell for a fifth day, Reuters reported, after Nvidia's board said it would not reinstate Jensen Huang and hired a firm to find a new chief executive.",
+   "US spot bitcoin ETFs saw net outflows of about $240 million on Tuesday, $209.5 million of it from BlackRock's IBIT, according to Farside data as reported by MarsBit.",
+   "Bitcoin was steady overnight near $64,570 on Kraken, while Zcash rose to about $960 from about $935 at the evening edition."
   ],
-  "changed": "The day's big test passed without a shock: Nvidia beat forecasts and its shares rose after hours, and bitcoin clawed back about $750 from the afternoon edition. Wall Street still closed lower and Strategy broke $100, so the picture moved from risk-off to mixed rather than to relief. Zcash held near $935.",
-  "question": "Does Nvidia's beat turn into a broader tech rebound on Wednesday, or do rate-rise bets keep stocks and bitcoin under pressure?",
-  "watch": "UK CPI at 07:00 UK Wednesday, then FOMC minutes at 19:00 UK. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
+  "changed": "Little moved overnight. Bitcoin is flat on the evening edition, Nvidia's after-hours gain did not carry into Asia, and Tuesday's ETF figures returned to outflows after Monday's small inflow. Zcash is the one clear mover, up about 3%.",
+  "question": "Does UK inflation at 07:00 and tonight's Fed minutes add to the rate-rise fears that have weighed on bitcoin, or give it room to recover?",
+  "watch": "UK CPI for October at 07:00 UK, consensus 3.6%. Then FOMC minutes at 19:00 UK. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
  },
  "lead": {
-  "headline": "Nvidia beats forecasts as bitcoin claws back to $64,500",
-  "standfirst": "The chipmaker's first report since its chief executive resigned topped estimates, lifting its shares after hours as bitcoin recovered from a day low near $63,300.",
+  "headline": "Bitcoin holds near $64,500 as Nvidia's beat fails to lift Asia",
+  "standfirst": "Asian shares turned lower after Nvidia's board ruled out Jensen Huang's return, while US bitcoin funds lost about $240 million on Tuesday.",
   "body": [
-   "Nvidia reported third-quarter revenue of $115.8 billion on Tuesday, up 103% from a year earlier, according to the company's results release, ahead of the roughly $109 billion analysts had expected. It forecast fourth-quarter revenue of $130 billion, plus or minus 3%, in a quarter that includes an extra week.",
-   "Its shares rose about 2.3% in after-hours trading to around $159, 24/7 Wall St. reported. It was the first report under interim chief executive Colette Kress, who took over after Jensen Huang resigned on 12 November. Kress said the new Vera Rubin chips were off to an explosive start.",
-   "Wall Street had fallen again before the results. Near the close the Dow was about 1.7% lower, the S&P 500 down about 1.2% and the Nasdaq down about 1%, Bitcoin Magazine reported. Strategy, the largest corporate holder of bitcoin, fell more than 5% to about $97, its first close below $100 since mid-August.",
-   "Bitcoin traded near $64,550 on Kraken at 21:30 UK, up from about $63,800 at the afternoon edition, after touching about $63,270 during the day.",
-   "Glassnode said in its weekly report that losses being realised by holders relative to profits had reached levels last seen near the 2018, 2020, 2022 and early 2023 lows, Decrypt reported. The firm said a daily close below $62,000 could open a drop towards $58,500, while a move above $74,100 would point to a bottom forming.",
-   "Attention now turns to UK inflation figures at 07:00 UK on Wednesday and the minutes of the Fed's October meeting at 19:00 UK."
+   "Bitcoin traded near $64,570 on Kraken at 06:30 UK on Wednesday, almost unchanged from the previous evening, after a 24-hour range of about $63,270 to $65,380.",
+   "Asian markets reversed early gains. Japan's Nikkei fell 0.3% and MSCI's broadest index of Asia-Pacific shares outside Japan slipped 0.1%, a fifth straight fall, Reuters reported. S&P 500 futures were up 0.3%. Nvidia beat forecasts on Tuesday, but its board chair said on the results call that the board did not intend to reinstate Jensen Huang as chief executive and had hired Heidrick & Struggles to find a permanent replacement, Decrypt reported. The Wall Street Journal reported that the SEC is probing Nvidia; the SEC declined to comment, according to Reuters.",
+   "US spot bitcoin ETFs had net outflows of about $239.9 million on Tuesday, with $209.5 million leaving BlackRock's IBIT, according to Farside data cited by MarsBit. That followed a small inflow on Monday which had ended a run of outflows.",
+   "Rate expectations remain the backdrop. St Louis Fed President Alberto Musalem said on Tuesday the Fed may need several rate hikes and should act soon, Reuters reported. The US 10-year yield eased to 5.08%.",
+   "UK inflation figures for October are due at 07:00 UK, with economists expecting 3.6% against 3.5% in September. Minutes of the Fed's October meeting follow at 19:00 UK."
   ]
  },
- "headline": "Nvidia beat forecasts and rose after hours, and bitcoin recovered to about $64,550 after a day low near $63,300. Wall Street still closed lower and Strategy fell below $100.",
- "spoken": "Cryptonaire Post, evening edition. Nvidia beat forecasts tonight, with revenue of about one hundred and sixteen billion dollars against one hundred and nine billion expected, and its shares rose about two percent after hours. Bitcoin recovered to about sixty four thousand five hundred dollars, after dipping near sixty three thousand three hundred earlier. Wall Street still closed lower, and Strategy shares fell below one hundred dollars. Glassnode says holders are selling at a loss on a scale seen near past lows, but it has not called a bottom. Zcash is steady near nine hundred and thirty five dollars. Tomorrow, UK inflation at seven a.m., and Fed minutes at seven p.m. Information only, not advice.",
+ "headline": "Bitcoin was flat overnight near $64,570 as Asian shares slipped despite Nvidia's beat, and US bitcoin ETFs lost about $240 million on Tuesday. UK inflation at 07:00 and Fed minutes at 19:00 are today's tests.",
+ "spoken": "Cryptonaire Post, morning edition. Bitcoin was steady overnight at about sixty four thousand five hundred dollars. Nvidia's strong results did not lift Asia: Japan's Nikkei slipped, after Nvidia's board ruled out Jensen Huang's return as chief executive. US bitcoin funds lost about two hundred and forty million dollars on Tuesday, mostly from BlackRock's fund. Zcash rose about three percent to around nine hundred and sixty dollars. Today, UK inflation at seven a.m., expected at three point six percent, and Fed minutes at seven p.m. Information only, not advice.",
  "stories": [
   {
    "section": "Markets",
    "impact": "🔴",
    "confidence": "High",
-   "date": "2026-11-17",
+   "date": "2026-11-18",
    "status": "Outlook changed",
-   "title": "Nvidia beats forecasts and guides to $130 billion; shares up after hours",
-   "why": "Third-quarter revenue was $115.8 billion against about $109 billion expected, adjusted earnings $2.68 a share against $2.47, and data centre revenue $107.6 billion, according to Nvidia and 24/7 Wall St. The shares rose about 2.3% after hours. This was the event the afternoon edition flagged as the test for the tech sell-off that has dragged bitcoin.",
-   "caveat": "After-hours moves are thin and can reverse at Wednesday's open. The guide assumes no China data centre revenue.",
+   "title": "Nvidia beat fails to lift Asia as board rules out Huang return",
+   "why": "The Nikkei fell 0.3% and MSCI's Asia-Pacific index outside Japan slipped 0.1% for a fifth daily fall, Reuters reported, while S&P 500 futures rose 0.3%. Nvidia's board chair said it would not reinstate Jensen Huang and hired Heidrick & Struggles to find a permanent chief executive, with Colette Kress staying as interim, Decrypt reported. The Wall Street Journal reported an SEC probe of Nvidia; the SEC declined to comment.",
+   "caveat": "Reports differ on Nvidia's after-hours move, from a gain of up to 3.8% to a small dip. Wednesday's US open at 14:30 UK is the real test.",
    "note": {
     "horizon": "intraday",
-    "read": "A clean beat removes the immediate risk of an AI-led leg down in tech, which had been weighing on bitcoin alongside rate-rise bets.",
-    "alt": "Markets may focus on the leadership question and rate expectations instead, so the after-hours gain fades.",
-    "change": "Nvidia giving back its after-hours gain at Wednesday's open, or a hot UK or US data surprise lifting yields."
+    "read": "The evening edition's relief from Nvidia's beat has faded; leadership and regulatory questions are now competing with the strong numbers, which leaves tech, and bitcoin with it, without a clear lift.",
+    "alt": "Asia is simply cautious ahead of Anthropic's listing and the Fed minutes, and Nvidia could still rally at the US open.",
+    "change": "Nvidia opening firmly higher at 14:30 UK with the Nasdaq following, or details of the SEC probe emerging."
    },
    "sources": [
     {
-     "name": "Nvidia (GlobeNewswire)",
-     "url": "https://www.globenewswire.com/news-release/2026/11/17/3405200/0/en/nvidia-announces-financial-results-for-third-quarter-fiscal-2027.html"
+     "name": "Reuters via MarketScreener",
+     "url": "https://www.marketscreener.com/news/asia-stocks-choppy-after-nvidia-earnings-as-anthropic-pricing-looms-ce785edcde8ef622"
     },
     {
-     "name": "24/7 Wall St.",
-     "url": "https://247wallst.com/investing/2026/11/17/nvidias-first-report-without-jensen-huang-115-8-billion-in-revenue-a-130-billion-forecast-and-the-stock-is-up-2-3-after-hours/"
+     "name": "Decrypt",
+     "url": "https://decrypt.co/383513/nvidia-board-shuts-down-jensen-huang-comeback"
+    },
+    {
+     "name": "Cointelegraph",
+     "url": "https://cointelegraph.com/markets/nvidia-board-rejects-huang-comeback-amid-record-116b-quarter"
+    }
+   ]
+  },
+  {
+   "section": "ETFs",
+   "impact": "🟠",
+   "confidence": "Medium",
+   "date": "2026-11-17",
+   "status": "Outlook changed",
+   "title": "Bitcoin ETFs lose about $240 million on Tuesday, mostly from IBIT",
+   "why": "US spot bitcoin ETFs had net outflows of about $239.9 million on 17 November, led by BlackRock's IBIT at $209.5 million, with Grayscale's GBTC down $17.7 million, according to Farside data reported by MarsBit. Ether ETFs lost $29.1 million. Monday's small inflow, which ended a run of outflow days, was not followed through.",
+   "caveat": "Farside's own site could not be reached to confirm; figures come from a republished summary of its data.",
+   "note": {
+    "horizon": "swing",
+    "read": "Large holders in the biggest fund are still reducing exposure, so Monday's inflow looks like a pause rather than a turn.",
+    "alt": "One day's IBIT redemption can reflect a single institution rebalancing rather than broad selling.",
+    "change": "Two or three consecutive days of net inflows."
+   },
+   "sources": [
+    {
+     "name": "MarsBit via KuCoin News (Farside data)",
+     "url": "https://www.kucoin.com/news/flash/us-bitcoin-and-ethereum-spot-etfs-recorded-net-outflows-of-239-9m-and-29-1m-on-nov-17"
+    }
+   ]
+  },
+  {
+   "section": "UK",
+   "impact": "🟠",
+   "confidence": "Medium",
+   "date": "2026-11-18",
+   "status": "New",
+   "title": "UK inflation due at 07:00, expected to rise to 3.6%",
+   "why": "Economists expect October CPI at 3.6% against 3.5% in September, with core at 2.8% and services at 3.7% last month, AskTraders reported. The Bank of England raised Bank Rate to 4.00% on 5 November, so a hot reading would add to talk of another rise in December and move sterling against the dollar.",
+   "sources": [
+    {
+     "name": "AskTraders",
+     "url": "https://www.asktraders.com/analysis/uk-inflation-preview-consensus-sees-3-6/"
     }
    ]
   },
   {
    "section": "BTC",
-   "impact": "🔴",
-   "confidence": "High",
-   "date": "2026-11-17",
+   "impact": "🟠",
+   "confidence": "Medium",
+   "date": "2026-11-18",
    "status": "Developing",
-   "title": "Bitcoin recovers to about $64,550; Strategy shares break below $100",
-   "why": "Bitcoin traded near $64,550 on Kraken at 21:30 UK, back above Monday's low near $63,840 after touching about $63,270. Strategy fell more than 5% to about $97, below its STRC preferred stock for the first time since mid-August and about 20% down from 10 November, Bitcoin Magazine reported. Coinbase, Robinhood and Circle each fell 3% to 5%.",
-   "note": {
-    "horizon": "swing",
-    "read": "The intraday break of Monday's low did not stick, but bitcoin-linked shares are still weakening, which suggests equity investors remain cautious on crypto exposure.",
-    "alt": "The bounce is short covering after negative funding, not fresh demand.",
-    "change": "A daily close back below $63,000, or a recovery above $65,000 that Bitcoin Magazine said would reverse the day's fall."
-   },
+   "title": "Bitcoin flat overnight near $64,570 after breaking its 200-week average",
+   "why": "Bitcoin traded near $64,570 on Kraken at 06:30 UK, little changed from the evening edition, in a 24-hour range of about $63,270 to $65,380. CoinDesk noted last week's 12.6% fall closed below the 200-week average near $68,000; in the three earlier cases since 2013, bitcoin fell another 10% to 17% before recovering, which applied now would mean roughly $54,000 to $59,000.",
+   "caveat": "Three past cases are a tiny sample, and in 2022 the recovery was cut short by the FTX collapse.",
    "sources": [
     {
      "name": "Kraken",
      "url": "https://www.kraken.com/prices/bitcoin"
     },
     {
-     "name": "Bitcoin Magazine",
-     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-near-64000-strategy"
+     "name": "CoinDesk",
+     "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-s-rare-12-crash-through-its-200-week-average-has-a-bullish-track-record"
     }
    ]
   },
   {
-   "section": "BTC",
+   "section": "Macro",
    "impact": "🟠",
    "confidence": "Medium",
    "date": "2026-11-17",
-   "status": "New",
-   "title": "Glassnode: loss-taking at levels seen near past cycle lows",
-   "why": "Realised losses relative to profits are at levels last seen near the 2018, 2020, 2022 and early 2023 lows, Glassnode said, as cited by Decrypt. Buyers absorbed about 66,000 BTC between $62,000 and $66,000 on the two heaviest selling days. Glassnode flagged $62,000 on a daily close as the downside line, with $58,500 and $53,700 below, and $74,100 as the level that would confirm a bottom.",
-   "caveat": "Decrypt's ETF tracker counts an eight-session outflow streak, while Farside data showed Monday as a small net inflow.",
-   "note": {
-    "horizon": "swing",
-    "read": "Heavy loss-taking by recent buyers has often marked exhaustion of sellers, which is why Glassnode compares it to earlier lows.",
-    "alt": "Glassnode itself did not call a bottom; stablecoin supply shrinking 4.2% over 90 days points to weak new demand.",
-    "change": "A daily close below $62,000, or stablecoin supply turning back up."
-   },
+   "status": "Developing",
+   "title": "Fed's Musalem says several rate hikes may be needed",
+   "why": "St Louis Fed President Alberto Musalem said on Tuesday the Fed may need several rate hikes to control inflation and should act soon, Reuters reported. The dollar index held near 103.6 after its highest since April 2025, the US 10-year yield eased 2 basis points to 5.08% and Brent fell to $92.60. Tonight's minutes will show how widely that view is shared.",
    "sources": [
     {
-     "name": "Decrypt",
-     "url": "https://decrypt.co/383466/bitcoin-investors-capitulating-historical-bottom-signal"
-    }
-   ]
-  },
-  {
-   "section": "Whales",
-   "impact": "🟠",
-   "confidence": "Medium",
-   "date": "2026-11-17",
-   "status": "New",
-   "title": "Binance hack wallets move about $137 million in ether, some swapped to bitcoin",
-   "why": "Wallets tied to the 29 October Binance hack moved about 74,880 ETH, worth roughly $137 million, after two weeks of silence, according to Arkham data cited by Decrypt. Some funds were being swapped for bitcoin through Thorchain. Elliptic has called the $6.4 billion theft the largest known, and said only a negligible amount appears to have been cashed out so far.",
-   "caveat": "Moving funds between wallets is not proof of a sale.",
-   "sources": [
-    {
-     "name": "Decrypt",
-     "url": "https://decrypt.co/383446/binance-hack-wallets-move-ethereum-after-two-weeks"
-    }
-   ]
-  },
-  {
-   "section": "Beyond",
-   "impact": "🟢",
-   "confidence": "Medium",
-   "date": "2026-11-17",
-   "status": "New",
-   "title": "Trezor shipping partner breach exposes 27,000 customers' addresses",
-   "why": "A breach at Skladon, a Trezor delivery partner, exposed names, phone numbers, emails, home addresses and products bought for orders placed from 9 August to 7 November, Bitcoin Magazine reported. Trezor said no wallet backups, PINs or passphrases were involved and that it never cold-calls customers. Coming a day after the Optimizely address-swap attack, it is a second reminder to treat unexpected contact about crypto orders as a scam.",
-   "caveat": "The report did not say whether UK customers were included; Skladon ships to many countries but not the US.",
-   "sources": [
-    {
-     "name": "Bitcoin Magazine",
-     "url": "https://bitcoinmagazine.com/news/trezor-skladon-partner-breach-27000-orders"
+     "name": "Reuters via MarketScreener",
+     "url": "https://www.marketscreener.com/news/asia-stocks-choppy-after-nvidia-earnings-as-anthropic-pricing-looms-ce785edcde8ef622"
     }
    ]
   },
   {
    "section": "ZEC",
    "impact": "🟢",
-   "confidence": "High",
-   "date": "2026-11-17",
-   "status": "No material change",
-   "title": "Zcash steady near $936",
-   "why": "Zcash traded near $936 on Kraken at 21:30 UK, little changed from about $935 at the afternoon edition, within a day range of about $897 to $961. It is still up on the day while bitcoin is slightly down. No new protocol or listing news since the afternoon edition.",
+   "confidence": "Medium",
+   "date": "2026-11-18",
+   "status": "New",
+   "title": "Zcash up about 3% overnight to near $960",
+   "why": "ZEC traded near $960 on Kraken at 06:30 UK, up from about $935 at the evening edition, in a 24-hour range of about $907 to $973. Separately, Coinbase extended its USDC loans to New York, completing all 50 US states, though ZEC as collateral is not yet offered there, The Block reported.",
    "sources": [
     {
      "name": "Kraken",
-     "url": "https://www.kraken.com/prices/zec-zcash-price-chart"
+     "url": "https://www.kraken.com/prices/zcash"
+    },
+    {
+     "name": "The Block",
+     "url": "https://www.theblock.co/newsletters/the-daily/2026-11-18-ark-invest-crypto-stocks-nvidia-coinbase-loans-new-york-crypto-news-442902"
+    }
+   ]
+  },
+  {
+   "section": "Markets",
+   "impact": "🟢",
+   "confidence": "Medium",
+   "date": "2026-11-18",
+   "status": "Developing",
+   "title": "Anthropic set to price its IPO today",
+   "why": "Anthropic was due to price its shares on Wednesday ahead of trading, at a valuation of up to $1.4 trillion, with Bloomberg reporting guidance at the top of the range or above, Reuters said. A strong debut could steady tech sentiment; a weak one would add to AI worries.",
+   "sources": [
+    {
+     "name": "Reuters via MarketScreener",
+     "url": "https://www.marketscreener.com/news/asia-stocks-choppy-after-nvidia-earnings-as-anthropic-pricing-looms-ce785edcde8ef622"
+    }
+   ]
+  },
+  {
+   "section": "Policy",
+   "impact": "🟢",
+   "confidence": "High",
+   "date": "2026-11-16",
+   "status": "New",
+   "title": "US judge acquits brothers in $25 million Ethereum bot case",
+   "why": "Judge Jessica Clarke in Manhattan acquitted Anton and James Peraire-Bueno of wire fraud and money laundering charges over a 2023 exploit that cost trading bots about $25 million, ruling prosecutors had not proved a material misrepresentation, CoinDesk and The Block reported. It was the first US criminal case over this kind of on-chain trading exploit.",
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "url": "https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud"
+    },
+    {
+     "name": "The Block",
+     "url": "https://www.theblock.co/newsletters/the-daily/2026-11-18-ark-invest-crypto-stocks-nvidia-coinbase-loans-new-york-crypto-news-442902"
     }
    ]
   }
  ],
  "explained": {
-  "title": "Realised losses",
+  "title": "The 200-week moving average",
   "body": [
-   "When a coin moves on chain, analysts compare its price now with its price when it last moved. If it is lower, the seller has realised a loss. Adding these up across the network shows how much holders are selling below what they paid.",
-   "When realised losses are very large compared with realised profits, it usually means recent buyers are giving up. Firms such as Glassnode watch this because past cycle lows came after such bursts, but it shows pressure, not timing, and a burst can repeat before a low is in."
+   "The 200-week moving average is bitcoin's average closing price over roughly the last four years. Because it spans a whole halving cycle, many traders treat it as a long-term floor, and bitcoin has closed a week below it only a handful of times.",
+   "A break below it does not predict what comes next on its own. It tells you the price is below what the average buyer of the past four years paid, which is why it often coincides with heavy loss-taking."
   ]
  },
  "investigating": [
-  "Did US spot bitcoin ETFs keep taking money in on Tuesday after Monday's small inflow? Farside's daily table on Wednesday will answer it.",
-  "Does UK inflation on Wednesday shift Bank of England rate expectations and the pound? The ONS release at 07:00 UK and gilt yields afterwards will show it."
+  "Was Tuesday's IBIT outflow one large holder or broad selling? Farside's fund-by-fund data over the next few days and BlackRock's daily holdings would answer it.",
+  "What is the SEC examining at Nvidia? A company filing or a primary report beyond the Wall Street Journal's would confirm the scope."
  ],
  "corrections": [],
  "ahead": [
   {
    "when": "Wed 18 Nov 07:00 UK",
    "impact": "🟢",
-   "what": "UK CPI (October)"
+   "what": "UK CPI (October), consensus 3.6%"
   },
   {
    "when": "Wed 18 Nov 19:00 UK",
@@ -173,7 +207,7 @@
   {
    "when": "Wed 18 to Thu 19 Nov",
    "impact": "🟠",
-   "what": "Anthropic IPO expected to price and begin trading"
+   "what": "Anthropic IPO prices and begins trading"
   },
   {
    "when": "Sun 22 Nov",
@@ -186,10 +220,15 @@
    "what": "Monthly BTC options and futures expiry"
   },
   {
+   "when": "Fri 4 Dec 13:30 UK",
+   "impact": "🟠",
+   "what": "US jobs report (November)"
+  },
+  {
    "when": "Wed 9 Dec 19:00 UK",
    "impact": "🔴",
    "what": "Fed rate decision and projections"
   }
  ],
- "id": "2026-11-17-2132"
+ "id": "2026-11-18-0633"
 }
