@@ -1,5 +1,25 @@
 [
 {
+"id": "acc0c9d42a8bf97d",
+"title": "Movie2K Defendant Could Hand Over 40,000 Bitcoin to End Trial—and Stay a Billionaire",
+"link": "https://decrypt.co/383533/movie2k-defendant-could-hand-over-40000-bitcoin-to-end-trial-and-stay-a-billionaire",
+"published": "2026-11-18T14:20:52Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-18T14:37:14Z"
+},
+{
+"id": "595c9a8a9e488e10",
+"title": "Bitcoin Price Trades Near $64,000 as Fed’s Waller Floats Half-Point Hike",
+"link": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-64000-waller",
+"published": "2026-11-18T14:09:47Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-18T14:37:14Z"
+},
+{
 "id": "06b0ea97ba95df40",
 "title": "South Korea Set to Let 3,500 Companies Buy Bitcoin, Report Says",
 "link": "https://bitcoinmagazine.com/news/south-korea-companies-buy-bitcoin",
@@ -8,6 +28,16 @@
 "desk": "BTC",
 "kind": "news",
 "first_seen": "2026-11-18T14:07:17Z"
+},
+{
+"id": "6ac727e5e07f6d34",
+"title": "Bitcoin Covenants Part 6: FE Covenants — Enforcing covenants through cryptographically restricted signing keys",
+"link": "https://cointelegraph.com/research/bitcoin-covenants-part-6-fe-covenants-enforcing-covenants-through-cryptographically-restricted-signing-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-18T14:04:50Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-18T14:37:14Z"
 },
 {
 "id": "421742b73842a9b0",
