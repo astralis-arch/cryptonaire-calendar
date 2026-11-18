@@ -1,204 +1,214 @@
 {
- "generated": "2026-11-18T06:33:00Z",
- "mood": "mixed",
+ "generated": "2026-11-18T16:33:00Z",
+ "mood": "risk-off",
  "briefing": {
   "developments": [
-   "Asian markets failed to build on Nvidia's results: the Nikkei slipped 0.3% and MSCI's Asia-Pacific index outside Japan fell for a fifth day, Reuters reported, after Nvidia's board said it would not reinstate Jensen Huang and hired a firm to find a new chief executive.",
-   "US spot bitcoin ETFs saw net outflows of about $240 million on Tuesday, $209.5 million of it from BlackRock's IBIT, according to Farside data as reported by MarsBit.",
-   "Bitcoin was steady overnight near $64,570 on Kraken, while Zcash rose to about $960 from about $935 at the evening edition."
+   "Fed Governor Christopher Waller told CNBC the Fed probably needs a half-point rate rise at its 8 to 9 December meeting, saying he was 'very, very concerned' that inflation is spreading; the two-year Treasury yield rose to 4.83%, Bitcoin Magazine reported.",
+   "Bitcoin slid to about $62,420 on Kraken at 16:30 UK, down from $64,570 at the morning edition and close to the weekend low near $62,000, while gold fell about 2.9% and the Dow lost 1.3%.",
+   "Bitwise filed with the SEC for a spot Zcash ETF, ticker ZEC, to list on the Texas Stock Exchange with Coinbase Custody, Cointelegraph reported; Zcash itself fell about 4% to near $921."
   ],
-  "changed": "Little moved overnight. Bitcoin is flat on the evening edition, Nvidia's after-hours gain did not carry into Asia, and Tuesday's ETF figures returned to outflows after Monday's small inflow. Zcash is the one clear mover, up about 3%.",
-  "question": "Does UK inflation at 07:00 and tonight's Fed minutes add to the rate-rise fears that have weighed on bitcoin, or give it room to recover?",
-  "watch": "UK CPI for October at 07:00 UK, consensus 3.6%. Then FOMC minutes at 19:00 UK. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
+  "changed": "The picture has darkened since the morning. Waller's call for a half-point rise added a hawkish voice to Musalem's, bitcoin lost about $2,150 and is testing the weekend low, and UK inflation came in at 3.6% as expected. The Nvidia lift did not reach the US open: the Dow fell and Nvidia shares dropped about 2%.",
+  "question": "Do tonight's Fed minutes show that Waller's appetite for a half-point rise is widely shared, and does bitcoin hold the weekend low near $62,000 if they do?",
+  "watch": "FOMC minutes at 19:00 UK tonight, then Anthropic's IPO pricing this evening. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
  },
  "lead": {
-  "headline": "Bitcoin holds near $64,500 as Nvidia's beat fails to lift Asia",
-  "standfirst": "Asian shares turned lower after Nvidia's board ruled out Jensen Huang's return, while US bitcoin funds lost about $240 million on Tuesday.",
+  "headline": "Waller floats half-point Fed hike as bitcoin tests weekend low",
+  "standfirst": "A Fed governor's call for a larger December rate rise pushed yields and the dollar higher, and bitcoin slid towards $62,000 ahead of tonight's Fed minutes.",
   "body": [
-   "Bitcoin traded near $64,570 on Kraken at 06:30 UK on Wednesday, almost unchanged from the previous evening, after a 24-hour range of about $63,270 to $65,380.",
-   "Asian markets reversed early gains. Japan's Nikkei fell 0.3% and MSCI's broadest index of Asia-Pacific shares outside Japan slipped 0.1%, a fifth straight fall, Reuters reported. S&P 500 futures were up 0.3%. Nvidia beat forecasts on Tuesday, but its board chair said on the results call that the board did not intend to reinstate Jensen Huang as chief executive and had hired Heidrick & Struggles to find a permanent replacement, Decrypt reported. The Wall Street Journal reported that the SEC is probing Nvidia; the SEC declined to comment, according to Reuters.",
-   "US spot bitcoin ETFs had net outflows of about $239.9 million on Tuesday, with $209.5 million leaving BlackRock's IBIT, according to Farside data cited by MarsBit. That followed a small inflow on Monday which had ended a run of outflows.",
-   "Rate expectations remain the backdrop. St Louis Fed President Alberto Musalem said on Tuesday the Fed may need several rate hikes and should act soon, Reuters reported. The US 10-year yield eased to 5.08%.",
-   "UK inflation figures for October are due at 07:00 UK, with economists expecting 3.6% against 3.5% in September. Minutes of the Fed's October meeting follow at 19:00 UK."
+   "Bitcoin fell to about $62,420 on Kraken at 16:30 UK on Wednesday, down about 3.3% from the morning edition and close to the weekend low near $62,000, after Federal Reserve Governor Christopher Waller said the Fed probably needed a half-point rate rise in December.",
+   "Waller told CNBC that the Fed should reverse its three quarter-point cuts of last year and might need to do more, Bitcoin Magazine reported. He said about 70% of core services items were running above 3% and that inflation was 'headed in the wrong direction'. The two-year Treasury yield rose more than 4 basis points to 4.83% and the dollar touched a 19-month high, the report said.",
+   "Wall Street did not follow Nvidia's results higher. By late morning in New York the Dow was down 1.3% and the S&P 500 0.6%, with Nvidia shares down about 2.2%, according to Yahoo Finance. Gold fell about 2.9%. CME FedWatch put the chance of a December rise at 96%, CoinDesk reported.",
+   "In Britain, inflation rose to 3.6% in October from 3.5%, in line with forecasts, the ONS said, with motor fuels the biggest upward push. Commentators said it added pressure for a second Bank of England rise in December.",
+   "Minutes of the Fed's October meeting are due at 19:00 UK, and Anthropic is expected to price its share sale this evening ahead of Nasdaq trading on Thursday."
   ]
  },
- "headline": "Bitcoin was flat overnight near $64,570 as Asian shares slipped despite Nvidia's beat, and US bitcoin ETFs lost about $240 million on Tuesday. UK inflation at 07:00 and Fed minutes at 19:00 are today's tests.",
- "spoken": "Cryptonaire Post, morning edition. Bitcoin was steady overnight at about sixty four thousand five hundred dollars. Nvidia's strong results did not lift Asia: Japan's Nikkei slipped, after Nvidia's board ruled out Jensen Huang's return as chief executive. US bitcoin funds lost about two hundred and forty million dollars on Tuesday, mostly from BlackRock's fund. Zcash rose about three percent to around nine hundred and sixty dollars. Today, UK inflation at seven a.m., expected at three point six percent, and Fed minutes at seven p.m. Information only, not advice.",
+ "headline": "Fed Governor Waller called for a half-point rate rise in December and bitcoin slid to about $62,400, near its weekend low. Bitwise filed for a spot Zcash ETF, and the Fed minutes land at 19:00 UK.",
+ "spoken": "Cryptonaire Post, afternoon edition. Bitcoin slipped to about sixty two thousand four hundred dollars, down around three percent since the morning and close to the weekend low. Fed Governor Christopher Waller said the Fed probably needs a half point rate rise in December, which lifted yields and the dollar. US shares fell at the open despite Nvidia's results. UK inflation rose to three point six percent, as expected. For Zcash, Bitwise filed for a spot Zcash fund, though the coin fell about four percent to around nine hundred and twenty dollars. Fed minutes are at seven p.m. Information only, not advice.",
  "stories": [
   {
-   "section": "Markets",
+   "section": "Macro",
    "impact": "🔴",
-   "confidence": "High",
+   "confidence": "Medium",
    "date": "2026-11-18",
    "status": "Outlook changed",
-   "title": "Nvidia beat fails to lift Asia as board rules out Huang return",
-   "why": "The Nikkei fell 0.3% and MSCI's Asia-Pacific index outside Japan slipped 0.1% for a fifth daily fall, Reuters reported, while S&P 500 futures rose 0.3%. Nvidia's board chair said it would not reinstate Jensen Huang and hired Heidrick & Struggles to find a permanent chief executive, with Colette Kress staying as interim, Decrypt reported. The Wall Street Journal reported an SEC probe of Nvidia; the SEC declined to comment.",
-   "caveat": "Reports differ on Nvidia's after-hours move, from a gain of up to 3.8% to a small dip. Wednesday's US open at 14:30 UK is the real test.",
-   "note": {
-    "horizon": "intraday",
-    "read": "The evening edition's relief from Nvidia's beat has faded; leadership and regulatory questions are now competing with the strong numbers, which leaves tech, and bitcoin with it, without a clear lift.",
-    "alt": "Asia is simply cautious ahead of Anthropic's listing and the Fed minutes, and Nvidia could still rally at the US open.",
-    "change": "Nvidia opening firmly higher at 14:30 UK with the Nasdaq following, or details of the SEC probe emerging."
-   },
-   "sources": [
-    {
-     "name": "Reuters via MarketScreener",
-     "url": "https://www.marketscreener.com/news/asia-stocks-choppy-after-nvidia-earnings-as-anthropic-pricing-looms-ce785edcde8ef622"
-    },
-    {
-     "name": "Decrypt",
-     "url": "https://decrypt.co/383513/nvidia-board-shuts-down-jensen-huang-comeback"
-    },
-    {
-     "name": "Cointelegraph",
-     "url": "https://cointelegraph.com/markets/nvidia-board-rejects-huang-comeback-amid-record-116b-quarter"
-    }
-   ]
-  },
-  {
-   "section": "ETFs",
-   "impact": "🟠",
-   "confidence": "Medium",
-   "date": "2026-11-17",
-   "status": "Outlook changed",
-   "title": "Bitcoin ETFs lose about $240 million on Tuesday, mostly from IBIT",
-   "why": "US spot bitcoin ETFs had net outflows of about $239.9 million on 17 November, led by BlackRock's IBIT at $209.5 million, with Grayscale's GBTC down $17.7 million, according to Farside data reported by MarsBit. Ether ETFs lost $29.1 million. Monday's small inflow, which ended a run of outflow days, was not followed through.",
-   "caveat": "Farside's own site could not be reached to confirm; figures come from a republished summary of its data.",
+   "title": "Fed's Waller says a half-point December hike is probably needed",
+   "why": "Governor Christopher Waller told CNBC the Fed should reverse last year's three quarter-point cuts and may need to do more, preferring a half-point rise in December if the Fed will not signal a faster pace, Bitcoin Magazine reported. The two-year yield rose to 4.83% and the dollar hit a 19-month high. This builds on Musalem's call on Tuesday; futures already price a quarter-point rise in December and another in January, according to CNBC as cited.",
    "note": {
     "horizon": "swing",
-    "read": "Large holders in the biggest fund are still reducing exposure, so Monday's inflow looks like a pause rather than a turn.",
-    "alt": "One day's IBIT redemption can reflect a single institution rebalancing rather than broad selling.",
-    "change": "Two or three consecutive days of net inflows."
+    "read": "A governor, not just a regional president, now openly backs a bigger move, which raises the bar for tonight's minutes to calm markets; higher real yields and a stronger dollar have been the main weight on bitcoin this month.",
+    "alt": "Waller may be setting out the hawkish edge of the committee rather than the centre, and a quarter-point rise in December would then read as a relief.",
+    "change": "Minutes showing broad reluctance to move fast, or a softer November CPI on 10 December."
    },
    "sources": [
     {
-     "name": "MarsBit via KuCoin News (Farside data)",
-     "url": "https://www.kucoin.com/news/flash/us-bitcoin-and-ethereum-spot-etfs-recorded-net-outflows-of-239-9m-and-29-1m-on-nov-17"
-    }
-   ]
-  },
-  {
-   "section": "UK",
-   "impact": "🟠",
-   "confidence": "Medium",
-   "date": "2026-11-18",
-   "status": "New",
-   "title": "UK inflation due at 07:00, expected to rise to 3.6%",
-   "why": "Economists expect October CPI at 3.6% against 3.5% in September, with core at 2.8% and services at 3.7% last month, AskTraders reported. The Bank of England raised Bank Rate to 4.00% on 5 November, so a hot reading would add to talk of another rise in December and move sterling against the dollar.",
-   "sources": [
+     "name": "Bitcoin Magazine",
+     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-64000-waller"
+    },
     {
-     "name": "AskTraders",
-     "url": "https://www.asktraders.com/analysis/uk-inflation-preview-consensus-sees-3-6/"
+     "name": "CoinDesk",
+     "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher"
     }
    ]
   },
   {
    "section": "BTC",
-   "impact": "🟠",
-   "confidence": "Medium",
+   "impact": "🔴",
+   "confidence": "High",
    "date": "2026-11-18",
    "status": "Developing",
-   "title": "Bitcoin flat overnight near $64,570 after breaking its 200-week average",
-   "why": "Bitcoin traded near $64,570 on Kraken at 06:30 UK, little changed from the evening edition, in a 24-hour range of about $63,270 to $65,380. CoinDesk noted last week's 12.6% fall closed below the 200-week average near $68,000; in the three earlier cases since 2013, bitcoin fell another 10% to 17% before recovering, which applied now would mean roughly $54,000 to $59,000.",
-   "caveat": "Three past cases are a tiny sample, and in 2022 the recovery was cut short by the FTX collapse.",
+   "title": "Bitcoin slides to about $62,400, near the weekend low",
+   "why": "Bitcoin traded near $62,420 on Kraken at 16:30 UK, down from $64,570 at the morning edition, in a 24-hour range of about $62,250 to $65,180. Bitcoin Magazine said a break below the weekend low near $62,000 would put last week's sell-off back in view. CoinDesk reported 24-hour liquidations up 34% to $377 million, open interest barely changed, and the Fear and Greed Index at 13, extreme fear.",
+   "caveat": "Liquidation and sentiment figures were from early Wednesday, before the afternoon drop.",
+   "note": {
+    "horizon": "intraday",
+    "read": "The drop tracks the macro move (higher yields, stronger dollar, weaker gold and stocks) rather than any crypto-specific news, so tonight's minutes matter more than on-chain signals.",
+    "alt": "Thin liquidity and churning leverage can exaggerate moves near a well-watched level like $62,000 regardless of the macro news.",
+    "change": "A daily close below about $62,000, or a quick recovery above $64,000 after the minutes."
+   },
    "sources": [
     {
      "name": "Kraken",
      "url": "https://www.kraken.com/prices/bitcoin"
     },
     {
-     "name": "CoinDesk",
-     "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-s-rare-12-crash-through-its-200-week-average-has-a-bullish-track-record"
-    }
-   ]
-  },
-  {
-   "section": "Macro",
-   "impact": "🟠",
-   "confidence": "Medium",
-   "date": "2026-11-17",
-   "status": "Developing",
-   "title": "Fed's Musalem says several rate hikes may be needed",
-   "why": "St Louis Fed President Alberto Musalem said on Tuesday the Fed may need several rate hikes to control inflation and should act soon, Reuters reported. The dollar index held near 103.6 after its highest since April 2025, the US 10-year yield eased 2 basis points to 5.08% and Brent fell to $92.60. Tonight's minutes will show how widely that view is shared.",
-   "sources": [
+     "name": "Bitcoin Magazine",
+     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-64000-waller"
+    },
     {
-     "name": "Reuters via MarketScreener",
-     "url": "https://www.marketscreener.com/news/asia-stocks-choppy-after-nvidia-earnings-as-anthropic-pricing-looms-ce785edcde8ef622"
+     "name": "CoinDesk",
+     "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher"
     }
    ]
   },
   {
    "section": "ZEC",
-   "impact": "🟢",
+   "impact": "🟠",
    "confidence": "Medium",
    "date": "2026-11-18",
    "status": "New",
-   "title": "Zcash up about 3% overnight to near $960",
-   "why": "ZEC traded near $960 on Kraken at 06:30 UK, up from about $935 at the evening edition, in a 24-hour range of about $907 to $973. Separately, Coinbase extended its USDC loans to New York, completing all 50 US states, though ZEC as collateral is not yet offered there, The Block reported.",
+   "title": "Bitwise files for a spot Zcash ETF on the Texas Stock Exchange",
+   "why": "Bitwise filed an S-1 registration with the SEC for a fund holding Zcash directly, ticker ZEC, custodied by Coinbase Custody, with the Texas Stock Exchange named as the listing venue after an October draft named NYSE Arca, Cointelegraph reported. It is not yet effective and no fee was given. It would join Grayscale's Zcash ETF, live since August, and a Winklevoss filing. ZEC fell to about $921 on Kraken from $960 this morning, with the wider market.",
+   "caveat": "No SEC timeline was reported, and the filing did not lift the ZEC price today.",
+   "note": {
+    "horizon": "longer",
+    "read": "A third US issuer lining up suggests asset managers see lasting demand for a regulated privacy-coin product, which matters for ZEC's access to US money over months, not days.",
+    "alt": "Filings are cheap options for issuers; several Zcash ETF applications do not mean the flows will come.",
+    "change": "The SEC declaring the filing effective, or Grayscale's fund reporting sustained inflows."
+   },
    "sources": [
+    {
+     "name": "Cointelegraph",
+     "url": "https://cointelegraph.com/news/bitwise-zcash-etf-texas-stock-exchange-listing"
+    },
     {
      "name": "Kraken",
      "url": "https://www.kraken.com/prices/zcash"
+    }
+   ]
+  },
+  {
+   "section": "UK",
+   "impact": "🟠",
+   "confidence": "High",
+   "date": "2026-11-18",
+   "status": "Developing",
+   "title": "UK inflation rises to 3.6% in October, as expected",
+   "why": "CPI rose to 3.6% from 3.5%, with CPIH at 3.7% and motor fuels the biggest upward push, according to the ONS figures reported by Mortgage Solutions. It matched forecasts, so it did little on its own, but commentators said it adds pressure for a second Bank of England rise on 17 December after November's increase to 4.00%.",
+   "sources": [
+    {
+     "name": "ONS",
+     "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/october2026"
     },
     {
-     "name": "The Block",
-     "url": "https://www.theblock.co/newsletters/the-daily/2026-11-18-ark-invest-crypto-stocks-nvidia-coinbase-loans-new-york-crypto-news-442902"
+     "name": "Mortgage Solutions",
+     "url": "https://www.mortgagesolutions.co.uk/mortgage-news/2026/11/18/uk-inflation-hits-3-6-in-october-in-increasingly-alarming-picture/"
     }
    ]
   },
   {
    "section": "Markets",
+   "impact": "🟠",
+   "confidence": "Medium",
+   "date": "2026-11-18",
+   "status": "Outlook changed",
+   "title": "Wall Street falls despite Nvidia's beat; gold drops nearly 3%",
+   "why": "By late morning in New York the Dow was down 1.3%, the S&P 500 0.6% and the Nasdaq 0.2%, with Nvidia shares down about 2.2%, Yahoo Finance reported. Gold fell about 2.9%. This morning's hope that Nvidia could lift tech, and bitcoin with it, has not held. Anthropic is due to price its IPO this evening, with Nasdaq trading from Thursday under the ticker ANT.",
+   "sources": [
+    {
+     "name": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-18-dow-sp-500-nasdaq-nvidia-earnings-anthropic-ipo-143530588.html"
+    },
+    {
+     "name": "Bitcoin Magazine",
+     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-64000-waller"
+    }
+   ]
+  },
+  {
+   "section": "Whales",
+   "impact": "🟠",
+   "confidence": "Medium",
+   "date": "2026-11-18",
+   "status": "New",
+   "title": "German court proposes Movie2k operator hand over 40,000 BTC",
+   "why": "A Leipzig judge proposed dropping the money-laundering case if the alleged Movie2k operator surrenders 40,000 BTC, about $2.56 billion, and pays €38 million, CoinDesk reported. Prosecutors think he still holds about 56,000 BTC. The trial resumes on 3 December. Germany sold about 50,000 seized BTC from the same case in mid-2024, which weighed on prices at the time.",
+   "caveat": "The deal is only a proposal, and nothing has been reported on whether or when any surrendered coins would be sold.",
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "url": "https://www.coindesk.com/business/2026/11/18/german-judge-proposes-dropping-movie2k-case-if-operator-hands-over-usd2-56-billion-in-bitcoin"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://decrypt.co/383533/movie2k-defendant-could-hand-over-40000-bitcoin-to-end-trial-and-stay-a-billionaire"
+    }
+   ]
+  },
+  {
+   "section": "BTC",
    "impact": "🟢",
    "confidence": "Medium",
    "date": "2026-11-18",
-   "status": "Developing",
-   "title": "Anthropic set to price its IPO today",
-   "why": "Anthropic was due to price its shares on Wednesday ahead of trading, at a valuation of up to $1.4 trillion, with Bloomberg reporting guidance at the top of the range or above, Reuters said. A strong debut could steady tech sentiment; a weak one would add to AI worries.",
+   "status": "New",
+   "title": "MARA sold 13,597 BTC since September to repay loans",
+   "why": "The miner sold 13,597 BTC at an average of about $81,039, around $1.1 billion, using $750 million to repay bitcoin-backed loans tied to its Long Ridge power plant deal, and has now raised $185 million in 8.75% bonds, CoinDesk reported. It shows a large treasury holder turning coins into cash for energy and AI projects.",
    "sources": [
     {
-     "name": "Reuters via MarketScreener",
-     "url": "https://www.marketscreener.com/news/asia-stocks-choppy-after-nvidia-earnings-as-anthropic-pricing-looms-ce785edcde8ef622"
+     "name": "CoinDesk",
+     "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-miner-mara-raises-usd185-million-in-debt-after-selling-usd1-billion-btc-to-repay-loans"
     }
    ]
   },
   {
    "section": "Policy",
    "impact": "🟢",
-   "confidence": "High",
-   "date": "2026-11-16",
+   "confidence": "Low",
+   "date": "2026-11-18",
    "status": "New",
-   "title": "US judge acquits brothers in $25 million Ethereum bot case",
-   "why": "Judge Jessica Clarke in Manhattan acquitted Anton and James Peraire-Bueno of wire fraud and money laundering charges over a 2023 exploit that cost trading bots about $25 million, ruling prosecutors had not proved a material misrepresentation, CoinDesk and The Block reported. It was the first US criminal case over this kind of on-chain trading exploit.",
+   "title": "South Korea may let 3,500 companies buy bitcoin",
+   "why": "The Financial Services Commission plans guidelines letting about 3,500 listed and professional firms invest in crypto, alongside the draft Digital Asset Basic Act that could go to parliament next week, Bitcoin Magazine reported citing local media. Limits and a start date have not been set.",
+   "caveat": "Based on a local press report; the FSC has not announced it.",
    "sources": [
     {
-     "name": "CoinDesk",
-     "url": "https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud"
-    },
-    {
-     "name": "The Block",
-     "url": "https://www.theblock.co/newsletters/the-daily/2026-11-18-ark-invest-crypto-stocks-nvidia-coinbase-loans-new-york-crypto-news-442902"
+     "name": "Bitcoin Magazine",
+     "url": "https://bitcoinmagazine.com/news/south-korea-companies-buy-bitcoin"
     }
    ]
   }
  ],
  "explained": {
-  "title": "The 200-week moving average",
+  "title": "Why a half-point hike matters more than its size",
   "body": [
-   "The 200-week moving average is bitcoin's average closing price over roughly the last four years. Because it spans a whole halving cycle, many traders treat it as a long-term floor, and bitcoin has closed a week below it only a handful of times.",
-   "A break below it does not predict what comes next on its own. It tells you the price is below what the average buyer of the past four years paid, which is why it often coincides with heavy loss-taking."
+   "Central banks usually move in quarter-point steps. A half-point move signals urgency: the bank is saying inflation is a bigger threat than slowing growth. Markets then price in more rises later, which pushes up yields and the dollar.",
+   "Bitcoin earns no interest, so when safe US government bonds pay more, holding it costs more in missed income. That is one reason bitcoin and gold both fell today as yields rose."
   ]
  },
  "investigating": [
-  "Was Tuesday's IBIT outflow one large holder or broad selling? Farside's fund-by-fund data over the next few days and BlackRock's daily holdings would answer it.",
-  "What is the SEC examining at Nvidia? A company filing or a primary report beyond the Wall Street Journal's would confirm the scope."
+  "How many Fed officials share Waller's view? Tonight's minutes at 19:00 UK and speeches before the 28 November blackout would show it.",
+  "Did Wednesday's ETF flows turn more negative with the price drop? Farside's figures, usually out by the morning edition, would answer it."
  ],
  "corrections": [],
  "ahead": [
-  {
-   "when": "Wed 18 Nov 07:00 UK",
-   "impact": "🟢",
-   "what": "UK CPI (October), consensus 3.6%"
-  },
   {
    "when": "Wed 18 Nov 19:00 UK",
    "impact": "🟢",
@@ -207,7 +217,7 @@
   {
    "when": "Wed 18 to Thu 19 Nov",
    "impact": "🟠",
-   "what": "Anthropic IPO prices and begins trading"
+   "what": "Anthropic IPO prices and begins trading on Nasdaq (ANT)"
   },
   {
    "when": "Sun 22 Nov",
@@ -220,6 +230,11 @@
    "what": "Monthly BTC options and futures expiry"
   },
   {
+   "when": "Thu 3 Dec",
+   "impact": "🟢",
+   "what": "Movie2k trial resumes in Leipzig (40,000 BTC deal proposal)"
+  },
+  {
    "when": "Fri 4 Dec 13:30 UK",
    "impact": "🟠",
    "what": "US jobs report (November)"
@@ -230,5 +245,5 @@
    "what": "Fed rate decision and projections"
   }
  ],
- "id": "2026-11-18-0633"
+ "id": "2026-11-18-1633"
 }

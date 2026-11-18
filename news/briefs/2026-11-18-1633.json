@@ -1,0 +1,125 @@
+{
+  "generated": "2026-11-18T16:33:00Z",
+  "mood": "risk-off",
+  "briefing": {
+    "developments": [
+      "Fed Governor Christopher Waller told CNBC the Fed probably needs a half-point rate rise at its 8 to 9 December meeting, saying he was 'very, very concerned' that inflation is spreading; the two-year Treasury yield rose to 4.83%, Bitcoin Magazine reported.",
+      "Bitcoin slid to about $62,420 on Kraken at 16:30 UK, down from $64,570 at the morning edition and close to the weekend low near $62,000, while gold fell about 2.9% and the Dow lost 1.3%.",
+      "Bitwise filed with the SEC for a spot Zcash ETF, ticker ZEC, to list on the Texas Stock Exchange with Coinbase Custody, Cointelegraph reported; Zcash itself fell about 4% to near $921."
+    ],
+    "changed": "The picture has darkened since the morning. Waller's call for a half-point rise added a hawkish voice to Musalem's, bitcoin lost about $2,150 and is testing the weekend low, and UK inflation came in at 3.6% as expected. The Nvidia lift did not reach the US open: the Dow fell and Nvidia shares dropped about 2%.",
+    "question": "Do tonight's Fed minutes show that Waller's appetite for a half-point rise is widely shared, and does bitcoin hold the weekend low near $62,000 if they do?",
+    "watch": "FOMC minutes at 19:00 UK tonight, then Anthropic's IPO pricing this evening. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
+  },
+  "lead": {
+    "headline": "Waller floats half-point Fed hike as bitcoin tests weekend low",
+    "standfirst": "A Fed governor's call for a larger December rate rise pushed yields and the dollar higher, and bitcoin slid towards $62,000 ahead of tonight's Fed minutes.",
+    "body": [
+      "Bitcoin fell to about $62,420 on Kraken at 16:30 UK on Wednesday, down about 3.3% from the morning edition and close to the weekend low near $62,000, after Federal Reserve Governor Christopher Waller said the Fed probably needed a half-point rate rise in December.",
+      "Waller told CNBC that the Fed should reverse its three quarter-point cuts of last year and might need to do more, Bitcoin Magazine reported. He said about 70% of core services items were running above 3% and that inflation was 'headed in the wrong direction'. The two-year Treasury yield rose more than 4 basis points to 4.83% and the dollar touched a 19-month high, the report said.",
+      "Wall Street did not follow Nvidia's results higher. By late morning in New York the Dow was down 1.3% and the S&P 500 0.6%, with Nvidia shares down about 2.2%, according to Yahoo Finance. Gold fell about 2.9%. CME FedWatch put the chance of a December rise at 96%, CoinDesk reported.",
+      "In Britain, inflation rose to 3.6% in October from 3.5%, in line with forecasts, the ONS said, with motor fuels the biggest upward push. Commentators said it added pressure for a second Bank of England rise in December.",
+      "Minutes of the Fed's October meeting are due at 19:00 UK, and Anthropic is expected to price its share sale this evening ahead of Nasdaq trading on Thursday."
+    ]
+  },
+  "headline": "Fed Governor Waller called for a half-point rate rise in December and bitcoin slid to about $62,400, near its weekend low. Bitwise filed for a spot Zcash ETF, and the Fed minutes land at 19:00 UK.",
+  "spoken": "Cryptonaire Post, afternoon edition. Bitcoin slipped to about sixty two thousand four hundred dollars, down around three percent since the morning and close to the weekend low. Fed Governor Christopher Waller said the Fed probably needs a half point rate rise in December, which lifted yields and the dollar. US shares fell at the open despite Nvidia's results. UK inflation rose to three point six percent, as expected. For Zcash, Bitwise filed for a spot Zcash fund, though the coin fell about four percent to around nine hundred and twenty dollars. Fed minutes are at seven p.m. Information only, not advice.",
+  "stories": [
+    {
+      "section": "Macro", "impact": "🔴", "confidence": "Medium", "date": "2026-11-18", "status": "Outlook changed",
+      "title": "Fed's Waller says a half-point December hike is probably needed",
+      "why": "Governor Christopher Waller told CNBC the Fed should reverse last year's three quarter-point cuts and may need to do more, preferring a half-point rise in December if the Fed will not signal a faster pace, Bitcoin Magazine reported. The two-year yield rose to 4.83% and the dollar hit a 19-month high. This builds on Musalem's call on Tuesday; futures already price a quarter-point rise in December and another in January, according to CNBC as cited.",
+      "note": {"horizon": "swing", "read": "A governor, not just a regional president, now openly backs a bigger move, which raises the bar for tonight's minutes to calm markets; higher real yields and a stronger dollar have been the main weight on bitcoin this month.", "alt": "Waller may be setting out the hawkish edge of the committee rather than the centre, and a quarter-point rise in December would then read as a relief.", "change": "Minutes showing broad reluctance to move fast, or a softer November CPI on 10 December."},
+      "sources": [
+        {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-64000-waller"},
+        {"name": "CoinDesk", "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher"}
+      ]
+    },
+    {
+      "section": "BTC", "impact": "🔴", "confidence": "High", "date": "2026-11-18", "status": "Developing",
+      "title": "Bitcoin slides to about $62,400, near the weekend low",
+      "why": "Bitcoin traded near $62,420 on Kraken at 16:30 UK, down from $64,570 at the morning edition, in a 24-hour range of about $62,250 to $65,180. Bitcoin Magazine said a break below the weekend low near $62,000 would put last week's sell-off back in view. CoinDesk reported 24-hour liquidations up 34% to $377 million, open interest barely changed, and the Fear and Greed Index at 13, extreme fear.",
+      "caveat": "Liquidation and sentiment figures were from early Wednesday, before the afternoon drop.",
+      "note": {"horizon": "intraday", "read": "The drop tracks the macro move (higher yields, stronger dollar, weaker gold and stocks) rather than any crypto-specific news, so tonight's minutes matter more than on-chain signals.", "alt": "Thin liquidity and churning leverage can exaggerate moves near a well-watched level like $62,000 regardless of the macro news.", "change": "A daily close below about $62,000, or a quick recovery above $64,000 after the minutes."},
+      "sources": [
+        {"name": "Kraken", "url": "https://www.kraken.com/prices/bitcoin"},
+        {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-64000-waller"},
+        {"name": "CoinDesk", "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher"}
+      ]
+    },
+    {
+      "section": "ZEC", "impact": "🟠", "confidence": "Medium", "date": "2026-11-18", "status": "New",
+      "title": "Bitwise files for a spot Zcash ETF on the Texas Stock Exchange",
+      "why": "Bitwise filed an S-1 registration with the SEC for a fund holding Zcash directly, ticker ZEC, custodied by Coinbase Custody, with the Texas Stock Exchange named as the listing venue after an October draft named NYSE Arca, Cointelegraph reported. It is not yet effective and no fee was given. It would join Grayscale's Zcash ETF, live since August, and a Winklevoss filing. ZEC fell to about $921 on Kraken from $960 this morning, with the wider market.",
+      "caveat": "No SEC timeline was reported, and the filing did not lift the ZEC price today.",
+      "note": {"horizon": "longer", "read": "A third US issuer lining up suggests asset managers see lasting demand for a regulated privacy-coin product, which matters for ZEC's access to US money over months, not days.", "alt": "Filings are cheap options for issuers; several Zcash ETF applications do not mean the flows will come.", "change": "The SEC declaring the filing effective, or Grayscale's fund reporting sustained inflows."},
+      "sources": [
+        {"name": "Cointelegraph", "url": "https://cointelegraph.com/news/bitwise-zcash-etf-texas-stock-exchange-listing"},
+        {"name": "Kraken", "url": "https://www.kraken.com/prices/zcash"}
+      ]
+    },
+    {
+      "section": "UK", "impact": "🟠", "confidence": "High", "date": "2026-11-18", "status": "Developing",
+      "title": "UK inflation rises to 3.6% in October, as expected",
+      "why": "CPI rose to 3.6% from 3.5%, with CPIH at 3.7% and motor fuels the biggest upward push, according to the ONS figures reported by Mortgage Solutions. It matched forecasts, so it did little on its own, but commentators said it adds pressure for a second Bank of England rise on 17 December after November's increase to 4.00%.",
+      "sources": [
+        {"name": "ONS", "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/october2026"},
+        {"name": "Mortgage Solutions", "url": "https://www.mortgagesolutions.co.uk/mortgage-news/2026/11/18/uk-inflation-hits-3-6-in-october-in-increasingly-alarming-picture/"}
+      ]
+    },
+    {
+      "section": "Markets", "impact": "🟠", "confidence": "Medium", "date": "2026-11-18", "status": "Outlook changed",
+      "title": "Wall Street falls despite Nvidia's beat; gold drops nearly 3%",
+      "why": "By late morning in New York the Dow was down 1.3%, the S&P 500 0.6% and the Nasdaq 0.2%, with Nvidia shares down about 2.2%, Yahoo Finance reported. Gold fell about 2.9%. This morning's hope that Nvidia could lift tech, and bitcoin with it, has not held. Anthropic is due to price its IPO this evening, with Nasdaq trading from Thursday under the ticker ANT.",
+      "sources": [
+        {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-18-dow-sp-500-nasdaq-nvidia-earnings-anthropic-ipo-143530588.html"},
+        {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-64000-waller"}
+      ]
+    },
+    {
+      "section": "Whales", "impact": "🟠", "confidence": "Medium", "date": "2026-11-18", "status": "New",
+      "title": "German court proposes Movie2k operator hand over 40,000 BTC",
+      "why": "A Leipzig judge proposed dropping the money-laundering case if the alleged Movie2k operator surrenders 40,000 BTC, about $2.56 billion, and pays €38 million, CoinDesk reported. Prosecutors think he still holds about 56,000 BTC. The trial resumes on 3 December. Germany sold about 50,000 seized BTC from the same case in mid-2024, which weighed on prices at the time.",
+      "caveat": "The deal is only a proposal, and nothing has been reported on whether or when any surrendered coins would be sold.",
+      "sources": [
+        {"name": "CoinDesk", "url": "https://www.coindesk.com/business/2026/11/18/german-judge-proposes-dropping-movie2k-case-if-operator-hands-over-usd2-56-billion-in-bitcoin"},
+        {"name": "Decrypt", "url": "https://decrypt.co/383533/movie2k-defendant-could-hand-over-40000-bitcoin-to-end-trial-and-stay-a-billionaire"}
+      ]
+    },
+    {
+      "section": "BTC", "impact": "🟢", "confidence": "Medium", "date": "2026-11-18", "status": "New",
+      "title": "MARA sold 13,597 BTC since September to repay loans",
+      "why": "The miner sold 13,597 BTC at an average of about $81,039, around $1.1 billion, using $750 million to repay bitcoin-backed loans tied to its Long Ridge power plant deal, and has now raised $185 million in 8.75% bonds, CoinDesk reported. It shows a large treasury holder turning coins into cash for energy and AI projects.",
+      "sources": [
+        {"name": "CoinDesk", "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-miner-mara-raises-usd185-million-in-debt-after-selling-usd1-billion-btc-to-repay-loans"}
+      ]
+    },
+    {
+      "section": "Policy", "impact": "🟢", "confidence": "Low", "date": "2026-11-18", "status": "New",
+      "title": "South Korea may let 3,500 companies buy bitcoin",
+      "why": "The Financial Services Commission plans guidelines letting about 3,500 listed and professional firms invest in crypto, alongside the draft Digital Asset Basic Act that could go to parliament next week, Bitcoin Magazine reported citing local media. Limits and a start date have not been set.",
+      "caveat": "Based on a local press report; the FSC has not announced it.",
+      "sources": [
+        {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/news/south-korea-companies-buy-bitcoin"}
+      ]
+    }
+  ],
+  "explained": {
+    "title": "Why a half-point hike matters more than its size",
+    "body": ["Central banks usually move in quarter-point steps. A half-point move signals urgency: the bank is saying inflation is a bigger threat than slowing growth. Markets then price in more rises later, which pushes up yields and the dollar.", "Bitcoin earns no interest, so when safe US government bonds pay more, holding it costs more in missed income. That is one reason bitcoin and gold both fell today as yields rose."]
+  },
+  "investigating": [
+    "How many Fed officials share Waller's view? Tonight's minutes at 19:00 UK and speeches before the 28 November blackout would show it.",
+    "Did Wednesday's ETF flows turn more negative with the price drop? Farside's figures, usually out by the morning edition, would answer it."
+  ],
+  "corrections": [],
+  "ahead": [
+    {"when": "Wed 18 Nov 19:00 UK", "impact": "🟢", "what": "FOMC minutes (October meeting)"},
+    {"when": "Wed 18 to Thu 19 Nov", "impact": "🟠", "what": "Anthropic IPO prices and begins trading on Nasdaq (ANT)"},
+    {"when": "Sun 22 Nov", "impact": "🟢", "what": "Russian exchanges may begin organised crypto trading"},
+    {"when": "Fri 27 Nov 08:00 UK", "impact": "🟠", "what": "Monthly BTC options and futures expiry"},
+    {"when": "Thu 3 Dec", "impact": "🟢", "what": "Movie2k trial resumes in Leipzig (40,000 BTC deal proposal)"},
+    {"when": "Fri 4 Dec 13:30 UK", "impact": "🟠", "what": "US jobs report (November)"},
+    {"when": "Wed 9 Dec 19:00 UK", "impact": "🔴", "what": "Fed rate decision and projections"}
+  ]
+}
