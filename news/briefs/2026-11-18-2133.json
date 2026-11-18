@@ -1,0 +1,103 @@
+{
+  "generated": "2026-11-18T21:33:00Z",
+  "mood": "risk-off",
+  "briefing": {
+    "developments": [
+      "Minutes of the Fed's October meeting showed almost all officials expect further rate rises, and a couple said a move bigger than a quarter point could be considered in December if inflation data disappoint.",
+      "Bitcoin ended the US session at about $62,350 on Kraken, down about 3.9% on the day and holding just above the weekend low near $62,000; Zcash slipped to about $909.",
+      "Binance won a $6.5 billion worldwide freezing order from the Abu Dhabi Global Market Courts against those behind its 29 October hack, The Block reported."
+    ],
+    "changed": "Little has moved in price since the afternoon: bitcoin is about $70 lower and still sits on the $62,000 floor. The minutes did not calm the hawkish mood, because they show Waller's half-point idea was already being discussed in October, though only by a couple of officials.",
+    "question": "Does bitcoin hold the weekend low near $62,000 overnight, now that the minutes have confirmed a December rise is close to certain?",
+    "watch": "Anthropic's first day of trading on Nasdaq on Thursday 19 November, and Wednesday's ETF flows by the morning edition. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
+  },
+  "lead": {
+    "headline": "Fed minutes back more hikes as bitcoin clings to $62,000",
+    "standfirst": "Minutes of the Fed's October meeting showed almost all officials expect further rate rises, and bitcoin ended the US session pinned just above its weekend low.",
+    "body": [
+      "Bitcoin traded at about $62,350 on Kraken at 21:30 UK on Wednesday, down about 3.9% on the day and just above the weekend low near $62,000, after minutes of the Federal Reserve's October meeting pointed to further rate rises.",
+      "Almost all participants judged that further increases would likely be appropriate to bring inflation back to 2% in a timely way, according to the minutes released at 19:00 UK. A couple said a rise of more than a quarter point could warrant consideration at the December meeting if inflation data were unfavourable, and many described the AI buildout as a material source of inflation risk. The Fed held rates at 3.75% to 4% in October, with two officials voting for a rise.",
+      "The minutes echoed Governor Christopher Waller, who told CNBC on Wednesday that a half-point December rise was probably needed. Analysts quoted by Decrypt also pointed to US spot bitcoin ETF outflows of $239.9 million on Tuesday and a closer link between bitcoin and Nvidia shares.",
+      "CryptoQuant said bitcoin had slipped back into a bearish phase below its 200-day average near $72,900, The Block reported, though it flagged $62,000 to $65,000 as a 'value zone'.",
+      "Separately, Binance said an Abu Dhabi court had granted a $6.5 billion worldwide freezing order over its October hack. Anthropic's shares are due to start trading on Nasdaq on Thursday."
+    ]
+  },
+  "headline": "Fed minutes showed almost all officials expect more rate rises, with a couple open to a bigger December move. Bitcoin ended the US session near $62,350, just above its weekend low.",
+  "spoken": "Cryptonaire Post, evening edition. Bitcoin finished the US session at about sixty two thousand three hundred and fifty dollars, down almost four percent on the day and just above the weekend low. Minutes of the Fed's October meeting showed almost all officials expect more rate rises, and a couple were open to a bigger move in December if inflation disappoints. Zcash slipped to about nine hundred and ten dollars. Binance won a six and a half billion dollar freezing order over last month's hack. Tomorrow, Anthropic starts trading on Nasdaq. Information only, not advice.",
+  "stories": [
+    {
+      "section": "Macro", "impact": "🔴", "confidence": "High", "date": "2026-11-18", "status": "Developing",
+      "title": "Fed minutes: almost all officials expect further rate rises",
+      "why": "The October minutes said almost all participants saw further increases as likely appropriate, a couple said a move of more than 25 basis points could be considered in December if inflation data were unfavourable, and the vast majority saw upside risks to inflation, with many naming the AI buildout. This adds that Waller's half-point idea already had some support in October, but only from a couple of officials, not the committee's centre.",
+      "note": {"horizon": "swing", "read": "The minutes confirm the direction markets already price (a December rise at about 96% per CME FedWatch, as reported earlier) rather than adding a new shock, so the next real test is November CPI on 10 December, the day after the decision.", "alt": "Because the minutes predate Waller's and Musalem's comments, the committee may have moved further towards a half-point since October, which the minutes cannot show.", "change": "More officials backing a half-point rise before the 28 November blackout, or a soft US jobs report on 4 December."},
+      "sources": [
+        {"name": "Federal Reserve", "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm"},
+        {"name": "Decrypt", "url": "https://decrypt.co/383566/fed-waller-50-basis-point-rate-hike-tokenized-finance-banks"}
+      ]
+    },
+    {
+      "section": "BTC", "impact": "🔴", "confidence": "High", "date": "2026-11-18", "status": "Developing",
+      "title": "Bitcoin ends the day near $62,350, just above the weekend low",
+      "why": "Bitcoin traded at about $62,350 on Kraken at 21:30 UK, down from about $64,880 at the start of the 24-hour window and only about $70 lower than the afternoon edition, with a 24-hour low of $62,210. Analysts quoted by Decrypt pointed to AI-stock weakness (bitcoin's 30-day correlation with Nvidia rose to 0.56, per Block Scholes), rising yields and stop-loss selling.",
+      "note": {"horizon": "intraday", "read": "Price has stalled on the $62,000 level rather than breaking it, so the minutes did not add fresh selling; the level is now the line many traders watch overnight.", "alt": "A quiet evening may just reflect thin US after-hours trading, and Asia could still test the low.", "change": "A sustained move below about $62,000, or a rebound above $64,000 after Anthropic's debut."},
+      "sources": [
+        {"name": "Kraken", "url": "https://www.kraken.com/prices/bitcoin"},
+        {"name": "Decrypt", "url": "https://decrypt.co/383551/bitcoin-tanks-ahead-anthropics-ipo-should-we-really-blame-ai"}
+      ]
+    },
+    {
+      "section": "BTC", "impact": "🟠", "confidence": "Medium", "date": "2026-11-18", "status": "New",
+      "title": "CryptoQuant: bitcoin back in a bearish phase, but in a 'value zone'",
+      "why": "Bitcoin is below its 200-day average near $72,900 and 365-day average near $75,900, demand growth over 30 days is the weakest since early July, and holders realised a net loss of 25,800 BTC in a day, the largest since 13 July, CryptoQuant said, The Block reported. Its unrealised profit margin of minus 20% puts price in what it calls a 'value zone' of $62,000 to $65,000.",
+      "note": {"horizon": "longer", "read": "Heavy loss-taking and weak demand describe a market under strain, while the 'value zone' label is CryptoQuant's own interpretation, not a signal that has been tested here.", "alt": "Loss-taking can keep building for weeks in a bearish phase before it marks a low.", "change": "Demand growth turning positive, or price reclaiming the 200-day average."},
+      "sources": [
+        {"name": "The Block", "url": "https://www.theblock.co/news/markets/2026-11-18-cryptoquant-bitcoin-bearish-value-zone-443471"}
+      ]
+    },
+    {
+      "section": "ETFs", "impact": "🟠", "confidence": "Medium", "date": "2026-11-18", "status": "New",
+      "title": "US spot bitcoin ETFs lost $239.9 million on Tuesday",
+      "why": "Outflows were led by $209.5 million from BlackRock's IBIT, Decrypt reported. Wednesday's figures, after the price drop, are not yet out.",
+      "sources": [
+        {"name": "Decrypt", "url": "https://decrypt.co/383551/bitcoin-tanks-ahead-anthropics-ipo-should-we-really-blame-ai"}
+      ]
+    },
+    {
+      "section": "Whales", "impact": "🟠", "confidence": "High", "date": "2026-11-18", "status": "New",
+      "title": "Binance wins $6.5 billion worldwide freezing order over October hack",
+      "why": "The Abu Dhabi Global Market Courts granted the order against unidentified attackers behind the 29 October hack, which affected about $6.34 billion of assets, The Block reported; Binance has listed 26,000 wallet addresses and says about $2.85 billion was frozen or intercepted earlier. It matters because some of the rest, including bitcoin, could still be moved or sold.",
+      "caveat": "An Elliptic co-founder estimated about $3.3 billion sits in bitcoin, ether and XRP that no one can freeze, so the order's practical reach is unclear.",
+      "sources": [
+        {"name": "The Block", "url": "https://www.theblock.co/news/business/2026-11-18-binance-freezing-court-order-adgm-crypto-october-hack-443491"},
+        {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/news/binance-abu-dhabi-order-recover-frozen"}
+      ]
+    },
+    {
+      "section": "ZEC", "impact": "🟢", "confidence": "High", "date": "2026-11-18", "status": "No material change",
+      "title": "Zcash drifts to about $909 with the market",
+      "why": "ZEC traded at about $909 on Kraken at 21:30 UK, down about 6% on the day and from about $921 at the afternoon edition. Nothing new on Bitwise's spot Zcash ETF filing since the afternoon.",
+      "sources": [
+        {"name": "Kraken", "url": "https://www.kraken.com/prices/zcash"}
+      ]
+    }
+  ],
+  "explained": {
+    "title": "What Fed minutes are, and why they arrive late",
+    "body": ["The Fed publishes a written record of each rate meeting three weeks after it ends. It does not name who said what, but uses set words: 'almost all' means nearly everyone, 'many' is a large group, 'a couple' means two.", "Because they are three weeks old, minutes can lag newer speeches. Tonight's showed only a couple of officials in October open to a bigger move, before Waller said so publicly this week."]
+  },
+  "investigating": [
+    "Did Wednesday's ETF flows turn more negative with the price drop? Farside's figures, usually out by the morning edition, would answer it.",
+    "Will the Binance hacker move the unfrozen bitcoin? On-chain alerts on the 26,000 listed addresses would show it.",
+    "How the US market closed today could not be confirmed from a reliable source before publication; the morning edition will check."
+  ],
+  "corrections": [],
+  "ahead": [
+    {"when": "Thu 19 Nov (US session)", "impact": "🟠", "what": "Anthropic shares expected to start trading on Nasdaq (ANT)"},
+    {"when": "Sun 22 Nov", "impact": "🟢", "what": "Russian exchanges may begin organised crypto trading"},
+    {"when": "Fri 27 Nov 08:00 UK", "impact": "🟠", "what": "Monthly BTC options and futures expiry"},
+    {"when": "Thu 3 Dec", "impact": "🟢", "what": "Movie2k trial resumes in Leipzig (40,000 BTC deal proposal)"},
+    {"when": "Fri 4 Dec 13:30 UK", "impact": "🟠", "what": "US jobs report (November)"},
+    {"when": "Wed 9 Dec 19:00 UK", "impact": "🔴", "what": "Fed rate decision and projections"},
+    {"when": "Thu 10 Dec 13:30 UK", "impact": "🔴", "what": "US CPI (November)"}
+  ]
+}
