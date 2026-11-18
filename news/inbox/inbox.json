@@ -1,5 +1,35 @@
 [
 {
+"id": "8a3dc2d04dd62c08",
+"title": "Barr, Investing in America’s Underserved Communities",
+"link": "https://www.federalreserve.gov/newsevents/speech/barr20261118a.htm",
+"published": "2026-11-18T18:35:00Z",
+"source": "Federal Reserve (speeches)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-18T18:37:10Z"
+},
+{
+"id": "a9e26f828a256952",
+"title": "MARA prices $185M debt offering after $1.1B Bitcoin sale",
+"link": "https://cointelegraph.com/markets/mara-long-ridge-debt-offering-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-18T18:27:52Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-18T18:37:10Z"
+},
+{
+"id": "953dd595ce5c3adc",
+"title": "Fed's Waller Calls for 50-Basis-Point Rate Hike, Says Tokenized Finance Still Needs Traditional Banks",
+"link": "https://decrypt.co/383566/fed-waller-50-basis-point-rate-hike-tokenized-finance-banks",
+"published": "2026-11-18T18:16:02Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-18T18:37:10Z"
+},
+{
 "id": "d17d1199f7ce04ca",
 "title": "Julian La Picque for ZCG (December 2026)",
 "link": "https://forum.zcashcommunity.com/t/julian-la-picque-for-zcg-december-2026/59442",
