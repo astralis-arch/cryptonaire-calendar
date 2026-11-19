@@ -1,5 +1,45 @@
 [
 {
+"id": "a0a0cd2a95d10cbe",
+"title": "Gen Z Embraces Crypto While Most Americans Call It a 'Side Quest'",
+"link": "https://decrypt.co/383589/gen-z-embraces-crypto-most-americans-side-quest",
+"published": "2026-11-19T14:01:02Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-19T14:07:15Z"
+},
+{
+"id": "88a5095ab8308f44",
+"title": "Bitcoin Price Rebounds Near $64,000 as Anthropic IPO Lifts Tech Stocks",
+"link": "https://bitcoinmagazine.com/markets/bitcoin-price-rebounds-64000-anthropic",
+"published": "2026-11-19T14:00:49Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-19T14:07:15Z"
+},
+{
+"id": "6621a3441826eee0",
+"title": "Bitcoin finance protocol Hashi goes live on Sui mainnet",
+"link": "https://www.theblock.co/news/defi/2026-11-19-bitcoin-finance-protocol-hashi-goes-live-on-sui-mainnet-443608",
+"published": "2026-11-19T14:00:00Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-19T14:07:15Z"
+},
+{
+"id": "265a7ace81e3f6a2",
+"title": "Quantum Upgrade Could Be 'Particularly Challenging' for Blockchains: IOSCO",
+"link": "https://decrypt.co/383613/quantum-upgrade-could-be-particularly-challenging-for-blockchains-iosco",
+"published": "2026-11-19T13:47:00Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-19T14:07:15Z"
+},
+{
 "id": "de3ba24394c4b533",
 "title": "Ethereum’s new DeFi security tool raises questions over censorship",
 "link": "https://cointelegraph.com/magazine/ethereums-new-defi-security-tool-raises-questions-over-censorship?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -6078,6 +6118,16 @@
 "desk": "Macro",
 "kind": "official",
 "first_seen": "2026-11-13T01:28:03Z"
+},
+{
+"id": "26d3012260db32ae",
+"title": "Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes",
+"link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
+"published": "2026-11-05T12:00:00Z",
+"source": "Bank of England",
+"desk": "UK",
+"kind": "official",
+"first_seen": "2026-11-19T14:07:15Z"
 },
 {
 "id": "8d5a24149ad723ae",
