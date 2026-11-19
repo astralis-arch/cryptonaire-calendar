@@ -1,5 +1,15 @@
 [
 {
+"id": "fb6283c4d9e0c28c",
+"title": "Ledger expands hardware hack investigation to Germany, UAE as new cases emerge",
+"link": "https://www.theblock.co/news/web3/2026-11-18-ledger-new-hardware-incidents-germany-uae-443530",
+"published": "2026-11-19T04:13:18Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-19T04:37:11Z"
+},
+{
 "id": "cf2fd5feb2beb341",
 "title": "Zebra 7.2.0-beta.1",
 "link": "https://github.com/ZcashFoundation/zebra/releases/tag/v7.2.0-beta.1",
