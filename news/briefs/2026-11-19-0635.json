@@ -1,0 +1,102 @@
+{
+  "generated": "2026-11-19T06:35:00Z",
+  "mood": "mixed",
+  "briefing": {
+    "developments": [
+      "Bitcoin touched exactly $62,000 on Kraken late on Wednesday evening, then recovered overnight to about $63,570 by 06:30 UK, up about 2% on the evening edition.",
+      "Anthropic priced its Nasdaq listing at $83 a share, above its $70 to $78 range, raising $81.3 billion at a fully diluted value of about $1.5 trillion, Reuters reported; trading under ANT starts today.",
+      "US spot bitcoin ETFs lost a further $306.4 million on Wednesday, the second straight day of outflows, led by $148.7 million from BlackRock's IBIT, according to SoSoValue data."
+    ],
+    "changed": "The $62,000 floor held on a test and Asia lifted bitcoin back above $63,500, so the overnight picture is calmer than last night's. The wider backdrop has not changed: ETF selling grew rather than eased, and the Fed minutes still point to a December rise.",
+    "question": "Does Anthropic's debut today pull money towards or away from bitcoin, given bitcoin's recent close link with AI shares?",
+    "watch": "Anthropic's first trade on Nasdaq after the US open at 14:30 UK today, and Thursday's ETF flows by tomorrow morning. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
+  },
+  "lead": {
+    "headline": "Bitcoin holds $62,000 test as Anthropic prices record listing",
+    "standfirst": "Bitcoin dipped to its weekend low late on Wednesday and recovered overnight, as Anthropic priced the largest share sale on record ahead of its Nasdaq debut today.",
+    "body": [
+      "Bitcoin traded at about $63,570 on Kraken at 06:30 UK on Thursday, up about 2% from the evening edition, after falling to exactly $62,000 shortly after 22:00 UK on Wednesday and then recovering through the Asian session.",
+      "Anthropic priced its initial public offering at $83 a share, above its indicated range of $70 to $78, raising $81.3 billion and valuing the company at about $1.5 trillion on a fully diluted basis, Reuters reported, citing a source. The shares are due to begin trading on Nasdaq under the ticker ANT on Thursday.",
+      "The listing matters for bitcoin because the two have been trading closely: bitcoin's 30-day correlation with Nvidia shares had risen to 0.56, Block Scholes said, as reported earlier this week.",
+      "Selling through US spot bitcoin funds continued. They recorded net outflows of $306.4 million on Wednesday, the second straight day, with $148.7 million leaving BlackRock's IBIT, TokenPost reported, citing SoSoValue data.",
+      "Separately, court documents showed that bitcoin worth about $1.42 billion was among the $6.3 billion stolen from Binance in October, Cointelegraph reported. A hearing on 1 December will consider extending the court's freezing order."
+    ]
+  },
+  "headline": "Bitcoin held a test of $62,000 late on Wednesday and recovered to about $63,570 overnight. Anthropic priced its record Nasdaq listing at $83 a share ahead of trading today, while ETF outflows grew to $306 million.",
+  "spoken": "Cryptonaire Post, morning edition. Bitcoin dipped to exactly sixty two thousand dollars late last night, then recovered overnight to about sixty three thousand six hundred, up around two percent. Anthropic priced its listing at eighty three dollars a share, raising about eighty one billion dollars, and starts trading on Nasdaq after the US open at half past two this afternoon. US bitcoin funds lost another three hundred million dollars on Wednesday. Zcash rose to about nine hundred and forty five dollars. Information only, not advice.",
+  "stories": [
+    {
+      "section": "BTC", "impact": "🔴", "confidence": "High", "date": "2026-11-19", "status": "Developing",
+      "title": "Bitcoin tests $62,000 overnight and bounces to about $63,570",
+      "why": "Bitcoin fell to exactly $62,000 on Kraken in the hour after 22:00 UK, the weekend low, then climbed through the Asian session to about $63,570 at 06:30 UK, with an overnight high of $63,680. This adds that the level held on a direct test rather than breaking.",
+      "note": {"horizon": "intraday", "read": "A clean bounce from a round number many traders watch suggests buyers defended it, but the move came on thin overnight volume and leaves price well below the $65,000 area it lost on Wednesday.", "alt": "Overnight bounces have faded during US hours several times this month, as ETF selling arrives after the 14:30 UK open.", "change": "A fresh break below $62,000 in US hours, or a move back above $65,000."},
+      "sources": [
+        {"name": "Kraken", "url": "https://www.kraken.com/prices/bitcoin"}
+      ]
+    },
+    {
+      "section": "Markets", "impact": "🔴", "confidence": "High", "date": "2026-11-18", "status": "Developing",
+      "title": "Anthropic prices IPO at $83, above range, and trades on Nasdaq today",
+      "why": "The offer raised $81.3 billion, with a further $26 billion private placement at the same price, valuing the company at about $1.5 trillion fully diluted, Reuters reported. With bitcoin trading closely with AI shares this month, the debut is today's main test of risk appetite.",
+      "note": {"horizon": "intraday", "read": "Pricing above the range shows strong demand for AI shares despite this week's sell-off, which may steady sentiment that has been weighing on bitcoin.", "alt": "A deal this large draws cash from elsewhere, and a weak first day would add to the AI-stock nerves that hit bitcoin this week.", "change": "How ANT trades in its first hours after the 14:30 UK open, and whether Nasdaq follows it."},
+      "sources": [
+        {"name": "Reuters via Investing.com", "url": "https://www.investing.com/news/stock-market-news/anthropic-prices-blockbuster-ipo-at-83-a-share-source-says-5037110"},
+        {"name": "Fortune", "url": "https://fortune.com/2026/11/18/anthropic-prices-ipo-83-per-share-1-5-trillion/"}
+      ]
+    },
+    {
+      "section": "ETFs", "impact": "🟠", "confidence": "Medium", "date": "2026-11-18", "status": "Developing",
+      "title": "Bitcoin ETF outflows grow to $306 million on Wednesday",
+      "why": "US spot bitcoin ETFs lost $306.4 million, up from $239.9 million on Tuesday, led by IBIT ($148.7 million) and Fidelity's FBTC ($69.3 million), TokenPost reported, citing SoSoValue. This adds that selling grew as price fell, rather than easing.",
+      "note": {"horizon": "swing", "read": "Two days of outflows during a hawkish Fed week fit the steady November pattern of fund selling, rather than a sudden rush for the exit.", "alt": "Some outflows may be investors switching to Anthropic exposure ahead of the listing, which would be one-off.", "change": "A day of net inflows while price holds above $62,000."},
+      "sources": [
+        {"name": "TokenPost", "url": "https://www.tokenpost.com/news/investing/61148"}
+      ]
+    },
+    {
+      "section": "Whales", "impact": "🟠", "confidence": "Medium", "date": "2026-11-19", "status": "Developing",
+      "title": "Court papers: about $1.42 billion of bitcoin among Binance hack losses",
+      "why": "The asset schedule behind the Abu Dhabi freezing order lists $6.3 billion stolen across 192 tokens on 11 networks, with bitcoin the second-largest item at about $1.42 billion, Cointelegraph reported. Sworn asset disclosures are due by 30 November and a hearing on 1 December will consider extending the order.",
+      "caveat": "Dollar values are at the time of the theft; the papers do not give a bitcoin quantity.",
+      "sources": [
+        {"name": "Cointelegraph", "url": "https://cointelegraph.com/news/binance-hackers-stole-192-tokens-across-11-networks"}
+      ]
+    },
+    {
+      "section": "BTC", "impact": "🟢", "confidence": "High", "date": "2026-11-18", "status": "New",
+      "title": "Ledger confirms tampered hardware wallets in Berlin",
+      "why": "Ledger confirmed physically modified devices, built to capture the recovery phrase at setup, in Berlin, and is investigating two suspected units in Dubai, Decrypt reported. It says its chip is not at fault, and advises anyone in Berlin who bought a device since January 2026 to contact support; buying only from ledger.com is its standing advice.",
+      "sources": [
+        {"name": "Decrypt", "url": "https://decrypt.co/383586/ledger-confirms-tampered-bitcoin-wallets-berlin-spreads-beyond-asia"},
+        {"name": "The Block", "url": "https://www.theblock.co/news/web3/2026-11-18-ledger-new-hardware-incidents-germany-uae-443530"}
+      ]
+    },
+    {
+      "section": "ZEC", "impact": "🟢", "confidence": "High", "date": "2026-11-19", "status": "New",
+      "title": "Zcash recovers to about $945; Zebra 7.2 beta released for testing",
+      "why": "ZEC traded at about $945 on Kraken at 06:30 UK, up about 4% on the evening edition. Separately, the Zcash Foundation published Zebra 7.2.0-beta.1, a test release with faster shielded verification and compact block relay; it adds no network upgrade and production nodes should stay on 7.1.0, the release notes say.",
+      "sources": [
+        {"name": "Kraken", "url": "https://www.kraken.com/prices/zcash"},
+        {"name": "Zcash Foundation (GitHub)", "url": "https://github.com/ZcashFoundation/zebra/releases/tag/v7.2.0-beta.1"}
+      ]
+    }
+  ],
+  "explained": {
+    "title": "What it means when an IPO prices above its range",
+    "body": ["Before a listing, a company and its banks set an indicative price range and take orders from big investors. If orders far exceed the shares on offer, the final price can be set above that range, as Anthropic's was.", "A price above range signals strong demand, but it also raises the bar for the first day of trading: buyers have already paid more, so less of the 'pop' is left on the table."]
+  },
+  "investigating": [
+    "How did Wall Street close on Wednesday? No reliable closing report could be confirmed before publication; the afternoon edition will check the US session directly.",
+    "Does ETF selling ease once Anthropic starts trading? Thursday's flow figures, out by tomorrow morning, would show it."
+  ],
+  "corrections": [],
+  "ahead": [
+    {"when": "Thu 19 Nov 14:30 UK onwards", "impact": "🟠", "what": "Anthropic shares start trading on Nasdaq (ANT)"},
+    {"when": "Sun 22 Nov", "impact": "🟢", "what": "Russian exchanges may begin organised crypto trading"},
+    {"when": "Fri 27 Nov 08:00 UK", "impact": "🟠", "what": "Monthly BTC options and futures expiry"},
+    {"when": "Tue 1 Dec", "impact": "🟢", "what": "Abu Dhabi court hearing on extending Binance hack freezing order"},
+    {"when": "Thu 3 Dec", "impact": "🟢", "what": "Movie2k trial resumes in Leipzig (40,000 BTC deal proposal)"},
+    {"when": "Fri 4 Dec 13:30 UK", "impact": "🟠", "what": "US jobs report (November)"},
+    {"when": "Wed 9 Dec 19:00 UK", "impact": "🔴", "what": "Fed rate decision and projections"}
+  ]
+}

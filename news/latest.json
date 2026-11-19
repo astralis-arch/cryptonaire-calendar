@@ -1,98 +1,73 @@
 {
- "generated": "2026-11-18T21:33:00Z",
- "mood": "risk-off",
+ "generated": "2026-11-19T06:35:00Z",
+ "mood": "mixed",
  "briefing": {
   "developments": [
-   "Minutes of the Fed's October meeting showed almost all officials expect further rate rises, and a couple said a move bigger than a quarter point could be considered in December if inflation data disappoint.",
-   "Bitcoin ended the US session at about $62,350 on Kraken, down about 3.9% on the day and holding just above the weekend low near $62,000; Zcash slipped to about $909.",
-   "Binance won a $6.5 billion worldwide freezing order from the Abu Dhabi Global Market Courts against those behind its 29 October hack, The Block reported."
+   "Bitcoin touched exactly $62,000 on Kraken late on Wednesday evening, then recovered overnight to about $63,570 by 06:30 UK, up about 2% on the evening edition.",
+   "Anthropic priced its Nasdaq listing at $83 a share, above its $70 to $78 range, raising $81.3 billion at a fully diluted value of about $1.5 trillion, Reuters reported; trading under ANT starts today.",
+   "US spot bitcoin ETFs lost a further $306.4 million on Wednesday, the second straight day of outflows, led by $148.7 million from BlackRock's IBIT, according to SoSoValue data."
   ],
-  "changed": "Little has moved in price since the afternoon: bitcoin is about $70 lower and still sits on the $62,000 floor. The minutes did not calm the hawkish mood, because they show Waller's half-point idea was already being discussed in October, though only by a couple of officials.",
-  "question": "Does bitcoin hold the weekend low near $62,000 overnight, now that the minutes have confirmed a December rise is close to certain?",
-  "watch": "Anthropic's first day of trading on Nasdaq on Thursday 19 November, and Wednesday's ETF flows by the morning edition. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
+  "changed": "The $62,000 floor held on a test and Asia lifted bitcoin back above $63,500, so the overnight picture is calmer than last night's. The wider backdrop has not changed: ETF selling grew rather than eased, and the Fed minutes still point to a December rise.",
+  "question": "Does Anthropic's debut today pull money towards or away from bitcoin, given bitcoin's recent close link with AI shares?",
+  "watch": "Anthropic's first trade on Nasdaq after the US open at 14:30 UK today, and Thursday's ETF flows by tomorrow morning. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
  },
  "lead": {
-  "headline": "Fed minutes back more hikes as bitcoin clings to $62,000",
-  "standfirst": "Minutes of the Fed's October meeting showed almost all officials expect further rate rises, and bitcoin ended the US session pinned just above its weekend low.",
+  "headline": "Bitcoin holds $62,000 test as Anthropic prices record listing",
+  "standfirst": "Bitcoin dipped to its weekend low late on Wednesday and recovered overnight, as Anthropic priced the largest share sale on record ahead of its Nasdaq debut today.",
   "body": [
-   "Bitcoin traded at about $62,350 on Kraken at 21:30 UK on Wednesday, down about 3.9% on the day and just above the weekend low near $62,000, after minutes of the Federal Reserve's October meeting pointed to further rate rises.",
-   "Almost all participants judged that further increases would likely be appropriate to bring inflation back to 2% in a timely way, according to the minutes released at 19:00 UK. A couple said a rise of more than a quarter point could warrant consideration at the December meeting if inflation data were unfavourable, and many described the AI buildout as a material source of inflation risk. The Fed held rates at 3.75% to 4% in October, with two officials voting for a rise.",
-   "The minutes echoed Governor Christopher Waller, who told CNBC on Wednesday that a half-point December rise was probably needed. Analysts quoted by Decrypt also pointed to US spot bitcoin ETF outflows of $239.9 million on Tuesday and a closer link between bitcoin and Nvidia shares.",
-   "CryptoQuant said bitcoin had slipped back into a bearish phase below its 200-day average near $72,900, The Block reported, though it flagged $62,000 to $65,000 as a 'value zone'.",
-   "Separately, Binance said an Abu Dhabi court had granted a $6.5 billion worldwide freezing order over its October hack. Anthropic's shares are due to start trading on Nasdaq on Thursday."
+   "Bitcoin traded at about $63,570 on Kraken at 06:30 UK on Thursday, up about 2% from the evening edition, after falling to exactly $62,000 shortly after 22:00 UK on Wednesday and then recovering through the Asian session.",
+   "Anthropic priced its initial public offering at $83 a share, above its indicated range of $70 to $78, raising $81.3 billion and valuing the company at about $1.5 trillion on a fully diluted basis, Reuters reported, citing a source. The shares are due to begin trading on Nasdaq under the ticker ANT on Thursday.",
+   "The listing matters for bitcoin because the two have been trading closely: bitcoin's 30-day correlation with Nvidia shares had risen to 0.56, Block Scholes said, as reported earlier this week.",
+   "Selling through US spot bitcoin funds continued. They recorded net outflows of $306.4 million on Wednesday, the second straight day, with $148.7 million leaving BlackRock's IBIT, TokenPost reported, citing SoSoValue data.",
+   "Separately, court documents showed that bitcoin worth about $1.42 billion was among the $6.3 billion stolen from Binance in October, Cointelegraph reported. A hearing on 1 December will consider extending the court's freezing order."
   ]
  },
- "headline": "Fed minutes showed almost all officials expect more rate rises, with a couple open to a bigger December move. Bitcoin ended the US session near $62,350, just above its weekend low.",
- "spoken": "Cryptonaire Post, evening edition. Bitcoin finished the US session at about sixty two thousand three hundred and fifty dollars, down almost four percent on the day and just above the weekend low. Minutes of the Fed's October meeting showed almost all officials expect more rate rises, and a couple were open to a bigger move in December if inflation disappoints. Zcash slipped to about nine hundred and ten dollars. Binance won a six and a half billion dollar freezing order over last month's hack. Tomorrow, Anthropic starts trading on Nasdaq. Information only, not advice.",
+ "headline": "Bitcoin held a test of $62,000 late on Wednesday and recovered to about $63,570 overnight. Anthropic priced its record Nasdaq listing at $83 a share ahead of trading today, while ETF outflows grew to $306 million.",
+ "spoken": "Cryptonaire Post, morning edition. Bitcoin dipped to exactly sixty two thousand dollars late last night, then recovered overnight to about sixty three thousand six hundred, up around two percent. Anthropic priced its listing at eighty three dollars a share, raising about eighty one billion dollars, and starts trading on Nasdaq after the US open at half past two this afternoon. US bitcoin funds lost another three hundred million dollars on Wednesday. Zcash rose to about nine hundred and forty five dollars. Information only, not advice.",
  "stories": [
-  {
-   "section": "Macro",
-   "impact": "🔴",
-   "confidence": "High",
-   "date": "2026-11-18",
-   "status": "Developing",
-   "title": "Fed minutes: almost all officials expect further rate rises",
-   "why": "The October minutes said almost all participants saw further increases as likely appropriate, a couple said a move of more than 25 basis points could be considered in December if inflation data were unfavourable, and the vast majority saw upside risks to inflation, with many naming the AI buildout. This adds that Waller's half-point idea already had some support in October, but only from a couple of officials, not the committee's centre.",
-   "note": {
-    "horizon": "swing",
-    "read": "The minutes confirm the direction markets already price (a December rise at about 96% per CME FedWatch, as reported earlier) rather than adding a new shock, so the next real test is November CPI on 10 December, the day after the decision.",
-    "alt": "Because the minutes predate Waller's and Musalem's comments, the committee may have moved further towards a half-point since October, which the minutes cannot show.",
-    "change": "More officials backing a half-point rise before the 28 November blackout, or a soft US jobs report on 4 December."
-   },
-   "sources": [
-    {
-     "name": "Federal Reserve",
-     "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm"
-    },
-    {
-     "name": "Decrypt",
-     "url": "https://decrypt.co/383566/fed-waller-50-basis-point-rate-hike-tokenized-finance-banks"
-    }
-   ]
-  },
   {
    "section": "BTC",
    "impact": "🔴",
    "confidence": "High",
-   "date": "2026-11-18",
+   "date": "2026-11-19",
    "status": "Developing",
-   "title": "Bitcoin ends the day near $62,350, just above the weekend low",
-   "why": "Bitcoin traded at about $62,350 on Kraken at 21:30 UK, down from about $64,880 at the start of the 24-hour window and only about $70 lower than the afternoon edition, with a 24-hour low of $62,210. Analysts quoted by Decrypt pointed to AI-stock weakness (bitcoin's 30-day correlation with Nvidia rose to 0.56, per Block Scholes), rising yields and stop-loss selling.",
+   "title": "Bitcoin tests $62,000 overnight and bounces to about $63,570",
+   "why": "Bitcoin fell to exactly $62,000 on Kraken in the hour after 22:00 UK, the weekend low, then climbed through the Asian session to about $63,570 at 06:30 UK, with an overnight high of $63,680. This adds that the level held on a direct test rather than breaking.",
    "note": {
     "horizon": "intraday",
-    "read": "Price has stalled on the $62,000 level rather than breaking it, so the minutes did not add fresh selling; the level is now the line many traders watch overnight.",
-    "alt": "A quiet evening may just reflect thin US after-hours trading, and Asia could still test the low.",
-    "change": "A sustained move below about $62,000, or a rebound above $64,000 after Anthropic's debut."
+    "read": "A clean bounce from a round number many traders watch suggests buyers defended it, but the move came on thin overnight volume and leaves price well below the $65,000 area it lost on Wednesday.",
+    "alt": "Overnight bounces have faded during US hours several times this month, as ETF selling arrives after the 14:30 UK open.",
+    "change": "A fresh break below $62,000 in US hours, or a move back above $65,000."
    },
    "sources": [
     {
      "name": "Kraken",
      "url": "https://www.kraken.com/prices/bitcoin"
-    },
-    {
-     "name": "Decrypt",
-     "url": "https://decrypt.co/383551/bitcoin-tanks-ahead-anthropics-ipo-should-we-really-blame-ai"
     }
    ]
   },
   {
-   "section": "BTC",
-   "impact": "🟠",
-   "confidence": "Medium",
+   "section": "Markets",
+   "impact": "🔴",
+   "confidence": "High",
    "date": "2026-11-18",
-   "status": "New",
-   "title": "CryptoQuant: bitcoin back in a bearish phase, but in a 'value zone'",
-   "why": "Bitcoin is below its 200-day average near $72,900 and 365-day average near $75,900, demand growth over 30 days is the weakest since early July, and holders realised a net loss of 25,800 BTC in a day, the largest since 13 July, CryptoQuant said, The Block reported. Its unrealised profit margin of minus 20% puts price in what it calls a 'value zone' of $62,000 to $65,000.",
+   "status": "Developing",
+   "title": "Anthropic prices IPO at $83, above range, and trades on Nasdaq today",
+   "why": "The offer raised $81.3 billion, with a further $26 billion private placement at the same price, valuing the company at about $1.5 trillion fully diluted, Reuters reported. With bitcoin trading closely with AI shares this month, the debut is today's main test of risk appetite.",
    "note": {
-    "horizon": "longer",
-    "read": "Heavy loss-taking and weak demand describe a market under strain, while the 'value zone' label is CryptoQuant's own interpretation, not a signal that has been tested here.",
-    "alt": "Loss-taking can keep building for weeks in a bearish phase before it marks a low.",
-    "change": "Demand growth turning positive, or price reclaiming the 200-day average."
+    "horizon": "intraday",
+    "read": "Pricing above the range shows strong demand for AI shares despite this week's sell-off, which may steady sentiment that has been weighing on bitcoin.",
+    "alt": "A deal this large draws cash from elsewhere, and a weak first day would add to the AI-stock nerves that hit bitcoin this week.",
+    "change": "How ANT trades in its first hours after the 14:30 UK open, and whether Nasdaq follows it."
    },
    "sources": [
     {
-     "name": "The Block",
-     "url": "https://www.theblock.co/news/markets/2026-11-18-cryptoquant-bitcoin-bearish-value-zone-443471"
+     "name": "Reuters via Investing.com",
+     "url": "https://www.investing.com/news/stock-market-news/anthropic-prices-blockbuster-ipo-at-83-a-share-source-says-5037110"
+    },
+    {
+     "name": "Fortune",
+     "url": "https://fortune.com/2026/11/18/anthropic-prices-ipo-83-per-share-1-5-trillion/"
     }
    ]
   },
@@ -101,33 +76,54 @@
    "impact": "🟠",
    "confidence": "Medium",
    "date": "2026-11-18",
-   "status": "New",
-   "title": "US spot bitcoin ETFs lost $239.9 million on Tuesday",
-   "why": "Outflows were led by $209.5 million from BlackRock's IBIT, Decrypt reported. Wednesday's figures, after the price drop, are not yet out.",
+   "status": "Developing",
+   "title": "Bitcoin ETF outflows grow to $306 million on Wednesday",
+   "why": "US spot bitcoin ETFs lost $306.4 million, up from $239.9 million on Tuesday, led by IBIT ($148.7 million) and Fidelity's FBTC ($69.3 million), TokenPost reported, citing SoSoValue. This adds that selling grew as price fell, rather than easing.",
+   "note": {
+    "horizon": "swing",
+    "read": "Two days of outflows during a hawkish Fed week fit the steady November pattern of fund selling, rather than a sudden rush for the exit.",
+    "alt": "Some outflows may be investors switching to Anthropic exposure ahead of the listing, which would be one-off.",
+    "change": "A day of net inflows while price holds above $62,000."
+   },
    "sources": [
     {
-     "name": "Decrypt",
-     "url": "https://decrypt.co/383551/bitcoin-tanks-ahead-anthropics-ipo-should-we-really-blame-ai"
+     "name": "TokenPost",
+     "url": "https://www.tokenpost.com/news/investing/61148"
     }
    ]
   },
   {
    "section": "Whales",
    "impact": "🟠",
+   "confidence": "Medium",
+   "date": "2026-11-19",
+   "status": "Developing",
+   "title": "Court papers: about $1.42 billion of bitcoin among Binance hack losses",
+   "why": "The asset schedule behind the Abu Dhabi freezing order lists $6.3 billion stolen across 192 tokens on 11 networks, with bitcoin the second-largest item at about $1.42 billion, Cointelegraph reported. Sworn asset disclosures are due by 30 November and a hearing on 1 December will consider extending the order.",
+   "caveat": "Dollar values are at the time of the theft; the papers do not give a bitcoin quantity.",
+   "sources": [
+    {
+     "name": "Cointelegraph",
+     "url": "https://cointelegraph.com/news/binance-hackers-stole-192-tokens-across-11-networks"
+    }
+   ]
+  },
+  {
+   "section": "BTC",
+   "impact": "🟢",
    "confidence": "High",
    "date": "2026-11-18",
    "status": "New",
-   "title": "Binance wins $6.5 billion worldwide freezing order over October hack",
-   "why": "The Abu Dhabi Global Market Courts granted the order against unidentified attackers behind the 29 October hack, which affected about $6.34 billion of assets, The Block reported; Binance has listed 26,000 wallet addresses and says about $2.85 billion was frozen or intercepted earlier. It matters because some of the rest, including bitcoin, could still be moved or sold.",
-   "caveat": "An Elliptic co-founder estimated about $3.3 billion sits in bitcoin, ether and XRP that no one can freeze, so the order's practical reach is unclear.",
+   "title": "Ledger confirms tampered hardware wallets in Berlin",
+   "why": "Ledger confirmed physically modified devices, built to capture the recovery phrase at setup, in Berlin, and is investigating two suspected units in Dubai, Decrypt reported. It says its chip is not at fault, and advises anyone in Berlin who bought a device since January 2026 to contact support; buying only from ledger.com is its standing advice.",
    "sources": [
     {
-     "name": "The Block",
-     "url": "https://www.theblock.co/news/business/2026-11-18-binance-freezing-court-order-adgm-crypto-october-hack-443491"
+     "name": "Decrypt",
+     "url": "https://decrypt.co/383586/ledger-confirms-tampered-bitcoin-wallets-berlin-spreads-beyond-asia"
     },
     {
-     "name": "Bitcoin Magazine",
-     "url": "https://bitcoinmagazine.com/news/binance-abu-dhabi-order-recover-frozen"
+     "name": "The Block",
+     "url": "https://www.theblock.co/news/web3/2026-11-18-ledger-new-hardware-incidents-germany-uae-443530"
     }
    ]
   },
@@ -135,36 +131,39 @@
    "section": "ZEC",
    "impact": "🟢",
    "confidence": "High",
-   "date": "2026-11-18",
-   "status": "No material change",
-   "title": "Zcash drifts to about $909 with the market",
-   "why": "ZEC traded at about $909 on Kraken at 21:30 UK, down about 6% on the day and from about $921 at the afternoon edition. Nothing new on Bitwise's spot Zcash ETF filing since the afternoon.",
+   "date": "2026-11-19",
+   "status": "New",
+   "title": "Zcash recovers to about $945; Zebra 7.2 beta released for testing",
+   "why": "ZEC traded at about $945 on Kraken at 06:30 UK, up about 4% on the evening edition. Separately, the Zcash Foundation published Zebra 7.2.0-beta.1, a test release with faster shielded verification and compact block relay; it adds no network upgrade and production nodes should stay on 7.1.0, the release notes say.",
    "sources": [
     {
      "name": "Kraken",
      "url": "https://www.kraken.com/prices/zcash"
+    },
+    {
+     "name": "Zcash Foundation (GitHub)",
+     "url": "https://github.com/ZcashFoundation/zebra/releases/tag/v7.2.0-beta.1"
     }
    ]
   }
  ],
  "explained": {
-  "title": "What Fed minutes are, and why they arrive late",
+  "title": "What it means when an IPO prices above its range",
   "body": [
-   "The Fed publishes a written record of each rate meeting three weeks after it ends. It does not name who said what, but uses set words: 'almost all' means nearly everyone, 'many' is a large group, 'a couple' means two.",
-   "Because they are three weeks old, minutes can lag newer speeches. Tonight's showed only a couple of officials in October open to a bigger move, before Waller said so publicly this week."
+   "Before a listing, a company and its banks set an indicative price range and take orders from big investors. If orders far exceed the shares on offer, the final price can be set above that range, as Anthropic's was.",
+   "A price above range signals strong demand, but it also raises the bar for the first day of trading: buyers have already paid more, so less of the 'pop' is left on the table."
   ]
  },
  "investigating": [
-  "Did Wednesday's ETF flows turn more negative with the price drop? Farside's figures, usually out by the morning edition, would answer it.",
-  "Will the Binance hacker move the unfrozen bitcoin? On-chain alerts on the 26,000 listed addresses would show it.",
-  "How the US market closed today could not be confirmed from a reliable source before publication; the morning edition will check."
+  "How did Wall Street close on Wednesday? No reliable closing report could be confirmed before publication; the afternoon edition will check the US session directly.",
+  "Does ETF selling ease once Anthropic starts trading? Thursday's flow figures, out by tomorrow morning, would show it."
  ],
  "corrections": [],
  "ahead": [
   {
-   "when": "Thu 19 Nov (US session)",
+   "when": "Thu 19 Nov 14:30 UK onwards",
    "impact": "🟠",
-   "what": "Anthropic shares expected to start trading on Nasdaq (ANT)"
+   "what": "Anthropic shares start trading on Nasdaq (ANT)"
   },
   {
    "when": "Sun 22 Nov",
@@ -175,6 +174,11 @@
    "when": "Fri 27 Nov 08:00 UK",
    "impact": "🟠",
    "what": "Monthly BTC options and futures expiry"
+  },
+  {
+   "when": "Tue 1 Dec",
+   "impact": "🟢",
+   "what": "Abu Dhabi court hearing on extending Binance hack freezing order"
   },
   {
    "when": "Thu 3 Dec",
@@ -190,12 +194,7 @@
    "when": "Wed 9 Dec 19:00 UK",
    "impact": "🔴",
    "what": "Fed rate decision and projections"
-  },
-  {
-   "when": "Thu 10 Dec 13:30 UK",
-   "impact": "🔴",
-   "what": "US CPI (November)"
   }
  ],
- "id": "2026-11-18-2133"
+ "id": "2026-11-19-0635"
 }
