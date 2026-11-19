@@ -1,5 +1,55 @@
 [
 {
+"id": "26866164fb290535",
+"title": "Citi Says Customers Are Responsible When AI Banking Agents Go Rogue—Even After a Hack",
+"link": "https://decrypt.co/383677/citi-customers-responsible-ai-banking-agents-rogue-hack",
+"published": "2026-11-19T22:36:02Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-19T22:37:09Z"
+},
+{
+"id": "bdec67220450b3d4",
+"title": "Zebra 7.2.0-beta.2",
+"link": "https://github.com/ZcashFoundation/zebra/releases/tag/v7.2.0-beta.2",
+"published": "2026-11-19T22:35:21Z",
+"source": "Zebra releases",
+"desk": "ZEC",
+"kind": "protocol",
+"first_seen": "2026-11-19T22:37:09Z"
+},
+{
+"id": "cc3b25b12b200683",
+"title": "Binance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express",
+"link": "https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-19T22:25:18Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-19T22:37:09Z"
+},
+{
+"id": "304ec678444bc6dc",
+"title": "Inside Bukele’s Casa Presidencial Dinner: Bitcoiners Discuss Energy, Immigration, and El Salvador’s Future",
+"link": "https://bitcoinmagazine.com/news/inside-bukeles-casa-presidencial-dinner-bitcoiners-discuss-energy-immigration-and-el-salvadors-future",
+"published": "2026-11-19T22:20:01Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-19T22:37:09Z"
+},
+{
+"id": "ebf508923fd01ce3",
+"title": "Announcing fastz.cash - RPC by Zcash Labs",
+"link": "https://forum.zcashcommunity.com/t/announcing-fastz-cash-rpc-by-zcash-labs/59478",
+"published": "2026-11-19T22:16:14Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-19T22:37:09Z"
+},
+{
 "id": "ccd23b2a5fcce2ca",
 "title": "Strategy (MSTR) Shares Tumble for Sixth Straight Day to $86 as Bitcoin Slides",
 "link": "https://bitcoinmagazine.com/markets/strategy-stock-sinks-62000",
@@ -18,6 +68,16 @@
 "desk": "BTC",
 "kind": "news",
 "first_seen": "2026-11-19T22:07:11Z"
+},
+{
+"id": "c0e729b6cc7f3d29",
+"title": "David Lawant: Seeing “Very Strong Inflow” for Bitcoin at $60k",
+"link": "https://bitcoinmagazine.com/videos/david-lawant-seeing-very-strong-inflow-for-bitcoin-at-60k",
+"published": "2026-11-19T21:30:13Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-19T22:37:09Z"
 },
 {
 "id": "8499656a2671af76",
