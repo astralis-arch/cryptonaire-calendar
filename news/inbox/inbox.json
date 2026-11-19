@@ -1,5 +1,35 @@
 [
 {
+"id": "c1912459c51b6dff",
+"title": "Anthropic opens for trade at $111.50, up 34% from IPO price",
+"link": "https://www.coindesk.com/markets/2026/11/19/anthropic-opens-for-trade-at-usd11-50-up-34-from-ipo-price",
+"published": "2026-11-19T17:01:47Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-19T17:07:10Z"
+},
+{
+"id": "ea40a178ab2ae70c",
+"title": "Anthropic Stock Opens 33% Above IPO Price as AI Stocks Rally",
+"link": "https://decrypt.co/383631/anthropic-stock-indicated-open-33-above-ipo-price",
+"published": "2026-11-19T16:55:10Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-19T17:07:10Z"
+},
+{
+"id": "2cafd2310de2bfd3",
+"title": "CLARITY Act Likely Dead Until 2027, Top Crypto Lawmakers Warn",
+"link": "https://bitcoinmagazine.com/news/french-hill-clarity-act-unlikely-before",
+"published": "2026-11-19T16:45:18Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-19T17:07:10Z"
+},
+{
 "id": "2b0e880a36aa9a54",
 "title": "Grant Application – Correct Zcash Fees in Blockbook Wallet Receipts",
 "link": "https://forum.zcashcommunity.com/t/grant-application-correct-zcash-fees-in-blockbook-wallet-receipts/59467",
@@ -138,6 +168,16 @@
 "desk": "BTC",
 "kind": "news",
 "first_seen": "2026-11-19T15:07:10Z"
+},
+{
+"id": "3a68823c8daed0c3",
+"title": "SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors",
+"link": "https://www.sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors",
+"published": "2026-11-19T14:39:02Z",
+"source": "SEC (press)",
+"desk": "Policy",
+"kind": "official",
+"first_seen": "2026-11-19T17:07:10Z"
 },
 {
 "id": "c8279dbe23763a7a",
