@@ -1,5 +1,25 @@
 [
 {
+"id": "10af11b4a35f0ed1",
+"title": "Miner Sentiment Poll (Pilot): NU7.1",
+"link": "https://forum.zcashcommunity.com/t/miner-sentiment-poll-pilot-nu7-1/59465",
+"published": "2026-11-19T14:49:28Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-19T15:07:10Z"
+},
+{
+"id": "e48fab5bcf0311fc",
+"title": "Coinbase Launches U.S. Spot Margin Trading With Up to 10x Leverage",
+"link": "https://bitcoinmagazine.com/news/coinbase-us-spot-margin-10x",
+"published": "2026-11-19T14:45:00Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-19T15:07:10Z"
+},
+{
 "id": "c8279dbe23763a7a",
 "title": "Jefferson, Monetary Policy amid Frequent and Complex Shocks",
 "link": "https://www.federalreserve.gov/newsevents/speech/jefferson20261119a.htm",
