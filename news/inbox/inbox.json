@@ -1,5 +1,35 @@
 [
 {
+"id": "c8279dbe23763a7a",
+"title": "Jefferson, Monetary Policy amid Frequent and Complex Shocks",
+"link": "https://www.federalreserve.gov/newsevents/speech/jefferson20261119a.htm",
+"published": "2026-11-19T14:25:00Z",
+"source": "Federal Reserve (speeches)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-19T14:37:09Z"
+},
+{
+"id": "17ec04a37799e3d3",
+"title": "Russia’s Central Bank to Let Retail Investors Trade Bitcoin on Margin",
+"link": "https://bitcoinmagazine.com/news/russia-retail-bitcoin-margin-trading",
+"published": "2026-11-19T14:20:00Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-19T14:37:09Z"
+},
+{
+"id": "178bdbdd1a3d78cd",
+"title": "Let’s Include Miner Signaling When Weighing the NU7.1 Poll Results",
+"link": "https://forum.zcashcommunity.com/t/let-s-include-miner-signaling-when-weighing-the-nu7-1-poll-results/59464",
+"published": "2026-11-19T14:12:36Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-19T14:37:09Z"
+},
+{
 "id": "a0a0cd2a95d10cbe",
 "title": "Gen Z Embraces Crypto While Most Americans Call It a 'Side Quest'",
 "link": "https://decrypt.co/383589/gen-z-embraces-crypto-most-americans-side-quest",
