@@ -1,0 +1,108 @@
+{
+  "generated": "2026-11-19T21:35:00Z",
+  "mood": "risk-off",
+  "briefing": {
+    "developments": [
+      "Bitcoin broke below $62,000 in US hours and traded at about $61,510 on Kraken at 21:30 UK, after a low of $61,426, the weakest since July according to Bitcoin Magazine.",
+      "Anthropic opened at $111.50, 34% above its $83 offer price, then slid to near $97 by the late afternoon as the Nasdaq, S&P 500 and Dow all fell more than 1.5%.",
+      "Sky's USDS stablecoin shrank by more than 30% as over $1.5 billion left its reserves after a report flagged illicit-linked activity; the dollar peg held."
+    ],
+    "changed": "The afternoon's question was whether $62,000 would hold into the US close; it did not. Bitcoin is about 2% lower than the afternoon edition and ZEC about 4% lower, as a tech-led stock selloff spread to crypto.",
+    "question": "Does the forced selling of leveraged longs below $62,000 run its course overnight, or does $60,000 come into play?",
+    "watch": "Thursday's US spot ETF flows, out by Friday morning UK, and the Asia session overnight. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
+  },
+  "lead": {
+    "headline": "Bitcoin breaks $62,000 as Anthropic debut turns into tech selloff",
+    "standfirst": "A blockbuster listing that lifted futures in the morning ended with Wall Street sharply lower and bitcoin at its weakest level since July.",
+    "body": [
+      "Bitcoin fell below $62,000 on Thursday and traded at about $61,510 on Kraken at 21:30 UK, after touching $61,426. That was about 2% below the afternoon edition and about 2.3% down on the day.",
+      "Bitcoin Magazine said the low was the weakest since July and put the fall from 19 October at about 25%. It linked the drop to a broad tech selloff that followed Anthropic's Nasdaq debut, with the Dow down about 1,000 points late in the session.",
+      "Anthropic's shares opened at $111.50, 34% above the $83 offer price, CoinDesk reported, briefly valuing the company above $2 trillion. They then traded as low as $95.05, Cointelegraph reported, and were near $97 in late trading. CoinDesk said the Nasdaq, S&P 500 and Dow were each down more than 1.5% in the afternoon.",
+      "Crypto-linked shares fell further. Bitcoin Magazine reported Strategy down about 4% and Galaxy Digital down about 6.9%. Decrypt said US spot bitcoin funds had lost about $2.9 billion in November, including $306.4 million on Wednesday.",
+      "The fall took bitcoin through the $62,030 area where CoinDesk had earlier placed the largest cluster of leveraged long positions. Thursday's ETF flow figures are due on Friday morning."
+    ]
+  },
+  "headline": "Bitcoin broke below $62,000 to its weakest since July as Wall Street sold off after Anthropic's debut. Sky's USDS stablecoin lost over $1.5 billion of reserves after an illicit-finance report.",
+  "spoken": "Cryptonaire Post, evening edition. Bitcoin broke below sixty two thousand dollars this evening and was about sixty one thousand five hundred at half past nine, its weakest level since July. Anthropic's shares opened a third above their offer price, then faded, and the Nasdaq, the S and P and the Dow all fell more than one and a half percent. Zcash slipped to about eight hundred and eighty five dollars. Sky's U S D S stablecoin lost more than a billion and a half dollars of reserves but held its peg. Thursday's E T F flows come out tomorrow morning. Information only, not advice.",
+  "stories": [
+    {
+      "section": "BTC", "impact": "🔴", "confidence": "High", "date": "2026-11-19", "status": "Outlook changed",
+      "title": "Bitcoin breaks $62,000 to its weakest level since July",
+      "why": "Bitcoin traded at about $61,510 on Kraken at 21:30 UK after a low of $61,426, down about 2.3% on the day. Bitcoin Magazine called it the weakest since July and about 25% below 19 October. Decrypt reported the 50-day average crossing below the 200-day, a so-called death cross. This changes the afternoon view: the $62,000 level that had held twice gave way.",
+      "caveat": "Outlets quote slightly different lows ($61,650 at Bitcoin Magazine's writing) because they use different price feeds and times.",
+      "note": {"horizon": "swing", "read": "A third test of $62,000 failed on a day stocks fell hard, which points to bitcoin trading as a high-risk tech asset rather than a hedge.", "alt": "The break may be a short liquidation flush through stops clustered near $62,000 that reverses once forced selling is done, as happened after last weekend's dip.", "change": "A quick recovery above $62,000 overnight would point to a flush; ETF outflows extending on Thursday and a move towards $60,000 would point to a deeper leg down."},
+      "sources": [
+        {"name": "Kraken", "url": "https://www.kraken.com/prices/bitcoin"},
+        {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slumps-under-62000"},
+        {"name": "Decrypt", "url": "https://decrypt.co/383655/bitcoin-enters-death-cross-anthropic-ipo"}
+      ]
+    },
+    {
+      "section": "Markets", "impact": "🔴", "confidence": "High", "date": "2026-11-19", "status": "Outlook changed",
+      "title": "Anthropic opens 34% up, then fades as US stocks slide",
+      "why": "ANT opened at $111.50 against an $83 offer price, CoinDesk reported, hit $115 and then fell as low as $95.05, Cointelegraph reported. CoinDesk said all three main US indices were down more than 1.5% in the afternoon, and Bitcoin Magazine put the Cboe VIX near 28 from about 24.6. The afternoon edition could not confirm a first trade; this does.",
+      "caveat": "No closing prices for ANT or the indices could be confirmed before publication; figures are from late-session reports.",
+      "note": {"horizon": "intraday", "read": "The listing pulled money and attention into one stock while the wider market sold off, and bitcoin fell with tech rather than holding up.", "alt": "Stocks were already on a losing run, with AP cited as saying the S&P 500 was heading for a sixth straight loss, so the debut may have been the occasion rather than the cause.", "change": "A stable second day for ANT and a firmer Nasdaq on Friday would weaken the idea that the listing is draining risk appetite."},
+      "sources": [
+        {"name": "CoinDesk", "url": "https://www.coindesk.com/markets/2026/11/19/anthropic-opens-for-trade-at-usd11-50-up-34-from-ipo-price"},
+        {"name": "Cointelegraph", "url": "https://cointelegraph.com/markets/bitcoin-price-ignores-anthropic-debut-ant-share-price-dips-below-100"},
+        {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slumps-under-62000"}
+      ]
+    },
+    {
+      "section": "DeFi", "impact": "🟠", "confidence": "Medium", "date": "2026-11-19", "status": "New",
+      "title": "Sky's USDS stablecoin loses over $1.5 billion of reserves, peg holds",
+      "why": "More than $1.5 billion of USDC left Sky's reserve module after Inca Digital flagged $518 million of illicit-linked transactions, over $100 million attributed to North Korean actors, CoinDesk reported. USDS supply fell by more than 30% to $3.2 billion while holding $1. Sky said flagged activity was about 0.03% of total volume.",
+      "caveat": "CoinDesk's headline says 35%; its report says more than 30%.",
+      "note": {"horizon": "swing", "read": "A large stablecoin shrinking fast in a falling market is a stress signal for DeFi liquidity, though the peg holding shows redemptions are being met.", "alt": "Much of the outflow came from one large holder, so it may reflect a single exit rather than broad loss of trust.", "change": "A break in the $1 peg, or the remaining roughly $1 billion of reserves draining, would make this a wider market story."},
+      "sources": [
+        {"name": "CoinDesk", "url": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report"}
+      ]
+    },
+    {
+      "section": "ZEC", "impact": "🟠", "confidence": "High", "date": "2026-11-19", "status": "Developing",
+      "title": "ZEC slips to about $885; NU7.1 miner poll opens at midnight",
+      "why": "ZEC traded at about $884 on Kraken at 21:30 UK, about 4% below the afternoon edition and about 3% down on the day, after an early high of $958.58. The Zcash Foundation's on-chain miner poll on NU7.1 starts around 00:00 UK at block 3,591,200 and runs to 1 December.",
+      "sources": [
+        {"name": "Kraken", "url": "https://www.kraken.com/prices/zcash"},
+        {"name": "Zcash Foundation", "url": "https://zfnd.org/miners-have-your-say-on-nu7-1/"}
+      ]
+    },
+    {
+      "section": "Policy", "impact": "🟠", "confidence": "Medium", "date": "2026-11-19", "status": "New",
+      "title": "US market structure bill likely dead until 2027, lawmakers say",
+      "why": "House Financial Services chair French Hill said chances of passing the CLARITY Act in the lame-duck session were not high, and Senator Bernie Moreno said there was no scenario for Senate passage, Bitcoin Magazine reported. The current Congress ends on 3 January 2027, so the bill would have to start again.",
+      "sources": [
+        {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/news/french-hill-clarity-act-unlikely-before"},
+        {"name": "The Block", "url": "https://www.theblock.co/news/regulation/2026-11-19-hill-moreno-blame-delays-missed-clarity-act-window-split-regulators-fill-gap-443615"}
+      ]
+    },
+    {
+      "section": "ETFs", "impact": "🟢", "confidence": "Medium", "date": "2026-11-19", "status": "New",
+      "title": "Institutions held a record amount of bitcoin ETFs at end of September",
+      "why": "Galaxy Research found 13F filers added a net 49,229 BTC of ETF holdings in the third quarter, to a record 356,491 BTC, with Wells Fargo now the largest holder, Bitcoin Magazine reported. It also said total fund holdings fell by 38,531 BTC to 1,252,139 BTC by 16 November, so the quarter's buying has since been partly undone.",
+      "sources": [
+        {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/markets/institutional-bitcoin-etf-holdings"}
+      ]
+    }
+  ],
+  "explained": {
+    "title": "What a death cross is",
+    "body": ["A death cross is when a short-term moving average of price, usually the 50-day, falls below a long-term one, usually the 200-day. It shows that recent prices have been weaker than the longer trend.", "Because both averages are built from past prices, the signal arrives after much of the fall has already happened. Decrypt reported one on bitcoin today using exponential averages, which give more weight to recent days."]
+  },
+  "investigating": [
+    "Did ETF outflows extend on Thursday? Flow figures out on Friday morning would show whether funds sold into the break below $62,000.",
+    "How much leverage was flushed below $62,000? Liquidation totals for the evening move were not yet in the reports read for this edition.",
+    "Where did ANT and the main US indices close? Official closing figures will settle how deep Thursday's selloff went."
+  ],
+  "corrections": [],
+  "ahead": [
+    {"when": "Fri 20 Nov 00:00 UK", "impact": "🟢", "what": "Zcash NU7.1 miner poll opens (runs to 1 Dec)"},
+    {"when": "Fri 20 Nov morning UK", "impact": "🟠", "what": "US spot bitcoin ETF flows for Thursday"},
+    {"when": "Sun 22 Nov", "impact": "🟢", "what": "Russian exchanges may begin organised crypto trading"},
+    {"when": "Fri 27 Nov 08:00 UK", "impact": "🟠", "what": "Monthly BTC options and futures expiry"},
+    {"when": "Tue 1 Dec", "impact": "🟢", "what": "Abu Dhabi court hearing on Binance hack assets"},
+    {"when": "Fri 4 Dec 13:30 UK", "impact": "🟠", "what": "US jobs report (November)"},
+    {"when": "Wed 9 Dec 19:00 UK", "impact": "🔴", "what": "Fed rate decision and projections"}
+  ]
+}
