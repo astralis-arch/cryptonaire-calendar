@@ -1,5 +1,25 @@
 [
 {
+"id": "d6a0e3515440f8c4",
+"title": "Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B",
+"link": "https://cointelegraph.com/markets/bitcoin-etf-assets-three-month-low-78-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-19T08:26:19Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-19T08:37:10Z"
+},
+{
+"id": "467fb5e15e290b54",
+"title": "Singapore’s MAS issues $77 million in tokenized bills settled via CBDC",
+"link": "https://www.theblock.co/news/web3/2026-11-19-singapores-mas-tokenized-bills-443562",
+"published": "2026-11-19T08:25:35Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-19T08:37:10Z"
+},
+{
 "id": "bc12c1108f13b87c",
 "title": "UK financial watchdogs clarify cyber expectations as attacks rise",
 "link": "https://www.fca.org.uk/news/press-releases/uk-financial-watchdogs-clarify-cyber-expectations-attacks-rise",
@@ -8,6 +28,16 @@
 "desk": "UK",
 "kind": "official",
 "first_seen": "2026-11-19T08:07:11Z"
+},
+{
+"id": "68ecb444beaf5d5e",
+"title": "BTCPay Server issues emergency update for 5 security flaws",
+"link": "https://cointelegraph.com/news/btcpay-server-emergency-update-nginx-security-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-19T08:04:37Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-19T08:37:10Z"
 },
 {
 "id": "c0deede754cb555d",
