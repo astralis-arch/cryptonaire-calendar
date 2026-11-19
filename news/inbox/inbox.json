@@ -1,5 +1,15 @@
 [
 {
+"id": "f7f4ac0143a936f7",
+"title": "Another U.S. appellate court goes against Kalshi, building the industry's legal headwinds",
+"link": "https://www.coindesk.com/policy/2026/11/18/another-u-s-appellate-court-goes-against-kalshi-building-the-industry-s-legal-headwinds",
+"published": "2026-11-19T00:33:46Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-19T00:37:10Z"
+},
+{
 "id": "3f87d7737693330f",
 "title": "Zebra 7.2.0-beta.0",
 "link": "https://github.com/ZcashFoundation/zebra/releases/tag/v7.2.0-beta.0",
@@ -8,6 +18,16 @@
 "desk": "ZEC",
 "kind": "protocol",
 "first_seen": "2026-11-18T23:37:09Z"
+},
+{
+"id": "0e2860edb1a4e029",
+"title": "Bitcoin: It’s So Over",
+"link": "https://bitcoinmagazine.com/videos/bitcoin-its-so-over",
+"published": "2026-11-18T23:20:31Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-19T00:37:10Z"
 },
 {
 "id": "62997b2b7198b17d",
