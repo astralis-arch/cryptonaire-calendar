@@ -1,5 +1,45 @@
 [
 {
+"id": "62496b2db1339ced",
+"title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+"link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
+"published": "2026-11-20T15:00:00Z",
+"source": "Federal Reserve (press)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-20T15:07:11Z"
+},
+{
+"id": "65aa7ebf45530599",
+"title": "Rep. Horsford sees opening for House vote on crypto tax bill before Congress ends",
+"link": "https://www.theblock.co/news/regulation/2026-11-20-rep-horsford-sees-opening-house-vote-crypto-tax-bill-before-congress-ends-444720",
+"published": "2026-11-20T14:51:32Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-20T15:07:11Z"
+},
+{
+"id": "964535a5b8134c83",
+"title": "Block Says Most Bitcoin Payments on Square Are for Coffee and Food",
+"link": "https://bitcoinmagazine.com/news/block-square-bitcoin-payments-report",
+"published": "2026-11-20T14:45:00Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-20T15:07:11Z"
+},
+{
+"id": "310c38d8fac06fd5",
+"title": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
+"link": "https://www.coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians",
+"published": "2026-11-20T14:38:30Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-20T15:07:11Z"
+},
+{
 "id": "df4522a7f722f68e",
 "title": "Wintermute policy chief calls for crypto lobby to ‘clean house’ in D.C.",
 "link": "https://www.theblock.co/news/regulation/2026-11-20-wintermute-policy-chief-calls-for-crypto-lobby-clean-house-d-c-444721",
