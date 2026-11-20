@@ -1,5 +1,15 @@
 [
 {
+"id": "4191a1263b1f3cf2",
+"title": "Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host",
+"link": "https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host",
+"published": "2026-11-20T17:41:45Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-20T17:59:15Z"
+},
+{
 "id": "da9cc5ebd5f30535",
 "title": "Cook, The U.S. Economy in Global Context",
 "link": "https://www.federalreserve.gov/newsevents/speech/cook20261120a.htm",
@@ -5778,6 +5788,16 @@
 "desk": "ZEC",
 "kind": "community",
 "first_seen": "2026-11-16T07:54:54Z"
+},
+{
+"id": "9c459691928d5f6a",
+"title": "Bitcoin Optech Newsletter #431",
+"link": "https://bitcoinops.org/en/newsletters/2026/11/13/",
+"published": "2026-11-13T00:00:00Z",
+"source": "Bitcoin Optech",
+"desk": "Protocol",
+"kind": "protocol",
+"first_seen": "2026-11-20T17:59:15Z"
 },
 {
 "id": "82ba770a292c7512",
