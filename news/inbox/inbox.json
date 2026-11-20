@@ -1,5 +1,35 @@
 [
 {
+"id": "68a271432dc9f7c8",
+"title": "Bitcoin falls below $60K for first time since July amid broader market selloff",
+"link": "https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-20T16:55:51Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-20T17:07:09Z"
+},
+{
+"id": "078365a9a98b5c75",
+"title": "Researchers Publish Security Analysis of Bitcoin’s Post-Quantum SHRINCS Proposal",
+"link": "https://bitcoinmagazine.com/news/blockstream-shrincs-security-shrincs",
+"published": "2026-11-20T16:55:00Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-20T17:07:09Z"
+},
+{
+"id": "ffbb3279ee4dcfd2",
+"title": "Grow with the floe",
+"link": "https://forum.zcashcommunity.com/t/grow-with-the-floe/59500",
+"published": "2026-11-20T16:41:21Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-20T17:07:09Z"
+},
+{
 "id": "8042aa1c0cdafcc8",
 "title": "Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February",
 "link": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
