@@ -1,5 +1,25 @@
 [
 {
+"id": "149adb36a50b30f1",
+"title": "Bitcoin Price Slips Near $61,500 as Tech Selloff Spreads to Asia",
+"link": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-61500-asia",
+"published": "2026-11-20T14:00:15Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-20T14:07:10Z"
+},
+{
+"id": "c6ca582cfb539909",
+"title": "Live news: Bitcoin hovers just above $61,000 as Anthropic slides after Nasdaq debut",
+"link": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut",
+"published": "2026-11-20T13:35:33Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-20T14:07:10Z"
+},
+{
 "id": "f2761be173e21ad7",
 "title": "Bitcoin bots pounced within seconds when researchers exposed their wallet keys",
 "link": "https://www.coindesk.com/tech/2026/11/20/bitcoin-bots-pounced-within-seconds-when-researchers-exposed-their-keys",
