@@ -1,5 +1,55 @@
 [
 {
+"id": "9a72b979153141d5",
+"title": "Zcon7 Small Group Takeaways",
+"link": "https://forum.zcashcommunity.com/t/zcon7-small-group-takeaways/59493",
+"published": "2026-11-20T12:36:41Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-20T12:37:15Z"
+},
+{
+"id": "35842057bcef9587",
+"title": "US spot bitcoin ETFs see $582 million in daily net outflows as November total nears $3.5 billion",
+"link": "https://www.theblock.co/news/markets/2026-11-20-us-spot-bitcoin-etfs-see-582-million-in-daily-net-outflows-as-november-total-nears-3-5-billion-444217",
+"published": "2026-11-20T12:29:57Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-20T12:37:15Z"
+},
+{
+"id": "549f755ff4c971d1",
+"title": "Bitcoin, stocks and gold traders getting nervous, and volatility gauges are surging",
+"link": "https://www.coindesk.com/daybook-us/2026/11/20/bitcoin-stocks-and-gold-traders-getting-nervous-and-volatility-gauges-are-surging",
+"published": "2026-11-20T12:15:08Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-20T12:37:15Z"
+},
+{
+"id": "c81d803b459b3b37",
+"title": "Ark buys $90 million worth of Anthropic shares on debut, trims Ethereum and Solana staking ETF holdings",
+"link": "https://www.theblock.co/news/markets/2026-11-20-ark-buys-90-million-worth-of-anthropic-shares-on-debut-trims-ethereum-and-solana-staking-etf-holdings-444226",
+"published": "2026-11-20T12:12:29Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-20T12:37:15Z"
+},
+{
+"id": "48b193d4cf06c24c",
+"title": "MoonPay Applies for National Trust Bank Charter to Grow Custody and Stablecoin Business",
+"link": "https://decrypt.co/383688/moonpay-applies-for-national-trust-bank-charter-to-grow-custody-and-stablecoin-business",
+"published": "2026-11-20T12:10:14Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-20T12:37:15Z"
+},
+{
 "id": "5612d4fb11e2abba",
 "title": "Bitcoin ETFs Shed $582M in a Day as BTC Drops Below $62K",
 "link": "https://decrypt.co/383685/bitcoin-etfs-shed-582m-in-a-day-as-btc-drops-below-62k",
@@ -268,6 +318,16 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-20T03:37:11Z"
+},
+{
+"id": "e3ce744aff580e24",
+"title": "Bitcoin Optech Newsletter #432",
+"link": "https://bitcoinops.org/en/newsletters/2026/11/20/",
+"published": "2026-11-20T00:00:00Z",
+"source": "Bitcoin Optech",
+"desk": "Protocol",
+"kind": "protocol",
+"first_seen": "2026-11-20T12:37:15Z"
 },
 {
 "id": "f6f9b67dfea529cc",
