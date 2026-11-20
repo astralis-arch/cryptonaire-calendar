@@ -1,0 +1,115 @@
+{
+  "generated": "2026-11-20T16:32:00Z",
+  "mood": "risk-off",
+  "briefing": {
+    "developments": [
+      "Bitcoin broke below $60,000 after the US open for the first time since early July, touching about $58,700 on Kraken and trading near $59,200 at 16:30 UK.",
+      "The Nasdaq opened 1.2% lower at its lowest since mid-April as Anthropic shares fell to about $87, and the VIX fear gauge rose to 29.5, its highest since March, CoinDesk and Cointelegraph reported.",
+      "ZEC fell about 9% since the morning edition to near $775, after a low of about $756; CoinDesk put its 24-hour drop at 11%."
+    ],
+    "changed": "This morning Bitcoin had stalled near $61,800 and the question was whether the tech selloff would carry into the US session. It did: Bitcoin is about 4% lower than at 06:40 and below $60,000, and ZEC fell more than twice as hard.",
+    "question": "Does Bitcoin hold above the average holder's cost price, which Glassnode says is only just below the market, or does a break push most holders into a loss for the first time since early 2023?",
+    "watch": "The US close at 21:00 UK and Friday's ETF flows, due Saturday morning UK. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
+  },
+  "lead": {
+    "headline": "Bitcoin breaks below $60,000 as tech rout deepens",
+    "standfirst": "The world's largest cryptocurrency fell to about $58,700 in the US session, its lowest since early July, as Anthropic's shares slid and Wall Street volatility jumped.",
+    "body": [
+      "Bitcoin fell below $60,000 on Friday afternoon for the first time since early July, dropping about $1,800 in roughly an hour after the US open, according to Bitcoin Magazine. Kraken data showed a low of about $58,700 and a price near $59,200 at 16:30 UK time, about 4% below the morning.",
+      "The fall came as the Nasdaq Composite opened 1.2% lower at its lowest level since mid-April, Cointelegraph reported. Anthropic shares, which closed their first day at $97.17, fell to about $87, close to their $83 offer price.",
+      "More than $700 million of crypto positions were liquidated over 24 hours, about 86% of them bets on rising prices, Bitcoin Magazine reported. CoinDesk said Wall Street's VIX volatility index had climbed to 29.5, its highest since March, while a gauge of expected Bitcoin swings rose to 52.",
+      "Institutional selling continued in the background. US spot bitcoin ETFs lost $582 million on Thursday, taking November's net outflows to about $3.47 billion, The Block reported from SoSoValue data.",
+      "Glassnode said Bitcoin was trading only just above its realised price, the average cost of all coins, Bitcoin Magazine reported. A break below would leave the average holder at a loss for the first time since early 2023. Traders were also pricing a quarter-point Fed rate rise on 9 December, CoinDesk said."
+    ]
+  },
+  "headline": "Bitcoin broke below $60,000 after the US open, touching about $58,700 as tech stocks and Anthropic shares slid. ZEC fell about 9% since the morning to near $775.",
+  "spoken": "Cryptonaire Post, afternoon edition, Friday the twentieth of November. Bitcoin has broken below sixty thousand dollars for the first time since early July, touching about fifty eight thousand seven hundred after the US open, and is now near fifty nine thousand two hundred. The Nasdaq opened at its lowest since April as Anthropic shares slid towards their offer price, and Wall Street's fear gauge is at its highest since March. Zcash fell about nine percent since this morning to around seven hundred and seventy five dollars. Watch the US close at nine tonight. The next big event is the Fed decision on the ninth of December at seven in the evening. Information only, not advice.",
+  "stories": [
+    {
+      "section": "BTC", "impact": "🔴", "confidence": "High", "date": "2026-11-20", "status": "Developing",
+      "title": "Bitcoin falls below $60,000, lowest since early July",
+      "why": "Kraken showed a 24-hour low of $58,702 and a price near $59,187 at 16:30 UK, down about 4% from the morning edition. Bitcoin Magazine said it fell about $1,800 in an hour after the US open, with over $700 million of liquidations in 24 hours, 86% of them longs; CoinDesk's ticker showed $59,201 at 16:12 UTC. The new evidence is that the overnight stall near $61,200 did not hold once US trading began.",
+      "note": {"horizon": "swing", "read": "Bitcoin is moving with tech stocks, and the break of a round number set off another wave of forced selling from leveraged longs.", "alt": "A fast, liquidation-driven drop to a well-watched level can mark a short-term washout rather than the start of a new leg down.", "change": "A close back above $60,000 tonight with the Nasdaq steadying would point to a washout; further falls while tech recovers would point to crypto-specific selling."},
+      "sources": [
+        {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/markets/bitcoin-price-crashes-below-60000"},
+        {"name": "CoinDesk", "url": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut"},
+        {"name": "Kraken (price data)", "url": "https://www.kraken.com/prices/bitcoin"}
+      ]
+    },
+    {
+      "section": "Markets", "impact": "🔴", "confidence": "High", "date": "2026-11-20", "status": "Developing",
+      "title": "Nasdaq opens at lowest since April; Anthropic slides towards offer price",
+      "why": "The Nasdaq Composite opened 1.2% lower at 23,517, its lowest since mid-April, and Anthropic fell to $87.27 after a $97.17 first-day close and an $83 offer, Cointelegraph reported. CoinDesk said the VIX is up 52% this month to 29.5, its highest since March. The new evidence is that the tech selloff deepened in the US session rather than steadying.",
+      "note": {"horizon": "intraday", "read": "Risk assets are being sold together, and Bitcoin is behaving like a high-beta tech holding.", "alt": "The pressure may be specific to AI stocks repricing after the listing, which could fade quickly once Anthropic finds a level.", "change": "Anthropic holding above its $83 offer price and the VIX falling back would ease the pressure on crypto."},
+      "sources": [
+        {"name": "Cointelegraph", "url": "https://cointelegraph.com/markets/bitcoin-hits-new-20-week-low-anthropic-drops-87-tech-sell-off"},
+        {"name": "CoinDesk", "url": "https://www.coindesk.com/daybook-us/2026/11/20/bitcoin-stocks-and-gold-traders-getting-nervous-and-volatility-gauges-are-surging"}
+      ]
+    },
+    {
+      "section": "ZEC", "impact": "🔴", "confidence": "High", "date": "2026-11-20", "status": "Developing",
+      "title": "ZEC drops about 9% since the morning to near $775",
+      "why": "Kraken showed ZEC at about $775 at 16:30 UK, down from $853 in the morning edition, after a 24-hour low of $756 and high of $928. CoinDesk put the 24-hour fall at 11%, against 1.9% for the CoinDesk 20 index. The new evidence is that ZEC is falling much harder than the wider market.",
+      "note": {"horizon": "swing", "read": "ZEC is behaving as a high-beta coin in a risk-off market, giving back more of its earlier gains than Bitcoin.", "alt": "Coin-specific selling, rather than the general mood, may be driving part of the drop; no ZEC-specific news was found today.", "change": "ZEC holding steady while Bitcoin keeps falling would suggest the coin-specific selling has run its course."},
+      "sources": [
+        {"name": "CoinDesk", "url": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut"},
+        {"name": "Kraken (price data)", "url": "https://www.kraken.com/prices/zcash"}
+      ]
+    },
+    {
+      "section": "ETFs", "impact": "🟠", "confidence": "High", "date": "2026-11-19", "status": "Developing",
+      "title": "ETF outflows confirmed at $582 million; November nears $3.5 billion",
+      "why": "The Block confirmed Thursday's $582.2 million net outflow from SoSoValue data: IBIT lost $541.1 million, Fidelity's FBTC $45.9 million and ARKB $31.3 million, while Morgan Stanley's MSBT took in $49.6 million. November's net outflows are about $3.47 billion, with only two positive days. The new evidence is a second outlet confirming the figure and the month's total.",
+      "sources": [
+        {"name": "The Block", "url": "https://www.theblock.co/news/markets/2026-11-20-us-spot-bitcoin-etfs-see-582-million-in-daily-net-outflows-as-november-total-nears-3-5-billion-444217"}
+      ]
+    },
+    {
+      "section": "BTC", "impact": "🟠", "confidence": "Medium", "date": "2026-11-20", "status": "New",
+      "title": "Bitcoin sits just above the average holder's cost price",
+      "why": "Glassnode said Bitcoin is trading just above its realised price, with the MVRV ratio just above 1, Bitcoin Magazine reported. A break below would leave the average holder at a loss for the first time since early 2023. The exact realised price was not given.",
+      "caveat": "Reported before the drop below $60,000; Glassnode's exact level was not published in the article.",
+      "sources": [
+        {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/markets/bitcoin-hovers-above-realized-price"}
+      ]
+    },
+    {
+      "section": "Macro", "impact": "🟢", "confidence": "High", "date": "2026-11-20", "status": "New",
+      "title": "Fed's Waller gives no new rate signal; markets price a December hike",
+      "why": "Governor Waller's remarks on Friday were ceremonial, with no view on rates, according to the Federal Reserve's text. CoinDesk said markets are pricing a quarter-point rise to 4.00%-4.25% on 9 December and have dropped bets on a half-point move. The US 10-year yield fell to 4.96%, Cointelegraph reported.",
+      "sources": [
+        {"name": "Federal Reserve", "url": "https://www.federalreserve.gov/newsevents/speech/waller20261120a.htm"},
+        {"name": "CoinDesk", "url": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut"}
+      ]
+    },
+    {
+      "section": "UK", "impact": "🟢", "confidence": "Medium", "date": "2026-11-20", "status": "New",
+      "title": "CryptoUK asks FCA not to treat DeFi developers as regulated by default",
+      "why": "The trade body, which says it represents more than 150 firms, responded to the FCA's crypto perimeter guidance consultation, which closed on 18 November, Decrypt reported. The FCA plans final guidance in January 2027, ahead of the regime going live on 25 October 2027. CryptoUK also asked for a public register of UK-recognised stablecoins.",
+      "sources": [
+        {"name": "Decrypt", "url": "https://decrypt.co/383679/cryptouk-urges-fca-not-to-treat-defi-devs-as-regulated-by-default"}
+      ]
+    }
+  ],
+  "explained": {
+    "title": "What the realised price means",
+    "body": [
+      "The realised price is the average price at which every Bitcoin last moved on the blockchain, a rough guide to what holders paid. When the market price is above it, the average holder is in profit; below it, the average holder is at a loss.",
+      "Analysts watch it because past bear markets have often spent time below it, while strong markets rarely do. It is a reference point, not a floor."
+    ]
+  },
+  "investigating": [
+    "Did ETF selling accelerate on Friday as the price broke $60,000? Evidence: Friday's SoSoValue and Farside flow figures, due Saturday morning UK.",
+    "Is ZEC's extra fall driven by coin-specific selling? Evidence: ZEC exchange inflows and derivatives open interest, and any ZEC-specific news over the weekend."
+  ],
+  "corrections": [],
+  "ahead": [
+    {"when": "Fri 20 Nov 21:00 UK", "impact": "🟠", "what": "US stock market close after a second day of tech selling"},
+    {"when": "Sat 21 Nov morning UK", "impact": "🟠", "what": "US spot bitcoin ETF flows for Friday"},
+    {"when": "Sun 22 Nov", "impact": "🟢", "what": "Russian exchanges may begin organised crypto trading"},
+    {"when": "Thu 26 Nov", "impact": "🟢", "what": "US markets closed for Thanksgiving; Ethereum go/no-go call on Glamsterdam"},
+    {"when": "Fri 27 Nov 08:00 UK", "impact": "🟠", "what": "Monthly BTC options and futures expiry"},
+    {"when": "Tue 1 Dec", "impact": "🟢", "what": "Zcash NU7.1 miner poll closes"},
+    {"when": "Wed 9 Dec 19:00 UK", "impact": "🔴", "what": "Fed rate decision and projections"}
+  ]
+}
