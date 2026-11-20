@@ -1,5 +1,15 @@
 [
 {
+"id": "e98d45b9241aa47f",
+"title": "Zebra 7.2.0-beta.3",
+"link": "https://github.com/ZcashFoundation/zebra/releases/tag/v7.2.0-beta.3",
+"published": "2026-11-20T22:28:05Z",
+"source": "Zebra releases",
+"desk": "ZEC",
+"kind": "protocol",
+"first_seen": "2026-11-20T22:37:10Z"
+},
+{
 "id": "4e898d18ea5e153a",
 "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
 "link": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
