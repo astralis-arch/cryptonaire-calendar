@@ -1,0 +1,117 @@
+{
+  "generated": "2026-11-20T21:33:00Z",
+  "mood": "risk-off",
+  "briefing": {
+    "developments": [
+      "Bitcoin kept falling after the afternoon edition, touching about $57,660 on Kraken and ending the US session near $58,600, about 5% down on the day and within reach of its June-July low of about $57,700.",
+      "Nvidia fell about 13% to a 52-week low after Reuters reported SEC enforcement staff are examining its accounting, deepening the tech selloff, Decrypt reported.",
+      "ZEC fell to about $737, down about 17% since midnight UK and about 5% since the afternoon edition, after a low near $724 on Kraken."
+    ],
+    "changed": "At 16:30 Bitcoin had just broken $60,000 and the question was whether that was a washout. It was not: the selling continued into the US close, liquidations doubled to about $1.5 billion over 24 hours, and a new Nvidia shock hit tech stocks.",
+    "question": "Does Bitcoin hold its June-July low near $57,700 over the thin weekend, or does a break open new lows for this bear market?",
+    "watch": "Friday's US spot bitcoin ETF flows, due Saturday morning UK. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
+  },
+  "lead": {
+    "headline": "Bitcoin slides towards summer low as Nvidia shock hits tech",
+    "standfirst": "Bitcoin fell below $58,000 in late US trading, within about 1% of its June-July low, as Nvidia shares sank on a report of an SEC accounting probe.",
+    "body": [
+      "Bitcoin fell as low as about $57,660 on Friday evening, Kraken data showed, extending the break below $60,000 that came after the US open. It traded near $58,600 at 21:30 UK time, about 5% down on the day.",
+      "CoinDesk reported that the drop erased the August-September rebound and left Bitcoin within about 2% of its June-July low near $57,700. About $1.5 billion of leveraged crypto positions were liquidated over 24 hours, according to CoinGlass data cited by CoinDesk, roughly double the figure at midday.",
+      "The selling came as Nvidia fell about 13% to a 52-week low of $126.64, Decrypt reported, after Reuters said SEC enforcement staff were examining possible accounting issues. The SEC declined to comment.",
+      "Sentiment sank further. The Crypto Fear and Greed Index fell to 9, its lowest since February, Decrypt said. US Treasury Secretary Scott Bessent told CNBC he would encourage the Fed not to back a half-point rise in December, Bitcoin Magazine reported; CME FedWatch showed a more than 98% chance of a quarter-point move.",
+      "Zcash fell harder still, to about $737 on Kraken, down about 17% since midnight. Traders now await Friday's ETF flow figures on Saturday morning, after November's outflows reached about $3.47 billion."
+    ]
+  },
+  "headline": "Bitcoin slid to about $57,660 after the afternoon edition and closed the US session near $58,600, close to its summer low, as an Nvidia accounting report deepened the tech selloff. ZEC fell to about $737, down about 17% on the day.",
+  "spoken": "Cryptonaire Post, evening edition, Friday the twentieth of November. Bitcoin kept falling into the US close, touching about fifty seven thousand seven hundred dollars and now near fifty eight thousand six hundred, about five percent down on the day and close to its summer low. About one and a half billion dollars of leveraged bets were wiped out in a day. Nvidia sank about thirteen percent on a report of an SEC accounting probe. Zcash is near seven hundred and thirty seven dollars, down about seventeen percent today. Friday's ETF flows land tomorrow morning. The next big event is the Fed decision on the ninth of December at seven in the evening. Information only, not advice.",
+  "stories": [
+    {
+      "section": "BTC", "impact": "🔴", "confidence": "High", "date": "2026-11-20", "status": "Developing",
+      "title": "Bitcoin falls to about $57,660, near its June-July low",
+      "why": "Kraken showed a low of $57,661 in the 19:00 UTC hour and a price near $58,625 at 21:30 UK, down about 5% from the day's $61,914 open. CoinDesk said the fall erased the August-September rebound and put Bitcoin within about 2% of its $57,700 June-July low, with about $1.5 billion of leveraged positions liquidated over 24 hours. The new evidence is that the post-open break did not reverse into the close; the afternoon's washout reading has not held so far.",
+      "note": {"horizon": "swing", "read": "The summer low near $57,700 is now the level the market is testing, and the selling is broad, with traders moving to cash rather than to other crypto.", "alt": "Liquidations doubling in a day can exhaust forced sellers, and weekend trading is thin, so a bounce from a well-watched low is also possible.", "change": "A daily close below about $57,700 would point to new bear-market lows; a recovery above $60,000 with tech steadying would point to a washout."},
+      "sources": [
+        {"name": "CoinDesk", "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play"},
+        {"name": "Kraken (price data)", "url": "https://www.kraken.com/prices/bitcoin"}
+      ]
+    },
+    {
+      "section": "Markets", "impact": "🔴", "confidence": "Medium", "date": "2026-11-20", "status": "New",
+      "title": "Nvidia sinks 13% to 52-week low on SEC accounting report",
+      "why": "Nvidia fell about 13% to $127.16 in afternoon trading, touching $126.64, after Reuters reported SEC enforcement staff are examining possible accounting issues, Decrypt said. The SEC declined to comment. It adds a second shock to the AI-led tech selloff that has been pulling Bitcoin lower alongside the Nasdaq.",
+      "caveat": "The Reuters report was relayed by Decrypt; the Nasdaq's closing level was not confirmed at publication.",
+      "note": {"horizon": "intraday", "read": "Bitcoin is trading as a high-beta tech asset, so a hit to the biggest AI stock spills straight into crypto.", "alt": "The Nvidia news is company-specific and may not keep weighing on crypto once the weekend separates the two markets.", "change": "Bitcoin rising over the weekend while US stocks are shut would show it can decouple from the tech selloff."},
+      "sources": [
+        {"name": "Decrypt", "url": "https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting"}
+      ]
+    },
+    {
+      "section": "ZEC", "impact": "🔴", "confidence": "High", "date": "2026-11-20", "status": "Developing",
+      "title": "ZEC falls to about $737, down about 17% on the day",
+      "why": "Kraken showed ZEC near $737 at 21:30 UK, from $775 at the afternoon edition and a $893 open at midnight, with a low of $724. The new evidence is that ZEC's fall continued at roughly three times Bitcoin's pace; no ZEC-specific negative news was found. Separately, the Zcash forum announced Cupcake v1.2.0, an air-gapped signing app, now supports fully shielded Zcash including NU7.",
+      "note": {"horizon": "swing", "read": "ZEC is giving back gains as a high-beta coin in a risk-off market.", "alt": "Thin weekend liquidity can exaggerate moves in smaller coins in either direction.", "change": "ZEC steadying while Bitcoin keeps falling would suggest its extra selling has run its course."},
+      "sources": [
+        {"name": "Kraken (price data)", "url": "https://www.kraken.com/prices/zcash"},
+        {"name": "Zcash Community Forum", "url": "https://forum.zcashcommunity.com/t/cupcake-v1-2-0-brings-full-zcash-shielded-support/59505"}
+      ]
+    },
+    {
+      "section": "Macro", "impact": "🟠", "confidence": "Medium", "date": "2026-11-20", "status": "Developing",
+      "title": "Bessent urges Fed against a half-point hike; Cook warns waiting has a cost",
+      "why": "Treasury Secretary Scott Bessent told CNBC he would encourage the Fed not to back a half-point rise at its 8-9 December meeting, Bitcoin Magazine reported; CME FedWatch showed a more than 98% chance of a quarter-point move. Governor Lisa Cook said in Santiago that waiting to act when an adjustment is needed has a cost, citing October core PCE inflation of 3.2%. The new evidence is that the half-point risk is fading while a quarter-point rise looks settled.",
+      "sources": [
+        {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/markets/bessent-fed-bigger-rate-hike-bitcoin"},
+        {"name": "Federal Reserve", "url": "https://www.federalreserve.gov/newsevents/speech/cook20261120a.htm"}
+      ]
+    },
+    {
+      "section": "BTC", "impact": "🟠", "confidence": "Medium", "date": "2026-11-20", "status": "New",
+      "title": "Fear and Greed Index hits 9; JPMorgan puts production cost at $86,000",
+      "why": "The Crypto Fear and Greed Index fell to 9, its lowest since February, from 18 a week earlier, Decrypt reported. JPMorgan analysts estimate Bitcoin's production cost at about $86,000, now more than $26,000 above the price, and said the gap could narrow as hashrate falls, The Block reported. Both show how stretched sentiment and miner economics have become.",
+      "caveat": "Production cost is a model estimate, not a price floor.",
+      "sources": [
+        {"name": "Decrypt", "url": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest"},
+        {"name": "The Block", "url": "https://www.theblock.co/news/markets/2026-11-20-jpmorgan-bitcoin-price-correction-gap-86000-production-cost-444763"}
+      ]
+    },
+    {
+      "section": "Whales", "impact": "🟢", "confidence": "Medium", "date": "2026-11-20", "status": "Developing",
+      "title": "Binance hack laundering speeds up; $149 million of BTC mixed",
+      "why": "Elliptic said at least 2,310 BTC, about $149 million, has been mixed through coinjoins, about 90% of it since Tuesday, The Block reported. The Bitcoin taken directly from Binance has not moved; Binance holds a $6.5 billion worldwide freeze order from ADGM Courts.",
+      "caveat": "The Block gives the untouched Binance BTC as 18,720 in the body and 18,270 in its summary.",
+      "sources": [
+        {"name": "The Block", "url": "https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758"}
+      ]
+    },
+    {
+      "section": "Beyond", "impact": "🟢", "confidence": "High", "date": "2026-11-20", "status": "New",
+      "title": "Wrapped Monero token XMR1 collapses 99% after $13 million hack",
+      "why": "Wagyu's XMR1 fell from nearly $500 to as low as $0.65 after an attacker took tokens from the deployer wallet, The Block and Decrypt reported; the founder blamed a web-host breach and promised refunds. Real Monero is unaffected, but it is a reminder of wrapper risk for privacy coins on other chains.",
+      "sources": [
+        {"name": "The Block", "url": "https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747"},
+        {"name": "Decrypt", "url": "https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host"}
+      ]
+    }
+  ],
+  "explained": {
+    "title": "Why liquidations snowball",
+    "body": [
+      "Traders who borrow to bet on rising prices are forced out by the exchange when the price falls far enough. Their positions are sold automatically, which pushes the price lower and can trigger the next batch of forced sales.",
+      "That is why falls through round numbers like $60,000 can speed up suddenly. Once most leveraged bets are cleared, the forced selling stops, which is why analysts watch liquidation totals for signs of exhaustion."
+    ]
+  },
+  "investigating": [
+    "Did ETF selling accelerate on Friday as Bitcoin broke $60,000? Evidence: Friday's SoSoValue and Farside flow figures, due Saturday morning UK.",
+    "Does the June-July low near $57,700 hold over the weekend? Evidence: weekend price action on Kraken and Coinbase, and funding rates on perpetual futures.",
+    "Is ZEC's extra fall coin-specific? Evidence: ZEC exchange inflows and open interest, and any ZEC news over the weekend."
+  ],
+  "corrections": [],
+  "ahead": [
+    {"when": "Sat 21 Nov morning UK", "impact": "🟠", "what": "US spot bitcoin ETF flows for Friday"},
+    {"when": "Sun 22 Nov", "impact": "🟢", "what": "Russian exchanges may begin organised crypto trading"},
+    {"when": "Thu 26 Nov", "impact": "🟢", "what": "US markets closed for Thanksgiving; Ethereum go/no-go call on Glamsterdam"},
+    {"when": "Fri 27 Nov 08:00 UK", "impact": "🟠", "what": "Monthly BTC options and futures expiry"},
+    {"when": "Tue 1 Dec", "impact": "🟢", "what": "Zcash NU7.1 miner poll closes"},
+    {"when": "Wed 9 Dec 19:00 UK", "impact": "🔴", "what": "Fed rate decision and projections"}
+  ]
+}
