@@ -1,0 +1,107 @@
+{
+  "generated": "2026-11-20T06:40:00Z",
+  "mood": "risk-off",
+  "briefing": {
+    "developments": [
+      "Bitcoin dipped to about $61,200 overnight on Kraken, its lowest since early July, and was back near $61,800 at 06:40 UK; CoinDesk counted more than $600 million of crypto futures liquidated over 24 hours.",
+      "US spot bitcoin ETFs lost a net $582 million on Thursday, the third straight day of outflows, led by $541 million from BlackRock's IBIT, according to SoSoValue data reported by Bloomingbit.",
+      "ZEC fell to about $853, roughly 3.5% below the evening edition, after touching $842 overnight."
+    ],
+    "changed": "The evening question was whether forced selling below $62,000 would run on overnight. It ran a little further, to about $61,200, then stalled: Bitcoin is slightly above the evening edition. ZEC kept falling, and the first full ETF figure for Thursday confirmed heavy institutional selling.",
+    "question": "With Nasdaq futures down again, does the tech selloff that followed Anthropic's debut carry on into Friday's US session and drag Bitcoin towards $60,000?",
+    "watch": "The US open at 14:30 UK and Friday's ETF flows. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
+  },
+  "lead": {
+    "headline": "Bitcoin slips to four-month low as ETF selling deepens",
+    "standfirst": "The world's largest cryptocurrency fell to about $61,200 overnight as investors pulled $582 million from US bitcoin funds on Thursday.",
+    "body": [
+      "Bitcoin fell to about $61,200 on Kraken in the early hours of Friday, its lowest level since early July, before steadying near $61,800 by 06:40 UK time.",
+      "The drop followed Thursday's sharp fall on Wall Street after Anthropic's record stock market debut. CoinDesk reported that the AI company's shares opened at $111.50 against an $83 offer price but closed at $97.17, as the Nasdaq fell 2.4%. Nasdaq futures were a further 0.7% lower in Asian hours, CoinDesk said.",
+      "Crypto futures worth more than $600 million were liquidated over 24 hours, nearly half of them in the last 12, according to CoinDesk.",
+      "US spot bitcoin exchange-traded funds recorded net outflows of $582 million on Thursday, nearly twice Wednesday's figure, according to SoSoValue data reported by Bloomingbit. BlackRock's IBIT accounted for $541 million. It was the third straight day of withdrawals, taking the three-day total to $1.13 billion.",
+      "Pressure also showed in Bitcoin-linked shares. Strategy closed down 4.6% at $86.13, its sixth straight fall, Bitcoin Magazine reported, leaving its 850,849 coins about $11 billion below their cost.",
+      "Separately, VanEck told Gemini it would end custody of its bitcoin, ether and solana ETFs from about 16 February 2027, CoinDesk reported. Traders now look to the US open at 14:30 UK."
+    ]
+  },
+  "headline": "Bitcoin touched about $61,200 overnight, its lowest since July, as US bitcoin ETFs lost $582 million on Thursday and Nasdaq futures slipped again. ZEC fell to about $853.",
+  "spoken": "Cryptonaire Post, morning edition, Friday the twentieth of November. Bitcoin slipped to about sixty one thousand two hundred dollars overnight, its lowest since early July, and is now near sixty one thousand eight hundred. US bitcoin funds lost five hundred and eighty two million dollars on Thursday, a third day of outflows, mostly from BlackRock. Nasdaq futures are lower again after Thursday's tech selloff. Zcash fell about three and a half percent to around eight hundred and fifty dollars. Watch the US open at half past two this afternoon. The next big event is the Fed decision on the ninth of December at seven in the evening. Information only, not advice.",
+  "stories": [
+    {
+      "section": "BTC", "impact": "🔴", "confidence": "High", "date": "2026-11-20", "status": "Developing",
+      "title": "Bitcoin dips to about $61,200, lowest since early July",
+      "why": "Kraken showed a 24-hour low of $61,213 and a price near $61,805 at 06:40 UK, slightly above the evening edition's $61,510. CoinDesk put the low near $61,300 and counted more than $600 million of futures liquidations over 24 hours, nearly half in the last 12. The new evidence is that selling extended overnight but has not yet reached $60,000.",
+      "note": {"horizon": "swing", "read": "Leveraged longs are still being flushed, and Bitcoin is trading like a high-beta tech asset while AI stocks fall.", "alt": "Liquidations are slowing and the overnight bounce from $61,200 could mark short-term exhaustion.", "change": "A US session where tech stabilises but Bitcoin still falls would point to crypto-specific selling rather than spillover."},
+      "sources": [
+        {"name": "CoinDesk", "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-hits-four-month-low-after-anthropic-s-ipo-as-tech-stocks-wilt"},
+        {"name": "Kraken (price data)", "url": "https://www.kraken.com/prices/bitcoin"}
+      ]
+    },
+    {
+      "section": "ETFs", "impact": "🔴", "confidence": "Medium", "date": "2026-11-19", "status": "New",
+      "title": "Bitcoin ETFs lose $582 million on Thursday, led by IBIT",
+      "why": "SoSoValue data reported by Bloomingbit showed $582.19 million of net outflows on 19 November, nearly double Wednesday's $306 million, with IBIT alone losing $541 million. Three days of outflows total $1.13 billion. This is the figure the evening edition was waiting for.",
+      "caveat": "Only one outlet carried Thursday's full figure by publication time; Wednesday's $306 million matches Farside data reported by crypto.news.",
+      "note": {"horizon": "swing", "read": "Institutional money is leaving at an accelerating pace, which removes the steady buyer that supported prices earlier in the year.", "alt": "Some of the IBIT outflow may be rebalancing or basis-trade unwinds rather than outright bearish selling.", "change": "A day of net inflows while the price is near $61,000 would suggest buyers stepping in at these levels."},
+      "sources": [
+        {"name": "Bloomingbit (SoSoValue data)", "url": "https://en.bloomingbit.io/feed/news/124852"},
+        {"name": "crypto.news", "url": "https://crypto.news/bitcoin-etf-outflows-975-million-btc-price-nov-19/"}
+      ]
+    },
+    {
+      "section": "Markets", "impact": "🟠", "confidence": "High", "date": "2026-11-20", "status": "Developing",
+      "title": "Anthropic closes at $97.17; Nasdaq futures fall again",
+      "why": "Anthropic closed its first day 17% above its $83 offer after opening at $111.50, Decrypt and CoinDesk reported. The Nasdaq fell 2.4% and futures were 0.7% lower overnight, below their 200-day average, according to CoinDesk. The new evidence is that the tech selloff has carried into Asian hours.",
+      "note": {"horizon": "intraday", "read": "Investors may be selling other tech and risk assets to fund or rebalance around the $81 billion listing.", "alt": "The selling may reflect wider AI valuation worries rather than the IPO itself.", "change": "A firm US open at 14:30 UK would ease the pressure on crypto."},
+      "sources": [
+        {"name": "Decrypt", "url": "https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price"},
+        {"name": "CoinDesk", "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-hits-four-month-low-after-anthropic-s-ipo-as-tech-stocks-wilt"}
+      ]
+    },
+    {
+      "section": "ZEC", "impact": "🟠", "confidence": "High", "date": "2026-11-20", "status": "Developing",
+      "title": "ZEC falls to about $853; Zebra 7.2.0 beta released",
+      "why": "ZEC traded near $853 on Kraken at 06:40 UK, about 3.5% below the evening edition, after a low of $841.95. The Zcash Foundation published Zebra 7.2.0-beta.2 for testing, with compact block relay on by default and no network upgrade; it says production nodes should stay on 7.1.0. The NU7.1 miner poll was due to open at midnight.",
+      "sources": [
+        {"name": "Zcash Foundation (GitHub)", "url": "https://github.com/ZcashFoundation/zebra/releases/tag/v7.2.0-beta.2"},
+        {"name": "Kraken (price data)", "url": "https://www.kraken.com/prices/zcash"}
+      ]
+    },
+    {
+      "section": "ETFs", "impact": "🟢", "confidence": "High", "date": "2026-11-20", "status": "New",
+      "title": "VanEck drops Gemini as custodian of its bitcoin ETF",
+      "why": "VanEck gave notice on 16 November ending Gemini's custody of its HODL bitcoin fund and its ether and solana funds from about 16 February 2027, CoinDesk reported from 8-K filings. Coinbase Custody stays on. No reason was given; operations continue meanwhile.",
+      "sources": [
+        {"name": "CoinDesk", "url": "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs"}
+      ]
+    },
+    {
+      "section": "BTC", "impact": "🟢", "confidence": "Medium", "date": "2026-11-19", "status": "New",
+      "title": "Strategy shares fall for a sixth day; holdings about $11 billion under water",
+      "why": "Strategy closed at $86.13, down 4.6% and about 43% lower this year, Bitcoin Magazine reported. Its 850,849 BTC cost about $64.2 billion against a value near $52.8 billion. It holds about $4.9 billion of US dollar reserves, and Michael Saylor wrote that it intends to keep buying below $100.",
+      "sources": [
+        {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/markets/strategy-stock-sinks-62000"}
+      ]
+    }
+  ],
+  "explained": {
+    "title": "Why a big stock listing can hit crypto",
+    "body": [
+      "A record share sale like Anthropic's needs tens of billions of dollars of buyers. Funds that want a slice often sell other holdings, usually liquid, volatile assets such as tech stocks and Bitcoin funds, to make room. When the new shares then fall from their opening price, the whole risk basket can sell off together.",
+      "That spillover is usually short-lived, which is why traders watch whether Bitcoin keeps falling once tech stocks stabilise."
+    ]
+  },
+  "investigating": [
+    "Is IBIT's $541 million outflow outright selling or a basis-trade unwind? Evidence: CME bitcoin futures open interest and IBIT share count changes.",
+    "Does the NU7.1 miner poll show early support? Evidence: the Zcash Foundation's poll tally as blocks come in."
+  ],
+  "corrections": [],
+  "ahead": [
+    {"when": "Fri 20 Nov 14:30 UK", "impact": "🟠", "what": "US stock market open after Thursday's tech selloff"},
+    {"when": "Sat 21 Nov morning UK", "impact": "🟠", "what": "US spot bitcoin ETF flows for Friday"},
+    {"when": "Sun 22 Nov", "impact": "🟢", "what": "Russian exchanges may begin organised crypto trading"},
+    {"when": "Thu 26 Nov", "impact": "🟢", "what": "US markets closed for Thanksgiving; Ethereum go/no-go call on Glamsterdam"},
+    {"when": "Fri 27 Nov 08:00 UK", "impact": "🟠", "what": "Monthly BTC options and futures expiry"},
+    {"when": "Tue 1 Dec", "impact": "🟢", "what": "Zcash NU7.1 miner poll closes"},
+    {"when": "Wed 9 Dec 19:00 UK", "impact": "🔴", "what": "Fed rate decision and projections"}
+  ]
+}
