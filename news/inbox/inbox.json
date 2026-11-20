@@ -1,5 +1,55 @@
 [
 {
+"id": "ad8dcde656b68fc2",
+"title": "Bitcoin Price Crashes to $59,000 as Market Selloff Deepens",
+"link": "https://bitcoinmagazine.com/markets/bitcoin-price-crashes-below-60000",
+"published": "2026-11-20T15:59:50Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-20T16:07:10Z"
+},
+{
+"id": "fdf3dafed1bd479f",
+"title": "US Senate advances prediction market restrictions with DEATH BETS Act",
+"link": "https://cointelegraph.com/news/us-senate-advances-prediction-market-restrictions-with-death-bets-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-20T15:55:22Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-20T16:07:10Z"
+},
+{
+"id": "596e20097f715f24",
+"title": "Transphobia on X is a Zcash community issue",
+"link": "https://forum.zcashcommunity.com/t/transphobia-on-x-is-a-zcash-community-issue/59495",
+"published": "2026-11-20T15:55:15Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-20T16:07:10Z"
+},
+{
+"id": "c871e21a6e72eb87",
+"title": "Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off",
+"link": "https://cointelegraph.com/markets/bitcoin-hits-new-20-week-low-anthropic-drops-87-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-20T15:52:06Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-20T16:07:10Z"
+},
+{
+"id": "ab494916efdae40a",
+"title": "Senate Passes Bill Banning Prediction Market Bets on War, Terrorism and Death",
+"link": "https://decrypt.co/383700/senate-passes-bill-banning-prediction-market-bets-on-war-terrorism-and-death",
+"published": "2026-11-20T15:42:51Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-20T16:07:10Z"
+},
+{
 "id": "4c91e2c0da157a82",
 "title": "DBS bets it can lose the deposit and keep the client",
 "link": "https://cointelegraph.com/news/dbs-bets-it-can-lose-the-deposit-and-keep-the-client?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -18,6 +68,16 @@
 "desk": "Macro",
 "kind": "official",
 "first_seen": "2026-11-20T15:07:11Z"
+},
+{
+"id": "fa89f5e5b31afea7",
+"title": "Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street",
+"link": "https://www.coindesk.com/markets/2026/11/20/former-point72-head-of-proprietary-research-says-ai-could-turn-data-into-a-new-asset-class-for-wall-street",
+"published": "2026-11-20T14:54:30Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-20T16:07:10Z"
 },
 {
 "id": "65aa7ebf45530599",
