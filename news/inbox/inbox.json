@@ -1,5 +1,25 @@
 [
 {
+"id": "79f4104b0e57176f",
+"title": "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges",
+"link": "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
+"published": "2026-11-21T17:01:02Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-21T17:07:15Z"
+},
+{
+"id": "c1d289258c9e8b15",
+"title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
+"link": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
+"published": "2026-11-21T16:41:00Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-21T17:07:15Z"
+},
+{
 "id": "6138b9b26525c2d1",
 "title": "Signal Calls OS-Level AI an 'Existential Threat' and Blocks Screenshots to Fight It",
 "link": "https://decrypt.co/383750/signal-os-level-ai-existential-threat-blocks-screenshots",
@@ -5668,96 +5688,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-14T21:24:56Z"
-},
-{
-"id": "6639c3891073cda7",
-"title": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
-"link": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
-"published": "2026-11-14T16:33:29Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-14T17:00:36Z"
-},
-{
-"id": "487c7aec411ff10d",
-"title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
-"link": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
-"published": "2026-11-14T16:33:23Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-14T17:00:36Z"
-},
-{
-"id": "9aa29a9320bec7c3",
-"title": "What Is Canton Network? The Privacy Blockchain Built for Wall Street",
-"link": "https://decrypt.co/resources/what-is-canton-network-the-privacy-blockchain-built-for-wall-street",
-"published": "2026-11-14T16:01:02Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-14T17:00:36Z"
-},
-{
-"id": "b918d6c7270c0261",
-"title": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
-"link": "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale",
-"published": "2026-11-14T15:38:27Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-14T17:00:36Z"
-},
-{
-"id": "00199b9e7668c1f8",
-"title": "Bitcoin Price Falls 14% in a Week to $65,000 as Weekend Selling Breaks Friday’s Low",
-"link": "https://bitcoinmagazine.com/markets/bitcoin-price-crashes-13-percent-65600",
-"published": "2026-11-14T15:27:33Z",
-"source": "Bitcoin Magazine",
-"desk": "BTC",
-"kind": "news",
-"first_seen": "2026-11-14T17:00:36Z"
-},
-{
-"id": "c6edf19e65a23c78",
-"title": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
-"link": "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground",
-"published": "2026-11-14T15:00:00Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-14T17:00:36Z"
-},
-{
-"id": "3baeba662fbedf47",
-"title": "OpenAI Launches ChatGPT Wallet to Let AI Agents Shop—Without Crypto",
-"link": "https://decrypt.co/383278/openai-chatgpt-wallet-ai-agents-shop-without-crypto",
-"published": "2026-11-14T14:01:02Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-14T17:00:36Z"
-},
-{
-"id": "fc787b1b4f9ee3d7",
-"title": "Britain could turn wasted Scottish wind power into bitcoin to cut its $1.3 billion grid bill",
-"link": "https://www.coindesk.com/policy/2026/11/13/britain-could-turn-wasted-scottish-wind-power-into-bitcoin-to-cut-its-usd1-3-billion-grid-bill",
-"published": "2026-11-14T13:00:00Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-14T17:00:36Z"
-},
-{
-"id": "11d1aef5934d07aa",
-"title": "A behind the scenes force may amplify bitcoin and ether price volatility",
-"link": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility",
-"published": "2026-11-14T12:57:00Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-14T17:00:36Z"
 },
 {
 "id": "9ea03567012702e4",
