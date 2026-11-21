@@ -1,5 +1,15 @@
 [
 {
+"id": "93e45954ebef3465",
+"title": "Withdrawing ZEC from an exchange: which address type to use (and why some withdrawals fail)",
+"link": "https://forum.zcashcommunity.com/t/withdrawing-zec-from-an-exchange-which-address-type-to-use-and-why-some-withdrawals-fail/59512",
+"published": "2026-11-21T06:44:53Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-21T06:57:30Z"
+},
+{
 "id": "5c48c1a28f49d184",
 "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
 "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
