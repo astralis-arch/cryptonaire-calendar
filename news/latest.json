@@ -1,48 +1,48 @@
 {
- "generated": "2026-11-20T21:33:00Z",
+ "generated": "2026-11-21T06:35:00Z",
  "mood": "risk-off",
  "briefing": {
   "developments": [
-   "Bitcoin kept falling after the afternoon edition, touching about $57,660 on Kraken and ending the US session near $58,600, about 5% down on the day and within reach of its June-July low of about $57,700.",
-   "Nvidia fell about 13% to a 52-week low after Reuters reported SEC enforcement staff are examining its accounting, deepening the tech selloff, Decrypt reported.",
-   "ZEC fell to about $737, down about 17% since midnight UK and about 5% since the afternoon edition, after a low near $724 on Kraken."
+   "Bitcoin broke its June-July low overnight, falling from about $58,900 to as low as $55,100 on Kraken, and traded near $56,000 at 06:30 UK, its lowest since September 2024, CoinDesk reported.",
+   "About $2.4 billion of leveraged crypto positions were liquidated over 24 hours, more than $1 billion of it in Bitcoin futures, according to CoinGlass data cited by CoinDesk.",
+   "ZEC fell to a low of about $678 on Kraken in the 03:00 UK hour and traded near $699, down about 5% since the evening edition and about 19% over 24 hours."
   ],
-  "changed": "At 16:30 Bitcoin had just broken $60,000 and the question was whether that was a washout. It was not: the selling continued into the US close, liquidations doubled to about $1.5 billion over 24 hours, and a new Nvidia shock hit tech stocks.",
-  "question": "Does Bitcoin hold its June-July low near $57,700 over the thin weekend, or does a break open new lows for this bear market?",
-  "watch": "Friday's US spot bitcoin ETF flows, due Saturday morning UK. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
+  "changed": "Last night's question was whether the summer low near $57,700 would hold over the weekend. It did not: the break came at about 03:00 UK in thin Asian trading, and forced selling widened from about $1.5 billion to about $2.4 billion.",
+  "question": "Is $55,000 the point where forced selling runs out, or does the weekend bring a deeper flush before US markets reopen on Monday?",
+  "watch": "Friday's US spot bitcoin ETF flow figures, still to be confirmed, and Monday's US open at 14:30 UK. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
  },
  "lead": {
-  "headline": "Bitcoin slides towards summer low as Nvidia shock hits tech",
-  "standfirst": "Bitcoin fell below $58,000 in late US trading, within about 1% of its June-July low, as Nvidia shares sank on a report of an SEC accounting probe.",
+  "headline": "Bitcoin breaks summer low, sinks to two-year bottom near $55,000",
+  "standfirst": "Bitcoin fell through its June-July low in early Asian trading on Saturday, touching $55,100 on Kraken, as about $2.4 billion of leveraged crypto bets were wiped out in a day.",
   "body": [
-   "Bitcoin fell as low as about $57,660 on Friday evening, Kraken data showed, extending the break below $60,000 that came after the US open. It traded near $58,600 at 21:30 UK time, about 5% down on the day.",
-   "CoinDesk reported that the drop erased the August-September rebound and left Bitcoin within about 2% of its June-July low near $57,700. About $1.5 billion of leveraged crypto positions were liquidated over 24 hours, according to CoinGlass data cited by CoinDesk, roughly double the figure at midday.",
-   "The selling came as Nvidia fell about 13% to a 52-week low of $126.64, Decrypt reported, after Reuters said SEC enforcement staff were examining possible accounting issues. The SEC declined to comment.",
-   "Sentiment sank further. The Crypto Fear and Greed Index fell to 9, its lowest since February, Decrypt said. US Treasury Secretary Scott Bessent told CNBC he would encourage the Fed not to back a half-point rise in December, Bitcoin Magazine reported; CME FedWatch showed a more than 98% chance of a quarter-point move.",
-   "Zcash fell harder still, to about $737 on Kraken, down about 17% since midnight. Traders now await Friday's ETF flow figures on Saturday morning, after November's outflows reached about $3.47 billion."
+   "Bitcoin fell as low as $55,100 on Saturday morning, Kraken data showed, after the slide that began on Friday cut through the June-July low near $57,700. It traded near $56,000 at 06:30 UK time, about 4% below the level at Friday's evening edition.",
+   "The steepest leg came in the 03:00 UK hour, when the price dropped from about $58,500 to $56,300. CoinDesk reported that Bitcoin was at its lowest since September 2024 and down about 28% this quarter.",
+   "About $2.40 billion of crypto futures positions were liquidated over 24 hours, with more than $1 billion in Bitcoin and $545 million in Ether, according to CoinGlass data cited by CoinDesk. The largest single liquidation was a $51.7 million long Bitcoin bet.",
+   "The fall followed a broad sell-off on Wall Street on Friday. The Nasdaq Composite fell about 5% and the S&P 500 about 3.5%, Bitcoin Magazine reported, with Nvidia down about 12.5%. CoinDesk said analysts pointed to rising inflation-adjusted US Treasury yields and a more hawkish Fed outlook.",
+   "Zcash fell harder, to a low of about $678 on Kraken, and other large coins including XRP and Solana dropped about 9% in 24 hours, CoinDesk said. Thursday's US spot bitcoin ETF outflow was $582 million, The Block reported; Friday's figure had not been confirmed at publication."
   ]
  },
- "headline": "Bitcoin slid to about $57,660 after the afternoon edition and closed the US session near $58,600, close to its summer low, as an Nvidia accounting report deepened the tech selloff. ZEC fell to about $737, down about 17% on the day.",
- "spoken": "Cryptonaire Post, evening edition, Friday the twentieth of November. Bitcoin kept falling into the US close, touching about fifty seven thousand seven hundred dollars and now near fifty eight thousand six hundred, about five percent down on the day and close to its summer low. About one and a half billion dollars of leveraged bets were wiped out in a day. Nvidia sank about thirteen percent on a report of an SEC accounting probe. Zcash is near seven hundred and thirty seven dollars, down about seventeen percent today. Friday's ETF flows land tomorrow morning. The next big event is the Fed decision on the ninth of December at seven in the evening. Information only, not advice.",
+ "headline": "Bitcoin broke its summer low overnight, touching $55,100 and trading near $56,000, its lowest since September 2024, as about $2.4 billion of leveraged bets were liquidated. ZEC fell to about $699, after a low near $678.",
+ "spoken": "Cryptonaire Post, morning edition, Saturday the twenty first of November. Bitcoin broke through its summer low overnight. It fell to about fifty five thousand one hundred dollars around four in the morning UK time and is now near fifty six thousand, its lowest in about two years. About two point four billion dollars of leveraged bets were wiped out in a day. The fall followed a five percent drop in the Nasdaq on Friday. Zcash is near six hundred and ninety nine dollars, after touching about six hundred and seventy eight. The next big event is the Fed decision on the ninth of December at seven in the evening. Information only, not advice.",
  "stories": [
   {
    "section": "BTC",
    "impact": "🔴",
    "confidence": "High",
-   "date": "2026-11-20",
-   "status": "Developing",
-   "title": "Bitcoin falls to about $57,660, near its June-July low",
-   "why": "Kraken showed a low of $57,661 in the 19:00 UTC hour and a price near $58,625 at 21:30 UK, down about 5% from the day's $61,914 open. CoinDesk said the fall erased the August-September rebound and put Bitcoin within about 2% of its $57,700 June-July low, with about $1.5 billion of leveraged positions liquidated over 24 hours. The new evidence is that the post-open break did not reverse into the close; the afternoon's washout reading has not held so far.",
+   "date": "2026-11-21",
+   "status": "Outlook changed",
+   "title": "Bitcoin breaks its June-July low, touches $55,100",
+   "why": "Kraken showed Bitcoin near $58,900 at midnight UK, then a fall from about $58,500 to $56,300 in the 03:00 UK hour and a low of $55,100 in the 06:00 hour; it traded near $56,030 at 06:30 UK. CoinDesk said it was the lowest since September 2024 and a 28% quarterly decline. This changes last night's assessment: the summer low near $57,700 did not hold.",
    "note": {
     "horizon": "swing",
-    "read": "The summer low near $57,700 is now the level the market is testing, and the selling is broad, with traders moving to cash rather than to other crypto.",
-    "alt": "Liquidations doubling in a day can exhaust forced sellers, and weekend trading is thin, so a bounce from a well-watched low is also possible.",
-    "change": "A daily close below about $57,700 would point to new bear-market lows; a recovery above $60,000 with tech steadying would point to a washout."
+    "read": "With the well-watched summer low gone, the market has no recent support level, and the break came in thin weekend Asian trading when forced selling travels further.",
+    "alt": "Breaks in thin weekend trading often overshoot; the record liquidation total may mark forced sellers running out rather than new spot selling.",
+    "change": "A quick recovery back above about $57,700 would suggest a false break; a further fall with liquidations staying high would suggest the slide is still being driven by leverage."
    },
    "sources": [
     {
      "name": "CoinDesk",
-     "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play"
+     "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone"
     },
     {
      "name": "Kraken (price data)",
@@ -53,22 +53,26 @@
   {
    "section": "Markets",
    "impact": "🔴",
-   "confidence": "Medium",
+   "confidence": "High",
    "date": "2026-11-20",
-   "status": "New",
-   "title": "Nvidia sinks 13% to 52-week low on SEC accounting report",
-   "why": "Nvidia fell about 13% to $127.16 in afternoon trading, touching $126.64, after Reuters reported SEC enforcement staff are examining possible accounting issues, Decrypt said. The SEC declined to comment. It adds a second shock to the AI-led tech selloff that has been pulling Bitcoin lower alongside the Nasdaq.",
-   "caveat": "The Reuters report was relayed by Decrypt; the Nasdaq's closing level was not confirmed at publication.",
+   "status": "Developing",
+   "title": "Liquidations climb to about $2.4 billion as the Nasdaq falls 5%",
+   "why": "CoinGlass data cited by CoinDesk showed $2.40 billion of crypto futures liquidated over 24 hours, up from about $1.5 billion at the evening edition, with more than $1 billion in Bitcoin. Bitcoin Magazine reported the Nasdaq Composite fell about 5% and the S&P 500 about 3.5% on Friday, with Nvidia down about 12.5% and Strategy down about 8.4%. The new evidence is that the US sell-off deepened into the close and crypto kept falling after stocks shut.",
+   "caveat": "Bitcoin Magazine, citing Yahoo Finance, gave about $1.53 billion of liquidations at its earlier time; CoinDesk's $2.40 billion is the later, wider count.",
    "note": {
     "horizon": "intraday",
-    "read": "Bitcoin is trading as a high-beta tech asset, so a hit to the biggest AI stock spills straight into crypto.",
-    "alt": "The Nvidia news is company-specific and may not keep weighing on crypto once the weekend separates the two markets.",
-    "change": "Bitcoin rising over the weekend while US stocks are shut would show it can decouple from the tech selloff."
+    "read": "Crypto is the only market open at the weekend, so it is absorbing selling pressure from Friday's equity rout on its own.",
+    "alt": "Some of the overnight move may be leverage being cleared rather than fresh selling, which tends to fade once open interest has reset.",
+    "change": "Stable US stock futures on Sunday evening and lower liquidation totals would point to the pressure easing."
    },
    "sources": [
     {
-     "name": "Decrypt",
-     "url": "https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting"
+     "name": "CoinDesk",
+     "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone"
+    },
+    {
+     "name": "Bitcoin Magazine",
+     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-58300-nasdaq"
     }
    ]
   },
@@ -76,15 +80,15 @@
    "section": "ZEC",
    "impact": "🔴",
    "confidence": "High",
-   "date": "2026-11-20",
+   "date": "2026-11-21",
    "status": "Developing",
-   "title": "ZEC falls to about $737, down about 17% on the day",
-   "why": "Kraken showed ZEC near $737 at 21:30 UK, from $775 at the afternoon edition and a $893 open at midnight, with a low of $724. The new evidence is that ZEC's fall continued at roughly three times Bitcoin's pace; no ZEC-specific negative news was found. Separately, the Zcash forum announced Cupcake v1.2.0, an air-gapped signing app, now supports fully shielded Zcash including NU7.",
+   "title": "ZEC falls to about $678 low, trades near $699",
+   "why": "Kraken showed ZEC near $758 at midnight UK, then a fall to $677.61 in the 03:00 UK hour alongside Bitcoin's break, and about $699 at 06:30 UK. CoinDesk put ZEC's 24-hour fall at about 19%, against about 9% for Bitcoin. The Block noted ZEC is now about 55% below its all-time high of $1,680 from about two months ago. The new evidence is that ZEC fell with Bitcoin's break but did not lead it.",
    "note": {
     "horizon": "swing",
-    "read": "ZEC is giving back gains as a high-beta coin in a risk-off market.",
-    "alt": "Thin weekend liquidity can exaggerate moves in smaller coins in either direction.",
-    "change": "ZEC steadying while Bitcoin keeps falling would suggest its extra selling has run its course."
+    "read": "ZEC is still moving at about twice Bitcoin's pace in both directions, as a high-beta coin in a risk-off market.",
+    "alt": "ZEC's small bounce off $678 while Bitcoin made a fresh low at 06:00 UK may show its extra selling is slowing.",
+    "change": "ZEC holding above $678 if Bitcoin falls further would suggest its relative weakness is fading."
    },
    "sources": [
     {
@@ -92,109 +96,89 @@
      "url": "https://www.kraken.com/prices/zcash"
     },
     {
-     "name": "Zcash Community Forum",
-     "url": "https://forum.zcashcommunity.com/t/cupcake-v1-2-0-brings-full-zcash-shielded-support/59505"
+     "name": "CoinDesk",
+     "url": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion"
     }
    ]
   },
   {
-   "section": "Macro",
+   "section": "ETFs",
    "impact": "🟠",
    "confidence": "Medium",
-   "date": "2026-11-20",
+   "date": "2026-11-19",
    "status": "Developing",
-   "title": "Bessent urges Fed against a half-point hike; Cook warns waiting has a cost",
-   "why": "Treasury Secretary Scott Bessent told CNBC he would encourage the Fed not to back a half-point rise at its 8-9 December meeting, Bitcoin Magazine reported; CME FedWatch showed a more than 98% chance of a quarter-point move. Governor Lisa Cook said in Santiago that waiting to act when an adjustment is needed has a cost, citing October core PCE inflation of 3.2%. The new evidence is that the half-point risk is fading while a quarter-point rise looks settled.",
+   "title": "Thursday ETF outflow $582 million, IBIT's largest on record; Friday still unconfirmed",
+   "why": "US spot bitcoin ETFs lost $582 million on Thursday, with BlackRock's IBIT accounting for $541.1 million, its largest one-day outflow on record, Bitcoin Magazine and The Block reported. November outflows are now about $3.5 billion. Friday's total, covering the day Bitcoin broke $60,000, had not been confirmed by a reputable source at publication.",
    "sources": [
     {
      "name": "Bitcoin Magazine",
-     "url": "https://bitcoinmagazine.com/markets/bessent-fed-bigger-rate-hike-bitcoin"
-    },
-    {
-     "name": "Federal Reserve",
-     "url": "https://www.federalreserve.gov/newsevents/speech/cook20261120a.htm"
-    }
-   ]
-  },
-  {
-   "section": "BTC",
-   "impact": "🟠",
-   "confidence": "Medium",
-   "date": "2026-11-20",
-   "status": "New",
-   "title": "Fear and Greed Index hits 9; JPMorgan puts production cost at $86,000",
-   "why": "The Crypto Fear and Greed Index fell to 9, its lowest since February, from 18 a week earlier, Decrypt reported. JPMorgan analysts estimate Bitcoin's production cost at about $86,000, now more than $26,000 above the price, and said the gap could narrow as hashrate falls, The Block reported. Both show how stretched sentiment and miner economics have become.",
-   "caveat": "Production cost is a model estimate, not a price floor.",
-   "sources": [
-    {
-     "name": "Decrypt",
-     "url": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest"
+     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-58300-nasdaq"
     },
     {
      "name": "The Block",
-     "url": "https://www.theblock.co/news/markets/2026-11-20-jpmorgan-bitcoin-price-correction-gap-86000-production-cost-444763"
+     "url": "https://www.theblock.co/newsletters/the-daily/2026-11-20-jpmorgan-bitcoin-price-drop-miners-senate-passes-death-bets-act-more-crypto-news-444786"
     }
    ]
   },
   {
-   "section": "Whales",
-   "impact": "🟢",
-   "confidence": "Medium",
-   "date": "2026-11-20",
-   "status": "Developing",
-   "title": "Binance hack laundering speeds up; $149 million of BTC mixed",
-   "why": "Elliptic said at least 2,310 BTC, about $149 million, has been mixed through coinjoins, about 90% of it since Tuesday, The Block reported. The Bitcoin taken directly from Binance has not moved; Binance holds a $6.5 billion worldwide freeze order from ADGM Courts.",
-   "caveat": "The Block gives the untouched Binance BTC as 18,720 in the body and 18,270 in its summary.",
-   "sources": [
-    {
-     "name": "The Block",
-     "url": "https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758"
-    }
-   ]
-  },
-  {
-   "section": "Beyond",
+   "section": "Protocol",
    "impact": "🟢",
    "confidence": "High",
    "date": "2026-11-20",
    "status": "New",
-   "title": "Wrapped Monero token XMR1 collapses 99% after $13 million hack",
-   "why": "Wagyu's XMR1 fell from nearly $500 to as low as $0.65 after an attacker took tokens from the deployer wallet, The Block and Decrypt reported; the founder blamed a web-host breach and promised refunds. Real Monero is unaffected, but it is a reminder of wrapper risk for privacy coins on other chains.",
+   "title": "Zebra 7.2.0-beta.3 out; Zcash fee cut is now active",
+   "why": "The Zcash Foundation published the Zebra 7.2.0-beta.3 pre-release on Friday evening. Its notes say Mainnet passed the ZIP 2009 fee reduction height on 19 November, so the marginal fee is now 400 zatoshis per action. It is a beta with no network upgrade; Zebra 7.1.0's end-of-support warnings begin around 3 December.",
+   "sources": [
+    {
+     "name": "Zcash Foundation (GitHub)",
+     "url": "https://github.com/ZcashFoundation/zebra/releases/tag/v7.2.0-beta.3"
+    }
+   ]
+  },
+  {
+   "section": "ZEC",
+   "impact": "🟢",
+   "confidence": "Medium",
+   "date": "2026-11-20",
+   "status": "New",
+   "title": "DCG's Zcash miner Fortitude clears shareholder vote for Nasdaq listing",
+   "why": "HeartSciences shareholders approved the merger with Fortitude, with about 86% in favour, The Block reported; the combined Fortitude Mining Group still needs Nasdaq approval and has no listing date. Fortitude said its Zcash hashrate rose about 15% to 5.4 GSol/s since early October. It would be a listed company tied to ZEC mining.",
    "sources": [
     {
      "name": "The Block",
-     "url": "https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747"
-    },
-    {
-     "name": "Decrypt",
-     "url": "https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host"
+     "url": "https://www.theblock.co/news/business/2026-11-20-dcgs-zcash-miner-fortitude-clears-vote-nasdaq-listing-zec-retreats-all-time-high-444784"
     }
    ]
   }
  ],
  "explained": {
-  "title": "Why liquidations snowball",
+  "title": "Why weekend breaks can overshoot",
   "body": [
-   "Traders who borrow to bet on rising prices are forced out by the exchange when the price falls far enough. Their positions are sold automatically, which pushes the price lower and can trigger the next batch of forced sales.",
-   "That is why falls through round numbers like $60,000 can speed up suddenly. Once most leveraged bets are cleared, the forced selling stops, which is why analysts watch liquidation totals for signs of exhaustion."
+   "Crypto trades every day, but the big buyers that usually step in, such as ETF desks and US funds, mostly work when US markets are open. At the weekend, fewer orders sit on the books, so a large sale or a wave of forced liquidations moves the price further than it would on a weekday.",
+   "That is why traders watch whether a weekend break holds once Monday's US session opens: a level reclaimed then can mean the move was mostly thin trading, while a level that stays broken suggests real selling."
   ]
  },
  "investigating": [
-  "Did ETF selling accelerate on Friday as Bitcoin broke $60,000? Evidence: Friday's SoSoValue and Farside flow figures, due Saturday morning UK.",
-  "Does the June-July low near $57,700 hold over the weekend? Evidence: weekend price action on Kraken and Coinbase, and funding rates on perpetual futures.",
-  "Is ZEC's extra fall coin-specific? Evidence: ZEC exchange inflows and open interest, and any ZEC news over the weekend."
+  "How large were Friday's US spot bitcoin ETF outflows as Bitcoin broke $60,000? Evidence: SoSoValue or Farside daily totals; Farside could not be read this morning.",
+  "Has the leverage now been cleared? Evidence: Bitcoin futures open interest and funding rates on Saturday and Sunday compared with Friday.",
+  "Do Bitcoin treasury companies or miners face pressure at these prices? Evidence: filings or statements from Strategy and listed miners after JPMorgan's $86,000 production cost estimate."
  ],
  "corrections": [],
  "ahead": [
   {
-   "when": "Sat 21 Nov morning UK",
+   "when": "Sat 21 Nov",
    "impact": "🟠",
-   "what": "US spot bitcoin ETF flows for Friday"
+   "what": "US spot bitcoin ETF flows for Friday, pending confirmation"
   },
   {
    "when": "Sun 22 Nov",
    "impact": "🟢",
    "what": "Russian exchanges may begin organised crypto trading"
+  },
+  {
+   "when": "Mon 23 Nov 14:30 UK",
+   "impact": "🟠",
+   "what": "US markets reopen after Friday's sell-off"
   },
   {
    "when": "Thu 26 Nov",
@@ -217,5 +201,5 @@
    "what": "Fed rate decision and projections"
   }
  ],
- "id": "2026-11-20-2133"
+ "id": "2026-11-21-0635"
 }
