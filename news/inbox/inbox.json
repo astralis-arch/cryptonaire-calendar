@@ -1,5 +1,15 @@
 [
 {
+"id": "c12cc6821468547e",
+"title": "Kalshi faces Monday hearing on New York order it says would shut down its exchange nationwide",
+"link": "https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813",
+"published": "2026-11-21T21:17:36Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-21T21:37:13Z"
+},
+{
 "id": "0ca86751b6f257a1",
 "title": "Cyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers",
 "link": "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810",
@@ -5698,46 +5708,6 @@
 "desk": "ZEC",
 "kind": "community",
 "first_seen": "2026-11-15T01:17:22Z"
-},
-{
-"id": "063b626dfff60756",
-"title": "Louisiana AG calls CFTC chair an ‘obsequious standard bearer’ for prediction markets following agency lawsuit",
-"link": "https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342",
-"published": "2026-11-14T19:06:59Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-14T21:24:56Z"
-},
-{
-"id": "2bd65f4f0cce2d4a",
-"title": "The Week Jensen Huang Fell: How a Spy Scandal Toppled Nvidia’s CEO",
-"link": "https://decrypt.co/383280/the-week-jensen-huang-fell-how-spy-scandal-toppled-nvidia-ceo",
-"published": "2026-11-14T18:01:02Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-14T21:24:56Z"
-},
-{
-"id": "ce7bf9209c7439f5",
-"title": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding",
-"link": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337",
-"published": "2026-11-14T17:50:41Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-14T21:24:56Z"
-},
-{
-"id": "10f1e096d4b97864",
-"title": "OpenAI, Anthropic, Google and Other AI Giants Face Lawsuit Demanding Development Freeze",
-"link": "https://decrypt.co/383270/openai-anthropic-google-ai-giants-lawsuit-development-freeze",
-"published": "2026-11-14T17:01:02Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-14T21:24:56Z"
 },
 {
 "id": "9ea03567012702e4",
