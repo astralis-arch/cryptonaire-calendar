@@ -1,5 +1,25 @@
 [
 {
+"id": "d85a97bebee80cc9",
+"title": "Google's Quantum Chip Beats Classical Limits in 'Impossible' Game",
+"link": "https://decrypt.co/383743/googles-quantum-chip-beats-classical-limits-in-impossible-game-tests-105-qubits",
+"published": "2026-11-22T14:01:02Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-22T14:07:09Z"
+},
+{
+"id": "ffae009bc0b11ae7",
+"title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
+"link": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
+"published": "2026-11-22T14:00:00Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-22T14:07:09Z"
+},
+{
 "id": "73d4587df65ad81d",
 "title": "Grant Application - halo2-bilinear-opt: Certified Pairing & Pasta Wrong-Field Gadgets for Zcash Halo2 and Tachyon",
 "link": "https://forum.zcashcommunity.com/t/grant-application-halo2-bilinear-opt-certified-pairing-pasta-wrong-field-gadgets-for-zcash-halo2-and-tachyon/59538",
