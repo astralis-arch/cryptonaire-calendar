@@ -1,29 +1,29 @@
 {
- "generated": "2026-11-22T06:35:00Z",
+ "generated": "2026-11-22T16:34:00Z",
  "mood": "mixed",
  "briefing": {
   "developments": [
-   "Bitcoin slipped overnight, falling from about $60,260 at the evening edition to a low near $58,650 on Kraken before 06:00 UK, and traded near $58,920 at 06:30 UK, down about 2.2%.",
-   "ZEC dipped to about $760 in the early hours, then recovered to near $784 at 06:30 UK, little changed from about $790 last night.",
-   "Chainflip said the attacker in Saturday's vault hack took about $12 million, not the $4.86 million first reported, and offered a 10% bounty if the rest is returned by 18:38 UK on Monday."
+   "Bitcoin recovered the $60,000 mark during the UK day, rising from about $58,920 at the morning edition to a high near $61,590 on Kraken around noon UK, and traded near $61,190 at 16:30 UK, up about 3.9%.",
+   "Kraken said a brief collapse in its Canadian-dollar Bitcoin market on Saturday, to the equivalent of about $17,000, was not a hack and that all the trades will stand.",
+   "South Korea's Upbit and Bithumb suspended deposits and withdrawals of the CYBER token after a suspected exploit of the Cyber network's bridge, the second bridge incident of the weekend after Chainflip."
   ],
-  "changed": "Saturday's rebound has partly faded. Bitcoin lost the $60,000 mark overnight on thin weekend trading, with no new market-moving news found to explain it, but it remains above the old $57,700 summer low.",
-  "question": "Was the overnight slip just thin weekend trading, or the start of a retest of Friday's $55,130 low before US markets reopen?",
-  "watch": "US stock futures reopen at about 23:00 UK tonight, then the US open at 14:30 UK on Monday. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
+  "changed": "The overnight slip has been reversed: Bitcoin is back above $61,000, slightly above Saturday night's level. It was otherwise a quiet Sunday with no market-moving macro or ETF news, as US markets are shut until Monday.",
+  "question": "Will Bitcoin hold above $60,000 once US stock futures and spot ETF trading resume, after last week's roughly $1.1 billion of ETF withdrawals?",
+  "watch": "US stock futures reopen at about 23:00 UK tonight; US markets open at 14:30 UK on Monday. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
  },
  "lead": {
-  "headline": "Bitcoin slips back below $60,000 in quiet overnight trading",
-  "standfirst": "Bitcoin gave back part of Saturday's rebound in thin Asian-hours trading, while the Chainflip hack was revealed to be more than twice as large as first thought.",
+  "headline": "Bitcoin climbs back above $61,000 on a quiet Sunday",
+  "standfirst": "Bitcoin reversed its overnight dip during UK hours, while Kraken said a weekend price collapse in its Canadian-dollar market was a market glitch, not a breach.",
   "body": [
-   "Bitcoin traded near $58,920 on Kraken at 06:30 UK time on Sunday, Kraken data showed, about 2.2% below its level at 21:30 UK on Saturday. Most of the fall came between 02:00 and 06:00 UK, when it touched a low near $58,650.",
-   "No single piece of news was found to explain the move. CoinDesk had reported on Saturday that Bitcoin bounced more than 9% from Friday's two-year low of $55,130, and that Glassnode said the sell-off had cleared the largest cluster of futures liquidation levels, between $59,000 and $62,000.",
-   "Zcash dipped to about $760 in the early hours before recovering to near $784, according to Kraken.",
-   "Cointelegraph reported that Chainflip Labs confirmed an attacker took about $12 million from its vaults on Saturday, including about 123 BTC, up from the $4.86 million first reported. Chainflip offered a 10% bounty if the rest is returned by 18:38 UK on Monday, and FLIP fell about 43% in 24 hours, citing CoinGecko.",
-   "US stock futures reopen at about 23:00 UK on Sunday, and US stocks and spot bitcoin ETFs trade again from 14:30 UK on Monday."
+   "Bitcoin traded near $61,190 on Kraken at 16:30 UK time on Sunday, Kraken data showed, about 3.9% above its level at the morning edition. Most of the gain came between 08:00 and 10:00 UK, and it touched a high near $61,590 around noon.",
+   "No single piece of news was found to explain the rise, which came with US stock and ETF markets closed for the weekend. Bitcoin remains well above Friday's two-year low of $55,130.",
+   "Cointelegraph reported that Kraken's Canadian-dollar markets saw heavy selling from Friday evening, briefly putting Bitcoin at about C$24,250, or roughly $16,900, on Saturday morning, while its US-dollar market was near $57,650. Kraken said every order was processed correctly, it found no breach, and executed trades stand.",
+   "Separately, Upbit and Bithumb halted CYBER deposits and withdrawals after Cyber reported unexpected token minting and funds leaving its bridge, Cointelegraph reported. It follows Saturday's roughly $12 million Chainflip hack.",
+   "Zcash rose to near $794 from about $784 this morning, according to Kraken. US stock futures reopen at about 23:00 UK, with US markets and spot bitcoin ETFs trading again from 14:30 UK on Monday."
   ]
  },
- "headline": "A quiet night: Bitcoin slipped about 2% to near $58,920 and ZEC held near $784. Chainflip's hack grew to about $12 million; the test is US markets reopening tonight and Monday.",
- "spoken": "Cryptonaire Post, morning edition, Sunday the twenty second of November. A quiet night, but Bitcoin has slipped back below sixty thousand dollars. It is near fifty eight thousand nine hundred dollars, down about two percent since last night, with no clear news behind the move. Zcash dipped to about seven hundred and sixty dollars overnight and is back near seven hundred and eighty four. The Chainflip hack is now put at about twelve million dollars. Nothing is scheduled today. US stock futures reopen around eleven tonight, and US markets open at half past two on Monday afternoon. The next big event is the Fed decision on the ninth of December at seven in the evening. Information only, not advice.",
+ "headline": "Bitcoin climbed about 4% to near $61,190 and ZEC edged up to near $794 on a quiet Sunday. Kraken says Saturday's $17,000 Canadian-dollar print was no hack; Monday's US open is the next test.",
+ "spoken": "Cryptonaire Post, afternoon edition, Sunday the twenty second of November. Bitcoin has bounced back. It is near sixty one thousand two hundred dollars, up about four percent since this morning, with no clear news behind the move. Zcash is near seven hundred and ninety four dollars, a little higher. Kraken says Saturday's brief collapse in its Canadian dollar market, to about seventeen thousand dollars, was not a hack, and the trades will stand. Two Korean exchanges paused transfers of the CYBER token after a suspected bridge exploit. US stock futures reopen around eleven tonight, and US markets open at half past two on Monday afternoon. The next big event is the Fed decision on the ninth of December at seven in the evening. Information only, not advice.",
  "stories": [
   {
    "section": "BTC",
@@ -31,43 +31,55 @@
    "confidence": "High",
    "date": "2026-11-22",
    "status": "Outlook changed",
-   "title": "Bitcoin slips back below $60,000 overnight",
-   "why": "Kraken showed Bitcoin falling from about $60,260 at 21:30 UK to a low near $58,650 before 06:00 UK, and near $58,920 at 06:30 UK, down about 2.2%. The new evidence is that the weekend rebound has partly faded, though price is still above the old $57,700 summer low and well above Friday's $55,130 low.",
+   "title": "Bitcoin climbs back above $61,000",
+   "why": "Kraken showed Bitcoin rising from about $58,920 at 06:30 UK to a high near $61,590 around noon UK, and near $61,190 at 16:30 UK, up about 3.9%. The new evidence undoes the overnight slip and puts price slightly above Saturday night's $60,260.",
    "note": {
     "horizon": "swing",
-    "read": "A slow overnight drift on thin volume looks like the rebound running out of buyers rather than fresh selling pressure.",
-    "alt": "Weekend price moves often reverse once US investors return; the slip may mean little.",
-    "change": "A fall back below about $57,700 before or after the US reopening would point to a retest of Friday's low."
+    "read": "Weekend buyers stepped back in after the overnight dip, keeping the rebound from Friday's low intact for now.",
+    "alt": "Weekend moves on thin volume often reverse when US investors return; Monday's session matters more.",
+    "change": "A fall back below $60,000 once US futures reopen, or heavy ETF outflows on Monday, would point to the rebound fading."
    },
    "sources": [
     {
      "name": "Kraken (price data)",
      "url": "https://www.kraken.com/prices/bitcoin"
-    },
+    }
+   ]
+  },
+  {
+   "section": "Markets",
+   "impact": "🟠",
+   "confidence": "Medium",
+   "date": "2026-11-22",
+   "status": "New",
+   "title": "Kraken says $17,000 Canadian-dollar print was no hack; trades stand",
+   "why": "Cointelegraph reported that heavy selling in Kraken's Canadian-dollar pairs from Friday evening briefly took BTC/CAD to C$24,250 on Saturday morning, about $16,900 and some 71% below its US-dollar market. Kraken said orders were processed correctly, it found no breach or compromised accounts, and executed trades will be honoured. A reminder that thin currency pairs can print extreme prices.",
+   "caveat": "Blockstream's Adam Back suggested a market maker on Kraken's USD/CAD market ran out of funds; Kraken has not confirmed the cause.",
+   "note": {
+    "horizon": "intraday",
+    "read": "A venue-specific liquidity failure, not a signal about Bitcoin's wider price.",
+    "alt": "If more venues or pairs show similar gaps, it could point to broader stress among market makers after Friday's sell-off.",
+    "change": "Any finding of a technical fault or a reversal of Kraken's decision would change the picture."
+   },
+   "sources": [
     {
-     "name": "CoinDesk",
-     "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open"
+     "name": "Cointelegraph",
+     "url": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand"
     }
    ]
   },
   {
    "section": "DeFi",
-   "impact": "🟠",
+   "impact": "🟢",
    "confidence": "Medium",
    "date": "2026-11-22",
-   "status": "Outlook changed",
-   "title": "Chainflip hack put at $12 million, with a 10% bounty offer",
-   "why": "Cointelegraph reported that Chainflip Labs confirmed the attacker took about 122.86 BTC, 520 ETH, 3.25 million USDC and 758,000 USDT, about $12 million in all, up from the $4.86 million first reported. Chainflip offered a 10% bounty if the rest is returned by 18:38 UK on Monday 23 November, said it traced the attack to Tornado Cash funding on 11 November, and FLIP fell about 43% in 24 hours. It is a reminder of the risk in cross-chain swap services.",
-   "note": {
-    "horizon": "intraday",
-    "read": "Too small to move Bitcoin itself, but a sign that confidence in cross-chain bridges is being tested after two incidents in a day.",
-    "alt": "A quick return of funds under the bounty would close the story with little lasting effect.",
-    "change": "A larger loss figure, or news that the key exposure affects other protocols, would raise its importance."
-   },
+   "status": "New",
+   "title": "Korean exchanges halt CYBER transfers after suspected bridge exploit",
+   "why": "Cointelegraph reported that Cyber detected unexpected minting of CYBER on Solana and tokens leaving its bridge's Ethereum lockbox on Saturday, and told users to avoid the bridge. Bithumb and Upbit suspended CYBER deposits and withdrawals on Sunday; no loss figure has been given. It is the weekend's second bridge incident after Chainflip.",
    "sources": [
     {
      "name": "Cointelegraph",
-     "url": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty"
+     "url": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit"
     }
    ]
   },
@@ -77,8 +89,8 @@
    "confidence": "High",
    "date": "2026-11-22",
    "status": "No material change",
-   "title": "ZEC dips to $760 and recovers to near $784",
-   "why": "Kraken showed ZEC falling to about $760 between 02:00 and 04:00 UK alongside Bitcoin, then recovering to near $784 at 06:30 UK, against about $790 last night. No new ZEC news overnight.",
+   "title": "ZEC edges up to near $794",
+   "why": "Kraken showed ZEC trading between about $778 and $808 since the morning edition and near $794 at 16:30 UK, up from about $784. No new market-moving ZEC news.",
    "sources": [
     {
      "name": "Kraken (price data)",
@@ -87,40 +99,47 @@
    ]
   },
   {
-   "section": "Policy",
+   "section": "Protocol",
    "impact": "🟢",
    "confidence": "Medium",
-   "date": "2026-11-21",
-   "status": "Developing",
-   "title": "Kalshi faces Monday hearing on New York order",
-   "why": "The Block reported that a federal judge on Friday denied the CFTC's second emergency bid to block New York's case against prediction market Kalshi, and a New York state judge is set to hear the state's restraining order request at 16:30 UK on Monday. Kalshi says the order would shut its exchange for every customer; New York says it would not. A test of how far US states can police federally regulated crypto-adjacent markets.",
+   "date": "2026-11-22",
+   "status": "New",
+   "title": "Quantum risk reaches beyond Bitcoin's code to custodians and bridges",
+   "why": "CoinDesk reported that, per Glassnode, more than 6 million BTC, about 31.2% of supply, sat behind public keys already visible on-chain in October. Proposals such as BIP 360 and BIP 361 remain drafts, and custody systems and bridges still lack production-ready post-quantum standards. A long-term risk, not a near-term price driver.",
    "sources": [
     {
-     "name": "The Block",
-     "url": "https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813"
+     "name": "CoinDesk",
+     "url": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins"
     }
    ]
   },
   {
-   "section": "ETFs",
-   "impact": "🟠",
+   "section": "DeFi",
+   "impact": "🟢",
    "confidence": "Medium",
-   "date": "2026-11-21",
+   "date": "2026-11-22",
    "status": "No material change",
-   "title": "ETF outflows still the open question for Monday",
-   "why": "CoinDesk put last week's net withdrawals from US spot bitcoin ETFs at about $1.1 billion. Nothing new until US markets trade again from 14:30 UK on Monday.",
+   "title": "Chainflip bounty deadline still Monday",
+   "why": "No update found since Chainflip put the hack at about $12 million and offered a 10% bounty if funds are returned by 18:38 UK on Monday.",
    "sources": [
     {
-     "name": "CoinDesk",
-     "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open"
+     "name": "Cointelegraph",
+     "url": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty"
     }
    ]
   }
  ],
+ "explained": {
+  "title": "Why one exchange pair can crash on its own",
+  "body": [
+   "Bitcoin trades against many currencies. A pair like BTC/CAD usually tracks BTC/USD because market makers and arbitrage traders keep the two in line using the US-dollar to Canadian-dollar rate. If a key market maker stops quoting or runs out of funds, a large sell order can hit very few buyers and print a far lower price on that pair alone.",
+   "That is why one venue's chart can show a wild wick that other markets never saw. It reflects missing liquidity in that pair, not a change in what Bitcoin is worth elsewhere."
+  ]
+ },
  "investigating": [
-  "What drove Bitcoin's overnight slip? Evidence: futures open interest, funding rates and liquidation totals for 02:00 to 06:00 UK.",
-  "Will Chainflip's attacker take the bounty? Evidence: on-chain returns to Chainflip addresses before 18:38 UK on Monday.",
-  "Will Monday's US session confirm or undo the weekend? Evidence: Nasdaq futures from 23:00 UK tonight, then Monday's ETF flows."
+  "What caused Kraken's Canadian-dollar collapse? Evidence: a fuller statement from Kraken on its USD/CAD market makers.",
+  "How much was taken in the Cyber bridge incident? Evidence: a loss figure from Cyber or on-chain trackers, and whether Korean exchanges reopen transfers.",
+  "Will Monday's US session confirm the weekend rebound? Evidence: Nasdaq futures from 23:00 UK tonight, then Monday's spot ETF flows."
  ],
  "corrections": [],
  "ahead": [
@@ -165,5 +184,5 @@
    "what": "Fed rate decision and projections"
   }
  ],
- "id": "2026-11-22-0635"
+ "id": "2026-11-22-1634"
 }
