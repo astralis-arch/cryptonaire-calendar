@@ -1,5 +1,15 @@
 [
 {
+"id": "bb20bffc6bfeaf58",
+"title": "Support for emojis in the memo",
+"link": "https://forum.zcashcommunity.com/t/support-for-emojis-in-the-memo/59542",
+"published": "2026-11-22T17:27:27Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-22T17:37:09Z"
+},
+{
 "id": "1a8b891b5880241f",
 "title": "Noir Wallet at Binance Blockchain Week",
 "link": "https://forum.zcashcommunity.com/t/noir-wallet-at-binance-blockchain-week/59540",
@@ -218,6 +228,16 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-21T14:07:09Z"
+},
+{
+"id": "0e90985b959159a1",
+"title": "OpenAI, Anthropic and rivals seek AI agent rules to prevent commerce chaos",
+"link": "https://www.coindesk.com/tech/2026/11/21/openai-anthropic-and-rivals-seek-ai-agent-rules-to-prevent-commerce-chaos",
+"published": "2026-11-21T14:00:00Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-22T17:37:09Z"
 },
 {
 "id": "6082857bd2918a2c",
