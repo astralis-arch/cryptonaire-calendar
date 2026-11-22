@@ -21,12 +21,12 @@ add("🟢", "FOMC strategy meeting (no rate vote)", "2027-10-27", None, NY, 0,
 # FOMC minutes: published 3 weeks after each meeting, 14:00 ET (expected, not on Fed page yet)
 for d in ["2026-11-18","2026-12-30","2027-02-17","2027-04-07","2027-05-19","2027-06-30","2027-08-18","2027-10-06","2027-12-08"]:
     add("🟢", "FOMC minutes", d, "14:00", NY, 15, "Expected date (3 weeks after meeting). Confirm on federalreserve.gov.")
-# --- US CPI (bls.gov), 08:30 ET
+# --- US CPI (bls.gov, checked 22 Nov 2026), 08:30 ET
 for d, m in [("2026-11-10","Oct"),("2026-12-10","Nov"),("2027-01-13","Dec"),("2027-02-11","Jan"),("2027-03-10","Feb"),
              ("2027-04-13","Mar"),("2027-05-12","Apr"),("2027-06-10","May"),("2027-07-14","Jun"),("2027-08-11","Jul"),
              ("2027-09-14","Aug"),("2027-10-14","Sep"),("2027-11-10","Oct"),("2027-12-10","Nov")]:
     add("🔴", f"US CPI ({m})", d, "08:30", NY, 30, "BLS inflation print. Big BTC volatility window.")
-# --- US jobs / NFP (bls.gov), 08:30 ET
+# --- US jobs / NFP (bls.gov, checked 22 Nov 2026), 08:30 ET
 for d, m in [("2026-12-04","Nov"),("2027-01-08","Dec"),("2027-02-05","Jan"),("2027-03-05","Feb"),("2027-04-02","Mar"),
              ("2027-05-07","Apr"),("2027-06-04","May"),("2027-07-02","Jun"),("2027-08-06","Jul"),("2027-09-03","Aug"),
              ("2027-10-08","Sep"),("2027-11-05","Oct"),("2027-12-03","Nov")]:

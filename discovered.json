@@ -6,8 +6,8 @@
     "tz": "America/New_York",
     "mins": 30,
     "tier": "🟠",
-    "note": "Stopgap law (H.R. 6500) funds the government to the end of 11 Dec; a lapse would start 12 Dec. As of early Nov, no full-year funding passed. A shutdown can delay BLS data (CPI, jobs) and SEC work, and tends to add risk-off noise.",
-    "source": "https://www.aljazeera.com/news/2026/9/1/us-house-passes-funding-bill-to-avert-government-shutdown-ahead-of-midterms",
+    "note": "Stopgap law P.L. 119-103 (H.R. 6500) funds the government to the end of 11 Dec; a lapse would start 12 Dec. As of 17 Nov, no new stopgap text released; the White House is reportedly weighing one running to March. A shutdown can delay BLS data (CPI, jobs) and SEC work, and tends to add risk-off noise.",
+    "source": "https://governmentshutdowntracker.com/funding-deadline/",
     "confirmed": false
   }
 ]
