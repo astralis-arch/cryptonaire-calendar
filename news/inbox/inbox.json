@@ -1,5 +1,15 @@
 [
 {
+"id": "b24568265a76b28e",
+"title": "Trump to host second memecoin dinner tonight with TRUMP down 99% from peak",
+"link": "https://www.theblock.co/news/ecosystems/2026-11-22-trump-to-host-second-memecoin-dinner-tonight-with-trump-down-99-from-peak-444828",
+"published": "2026-11-22T20:58:33Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-22T21:07:08Z"
+},
+{
 "id": "ee5ee73425a9c286",
 "title": "More on the pending oversight hearings: State of Crypto",
 "link": "https://www.coindesk.com/",
@@ -5688,56 +5698,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-16T00:57:54Z"
-},
-{
-"id": "78d292d3bc01b214",
-"title": "Traders claim $6 million profit by spotting BitGo’s public pull request and frontrunning memecoin listing",
-"link": "https://www.theblock.co/news/defi/2026-11-15-traders-claim-6-million-profit-by-spotting-bitgos-public-pull-request-and-frontrunning-memecoin-listing-440363",
-"published": "2026-11-15T20:33:17Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-15T20:59:46Z"
-},
-{
-"id": "a672f528b43195cf",
-"title": "Did prediction markets call the U.S. midterm election?: State of Crypto",
-"link": "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
-"published": "2026-11-15T19:30:00Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-15T20:59:46Z"
-},
-{
-"id": "658a7f4130180d50",
-"title": "Zcash creative people",
-"link": "https://forum.zcashcommunity.com/t/zcash-creative-people/59330",
-"published": "2026-11-15T19:16:00Z",
-"source": "Zcash Community Forum",
-"desk": "ZEC",
-"kind": "community",
-"first_seen": "2026-11-15T20:59:46Z"
-},
-{
-"id": "2572c856124fa15b",
-"title": "One ZIP for Both Taps: Fixing the Colossal Treasury Problem",
-"link": "https://forum.zcashcommunity.com/t/one-zip-for-both-taps-fixing-the-colossal-treasury-problem/59325",
-"published": "2026-11-15T16:06:27Z",
-"source": "Zcash Community Forum",
-"desk": "ZEC",
-"kind": "community",
-"first_seen": "2026-11-15T20:59:46Z"
-},
-{
-"id": "3368737bc3df901b",
-"title": "How Wall Street Is Racing to Claim the Onchain Dollar",
-"link": "https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins",
-"published": "2026-11-15T16:01:02Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-15T20:59:46Z"
 },
 {
 "id": "99e5597ef4c62fb6",
