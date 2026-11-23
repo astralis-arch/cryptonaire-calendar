@@ -1,5 +1,15 @@
 [
 {
+"id": "04a817e082ac7baf",
+"title": "GPU Jesus Has Risen: Jensen Huang’s Nvidia Comeback Gets a Meme Parade",
+"link": "https://decrypt.co/383820/jensen-huang-returns-nvidia-memes-gpu-jesus",
+"published": "2026-11-23T18:45:21Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-23T19:07:10Z"
+},
+{
 "id": "fcb0cdad3796194b",
 "title": "CFTC prediction market rules advance to White House review amid state-federal jurisdiction fight",
 "link": "https://www.theblock.co/news/regulation/2026-11-23-cftc-prediction-market-rules-advance-white-house-review-amid-state-federal-jurisdiction-fight-445384",
@@ -5768,6 +5778,26 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-17T02:04:19Z"
+},
+{
+"id": "21d2dfd3cfaf6988",
+"title": "Warsh, Opening Remarks",
+"link": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
+"published": "2026-11-16T17:00:00Z",
+"source": "Federal Reserve (speeches)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-23T19:07:10Z"
+},
+{
+"id": "52ffae40888153ea",
+"title": "Barr, Some Potential Financial Stability Implications of Artificial Intelligence",
+"link": "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm",
+"published": "2026-11-16T10:00:00Z",
+"source": "Federal Reserve (speeches)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-23T19:07:10Z"
 },
 {
 "id": "9ea03567012702e4",
