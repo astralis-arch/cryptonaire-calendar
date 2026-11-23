@@ -1,5 +1,25 @@
 [
 {
+"id": "f6c501ddffbc77a1",
+"title": "GitHub InjActions: A Security Flaw? :syringe:",
+"link": "https://forum.zcashcommunity.com/t/github-injactions-a-security-flaw/59550",
+"published": "2026-11-23T09:20:47Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-23T09:37:09Z"
+},
+{
+"id": "772e8ef098cb13d3",
+"title": "‘MoldyRoost’ ads can steal crypto wallet recovery phrases from iPhones",
+"link": "https://cointelegraph.com/news/moldyroost-malware-drain-iphone-wallets-one-tap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-23T09:05:44Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-23T09:37:09Z"
+},
+{
 "id": "abb5957252d70581",
 "title": "Bitcoin ETFs shed $1.8B in third-largest weekly outflow",
 "link": "https://cointelegraph.com/markets/bitcoin-etfs-third-largest-weekly-outflows-1-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
