@@ -1,74 +1,52 @@
 {
- "generated": "2026-11-23T06:35:00Z",
- "mood": "mixed",
+ "generated": "2026-11-23T16:32:00Z",
+ "mood": "risk-on",
  "briefing": {
   "developments": [
-   "Bitcoin edged up overnight to near $61,470 on Kraken at 06:30 UK, from about $60,840 at the evening edition, after trading between roughly $60,270 and $61,890 since midnight UK.",
-   "The Block reported, citing SoSoValue, that US spot bitcoin ETFs lost about $1.79 billion last week, the biggest weekly outflow since June and a fourth straight week of withdrawals.",
-   "CoinDesk reported that fed funds futures no longer price a half-point December rate rise after last week's 10.4% Nasdaq fall, though a quarter-point rise is still expected."
+   "Nvidia reinstated Jensen Huang as chief executive, sending its shares up about 30% and the Nasdaq up about 6.6% by mid-morning New York time, CoinDesk and The Block reported.",
+   "Bitcoin rose as high as about $64,520 on Kraken after the news and traded near $62,570 at 16:30 UK, up from about $61,470 at the morning edition.",
+   "Zcash jumped to about $841 on Kraken at 16:30 UK, up about 7% since the morning, after touching about $907; no single news cause was found."
   ],
-  "changed": "A little firmer than last night. Bitcoin added about 1% overnight and stayed above $60,000, while the weekly ETF tally confirmed the size of last week's withdrawals and rate-rise bets eased slightly.",
-  "question": "Will spot ETF selling ease this week now that the most aggressive Fed rate-rise bets have been dropped, or are the outflows, as some analysts told The Block, becoming structural?",
-  "watch": "US markets and spot bitcoin ETFs open at 14:30 UK today. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
+  "changed": "Clearly firmer than this morning. The AI-stock rout that drove last week's sell-off partly reversed on the Huang news, lifting bitcoin and crypto shares, though bitcoin gave back about half its spike from the $64,500 high.",
+  "question": "Does the tech rebound bring buyers back to spot bitcoin ETFs, after four weeks of outflows, or does bitcoin fade with yields near 4.95% and the dollar at a 20-month high?",
+  "watch": "Monday's spot bitcoin ETF flow figures, due Tuesday morning UK, and US PCE inflation on Wednesday at 13:30 UK. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
  },
  "lead": {
-  "headline": "Bitcoin ETFs lose $1.8 billion in a week as rate-rise bets cool",
-  "standfirst": "Weekly figures confirmed heavy withdrawals from US spot bitcoin funds, but bitcoin edged higher overnight as traders scaled back bets on a big December Fed rise.",
+  "headline": "Bitcoin jumps as Nvidia brings back Huang and tech stocks soar",
+  "standfirst": "Nvidia's reinstatement of Jensen Huang as chief executive sparked a sharp rebound in technology shares on Monday, carrying bitcoin briefly above $64,000.",
   "body": [
-   "US spot bitcoin exchange-traded funds recorded about $1.79 billion of net outflows last week, The Block reported, citing SoSoValue data. It was the largest weekly outflow since late June and the fourth week in a row of withdrawals, led by about $1.37 billion from BlackRock's IBIT.",
-   "About $4.14 billion has left the funds so far in November, according to the report, and their total net assets stood at $71.35 billion on Friday, down from about $110 billion in mid-September. Analysts quoted by The Block linked the selling to risk reduction ahead of expected Fed rate rises, with one calling the outflows more structural.",
-   "Rate expectations eased slightly. CoinDesk reported that fed funds futures no longer price any chance of a half-point December rise, after the Nasdaq fell 10.4% last week, its worst week since March 2020. A quarter-point rise is still expected, and Cointelegraph cited CME FedWatch odds of about 91%.",
-   "Bitcoin traded near $61,470 on Kraken at 06:30 UK time on Monday, Kraken data showed, about 1% above Sunday evening and well clear of last week's two-year low near $55,000. Zcash traded near $786.",
-   "US markets and spot bitcoin ETFs reopen at 14:30 UK, giving the first test of fund demand this week."
+   "Nvidia's board voted unanimously to reinstate Jensen Huang as president, chief executive and director with immediate effect, The Block and CoinDesk reported. The shares rose about 30%, having fallen about 43% in the month after his 12 November resignation, according to The Block.",
+   "The news lifted the wider market. The Nasdaq was up about 6.6% and the S&P 500 about 4.7% at 10:42 New York time, CoinDesk's live blog reported, a partial reversal of last week's 10.4% Nasdaq fall that had dragged bitcoin to a two-year low near $55,000.",
+   "Bitcoin rose as high as about $64,520 on Kraken, Kraken data showed, before easing to about $62,570 at 16:30 UK, roughly 2% above the morning edition. Zcash traded near $841, about 7% higher on the day after touching about $907.",
+   "Not every signal was supportive. CoinDesk reported that the US 10-year Treasury yield rose to 4.95% and that the dollar index reached its highest since March 2025. Strategy, the largest corporate holder, said it bought only 457 BTC last week for $29.6 million, Bitcoin Magazine reported, citing a filing.",
+   "The next tests are Monday's spot ETF flow figures, due on Tuesday morning UK time, and October's US PCE inflation data on Wednesday at 13:30 UK, ahead of the Thanksgiving holiday."
   ]
  },
- "headline": "Bitcoin edged up to near $61,470 overnight while ZEC slipped to about $786. Weekly data showed $1.8 billion leaving US spot bitcoin ETFs, but bets on a half-point December Fed rise have gone.",
- "spoken": "Cryptonaire Post, morning edition, Monday the twenty third of November. Bitcoin is near sixty one thousand five hundred dollars, up about one percent overnight. Zcash is near seven hundred and eighty six dollars, a little lower. New figures show about one point eight billion dollars left US spot bitcoin funds last week, the biggest weekly outflow since June. Traders have dropped bets on a half point Fed rate rise in December, though a quarter point rise is still expected. US markets and bitcoin funds open at half past two this afternoon. The next big event is the Fed decision on the ninth of December at seven in the evening. Information only, not advice.",
+ "headline": "Nvidia's reinstatement of Jensen Huang sparked a tech rally that lifted bitcoin to about $64,500 before it eased to near $62,570. Zcash rose about 7% to around $841.",
+ "spoken": "Cryptonaire Post, afternoon edition, Monday the twenty third of November. Nvidia has brought back Jensen Huang as chief executive, and tech shares are soaring, with the Nasdaq up more than six percent. Bitcoin briefly topped sixty four thousand dollars and is now near sixty two thousand six hundred, about two percent higher than this morning. Zcash is up about seven percent at around eight hundred and forty dollars. Treasury yields and the dollar are higher, which may limit the rebound. Watch spot bitcoin fund flows tomorrow morning and US inflation data on Wednesday at half past one. The next big event is the Fed decision on the ninth of December at seven in the evening. Information only, not advice.",
  "stories": [
   {
-   "section": "ETFs",
-   "impact": "🟠",
-   "confidence": "Medium",
+   "section": "Markets",
+   "impact": "🔴",
+   "confidence": "High",
    "date": "2026-11-23",
-   "status": "Developing",
-   "title": "Spot bitcoin ETFs lost $1.79 billion last week",
-   "why": "The Block, citing SoSoValue, put last week's net outflow at about $1.79 billion, the largest since June and a fourth straight losing week; IBIT accounted for about $1.37 billion. This updates the roughly $1.1 billion figure in earlier editions with the full week, and November's total outflow is about $4.14 billion.",
-   "caveat": "The Block's article gives last week's bitcoin low as both about $55,100 and about $55,700.",
+   "status": "New",
+   "title": "Nvidia reinstates Jensen Huang; Nasdaq jumps about 6.6%",
+   "why": "Nvidia's board unanimously reinstated Huang as CEO, and the shares rose about 30% after a 43% fall over the past month, The Block and CoinDesk reported. The Nasdaq was up about 6.6% at 10:42 New York time, reversing part of the AI-stock rout that pulled bitcoin to a two-year low last week.",
    "note": {
     "horizon": "swing",
-    "read": "Fund holders kept cutting risk all week, so the weekend rebound happened without ETF support.",
-    "alt": "Outflows often peak around sharp sell-offs; a slower pace this week would suggest the worst of the selling has passed.",
-    "change": "Daily net inflows on two or more days this week would weaken the view that the outflows are structural."
+    "read": "Last week's crypto sell-off was tied to the tech rout, so a tech rebound removes one of the main sources of pressure on bitcoin.",
+    "alt": "A one-day relief rally on one company's news may not last, and the Fed rate-rise path that also weighed on risk assets has not changed.",
+    "change": "The Nasdaq giving back most of today's gain this week would suggest the relief was short-lived."
    },
    "sources": [
     {
      "name": "The Block",
-     "url": "https://www.theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857"
-    }
-   ]
-  },
-  {
-   "section": "Macro",
-   "impact": "🟠",
-   "confidence": "High",
-   "date": "2026-11-23",
-   "status": "Outlook changed",
-   "title": "Half-point December Fed rise priced out after Nasdaq rout",
-   "why": "CoinDesk reported that futures no longer price a 50 basis point December rise, from about 10% ten days ago, after the Nasdaq's 10.4% weekly fall. A 25 basis point rise is still expected, with about a 60% chance of another in January; Cointelegraph cited about 91% FedWatch odds for December.",
-   "note": {
-    "horizon": "swing",
-    "read": "The market now sees the stock sell-off limiting how far the Fed goes, a small easing for risk assets including bitcoin.",
-    "alt": "Fed officials such as Governor Cook still say policy is too loose, so hawkish speeches could bring the bigger-rise bets back.",
-    "change": "Firm October core PCE inflation data or hawkish Fed speeches this week would revive the case for larger rises."
-   },
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "url": "https://www.coindesk.com/markets/2026/11/23/market-rout-kills-50-basis-points-december-fed-rate-hike-bets"
+     "url": "https://www.theblock.co/news/markets/2026-11-23-bitcoin-crypto-tech-stocks-rally-nvidia-reinstates-jensen-huang-ceo-nvda-jumps-444952"
     },
     {
-     "name": "Cointelegraph",
-     "url": "https://cointelegraph.com/markets/billionaire-bill-ackman-warns-fed-rate-hikes-could-trigger-recession"
+     "name": "CoinDesk",
+     "url": "https://www.coindesk.com/markets/2026/11/23/jensen-huang-returns-as-nvidia-ceo-as-shares-jump-27"
     }
    ]
   },
@@ -78,48 +56,98 @@
    "confidence": "High",
    "date": "2026-11-23",
    "status": "Developing",
-   "title": "Bitcoin edges up overnight to near $61,470",
-   "why": "Kraken showed Bitcoin near $61,470 at 06:30 UK, up about 1% from $60,840 at the evening edition, with a range of about $60,270 to $61,890 since midnight UK. The new evidence is that the weekend rebound held through the Asia session as US futures reopened.",
+   "title": "Bitcoin hits about $64,520, then eases to near $62,570",
+   "why": "Kraken showed bitcoin peaking near $64,520 after the Nvidia news and trading near $62,570 at 16:30 UK, about 2% above the morning edition and some 13% above last week's low near $55,000. The new evidence is that the rebound extended into the US session, though bitcoin gave back about half the spike.",
    "note": {
     "horizon": "intraday",
-    "read": "Steady overnight buying suggests the rebound has survived its first test since futures reopened.",
-    "alt": "Overnight trade is thin; the US open and ETF flows are the bigger test.",
-    "change": "A fall back below $60,000 after the 14:30 UK open would undo the overnight gain."
+    "read": "Bitcoin is trading as a high-beta tech proxy, rising with the Nasdaq.",
+    "alt": "Fading from the high while stocks held their gains may show sellers still using rallies to cut risk.",
+    "change": "A close back below $61,000 would undo today's gain; a hold above $64,500 would mark a new high for the rebound."
    },
    "sources": [
     {
      "name": "Kraken (price data)",
      "url": "https://www.kraken.com/prices/bitcoin"
-    }
-   ]
-  },
-  {
-   "section": "Markets",
-   "impact": "🟢",
-   "confidence": "Medium",
-   "date": "2026-11-23",
-   "status": "New",
-   "title": "Bitcoin briefly sold for about $17,000 on Kraken's Canadian dollar market",
-   "why": "CoinDesk reported that BTC traded as low as C$24,250 (about US$17,000) on Kraken's CAD book early Saturday, about 70% below global prices. Kraken said it found no breach and that executed trades stand. A reminder that thin local-currency order books can print extreme prices; the main USD market was not affected and prices are back in line.",
-   "sources": [
+    },
     {
      "name": "CoinDesk",
-     "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand"
+     "url": "https://www.coindesk.com/tech/2026/11/23/live-news-wall-street-rebounds-as-dollar-index-hits-highest-since-march-2025"
     }
    ]
   },
   {
    "section": "ZEC",
-   "impact": "🟢",
+   "impact": "🟠",
    "confidence": "High",
    "date": "2026-11-23",
-   "status": "No material change",
-   "title": "ZEC slips to about $786",
-   "why": "Kraken showed ZEC near $786 at 06:30 UK, against about $791 last night, after a range of roughly $775 to $803 since midnight UK. No market-moving ZEC news overnight.",
+   "status": "Outlook changed",
+   "title": "Zcash rises about 7% to near $841 after touching $907",
+   "why": "Kraken showed ZEC near $841 at 16:30 UK, up from about $786 at the morning edition, after a day's range of about $775 to $907. The morning's 'no material change' no longer holds; ZEC outpaced bitcoin's rise.",
+   "caveat": "No specific ZEC news was found to explain the move; it coincided with the broad crypto and tech rally.",
+   "note": {
+    "horizon": "intraday",
+    "read": "ZEC moved roughly three times as much as bitcoin, consistent with a higher-beta coin in a risk-on session.",
+    "alt": "A fast move to $907 and quick retreat may reflect thin liquidity and short covering rather than lasting demand.",
+    "change": "Confirmed ZEC-specific news, such as a listing or upgrade, would point to more than the market's general rebound."
+   },
    "sources": [
     {
      "name": "Kraken (price data)",
      "url": "https://www.kraken.com/prices/zcash"
+    }
+   ]
+  },
+  {
+   "section": "Macro",
+   "impact": "🟠",
+   "confidence": "Medium",
+   "date": "2026-11-23",
+   "status": "Developing",
+   "title": "US yields climb and dollar hits 20-month high; PCE due Wednesday",
+   "why": "CoinDesk's live blog reported the 10-year Treasury yield at 4.95% and the 2-year at 4.70%, with the dollar index at its highest since March 2025. CoinDesk's week-ahead piece put October PCE inflation on Wednesday at 13:30 UK, forecast at 0.3% on the month, with more than 95% pricing a quarter-point December Fed rise.",
+   "caveat": "The dollar-index level comes from the live blog's headline; the full text could not be checked.",
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "url": "https://www.coindesk.com/tech/2026/11/23/live-news-wall-street-rebounds-as-dollar-index-hits-highest-since-march-2025"
+    },
+    {
+     "name": "CoinDesk",
+     "url": "https://www.coindesk.com/markets/2026/11/23/u-s-inflation-thanksgiving-trading-crypto-week-ahead"
+    }
+   ]
+  },
+  {
+   "section": "UK",
+   "impact": "🟢",
+   "confidence": "Medium",
+   "date": "2026-11-23",
+   "status": "New",
+   "title": "UK crypto exchanges barred from market making on their own venues",
+   "why": "Bitcoin Magazine reported that the FCA's final rules (PS26/11) stop exchange operators trading against their own capital on venues they run from 25 October 2027, while a Treasury order made on 18 November lets outside market makers quote without a separate permission. Firms must apply for authorisation by 28 February 2027, which could change which venues UK users can use and how deep their order books are.",
+   "sources": [
+    {
+     "name": "Bitcoin Magazine",
+     "url": "https://bitcoinmagazine.com/news/uk-bars-crypto-exchanges-market-making"
+    },
+    {
+     "name": "FCA",
+     "url": "https://www.fca.org.uk/publications/policy-statements/cryptoasset-regime"
+    }
+   ]
+  },
+  {
+   "section": "ETFs",
+   "impact": "🟢",
+   "confidence": "Medium",
+   "date": "2026-11-23",
+   "status": "New",
+   "title": "Strategy buys just 457 BTC and spends more on buybacks",
+   "why": "Strategy bought 457 BTC for $29.6 million last week, taking its holdings to 851,305 BTC at an average cost of $75,446, Bitcoin Magazine reported, citing a filing. It spent $211.8 million repurchasing preferred shares, so the biggest corporate buyer is adding far less bitcoin than in past sell-offs.",
+   "sources": [
+    {
+     "name": "Bitcoin Magazine",
+     "url": "https://bitcoinmagazine.com/news/strategy-mstr-adds-457-bitcoin"
     }
    ]
   },
@@ -129,59 +157,54 @@
    "confidence": "Medium",
    "date": "2026-11-23",
    "status": "New",
-   "title": "Zaino indexer release candidate moves to a new team",
-   "why": "Zaino 0.11.0-rc1, light-wallet indexing software for Zebra nodes, is the first release from Umbriel Systems rather than ZingoLabs, according to the Zcash forum post. It supports NU7 and Zebra 7; the post says earlier work stalled over a ZingoLabs disagreement, and ZingoLabs has released its own indexer. Background for the move away from zcashd.",
+   "title": "Bitcoin Core discloses node-stall bug, fixed in latest releases",
+   "why": "Bitcoin Core disclosed a medium-severity bug that let an attacker briefly stall a node's processing, Bitcoin Magazine reported. It is fixed in versions 30.5, 31.3 and 32.1; the 29.x line is end-of-life with no fix. Relevant to anyone running their own node, not to funds held.",
    "sources": [
     {
-     "name": "Zcash Community Forum",
-     "url": "https://forum.zcashcommunity.com/t/zaino-0-11-0-rc1-a-new-home-at-umbriel-systems-and-a-big-step-forward/59544"
+     "name": "Bitcoin Magazine",
+     "url": "https://bitcoinmagazine.com/news/bitcoin-core-patches-ai-found-node-bug"
     }
    ]
   },
   {
-   "section": "DeFi",
+   "section": "Whales",
    "impact": "🟢",
    "confidence": "Medium",
-   "date": "2026-11-22",
-   "status": "New",
-   "title": "Fusionist's ACE bridge drained in third weekend exploit",
-   "why": "The Block reported that an attacker minted unbacked ACE tokens on Fusionist's bridge and sold them for about $2 million, after which traders redeemed about $3.7 million more. It follows the Chainflip and Cyber incidents this weekend; small for the wider market.",
+   "date": "2026-11-23",
+   "status": "Developing",
+   "title": "Elliptic tracks $247 million of Binance hack funds through coinjoins",
+   "why": "CoinDesk reported, citing Elliptic, that at least $247 million from the $6.3 billion Binance hack passed through coinjoin transactions, with about $2.35 billion still in linked wallets as of 20 November. Large sales of the remaining stolen funds are a potential source of selling, and a court is set to consider frozen assets on 1 December.",
    "sources": [
     {
-     "name": "The Block",
-     "url": "https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838"
+     "name": "CoinDesk",
+     "url": "https://www.coindesk.com/business/2026/11/23/binance-hackers-push-usd247-million-through-transactions-designed-to-cloud-the-source"
     }
    ]
   }
  ],
  "explained": {
-  "title": "Why one exchange can show a crazy price",
+  "title": "Why a chip company's boss can move bitcoin",
   "body": [
-   "An exchange runs a separate order book for each currency pair. A big market like bitcoin against US dollars has many buyers and sellers, but a smaller one like bitcoin against Canadian dollars may rely on a few market makers. If they pull out, a large sell order can fall through empty price levels and trade far below the global price, as CoinDesk reported happened on Kraken's Canadian dollar book on Saturday.",
-   "Such prints say little about the wider market, but they can trigger stop orders on that book. Prices in the main US dollar market are the better guide to where bitcoin really traded."
+   "Big investors often hold bitcoin and technology shares in the same 'risk' bucket. When a large tech stock like Nvidia crashes, funds cut risk across the board, selling bitcoin too; when it rebounds, the same money tends to flow back.",
+   "That link is why bitcoin fell during last week's AI-stock rout and jumped on Monday's Nvidia news. It can fade when crypto-specific forces, such as ETF flows or rate expectations, take over."
   ]
  },
  "investigating": [
-  "Will ETF outflows slow this week? Evidence: daily spot bitcoin ETF flow figures from Tuesday morning UK, starting with Monday's session.",
-  "Will Chainflip's stolen BTC be returned? Evidence: an update from Chainflip by its 18:38 UK deadline today, or on-chain movement of the 122.9 BTC.",
-  "When is October's US core PCE inflation figure due this week? Evidence: the BEA release calendar, given RBC's forecast of 3.3% a year."
+  "Did ETF buyers return with the tech rally? Evidence: Monday's spot bitcoin ETF flow figures, due Tuesday morning UK.",
+  "What drove Zcash's spike to $907? Evidence: an exchange announcement, derivatives liquidation data or a Zcash project update.",
+  "Did Chainflip recover its stolen BTC by the 18:38 UK bounty deadline? Evidence: a Chainflip statement or on-chain movement of the 122.9 BTC."
  ],
  "corrections": [],
  "ahead": [
   {
-   "when": "Mon 23 Nov 14:30 UK",
+   "when": "Tue 24 Nov 15:00 UK",
+   "impact": "🟢",
+   "what": "US consumer confidence (November)"
+  },
+  {
+   "when": "Wed 25 Nov 13:30 UK",
    "impact": "🟠",
-   "what": "US markets and spot bitcoin ETFs reopen after last week's sell-off"
-  },
-  {
-   "when": "Mon 23 Nov 16:30 UK",
-   "impact": "🟢",
-   "what": "New York court hears restraining order request against Kalshi"
-  },
-  {
-   "when": "Mon 23 Nov 18:38 UK",
-   "impact": "🟢",
-   "what": "Chainflip bounty deadline for the return of hacked funds"
+   "what": "US PCE inflation (October), Q3 GDP second estimate, durable goods and jobless claims"
   },
   {
    "when": "Thu 26 Nov",
@@ -194,9 +217,14 @@
    "what": "Monthly BTC options and futures expiry"
   },
   {
+   "when": "Fri 27 Nov 18:00 UK",
+   "impact": "🟢",
+   "what": "US markets and spot crypto ETFs close early"
+  },
+  {
    "when": "Tue 1 Dec",
    "impact": "🟢",
-   "what": "Zcash NU7.1 miner poll closes"
+   "what": "Zcash NU7.1 miner poll closes; court considers Binance hack frozen assets"
   },
   {
    "when": "Wed 9 Dec 19:00 UK",
@@ -204,5 +232,5 @@
    "what": "Fed rate decision and projections"
   }
  ],
- "id": "2026-11-23-0635"
+ "id": "2026-11-23-1632"
 }
