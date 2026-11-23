@@ -1,5 +1,25 @@
 [
 {
+"id": "0ce6c3f2c7c73f88",
+"title": "Zaino 0.11.0-rc1: a new home at Umbriel Systems, and a big step forward",
+"link": "https://forum.zcashcommunity.com/t/zaino-0-11-0-rc1-a-new-home-at-umbriel-systems-and-a-big-step-forward/59544",
+"published": "2026-11-23T00:54:52Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-23T01:07:10Z"
+},
+{
+"id": "b0bf6395d760a41f",
+"title": "Half of wallets on Trump’s dinner list got tokens from non-US exchanges",
+"link": "https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-23T00:53:49Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-23T01:07:10Z"
+},
+{
 "id": "a79e8b82803b7efd",
 "title": "A $2 million exploit leads to a $3.7 million free-for-all as traders empty Fusionist’s ACE bridge",
 "link": "https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838",
@@ -5688,36 +5708,6 @@
 "desk": "ZEC",
 "kind": "community",
 "first_seen": "2026-11-16T07:54:54Z"
-},
-{
-"id": "0c91c485d1ddcb31",
-"title": "Jensen Huang weighs Nvidia comeback days after shock exit: FT",
-"link": "https://cointelegraph.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-15T23:47:45Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-16T00:57:54Z"
-},
-{
-"id": "568fb5b209f18932",
-"title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest",
-"link": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-15T22:50:59Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-16T00:57:54Z"
-},
-{
-"id": "f0c503625d169864",
-"title": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
-"link": "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807",
-"published": "2026-11-15T21:57:53Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-16T00:57:54Z"
 },
 {
 "id": "99e5597ef4c62fb6",
