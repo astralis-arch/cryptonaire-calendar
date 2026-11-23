@@ -1,5 +1,55 @@
 [
 {
+"id": "9b3f2713ccba15f1",
+"title": "Bitcoin Price Surges Above $64,000 as Nvidia Reinstates CEO",
+"link": "https://bitcoinmagazine.com/markets/bitcoin-price-surges-64000-nvidia",
+"published": "2026-11-23T14:33:18Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-23T14:37:12Z"
+},
+{
+"id": "32f363f44c593b91",
+"title": "UK FCA Bars Crypto Exchanges From Market Making on Their Own Venues",
+"link": "https://bitcoinmagazine.com/news/uk-bars-crypto-exchanges-market-making",
+"published": "2026-11-23T14:20:29Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-23T14:37:12Z"
+},
+{
+"id": "5d92af61ba8d8993",
+"title": "Receipts for Tachyon Payments",
+"link": "https://forum.zcashcommunity.com/t/receipts-for-tachyon-payments/59555",
+"published": "2026-11-23T14:16:31Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-23T14:37:12Z"
+},
+{
+"id": "c6885ade78738c34",
+"title": "Jensen Huang returns as Nvidia CEO as shares jump 27%",
+"link": "https://www.coindesk.com/markets/2026/11/23/jensen-huang-returns-as-nvidia-ceo-as-shares-jump-27",
+"published": "2026-11-23T14:13:44Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-23T14:37:12Z"
+},
+{
+"id": "e24fc9fb1bdf9370",
+"title": "Nvidia Reinstates Jensen Huang as CEO Days After Board Ruled Out His Return",
+"link": "https://decrypt.co/383797/nvidia-reinstates-jensen-huang-as-ceo-days-after-board-ruled-out-his-return",
+"published": "2026-11-23T14:07:21Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-23T14:37:12Z"
+},
+{
 "id": "6d869bfd71132045",
 "title": "Strategy (MSTR) Adds 457 Bitcoin for $29.6 million",
 "link": "https://bitcoinmagazine.com/news/strategy-mstr-adds-457-bitcoin",
@@ -548,6 +598,16 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-22T19:37:10Z"
+},
+{
+"id": "096629ba29fdbd04",
+"title": "More on the pending oversight hearings: State of Crypto",
+"link": "https://www.coindesk.com/policy/2026/11/22/more-on-the-pending-oversight-hearings-state-of-crypto",
+"published": "2026-11-22T19:30:00Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-23T14:37:12Z"
 },
 {
 "id": "2507a52e30d1c829",
