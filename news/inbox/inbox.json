@@ -1,5 +1,35 @@
 [
 {
+"id": "d0e5a7b269d24d29",
+"title": "Singapore’s OCBC, StraitsX launch pilot for cross-border business stablecoin payments",
+"link": "https://www.theblock.co/news/business/2026-11-23-ocbc-straitsx-pilot-stablecoin-payments-444880",
+"published": "2026-11-23T10:04:03Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-23T10:07:11Z"
+},
+{
+"id": "3115150d02cfada9",
+"title": "Broken website: z.cash",
+"link": "https://forum.zcashcommunity.com/t/broken-website-z-cash/59551",
+"published": "2026-11-23T09:50:28Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-23T10:07:11Z"
+},
+{
+"id": "314fc052bd620174",
+"title": "U.S. inflation, Thanksgiving trading: Crypto Week Ahead",
+"link": "https://www.coindesk.com/markets/2026/11/23/u-s-inflation-thanksgiving-trading-crypto-week-ahead",
+"published": "2026-11-23T09:40:25Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-23T10:07:11Z"
+},
+{
 "id": "f6c501ddffbc77a1",
 "title": "GitHub InjActions: A Security Flaw? :syringe:",
 "link": "https://forum.zcashcommunity.com/t/github-injactions-a-security-flaw/59550",
