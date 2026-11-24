@@ -1,5 +1,95 @@
 [
 {
+"id": "54f11f9d5688b71e",
+"title": "XRP Ledger DEX volume hits 4.51 million XRP a day in Q3 as big traders take over: Evernorth",
+"link": "https://www.theblock.co/news/markets/2026-11-24-xrpl-dex-volume-q3-2026-evernorth-report-445395",
+"published": "2026-11-24T14:00:02Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-24T14:07:09Z"
+},
+{
+"id": "eaedc790c7cc5e4f",
+"title": "Ledn brings US business onshore with account to hold, swap and borrow against bitcoin",
+"link": "https://www.theblock.co/news/business/2026-11-24-ledn-launches-us-custody-account-bitcoin-gold-stablecoins-lending-445411",
+"published": "2026-11-24T14:00:00Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-24T14:07:09Z"
+},
+{
+"id": "48d0d5689081f9f5",
+"title": "Neuberger Berman’s HINC fund brings high-yield credit to Aave’s institutional lending platform",
+"link": "https://www.theblock.co/news/markets/2026-11-24-neuberger-berman-tokenized-hinc-fund-aave-horizon-collateral-445391",
+"published": "2026-11-24T14:00:00Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-24T14:07:09Z"
+},
+{
+"id": "76aa2dca17358d29",
+"title": "Swiss central bank, UBS and SIX study ledger for tokenized settlement",
+"link": "https://cointelegraph.com/news/swiss-central-bank-ubs-six-explore-ledger-tokenized-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-24T13:57:56Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-24T14:07:09Z"
+},
+{
+"id": "28b0cb0351a3b3fc",
+"title": "Relai Launches Stacks, Letting Bitcoin Savers Split Plans by Goal",
+"link": "https://bitcoinmagazine.com/news/relai-launches-stacks-bitcoin-savings",
+"published": "2026-11-24T13:50:58Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-24T14:07:09Z"
+},
+{
+"id": "c46fb6d66de3a331",
+"title": "Bitcoin Price Slips to $60,000 as November ETF Outflows Hit Record",
+"link": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-60000-etf-outflows",
+"published": "2026-11-24T13:47:18Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-24T14:07:09Z"
+},
+{
+"id": "21b09030cf866ecf",
+"title": "CertiK Trains Interpol Investigators to Trace and Freeze Stolen Crypto",
+"link": "https://decrypt.co/383857/certik-trains-interpol-investigators-to-trace-and-freeze-stolen-crypto",
+"published": "2026-11-24T13:46:03Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-24T14:07:09Z"
+},
+{
+"id": "3fb8022cc7861306",
+"title": "Sky lender proposes buyback of up to $50M to fund stUSDS withdrawals",
+"link": "https://cointelegraph.com/news/sky-community-proposes-50m-buybacks-stusds-liquidity-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-24T13:43:46Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-24T14:07:09Z"
+},
+{
+"id": "bcb4fda1a69c2479",
+"title": "Zcash (ZEC) is now available in Coin Wallet",
+"link": "https://forum.zcashcommunity.com/t/zcash-zec-is-now-available-in-coin-wallet/59580",
+"published": "2026-11-24T13:39:59Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-24T14:07:09Z"
+},
+{
 "id": "5f3ed2811b6e0947",
 "title": "BlackRock opens tokenized money market fund with $100 million in assets to Hong Kong investors",
 "link": "https://www.theblock.co/news/business/2026-11-24-blackrock-opens-tokenized-money-market-fund-with-100-million-in-assets-to-hong-kong-investors-445524",
@@ -5370,36 +5460,6 @@
 "first_seen": "2026-11-17T14:07:10Z"
 },
 {
-"id": "59381d6884ed757e",
-"title": "Bitcoin to $1M by 2030? ‘Almost certainly not,’ says Dragonfly’s Qureshi",
-"link": "https://cointelegraph.com/magazine/bitcoin-to-1m-by-2030-almost-certainly-not-says-dragonflys-qureshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-17T13:30:00Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T13:37:10Z"
-},
-{
-"id": "a3d7b66902dd41dc",
-"title": "ARK sells $85M in Nvidia shares ahead of chipmaker’s Q3 earnings results",
-"link": "https://cointelegraph.com/news/ark-crypto-stock-purchases-nvidia-staking-etf-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-17T13:12:10Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T13:37:10Z"
-},
-{
-"id": "13bd1894b9fff5d8",
-"title": "Stablecoin infrastructure firm Avenia raises $25 million in Series A extension",
-"link": "https://www.theblock.co/news/deals/2026-11-17-avenia-funding-stablecoin-crypto-infrastructure-442119",
-"published": "2026-11-17T13:08:34Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T13:37:10Z"
-},
-{
 "id": "b431ea497743c593",
 "title": "Here’s what happened in crypto today",
 "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -5538,16 +5598,6 @@
 "desk": "Macro",
 "kind": "official",
 "first_seen": "2026-11-21T04:07:17Z"
-},
-{
-"id": "cec69652e9521daf",
-"title": "Proposal: Bring Shielded Assets to Ironwood for Data Protection",
-"link": "https://forum.zcashcommunity.com/t/proposal-bring-shielded-assets-to-ironwood-for-data-protection/59299",
-"published": "2026-11-13T21:41:00Z",
-"source": "Zcash Community Forum",
-"desk": "ZEC",
-"kind": "community",
-"first_seen": "2026-11-17T13:37:10Z"
 },
 {
 "id": "4532bcae0da2463f",
