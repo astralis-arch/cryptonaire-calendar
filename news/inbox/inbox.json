@@ -1,5 +1,45 @@
 [
 {
+"id": "bfa8fab0870fc7fc",
+"title": "Bitcoin ETFs see another $570 million in net outflows as November total nears $5 billion and BTC dips below $60K",
+"link": "https://www.theblock.co/news/markets/2026-11-24-bitcoin-etfs-another-570-million-net-outflows-november-total-nears-5-billion-btc-dips-below-60k-445548",
+"published": "2026-11-24T14:32:21Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-24T14:37:11Z"
+},
+{
+"id": "b008df025e936b77",
+"title": "DOJ Moves to Forfeit $1.1 Billion in USDC Stolen in Binance Hack",
+"link": "https://bitcoinmagazine.com/news/doj-forfeit-usdc-binance-hack",
+"published": "2026-11-24T14:30:00Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-24T14:37:11Z"
+},
+{
+"id": "7fad6b2607a91934",
+"title": "Justice Department Moves to Forfeit $1.1B in USDC From North Korea's Binance Hack",
+"link": "https://decrypt.co/383874/justice-department-moves-to-forfeit-1-1b-in-usdc-from-north-koreas-binance-hack",
+"published": "2026-11-24T14:13:03Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-24T14:37:11Z"
+},
+{
+"id": "281b6f710144ce0a",
+"title": "USDT buyers face 22% VAT when Moscow Exchange opens crypto trading",
+"link": "https://cointelegraph.com/news/russia-usdt-buyer-face-22-tax-december-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-24T14:10:23Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-24T14:37:11Z"
+},
+{
 "id": "54f11f9d5688b71e",
 "title": "XRP Ledger DEX volume hits 4.51 million XRP a day in Q3 as big traders take over: Evernorth",
 "link": "https://www.theblock.co/news/markets/2026-11-24-xrpl-dex-volume-q3-2026-evernorth-report-445395",
@@ -5408,66 +5448,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-17T15:07:10Z"
-},
-{
-"id": "e388fcf8f43a8f24",
-"title": "Solana’s Trump memecoin launch tested infrastructure ahead of institutional push, Lily Liu says",
-"link": "https://www.theblock.co/news/ecosystems/2026-11-17-solana-trump-memecoin-launch-tested-infrastructure-institutional-push-lily-liu-says-442132",
-"published": "2026-11-17T14:27:35Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T14:37:10Z"
-},
-{
-"id": "64aad33a1b6b741d",
-"title": "Waller, Considerations at the Intersection of Payments and Tokenized Markets",
-"link": "https://www.federalreserve.gov/newsevents/speech/waller20261117a.htm",
-"published": "2026-11-17T14:10:00Z",
-"source": "Federal Reserve (speeches)",
-"desk": "Macro",
-"kind": "official",
-"first_seen": "2026-11-17T14:37:10Z"
-},
-{
-"id": "85257f2810da867b",
-"title": "NU 7.1 Poll",
-"link": "https://forum.zcashcommunity.com/t/nu-7-1-poll/59384",
-"published": "2026-11-17T14:07:09Z",
-"source": "Zcash Community Forum",
-"desk": "ZEC",
-"kind": "community",
-"first_seen": "2026-11-17T14:07:10Z"
-},
-{
-"id": "88469f2821c7db2c",
-"title": "Bitwise launches ZDAY, its first non-crypto ETF, to bet on AI cyber defense",
-"link": "https://www.theblock.co/news/markets/2026-11-17-bitwise-zday-ai-cyber-defense-etf-442062",
-"published": "2026-11-17T14:00:00Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T14:07:10Z"
-},
-{
-"id": "bb75eb1b225bb349",
-"title": "Bernstein sees upside for bitcoin miners Riot and TeraWulf, citing discounts to implied AI data center values",
-"link": "https://www.theblock.co/news/markets/2026-11-17-bernstein-sees-upside-for-bitcoin-miners-riot-and-terawulf-citing-discounts-to-implied-ai-data-center-values-442125",
-"published": "2026-11-17T13:56:18Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T14:07:10Z"
-},
-{
-"id": "b431ea497743c593",
-"title": "Here’s what happened in crypto today",
-"link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-17T06:00:00Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T14:07:10Z"
 },
 {
 "id": "9619fd0641e4c940",
