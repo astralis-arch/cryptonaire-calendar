@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en-GB"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>The Cryptonaire Post</title>
+<meta name="description" content="Tech slide and tariff fears leave bitcoin stuck below $60,000">
+<meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="Cryptonaire Post">
+<link rel="alternate" type="application/rss+xml" title="The Cryptonaire Post" href="https://astralis-arch.github.io/cryptonaire-calendar/news/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&family=Playfair+Display:wght@700;800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=Archivo:wght@400;600;700&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+:root{--paper:#f4efe4;--ink:#1b1a17;--muted:#5e5a50;--rule:#1b1a17;--hair:#cfc6b4;--red:#a61e1e;--amber:#9a5b00;--green:#2b6b3c;--accent:#7a1414;
+--mast:"UnifrakturMaguntia","Old English Text MT",serif;--head:"Playfair Display",Georgia,serif;--body:"Source Serif 4",Georgia,"Times New Roman",serif;--sans:"Archivo",system-ui,-apple-system,sans-serif;--num:"JetBrains Mono",ui-monospace,Menlo,monospace}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--paper:#16150f;--ink:#ece6d8;--muted:#a59e8e;--rule:#ece6d8;--hair:#3b382f;--red:#ff7a6b;--amber:#f2b552;--green:#7fd197;--accent:#ff9b8b;color-scheme:dark}}
+:root[data-theme="dark"]{--paper:#16150f;--ink:#ece6d8;--muted:#a59e8e;--rule:#ece6d8;--hair:#3b382f;--red:#ff7a6b;--amber:#f2b552;--green:#7fd197;--accent:#ff9b8b;color-scheme:dark}
+*{box-sizing:border-box}html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--paper);color:var(--ink);font:17px/1.55 var(--body);padding:env(safe-area-inset-top) 0 env(safe-area-inset-bottom)}
+main{max-width:980px;margin:0 auto;padding:14px 16px 40px}
+h2,h4,.copy p:first-child::first-letter{font-variant-numeric:lining-nums}
+a{color:inherit;text-decoration-color:var(--hair);text-underline-offset:2px}
+.ears{display:flex;justify-content:space-between;gap:12px;font:11px/1.3 var(--sans);text-transform:uppercase;letter-spacing:.08em;color:var(--muted)}
+.mast{text-align:center;margin:6px 0 4px}
+.mast h1{font:400 clamp(40px,11vw,84px)/1 var(--mast);margin:0;letter-spacing:.01em}
+.motto{font:italic 13px var(--body);color:var(--muted);margin-top:4px}
+.dateline{display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap;border-top:3px double var(--rule);border-bottom:1px solid var(--rule);padding:5px 0;margin-top:8px;font:12px var(--sans);text-transform:uppercase;letter-spacing:.06em}
+.mood{font-weight:700}.mood.risk-off{color:var(--red)}.mood.risk-on{color:var(--green)}.mood.mixed,.mood.calm{color:var(--amber)}
+.markets{display:flex;gap:18px;flex-wrap:wrap;justify-content:center;border-bottom:1px solid var(--rule);padding:6px 0;font:13px var(--num)}
+.markets b{font-family:var(--sans);font-size:11px;letter-spacing:.08em;margin-right:6px}
+.up{color:var(--green)}.down{color:var(--red)}
+.front{display:grid;grid-template-columns:1fr;gap:0 28px;margin-top:16px}
+@media (min-width:820px){.front{grid-template-columns:2.1fr 1fr}.side{border-left:1px solid var(--hair);padding-left:24px}}
+.kicker{font:700 11px var(--sans);text-transform:uppercase;letter-spacing:.12em;color:var(--accent)}
+.lead h2{font:800 clamp(30px,7vw,46px)/1.08 var(--head);margin:6px 0 10px;letter-spacing:-.01em}
+.stand{font:italic 19px/1.45 var(--body);color:var(--muted);margin:0 0 10px}
+.byline{font:12px var(--sans);color:var(--muted);border-top:1px solid var(--hair);border-bottom:1px solid var(--hair);padding:5px 0;margin-bottom:12px;display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap;align-items:center}
+.listen{font:600 12px var(--sans);text-transform:uppercase;letter-spacing:.06em;background:none;color:var(--ink);border:1px solid var(--ink);border-radius:2px;padding:4px 10px;cursor:pointer}
+.copy{hyphens:auto;-webkit-hyphens:auto}
+@media (min-width:620px){.copy{text-align:justify;column-count:2;column-gap:26px;column-rule:1px solid var(--hair)}}
+.copy p{margin:0 0 .8em}
+.copy p:first-child::first-letter{float:left;font:800 3.6em/.82 var(--head);padding:.06em .08em 0 0}
+.side h3,.also h3.sec{font:700 12px var(--sans);text-transform:uppercase;letter-spacing:.1em;border-top:3px solid var(--rule);padding-top:6px;margin:18px 0 8px}
+@media (min-width:820px){.side h3:first-child{margin-top:0}}
+.diary{list-style:none;margin:0;padding:0}
+.diary li{padding:7px 0;border-bottom:1px solid var(--hair);font-size:15px;line-height:1.35}
+.diary .when{display:block;font:500 12px var(--num);color:var(--muted)}
+.inbrief{font-size:15px;line-height:1.45;margin:0}
+.also{margin-top:22px}
+.cols{display:grid;grid-template-columns:1fr;gap:0 24px}
+@media (min-width:620px){.cols{grid-template-columns:1fr 1fr}}
+@media (min-width:900px){.cols{grid-template-columns:1fr 1fr 1fr}}
+.story{border-top:1px solid var(--rule);padding:10px 0 14px}
+.story h4{font:700 20px/1.2 var(--head);margin:4px 0 6px}
+.story p{margin:0 0 6px;font-size:15.5px}
+.meta{font:11px var(--sans);text-transform:uppercase;letter-spacing:.06em;color:var(--muted);display:flex;gap:8px;flex-wrap:wrap}
+.imp{font-weight:700}.imp.r{color:var(--red)}.imp.a{color:var(--amber)}.imp.g{color:var(--green)}
+.conf.Low{color:var(--red);font-weight:700}
+.src{font:12px/1.4 var(--sans);color:var(--muted)}.caveat{font:italic 13px var(--body);color:var(--amber)}
+footer{margin-top:26px;border-top:3px double var(--rule);padding-top:8px;font:12.5px/1.5 var(--sans);color:var(--muted)}footer p{margin:6px 0}
+.routes{display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap;border-bottom:1px solid var(--hair);padding:5px 0;font:12px var(--sans);text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+.routes a{color:var(--ink);font-weight:700;text-decoration:none;margin-left:10px}.routes button{font:700 12px var(--sans);background:none;color:var(--ink);border:1px solid var(--hair);border-radius:2px;padding:2px 8px;margin-left:4px;cursor:pointer}
+.briefing{border:2px solid var(--rule);padding:12px 14px;margin-top:14px;display:grid;grid-template-columns:1fr;gap:6px 26px}
+@media (min-width:700px){.briefing{grid-template-columns:1.3fr 1fr}}
+.briefing h3{grid-column:1/-1;font:700 12px var(--sans);text-transform:uppercase;letter-spacing:.1em;margin:0;color:var(--accent)}
+.briefing ol{margin:0;padding-left:1.3em;font-size:16px;line-height:1.45}.briefing li{margin-bottom:5px}
+.briefing dl{margin:0;font-size:15px;line-height:1.4}.briefing dt{font:700 11px var(--sans);text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin-top:6px}.briefing dt:first-child{margin-top:0}.briefing dd{margin:1px 0 0}
+.status{font:700 10px var(--sans);text-transform:uppercase;letter-spacing:.08em;border:1px solid currentColor;padding:0 4px;border-radius:2px}
+.status.n{color:var(--accent)}.status.o{color:var(--red)}.status.d{color:var(--amber)}.status.q{color:var(--muted)}
+.note{border-left:3px solid var(--hair);padding:2px 0 2px 10px;margin:6px 0 8px;font-size:14px;line-height:1.4}
+.note b{font:700 10.5px var(--sans);text-transform:uppercase;letter-spacing:.07em;color:var(--muted);margin-right:4px}.note p{margin:0 0 4px;font-size:14px}
+.explain p,.inv li{font-size:14.5px;line-height:1.45}.explain h4{font:700 17px/1.25 var(--head);margin:0 0 4px}.inv{margin:0;padding-left:1.1em}.inv li{margin-bottom:6px}
+.corr{font:13px var(--sans);border-top:1px solid var(--hair);padding-top:6px;color:var(--muted)}
+.arch{display:flex;flex-wrap:wrap;gap:4px 14px;font:12px var(--num)}
+</style></head><body><main>
+<div class="ears"><span>No. 16</span><span>BTC · ZEC · Markets</span></div>
+<header class="mast"><h1>The Cryptonaire Post</h1><div class="motto">All the market news that matters, three editions a day</div></header>
+<div class="dateline"><span>Tuesday 24 November 2026</span><span>Evening edition · 21:35 UK</span><span>Mood: <span class="mood risk-off">risk-off</span></span></div>
+<div class="markets"><span id="BTCUSDT"><b>BTC</b><span>…</span> <i></i></span><span id="ZECUSDT"><b>ZEC</b><span>…</span> <i></i></span><span style="color:var(--muted)">live US$</span></div>
+<nav class="routes"><span>Read:<a href="#briefing">1 min</a><a href="#lead">5 min</a><a href="#stories">Full edition</a></span><span>Text <button id="zout" type="button" aria-label="Smaller text">A−</button><button id="zin" type="button" aria-label="Larger text">A+</button></span></nav>
+<section class="briefing" id="briefing"><h3>The 60-second briefing</h3><ol><li>The Nasdaq closed 1.5% lower and the S&amp;P 500 0.5% lower as Nvidia fell 5.9% and Anthropic closed below its $83 IPO price for the first time, while the Dow rose 0.9%, Kiplinger reported.</li><li>Bitcoin held just under $60,000, near $59,870 on Kraken at 21:40 UK after a low of about $59,200, as Glassnode said realised losses are the heaviest since the FTX collapse, Decrypt reported.</li><li>ZEC recovered to about $732 from a low near $704, while Zcash&#x27;s NU7.1 governance polls, mostly on community grants funding, run until 1 December.</li></ol><dl><dt>What changed</dt><dd>Little changed in price, but the picture is clearer. Stocks did not rally after all: tech fell on tariff worries, so bitcoin was moving with the Nasdaq rather than apart from it. Bitcoin and ZEC both edged up from their afternoon lows.</dd><dt>Biggest open question</dt><dd>Can bitcoin hold above $58,500, the level Glassnode flagged as the gateway to its $53,200 realised price?</dd><dt>Next to watch</dt><dd>Tuesday&#x27;s ETF flows on Wednesday morning UK, then US PCE inflation and GDP at 13:30 UK on Wednesday. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK.</dd></dl></section>
+<div class="front">
+<article class="lead" id="lead"><div class="kicker">The lead</div><h2>Tech slide and tariff fears leave bitcoin stuck below $60,000</h2><p class="stand">The Nasdaq fell 1.5% as Nvidia and Anthropic retreated, and bitcoin ended the US session little changed near $59,870 as on-chain losses hit levels not seen since FTX.</p>
+<div class="byline"><span>By the Cryptonaire desk (Claude) · 24 Nov 2026</span><button class="listen" id="listen" type="button">▶ Listen</button></div>
+<div class="copy"><p>US technology shares fell on Tuesday, with the Nasdaq Composite closing 1.5% lower at 23,733 and the S&amp;P 500 down 0.5%, Kiplinger reported. Nvidia gave up 5.9% after Monday&#x27;s surge and Anthropic slid 6.5%, closing below its $83 IPO price for the first time. The Dow rose 0.9% as retailers rallied ahead of Black Friday.</p><p>Traders cited reports, first carried by the Wall Street Journal, that the US could announce new tariffs on trading partners as soon as this week, Cointelegraph reported. CME FedWatch showed near-certain odds of a quarter-point Fed rate rise on 9 December, according to Decrypt.</p><p>Bitcoin traded near $59,870 on Kraken at 21:40 UK, slightly above the afternoon edition, after a low of about $59,200. Decrypt, citing Glassnode, reported that realised losses relative to inflows are the highest since November 2022, and that a close below $58,500 could open a path towards the $53,200 realised price.</p><p>Asset manager 21Shares said weak demand and forced liquidations, rather than last month&#x27;s Binance hack, drove most of the decline, Cointelegraph reported. Fear and greed gauges for both crypto and Wall Street sat at &#x27;extreme fear&#x27;, Decrypt said.</p><p>Zcash steadied, with ZEC near $732 after touching about $704. Attention turns to Wednesday&#x27;s US inflation and growth figures at 13:30 UK, before markets close on Thursday for Thanksgiving.</p></div><p class="corr"><b>Corrections:</b> The afternoon edition of 24 November said US stocks rallied on Tuesday. In fact the Nasdaq closed 1.5% lower and the S&amp;P 500 0.5% lower; only the Dow rose. Bitcoin was falling with tech, not against a rally.</p></article>
+<aside class="side"><h3>In brief</h3><p class="inbrief">Bitcoin ended the US session near $59,870, still below $60,000, as the Nasdaq fell 1.5% on tariff and AI worries. Glassnode says losses are the heaviest since FTX; ZEC steadied near $732.</p>
+<h3>The week ahead</h3><ul class="diary"><li><span class="when">Wed 25 Nov morning UK</span>🟢 Tuesday&#x27;s US spot bitcoin ETF flows</li><li><span class="when">Wed 25 Nov 13:30 UK</span>🟠 US PCE inflation (October), Q3 GDP second estimate, durable goods and jobless claims</li><li><span class="when">Thu 26 Nov</span>🟢 US markets closed for Thanksgiving; early close on Friday</li><li><span class="when">Fri 27 Nov 08:00 UK</span>🟠 Monthly BTC options and futures expiry</li><li><span class="when">Tue 1 Dec 02:59 UK</span>🟢 Zcash NU7.1 coinholder and ZCAP polls close</li><li><span class="when">Wed 9 Dec 19:00 UK</span>🔴 Fed rate decision and projections</li></ul><h3>One thing explained</h3><div class="explain"><h4>What bitcoin&#x27;s realised price is</h4><p>The realised price is the average price at which every bitcoin last moved on the blockchain, a rough guide to what holders paid. Glassnode puts it near $53,200 today.</p><p>When the market price falls towards it, the average holder is close to breaking even, which is why analysts watch it as a level where selling has often eased in past downturns, though it has broken below it before.</p></div><h3>What we are investigating</h3><ul class="inv"><li>Did ETF outflows continue on Tuesday? Evidence: Farside or The Block flow figures on Wednesday morning UK.</li><li>Will the US announce new tariffs this week? Evidence: a USTR statement or Wall Street Journal follow-up.</li></ul></aside>
+</div>
+<p id="spoken" hidden>Cryptonaire Post, evening edition. US tech stocks fell today, with the Nasdaq down one and a half percent as Nvidia slipped and Anthropic closed below its listing price, amid talk of new US tariffs. Bitcoin is near fifty-nine thousand, nine hundred dollars, a touch up on this afternoon but still below sixty thousand. Glassnode says losses being taken on bitcoin are the heaviest since the FTX collapse, and it is watching fifty-eight thousand, five hundred dollars. Zcash steadied at around seven hundred and thirty dollars. Tomorrow at half past one UK time brings US inflation and growth data. The next red event is the Fed decision on the ninth of December at seven in the evening. Information only, not advice.</p>
+<section class="also" id="stories"><h3 class="sec">Also in today's edition, ranked</h3><div class="cols"><article class="story"><div class="meta"><span class="kicker">Markets</span><span class="status n">New</span><span class="imp a">🟠 Worth knowing</span>
+<span class="conf High">High confidence</span><span>24 Nov</span></div>
+<h4>Nasdaq falls 1.5% as Nvidia and Anthropic slide on tariff and AI worries</h4><p>The Nasdaq closed at 23,733, down 1.5%, and the S&amp;P 500 fell 0.5%, while the Dow rose 0.9% on a retail rally, Kiplinger reported. Nvidia lost 5.9% and Anthropic 6.5%, ending below its $83 IPO price. Reports that the US may unveil new tariffs this week weighed on sentiment, Cointelegraph reported, and Decrypt said bitcoin&#x27;s link to the Nasdaq 100 is at its tightest since 2022.</p><div class="note"><p><b>Our read · swing</b>Bitcoin is trading as a high-risk tech asset: when AI stocks wobble, it struggles too.</p><p><b>Another explanation</b>Bitcoin&#x27;s weakness may still be mainly its own ETF outflows, with the tech slide a coincidence.</p><p><b>What would change this</b>Bitcoin rising on a day the Nasdaq falls would suggest the link is loosening.</p></div><div class="src">Sources: <a href="https://www.kiplinger.com/investing/stocks/dow-brushes-off-tech-rout-tariff-worries-stock-market-today" rel="noopener">Kiplinger</a> · <a href="https://cointelegraph.com/markets/bitcoin-slides-us-tariff-nerves-anthropic-falls-ipo-price" rel="noopener">Cointelegraph</a> · <a href="https://decrypt.co/383898/wall-street-crypto-extreme-whats-spooking-investors" rel="noopener">Decrypt</a></div></article><article class="story"><div class="meta"><span class="kicker">Bitcoin Desk</span><span class="status d">Developing</span><span class="imp a">🟠 Worth knowing</span>
+<span class="conf High">High confidence</span><span>24 Nov</span></div>
+<h4>Bitcoin holds just under $60,000; Glassnode says losses worst since FTX</h4><p>Kraken showed bitcoin near $59,870 at 21:40 UK, up from about $59,470 at the afternoon edition, after a low near $59,200. The new evidence is on-chain: Decrypt, citing Glassnode, reported realised losses relative to inflows are the highest since November 2022, and that a close below $58,500 could open a path to the $53,200 realised price.</p><div class="note"><p><b>Our read · swing</b>Heavy loss-taking shows sellers capitulating; in past cycles that has come near, but not always at, a low.</p><p><b>Another explanation</b>Losses can stay heavy for weeks if demand keeps draining, as in 2022.</p><p><b>What would change this</b>A daily close under $58,500, or a recovery above $60,000 with ETF inflows, would shift the read.</p></div><div class="src">Sources: <a href="https://decrypt.co/383909/bitcoin-losses-worst-since-ftx-is-bottom-near" rel="noopener">Decrypt</a> · <a href="https://www.kraken.com/prices/bitcoin" rel="noopener">Kraken</a></div></article><article class="story"><div class="meta"><span class="kicker">The Big Picture</span><span class="status d">Developing</span><span class="imp a">🟠 Worth knowing</span>
+<span class="conf High">High confidence</span><span>24 Nov</span></div>
+<h4>Markets still price a December Fed rate rise</h4><p>CME FedWatch showed about 98% odds of a rate rise at the 9 December meeting and 66% odds of another in January, Decrypt reported. 21Shares warned a larger-than-expected rise could prolong bitcoin&#x27;s downturn, which puts Wednesday&#x27;s PCE inflation figure in focus.</p><div class="src">Sources: <a href="https://decrypt.co/383898/wall-street-crypto-extreme-whats-spooking-investors" rel="noopener">Decrypt</a> · <a href="https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares" rel="noopener">Cointelegraph</a></div></article><article class="story"><div class="meta"><span class="kicker">Bitcoin Desk</span><span class="status n">New</span><span class="imp g">🟢 Background</span>
+<span class="conf Medium">Medium confidence</span><span>24 Nov</span></div>
+<h4>21Shares: weak demand, not the Binance hack, drove most of the fall</h4><p>A 21Shares report said liquidations reached $5.8 billion in the week to 15 November, 81% of them long bets, and stablecoin supply shrank by $10.7 billion, Cointelegraph reported. It named $73,000 to $75,500 with ETF inflows as the sign demand had returned.</p><div class="src">Sources: <a href="https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares" rel="noopener">Cointelegraph</a> · <a href="https://www.21shares.com/en-us/research/bitcoin-where-things-stand-and-what-to-monitor" rel="noopener">21Shares</a></div></article><article class="story"><div class="meta"><span class="kicker">Zcash Desk</span><span class="status d">Developing</span><span class="imp g">🟢 Background</span>
+<span class="conf Medium">Medium confidence</span><span>24 Nov</span></div>
+<h4>ZEC steadies near $732 as NU7.1 governance polls run</h4><p>Kraken showed ZEC near $732 at 21:40 UK, up from about $712 at the afternoon edition, after a low near $704. A Zcash forum post introducing a new governance portal said most NU7.1 poll questions cover Zcash Community Grants funding, plus one on block timing; coinholder and ZCAP polls close on 1 December at 02:59 UK.</p><div class="src">Sources: <a href="https://www.kraken.com/prices/zcash" rel="noopener">Kraken</a> · <a href="https://forum.zcashcommunity.com/t/introducing-the-zcash-governance-portal/59602" rel="noopener">Zcash Community Forum</a></div></article><article class="story"><div class="meta"><span class="kicker">Protocol and Development</span><span class="status n">New</span><span class="imp g">🟢 Background</span>
+<span class="conf High">High confidence</span><span>24 Nov</span></div>
+<h4>Bitcoin Core 31.3 and 30.5 maintenance releases published</h4><p>Bitcoin Core posted maintenance releases 31.3 and 30.5 on GitHub. Routine updates for node operators, not a market mover.</p><div class="src">Sources: <a href="https://github.com/bitcoin/bitcoin/releases/tag/v31.3" rel="noopener">Bitcoin Core (GitHub)</a></div></article></div></section>
+<footer><p>Written and ranked by Claude from public sources. Confidence: <b>High</b> means a primary source or 2+ independent outlets agree, <b>Medium</b> means one reputable outlet, <b>Low</b> means unconfirmed. Prices in stories are as reported; the market strip is live from Binance.</p>
+<p><b>Information only, not financial advice or a buy/sell signal.</b></p>
+<p>Back issues:</p><div class="arch"><a href="../b/2026-11-24-2135.html">24 Nov 21:35</a><a href="../b/2026-11-24-1635.html">24 Nov 16:35</a><a href="../b/2026-11-24-0635.html">24 Nov 06:35</a><a href="../b/2026-11-23-2135.html">23 Nov 21:35</a><a href="../b/2026-11-23-1632.html">23 Nov 16:32</a><a href="../b/2026-11-23-0635.html">23 Nov 06:35</a><a href="../b/2026-11-22-2135.html">22 Nov 21:35</a><a href="../b/2026-11-22-1634.html">22 Nov 16:34</a><a href="../b/2026-11-22-0635.html">22 Nov 06:35</a><a href="../b/2026-11-21-2135.html">21 Nov 21:35</a><a href="../b/2026-11-21-1632.html">21 Nov 16:32</a><a href="../b/2026-11-21-0635.html">21 Nov 06:35</a><a href="../b/2026-11-20-2133.html">20 Nov 21:33</a><a href="../b/2026-11-20-1632.html">20 Nov 16:32</a><a href="../b/2026-11-20-0640.html">20 Nov 06:40</a><a href="../b/2026-11-19-2135.html">19 Nov 21:35</a><a href="../b/2026-11-19-1633.html">19 Nov 16:33</a><a href="../b/2026-11-19-0635.html">19 Nov 06:35</a><a href="../b/2026-11-18-2133.html">18 Nov 21:33</a><a href="../b/2026-11-18-1633.html">18 Nov 16:33</a><a href="../b/2026-11-18-0633.html">18 Nov 06:33</a><a href="../b/2026-11-17-2132.html">17 Nov 21:32</a><a href="../b/2026-11-17-1633.html">17 Nov 16:33</a><a href="../b/2026-11-17-0633.html">17 Nov 06:33</a><a href="../b/2026-11-16-2135.html">16 Nov 21:35</a><a href="../b/2026-11-16-1633.html">16 Nov 16:33</a><a href="../b/2026-11-16-0634.html">16 Nov 06:34</a><a href="../b/2026-11-15-2135.html">15 Nov 21:35</a><a href="../b/2026-11-15-1635.html">15 Nov 16:35</a><a href="../b/2026-11-15-0634.html">15 Nov 06:34</a><a href="../b/2026-11-14-2135.html">14 Nov 21:35</a><a href="../b/2026-11-14-1635.html">14 Nov 16:35</a><a href="../b/2026-11-14-0640.html">14 Nov 06:40</a><a href="../b/2026-11-13-2135.html">13 Nov 21:35</a><a href="../b/2026-11-13-1645.html">13 Nov 16:45</a><a href="../b/2026-11-13-0645.html">13 Nov 06:45</a><a href="../b/2026-11-12-2140.html">12 Nov 21:40</a><a href="../b/2026-11-12-1635.html">12 Nov 16:35</a><a href="../b/2026-11-12-0645.html">12 Nov 06:45</a><a href="../b/2026-11-11-0635.html">11 Nov 06:35</a><a href="../b/2026-11-10-1945.html">10 Nov 19:45</a><a href="../b/2026-11-10-0631.html">10 Nov 06:31</a><a href="../b/2026-11-09-1800.html">9 Nov 18:00</a></div>
+<p><a href="https://astralis-arch.github.io/cryptonaire-calendar/news/feed.xml">RSS feed</a> · <a href="https://astralis-arch.github.io/cryptonaire-calendar/news/brief.txt">Spoken text</a></p></footer>
+</main><script>
+const fmt=(n,d)=>n.toLocaleString('en-US',{minimumFractionDigits:d,maximumFractionDigits:d});
+async function prices(){
+  try{
+    const r=await fetch('https://data-api.binance.vision/api/v3/ticker/24hr?symbols=%5B%22BTCUSDT%22,%22ZECUSDT%22%5D',{cache:'no-store'});
+    for(const t of await r.json()){
+      const el=document.getElementById(t.symbol);if(!el)continue;
+      const p=+t.lastPrice,c=+t.priceChangePercent;
+      el.querySelector('span').textContent='$'+fmt(p,p>=10000?0:2);
+      const i=el.querySelector('i');i.textContent=(c>=0?'▲ +':'▼ ')+c.toFixed(1)+'%';i.className=c>=0?'up':'down';
+    }
+  }catch(e){document.querySelectorAll('.markets i').forEach(i=>{i.textContent='offline';i.previousElementSibling.textContent='—'})}
+}
+prices();setInterval(prices,60000);
+const m=document.querySelector('main');let z=1;try{z=+localStorage.getItem('postZoom')||1}catch(e){}
+const zoom=d=>{z=Math.min(1.5,Math.max(.85,+(z+d).toFixed(2)));m.style.zoom=z;try{localStorage.setItem('postZoom',z)}catch(e){}};zoom(0);
+document.getElementById('zin')?.addEventListener('click',()=>zoom(.1));document.getElementById('zout')?.addEventListener('click',()=>zoom(-.1));
+const btn=document.getElementById('listen');
+btn&&btn.addEventListener('click',()=>{
+  const s=window.speechSynthesis;if(!s)return;
+  if(s.speaking){s.cancel();btn.textContent='▶ Listen';return}
+  const u=new SpeechSynthesisUtterance(document.getElementById('spoken').textContent);
+  const v=s.getVoices().find(v=>v.lang==='en-GB');if(v)u.voice=v;u.lang='en-GB';
+  u.onend=()=>btn.textContent='▶ Listen';btn.textContent='■ Stop';s.speak(u);
+});
+</script></body></html>
