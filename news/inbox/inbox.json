@@ -1,5 +1,25 @@
 [
 {
+"id": "c6a7e35a44eb9ab9",
+"title": "Ethereum treasury firm BTCS sells $43.8 million in ETH to cut Aave debt, CEO says ‘we do not take this lightly’",
+"link": "https://www.theblock.co/news/business/2026-11-24-ethereum-treasury-firm-btcs-sells-43-8-million-eth-cut-aave-debt-ceo-says-we-do-not-take-this-lightly-445562",
+"published": "2026-11-24T15:27:50Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-24T15:37:19Z"
+},
+{
+"id": "c4f1fcfe1301eda9",
+"title": "State of the Forum",
+"link": "https://forum.zcashcommunity.com/t/state-of-the-forum/59590",
+"published": "2026-11-24T15:23:49Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-24T15:37:19Z"
+},
+{
 "id": "fdc6ff04b636ada8",
 "title": "Anchorage Digital to unveil new asset-management subsidiary",
 "link": "https://www.coindesk.com/business/2026/11/24/anchorage-digital-to-unveil-new-asset-management-subsidiary",
@@ -8,6 +28,16 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-24T15:07:16Z"
+},
+{
+"id": "61b4f39e2def6087",
+"title": "Global Debt Will Make Bitcoin the Best Performing Asset in the World",
+"link": "https://bitcoinmagazine.com/videos/global-debt-will-make-bitcoin-the-best-performing-asset-in-the-world",
+"published": "2026-11-24T15:00:05Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-24T15:37:19Z"
 },
 {
 "id": "864d392bff099e02",
@@ -5418,56 +5448,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-17T16:07:10Z"
-},
-{
-"id": "9fed11a9e36f62c3",
-"title": "Standard Life Chair Wants Tokenized Gilts to Open UK Government Bonds to Retail Savers",
-"link": "https://decrypt.co/383434/standard-life-chair-wants-tokenized-gilts-to-open-uk-government-bonds-to-retail-savers",
-"published": "2026-11-17T15:30:37Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T15:37:16Z"
-},
-{
-"id": "dfe3fce9373cd9bf",
-"title": "Goldman Sachs More Than Doubles Its Bitcoin ETF Holdings to $1.28 Billion",
-"link": "https://bitcoinmagazine.com/news/goldman-sachs-bitcoin-etf-holdings",
-"published": "2026-11-17T15:19:20Z",
-"source": "Bitcoin Magazine",
-"desk": "BTC",
-"kind": "news",
-"first_seen": "2026-11-17T15:37:16Z"
-},
-{
-"id": "7b75af562ffa078d",
-"title": "Bitcoin Policy Institute Renames to Finney Foundation for Open Technology",
-"link": "https://bitcoinmagazine.com/news/bpi-becomes-finney-foundation-open-tech",
-"published": "2026-11-17T15:17:44Z",
-"source": "Bitcoin Magazine",
-"desk": "BTC",
-"kind": "news",
-"first_seen": "2026-11-17T15:37:16Z"
-},
-{
-"id": "49eb880571e00f77",
-"title": "Twenty One Capital (XXI) Buys 154 Bitcoin, Its First Purchase of 2026",
-"link": "https://bitcoinmagazine.com/news/twenty-one-capital-xxi-buys-154-bitcoin",
-"published": "2026-11-17T15:11:12Z",
-"source": "Bitcoin Magazine",
-"desk": "BTC",
-"kind": "news",
-"first_seen": "2026-11-17T15:37:16Z"
-},
-{
-"id": "f52a89b6ad602ad2",
-"title": "Hong Kong, Swift test tokenized deposits as banks chase stablecoin-style speed",
-"link": "https://www.coindesk.com/business/2026/11/17/hong-kong-swift-test-tokenized-deposits-as-banks-chase-stablecoin-style-speed",
-"published": "2026-11-17T15:11:00Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T15:37:16Z"
 },
 {
 "id": "64aad33a1b6b741d",
