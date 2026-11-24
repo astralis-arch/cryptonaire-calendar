@@ -5490,6 +5490,16 @@
 "first_seen": "2026-11-24T15:07:16Z"
 },
 {
+"id": "9619fd0641e4c940",
+"title": "Bitcoin Optech Newsletter #431 Recap Podcast",
+"link": "https://bitcoinops.org/en/podcast/2026/11/17/",
+"published": "2026-11-17T00:00:00Z",
+"source": "Bitcoin Optech",
+"desk": "Protocol",
+"kind": "protocol",
+"first_seen": "2026-11-24T23:07:10Z"
+},
+{
 "id": "790d27d634733615",
 "title": "Zebra 7.1.0: Security Fixes for Sync and Memory Exhaustion",
 "link": "https://zfnd.org/zebra-7-1-0-security-fixes-for-sync-and-memory-exhaustion/",
