@@ -1,5 +1,35 @@
 [
 {
+"id": "89114610e6369c4a",
+"title": "JPMorgan, HSBC and StoneX complete first digital gold trades in London",
+"link": "https://www.coindesk.com/business/2026/11/24/jpmorgan-hsbc-and-stonex-complete-first-digital-gold-trades-in-london",
+"published": "2026-11-24T12:04:39Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-24T12:07:18Z"
+},
+{
+"id": "1c3ac5f28ae96380",
+"title": "Ethereum Foundation doubles protocol security team, calls AI a ‘more urgent risk’ than quantum",
+"link": "https://www.theblock.co/news/ecosystems/2026-11-24-ethereum-foundation-doubles-protocol-security-team-calls-ai-a-more-urgent-risk-than-quantum-445497",
+"published": "2026-11-24T11:53:31Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-24T12:07:18Z"
+},
+{
+"id": "72ea19e08d815d95",
+"title": "Bitcoin dipped on Huang’s Nvidia exit but jumped 5% on his return",
+"link": "https://cointelegraph.com/markets/bitcoin-huangs-return-18-below-pre-resignation-levels?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-24T11:40:33Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-24T12:07:18Z"
+},
+{
 "id": "33260a4ded2b03e7",
 "title": "Trump Says He 'Made the Deal' to Reinstate Jensen Huang, Sparking Bipartisan Backlash",
 "link": "https://decrypt.co/383853/trump-says-he-made-the-deal-to-reinstate-jensen-huang-sparking-bipartisan-backlash",
@@ -5348,36 +5378,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-17T12:37:10Z"
-},
-{
-"id": "cf18150afd5eb4f6",
-"title": "Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump",
-"link": "https://www.coindesk.com/business/2026/11/17/ex-openai-researcher-fund-dumps-bitcoin-miners-cuts-iren-94-after-portfolio-slump",
-"published": "2026-11-17T12:00:55Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T12:07:09Z"
-},
-{
-"id": "e192c503efb17e30",
-"title": "Lighter reopens withdrawals after trader’s API key leak, returns about $5 million in USDC",
-"link": "https://www.theblock.co/news/defi/2026-11-17-lighter-reopens-withdrawals-after-traders-api-key-leak-returns-about-5-million-in-usdc-442113",
-"published": "2026-11-17T12:00:41Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T12:07:09Z"
-},
-{
-"id": "4277acab20fe24b5",
-"title": "US senators seek SEC answers on tokenized stock money laundering risks",
-"link": "https://cointelegraph.com/news/us-senators-sec-tokenized-stock-safeguards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-17T11:36:26Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T12:07:09Z"
 },
 {
 "id": "b431ea497743c593",
