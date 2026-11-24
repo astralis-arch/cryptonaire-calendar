@@ -1,5 +1,35 @@
 [
 {
+"id": "04af64fc022b2902",
+"title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+"link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
+"published": "2026-11-24T19:00:00Z",
+"source": "Federal Reserve (press)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-24T19:07:09Z"
+},
+{
+"id": "c3a5e833a6d2ccda",
+"title": "What the CFTC’s New Crypto Reserves Guidance Actually Allows—And What It Doesn’t",
+"link": "https://decrypt.co/383906/cftc-new-crypto-reserves-guidance-actually-allows-what-it-doesnt",
+"published": "2026-11-24T18:55:27Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-24T19:07:09Z"
+},
+{
+"id": "a4e3a154317b5ab6",
+"title": "Anchorage Digital Sets Up Asset Manager to Offer Bitcoin Yield to Clients",
+"link": "https://bitcoinmagazine.com/news/anchorage-digital-bitcoin-yield-asset-manager",
+"published": "2026-11-24T18:38:01Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-24T19:07:09Z"
+},
+{
 "id": "b1d5282cedc6e40f",
 "title": "South Korea Moves to Lift Its ICO Ban After Nearly a Decade",
 "link": "https://decrypt.co/383905/south-korea-moves-lift-ico-ban-after-nearly-decade",
