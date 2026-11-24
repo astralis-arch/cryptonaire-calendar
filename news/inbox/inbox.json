@@ -240,6 +240,16 @@
 "first_seen": "2026-11-23T21:07:11Z"
 },
 {
+"id": "aa743eef4835bac4",
+"title": "Zcash chat on Signal :speech_balloon:",
+"link": "https://forum.zcashcommunity.com/t/zcash-chat-on-signal/59567",
+"published": "2026-11-23T20:56:27Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-24T10:07:10Z"
+},
+{
 "id": "458a407cd90957b8",
 "title": "Kalshi secures temporary win in New York gambling law dispute",
 "link": "https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -5420,116 +5430,6 @@
 "first_seen": "2026-11-17T10:07:10Z"
 },
 {
-"id": "9b80dc57527a96d0",
-"title": "What we’re learning from firms engaging with our innovation services",
-"link": "https://www.fca.org.uk/news/blogs/what-were-learning-firms-engaging-our-innovation-services",
-"published": null,
-"source": "FCA",
-"desk": "UK",
-"kind": "official",
-"first_seen": "2026-11-17T09:37:10Z"
-},
-{
-"id": "08e8b47c983603c6",
-"title": "US judge clears brothers in $25M Ethereum MEV case after mistrial",
-"link": "https://cointelegraph.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-17T09:30:05Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T09:37:10Z"
-},
-{
-"id": "f704dd92d69e7507",
-"title": "Judge Acquits MIT Brothers in $25M Ethereum MEV Case, Ending Prosecution",
-"link": "https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution",
-"published": "2026-11-17T09:27:29Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T09:37:10Z"
-},
-{
-"id": "64e1acdfe314ba60",
-"title": "Binance hacker moves $63 million in stolen ether after 2 weeks of silence",
-"link": "https://www.coindesk.com/business/2026/11/17/binance-hacker-moves-usd63-million-in-stolen-ether-after-two-weeks-of-silence",
-"published": "2026-11-17T09:21:19Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T09:37:10Z"
-},
-{
-"id": "c4b947c195ab2aec",
-"title": "Goldman Sachs reports $1.22B in Ether ETFs as ETHA share count jumps",
-"link": "https://cointelegraph.com/news/goldman-sachs-reports-122b-ether-etfs-etha-shares-jumps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-17T09:08:32Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T09:37:10Z"
-},
-{
-"id": "c61d25641ccdf426",
-"title": "Solana Foundation Backs CoinGecko as Crypto Data Giant Eyes Trading",
-"link": "https://decrypt.co/383401/solana-foundation-backs-coingecko-eyes-trading",
-"published": "2026-11-17T09:01:03Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T09:37:10Z"
-},
-{
-"id": "6ef43831e84e522b",
-"title": "Grayscale says crypto pullback offers ‘compelling entry points’ as bitcoin falls to $64,000",
-"link": "https://www.theblock.co/news/markets/2026-11-17-grayscale-compelling-entry-points-bitcoin-442083",
-"published": "2026-11-17T07:39:17Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T09:37:10Z"
-},
-{
-"id": "df6e54f27c61c3f4",
-"title": "Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says",
-"link": "https://www.coindesk.com/markets/2026/11/17/bitcoin-could-slide-into-the-usd50-000s-as-fed-rate-hike-bets-build-wintermute-says",
-"published": "2026-11-17T07:38:07Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T09:37:10Z"
-},
-{
-"id": "7dbbc41db2fbcc41",
-"title": "Cardano Foundation seeks $5 million from treasury using ADA price 33% above market",
-"link": "https://www.coindesk.com/tech/2026/11/17/cardano-foundation-seeks-usd5-million-from-treasury-using-ada-price-33-above-market",
-"published": "2026-11-17T06:54:49Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T09:37:10Z"
-},
-{
-"id": "a90c867fecae01f5",
-"title": "Ex-Robinhood engineer pleads guilty to $125K Hyperliquid trading scheme",
-"link": "https://cointelegraph.com/news/ex-robinhood-engineer-pleads-guilty-125k-crypto-trading-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-17T06:35:19Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T09:37:10Z"
-},
-{
-"id": "ba4a716fd58a4e47",
-"title": "Cathie Wood’s Ark Invest loads up on crypto stocks while selling $85 million in Nvidia",
-"link": "https://www.theblock.co/news/business/2026-11-17-ark-invest-buys-crypto-stocks-sells-nvidia-442080",
-"published": "2026-11-17T06:35:02Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T09:37:10Z"
-},
-{
 "id": "b431ea497743c593",
 "title": "Here’s what happened in crypto today",
 "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -5538,66 +5438,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-17T14:07:10Z"
-},
-{
-"id": "e5a5758d6a16ec0a",
-"title": "CZ denies Binance sold crypto, Bitwise sees Solana at $1,100 by 2031, and more",
-"link": "https://www.theblock.co/newsletters/the-daily/2026-11-17-cz-binance-bitwise-solana-more-crypto-news-441584",
-"published": "2026-11-17T05:45:00Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T09:37:10Z"
-},
-{
-"id": "cf2ac92fc18a01a0",
-"title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
-"link": "https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion",
-"published": "2026-11-17T05:37:23Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T09:37:10Z"
-},
-{
-"id": "6742f9b5d8e6af5f",
-"title": "Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60%",
-"link": "https://www.coindesk.com/markets/2026/11/17/ripple-backed-evernorth-has-written-down-its-pre-listing-xrp-holdings-by-60",
-"published": "2026-11-17T05:02:05Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T09:37:10Z"
-},
-{
-"id": "bc03ca1d7950bc11",
-"title": "Nozy Wallet TestFlight",
-"link": "https://forum.zcashcommunity.com/t/nozy-wallet-testflight/59372",
-"published": "2026-11-17T04:50:43Z",
-"source": "Zcash Community Forum",
-"desk": "ZEC",
-"kind": "community",
-"first_seen": "2026-11-17T09:37:10Z"
-},
-{
-"id": "7737a7b3ac00b037",
-"title": "Trezor customer data exposed in 3rd partner breach this year",
-"link": "https://cointelegraph.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-17T03:46:22Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T09:37:10Z"
-},
-{
-"id": "2973955911282f20",
-"title": "Noir Wallet V2 Private Beta Live",
-"link": "https://forum.zcashcommunity.com/t/noir-wallet-v2-private-beta-live/59371",
-"published": "2026-11-17T03:08:43Z",
-"source": "Zcash Community Forum",
-"desk": "ZEC",
-"kind": "community",
-"first_seen": "2026-11-17T09:37:10Z"
 },
 {
 "id": "9619fd0641e4c940",
@@ -5828,16 +5668,6 @@
 "desk": "Protocol",
 "kind": "protocol",
 "first_seen": "2026-11-18T01:37:10Z"
-},
-{
-"id": "6e4cb5ab08bc01e5",
-"title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
-"link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
-"published": "2026-11-09T21:00:00Z",
-"source": "Federal Reserve (press)",
-"desk": "Macro",
-"kind": "official",
-"first_seen": "2026-11-17T09:37:10Z"
 },
 {
 "id": "523fcaffe803342d",
