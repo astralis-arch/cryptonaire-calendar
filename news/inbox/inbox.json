@@ -1,5 +1,45 @@
 [
 {
+"id": "fdc6ff04b636ada8",
+"title": "Anchorage Digital to unveil new asset-management subsidiary",
+"link": "https://www.coindesk.com/business/2026/11/24/anchorage-digital-to-unveil-new-asset-management-subsidiary",
+"published": "2026-11-24T15:06:32Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-24T15:07:16Z"
+},
+{
+"id": "864d392bff099e02",
+"title": "UniCredit Opens Bitcoin to Italian Savers, Capping Gains at 65%",
+"link": "https://bitcoinmagazine.com/news/unicredit-bitcoin-certificate-italy",
+"published": "2026-11-24T14:58:09Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-24T15:07:16Z"
+},
+{
+"id": "5e5574a47cf3f3d4",
+"title": "South Korea Unveils Crypto Bill Capping Exchange Ownership at 20%",
+"link": "https://bitcoinmagazine.com/news/south-korea-crypto-bill-exchange-ownership-cap",
+"published": "2026-11-24T14:45:00Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-24T15:07:16Z"
+},
+{
+"id": "50444a7d0f0624da",
+"title": "South Korea proposes ending 2017 ICO ban to boost jobs and onshore crypto investment",
+"link": "https://www.coindesk.com/policy/2026/11/24/south-korea-proposes-ending-2017-ico-ban-to-boost-jobs-and-onshore-crypto-investment",
+"published": "2026-11-24T14:40:53Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-24T15:07:16Z"
+},
+{
 "id": "bfa8fab0870fc7fc",
 "title": "Bitcoin ETFs see another $570 million in net outflows as November total nears $5 billion and BTC dips below $60K",
 "link": "https://www.theblock.co/news/markets/2026-11-24-bitcoin-etfs-another-570-million-net-outflows-november-total-nears-5-billion-btc-dips-below-60k-445548",
@@ -378,6 +418,16 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-24T06:37:09Z"
+},
+{
+"id": "b431ea497743c593",
+"title": "Here’s what happened in crypto today",
+"link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-24T06:00:00Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-24T15:07:16Z"
 },
 {
 "id": "b3e6fc7c8454b91f",
@@ -5420,34 +5470,14 @@
 "first_seen": "2026-11-17T15:37:16Z"
 },
 {
-"id": "31a5e43a5f3cff59",
-"title": "Russia Lets Everyday Investors Buy Bitcoin Starting Today",
-"link": "https://bitcoinmagazine.com/news/russia-retail-bitcoin-buying-starts",
-"published": "2026-11-17T15:03:29Z",
-"source": "Bitcoin Magazine",
-"desk": "BTC",
-"kind": "news",
-"first_seen": "2026-11-17T15:07:10Z"
-},
-{
-"id": "edc40e4f21385009",
-"title": "“We Need to Change Our Management”: Ricardo Salinas on Mexico’s Future, Bukele and Bitcoin",
-"link": "https://bitcoinmagazine.com/business/we-need-to-change-our-management-ricardo-salinas-on-mexicos-future-bukele-and-bitcoin",
-"published": "2026-11-17T14:54:10Z",
-"source": "Bitcoin Magazine",
-"desk": "BTC",
-"kind": "news",
-"first_seen": "2026-11-17T15:07:10Z"
-},
-{
-"id": "f4bcd11e626359ea",
-"title": "Solana Foundation takes majority interest in crypto data firm CoinGecko",
-"link": "https://cointelegraph.com/news/coingecko-solana-foundation-majority-stake?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-17T14:45:49Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T15:07:10Z"
+"id": "64aad33a1b6b741d",
+"title": "Waller, Considerations at the Intersection of Payments and Tokenized Markets",
+"link": "https://www.federalreserve.gov/newsevents/speech/waller20261117a.htm",
+"published": "2026-11-17T14:10:00Z",
+"source": "Federal Reserve (speeches)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-24T15:07:16Z"
 },
 {
 "id": "9619fd0641e4c940",
@@ -5538,16 +5568,6 @@
 "desk": "ZEC",
 "kind": "official",
 "first_seen": "2026-11-24T02:37:09Z"
-},
-{
-"id": "72cbb260cc63a745",
-"title": "Zcash Agora: one vote, one person",
-"link": "https://forum.zcashcommunity.com/t/zcash-agora-one-vote-one-person/59365",
-"published": "2026-11-16T20:19:05Z",
-"source": "Zcash Community Forum",
-"desk": "ZEC",
-"kind": "community",
-"first_seen": "2026-11-17T15:07:10Z"
 },
 {
 "id": "21d2dfd3cfaf6988",
