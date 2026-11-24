@@ -1,5 +1,35 @@
 [
 {
+"id": "5d1b4886d8278a63",
+"title": "Robinhood co-leads $5 million seed round for onchain trading platform Rialto",
+"link": "https://www.theblock.co/news/deals/2026-11-24-robinhood-onchain-trading-platform-rialto-funding-446030",
+"published": "2026-11-24T17:00:02Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-24T17:07:11Z"
+},
+{
+"id": "6e6c0ef303c0b057",
+"title": "Ansem denies involvement in $2.57 million wallet drain; Black Bull creator coin plummets 55%",
+"link": "https://www.theblock.co/news/defi/2026-11-24-ansem-denies-involvement-2-57-million-wallet-drain-black-bull-creator-coin-plummets-55-445705",
+"published": "2026-11-24T16:51:21Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-24T17:07:11Z"
+},
+{
+"id": "a7a39b7de850b643",
+"title": "Europol operation involving Binance, Coinbase and Chainalysis traces more than $28.5 million in crypto behind illegal streaming services",
+"link": "https://www.theblock.co/news/regulation/2026-11-24-europol-operation-binance-coinbase-chainalysis-traces-28-5-million-crypto-illegal-streaming-services-446019",
+"published": "2026-11-24T16:45:33Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-24T17:07:11Z"
+},
+{
 "id": "29e1de87b74db034",
 "title": "How South Korea’s proposed 20% cap could change who runs Upbit",
 "link": "https://cointelegraph.com/news/how-south-koreas-proposed-20-cap-could-change-who-runs-upbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -5408,86 +5438,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-17T18:07:12Z"
-},
-{
-"id": "27483e25e4975db9",
-"title": "U.S. Fed Governor Waller pitches keeping central bank at the center of tokenization",
-"link": "https://www.coindesk.com/policy/2026/11/17/u-s-fed-governor-waller-pitches-keeping-central-bank-at-the-center-of-tokenization",
-"published": "2026-11-17T17:00:05Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T17:07:09Z"
-},
-{
-"id": "c2eae19252cdb43e",
-"title": "Coinbase Launches ChatGPT Plugin for Trading Bitcoin, Stocks, and Derivatives",
-"link": "https://bitcoinmagazine.com/news/coinbase-chatgpt-plugin-bitcoin-trading",
-"published": "2026-11-17T16:45:00Z",
-"source": "Bitcoin Magazine",
-"desk": "BTC",
-"kind": "news",
-"first_seen": "2026-11-17T17:07:09Z"
-},
-{
-"id": "c1464b9884a8a4ef",
-"title": "Former Robinhood Engineer Pleads Guilty to Crypto Insider Trading Scheme",
-"link": "https://decrypt.co/383443/former-robinhood-engineer-pleads-guilty-crypto-insider-trading",
-"published": "2026-11-17T16:41:38Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T17:07:09Z"
-},
-{
-"id": "687008d7b5038d75",
-"title": "Bitcoin drops 2.5% as Nvidia stock risks new 5-month lows into Q3 earnings",
-"link": "https://cointelegraph.com/markets/bitcoin-drops-25-nvidia-stock-risks-new-5-month-low-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-17T16:39:43Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T17:07:09Z"
-},
-{
-"id": "c788390af25a9ee5",
-"title": "Alpaca says tokenization network tops $10 billion in minting and redemption volume",
-"link": "https://www.theblock.co/news/business/2026-11-17-alpaca-says-tokenization-network-tops-10-billion-minting-redemption-volume-442667",
-"published": "2026-11-17T16:35:07Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T16:37:10Z"
-},
-{
-"id": "c768e98272503ad2",
-"title": "v30.5: Bitcoin Core 30.5 final",
-"link": "https://github.com/bitcoin/bitcoin/releases/tag/v30.5",
-"published": "2026-11-17T16:26:30Z",
-"source": "Bitcoin Core releases",
-"desk": "Protocol",
-"kind": "protocol",
-"first_seen": "2026-11-17T16:37:10Z"
-},
-{
-"id": "be2d77dc5c417b4a",
-"title": "Trezor Shipping Partner Breach Exposes 27,000 Orders as Customers Report Scam Calls",
-"link": "https://bitcoinmagazine.com/news/trezor-skladon-partner-breach-27000-orders",
-"published": "2026-11-17T16:20:00Z",
-"source": "Bitcoin Magazine",
-"desk": "BTC",
-"kind": "news",
-"first_seen": "2026-11-17T16:37:10Z"
-},
-{
-"id": "bf577beb388c7700",
-"title": "v31.3: Bitcoin Core 31.3 final",
-"link": "https://github.com/bitcoin/bitcoin/releases/tag/v31.3",
-"published": "2026-11-17T16:07:18Z",
-"source": "Bitcoin Core releases",
-"desk": "Protocol",
-"kind": "protocol",
-"first_seen": "2026-11-17T16:37:10Z"
 },
 {
 "id": "64aad33a1b6b741d",
