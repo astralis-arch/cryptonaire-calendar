@@ -1,5 +1,25 @@
 [
 {
+"id": "eeeb020a15d1468d",
+"title": "OpenAI and Anthropic Insiders Fear Their Next AI Models Are Too Dangerous to Release",
+"link": "https://decrypt.co/383933/openai-and-anthropic-insiders-fear-next-ai-models-too-dangerous",
+"published": "2026-11-24T22:36:02Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-24T22:37:11Z"
+},
+{
+"id": "9a8b0f45adbf3a86",
+"title": "Bitcoin miner CleanSpark swings to $987 million annual loss as BTC production declines",
+"link": "https://www.theblock.co/news/business/2026-11-24-bitcoin-miner-cleanspark-swings-987-million-annual-loss-btc-production-declines-446061",
+"published": "2026-11-24T22:10:45Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-24T22:37:11Z"
+},
+{
 "id": "d2a47a8e8cf640bd",
 "title": "Europol follows $28.5M crypto trail in streaming piracy crackdown",
 "link": "https://cointelegraph.com/news/europol-crypto-trail-streaming-piracy-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -38,6 +58,16 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-24T21:37:10Z"
+},
+{
+"id": "b3a22b9af23b1a01",
+"title": "“Escape Velocity” Coming for Bitcoin with Repeat of 2017 Cycle | Michaël van de Poppe",
+"link": "https://bitcoinmagazine.com/videos/escape-velocity-coming-for-bitcoin-with-repeat-of-2017-cycle-michael-van-de-poppe",
+"published": "2026-11-24T21:15:30Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-24T22:37:11Z"
 },
 {
 "id": "16e6b076083bdf6e",
@@ -5450,56 +5480,6 @@
 "first_seen": "2026-11-17T23:07:14Z"
 },
 {
-"id": "dc6e1e04d5dc7c70",
-"title": "Robinhood shrugs off Kalshi equities threat as Mizuho sees 86% HOOD upside",
-"link": "https://www.theblock.co/news/business/2026-11-17-robinhoods-non-sports-prediction-market-share-doubles-mizuho-442904",
-"published": "2026-11-17T22:23:29Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T22:37:09Z"
-},
-{
-"id": "f2de7710058e4c81",
-"title": "CFTC halts some Kalshi Trump mention markets over manipulation concerns",
-"link": "https://cointelegraph.com/news/cftc-kalshi-trump-mention-markets-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-17T22:20:04Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T22:37:09Z"
-},
-{
-"id": "4e44981e18e94a5a",
-"title": "Nvidia Shares Rise After Earnings Beat in First Report Since Jensen Huang's Exit",
-"link": "https://decrypt.co/383505/nvidia-shares-rise-earnings-beat-first-report-jensen-huang-exit",
-"published": "2026-11-17T22:18:18Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T22:37:09Z"
-},
-{
-"id": "1952ad70304b9ba6",
-"title": "Maple Finance CEO targets up to $15B in assets by the end of 2027",
-"link": "https://cointelegraph.com/news/maple-finance-15b-assets-target-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-17T21:56:35Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T22:07:09Z"
-},
-{
-"id": "7b2de7abb68ef28b",
-"title": "OpenAI's GPT 6.2 Astra Challenges Anthropic on Price, But Not Every Benchmark",
-"link": "https://decrypt.co/383488/openai-gpt-6-2-astra-challenges-anthropic-price-but-not-every-benchmark",
-"published": "2026-11-17T21:46:02Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T22:07:09Z"
-},
-{
 "id": "64aad33a1b6b741d",
 "title": "Waller, Considerations at the Intersection of Payments and Tokenized Markets",
 "link": "https://www.federalreserve.gov/newsevents/speech/waller20261117a.htm",
@@ -5508,16 +5488,6 @@
 "desk": "Macro",
 "kind": "official",
 "first_seen": "2026-11-24T15:07:16Z"
-},
-{
-"id": "9619fd0641e4c940",
-"title": "Bitcoin Optech Newsletter #431 Recap Podcast",
-"link": "https://bitcoinops.org/en/podcast/2026/11/17/",
-"published": "2026-11-17T00:00:00Z",
-"source": "Bitcoin Optech",
-"desk": "Protocol",
-"kind": "protocol",
-"first_seen": "2026-11-17T22:07:09Z"
 },
 {
 "id": "790d27d634733615",
