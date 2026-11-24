@@ -5530,6 +5530,86 @@
 "first_seen": "2026-11-17T22:07:09Z"
 },
 {
+"id": "790d27d634733615",
+"title": "Zebra 7.1.0: Security Fixes for Sync and Memory Exhaustion",
+"link": "https://zfnd.org/zebra-7-1-0-security-fixes-for-sync-and-memory-exhaustion/",
+"published": "2026-11-16T21:34:42Z",
+"source": "Zcash Foundation",
+"desk": "ZEC",
+"kind": "official",
+"first_seen": "2026-11-24T02:37:09Z"
+},
+{
+"id": "78c4858a7c597587",
+"title": "zebra-utils-v11.0.0",
+"link": "https://github.com/ZcashFoundation/zebra/releases/tag/zebra-utils-v11.0.0",
+"published": "2026-11-16T20:47:05Z",
+"source": "Zebra releases",
+"desk": "ZEC",
+"kind": "protocol",
+"first_seen": "2026-11-24T02:37:09Z"
+},
+{
+"id": "c35a4ebd4c39b3f6",
+"title": "zebra-test-v6.0.0",
+"link": "https://github.com/ZcashFoundation/zebra/releases/tag/zebra-test-v6.0.0",
+"published": "2026-11-16T20:47:04Z",
+"source": "Zebra releases",
+"desk": "ZEC",
+"kind": "protocol",
+"first_seen": "2026-11-24T02:37:09Z"
+},
+{
+"id": "e72e4c96bbd354fc",
+"title": "zebra-state-v17.0.0",
+"link": "https://github.com/ZcashFoundation/zebra/releases/tag/zebra-state-v17.0.0",
+"published": "2026-11-16T20:47:02Z",
+"source": "Zebra releases",
+"desk": "ZEC",
+"kind": "protocol",
+"first_seen": "2026-11-24T02:37:09Z"
+},
+{
+"id": "115249185fcc6980",
+"title": "zebra-script-v15.0.0",
+"link": "https://github.com/ZcashFoundation/zebra/releases/tag/zebra-script-v15.0.0",
+"published": "2026-11-16T20:47:01Z",
+"source": "Zebra releases",
+"desk": "ZEC",
+"kind": "protocol",
+"first_seen": "2026-11-24T02:37:09Z"
+},
+{
+"id": "bdff409768a4b3c4",
+"title": "zebra-rpc-v20.0.0",
+"link": "https://github.com/ZcashFoundation/zebra/releases/tag/zebra-rpc-v20.0.0",
+"published": "2026-11-16T20:46:59Z",
+"source": "Zebra releases",
+"desk": "ZEC",
+"kind": "protocol",
+"first_seen": "2026-11-24T02:37:09Z"
+},
+{
+"id": "9f74c32154fd479b",
+"title": "zebra-node-services-v14.0.0",
+"link": "https://github.com/ZcashFoundation/zebra/releases/tag/zebra-node-services-v14.0.0",
+"published": "2026-11-16T20:46:57Z",
+"source": "Zebra releases",
+"desk": "ZEC",
+"kind": "protocol",
+"first_seen": "2026-11-24T02:37:09Z"
+},
+{
+"id": "723341c0cff8ca32",
+"title": "ZCAP Poll Now Open: NU7.1",
+"link": "https://zfnd.org/zcap-poll-now-open-nu7-1/",
+"published": "2026-11-16T20:41:27Z",
+"source": "Zcash Foundation",
+"desk": "ZEC",
+"kind": "official",
+"first_seen": "2026-11-24T02:37:09Z"
+},
+{
 "id": "72cbb260cc63a745",
 "title": "Zcash Agora: one vote, one person",
 "link": "https://forum.zcashcommunity.com/t/zcash-agora-one-vote-one-person/59365",
