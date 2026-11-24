@@ -1,5 +1,45 @@
 [
 {
+"id": "33260a4ded2b03e7",
+"title": "Trump Says He 'Made the Deal' to Reinstate Jensen Huang, Sparking Bipartisan Backlash",
+"link": "https://decrypt.co/383853/trump-says-he-made-the-deal-to-reinstate-jensen-huang-sparking-bipartisan-backlash",
+"published": "2026-11-24T11:35:13Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-24T11:37:10Z"
+},
+{
+"id": "db4d456d7956c7bd",
+"title": "Bitcoin hands back Monday's Nvidia-driven gains, liquidations triple",
+"link": "https://www.coindesk.com/markets/2026/11/24/bitcoin-hands-back-monday-s-nvidia-driven-gains-liquidations-triple",
+"published": "2026-11-24T11:31:56Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-24T11:37:10Z"
+},
+{
+"id": "9fe8bb68eb8bbe50",
+"title": "South Korea’s draft crypto bill sets path for domestic ICOs while capping exchange shareholder stakes at 20%",
+"link": "https://www.theblock.co/news/regulation/2026-11-24-south-korea-new-crypto-bill-445494",
+"published": "2026-11-24T11:25:24Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-24T11:37:10Z"
+},
+{
+"id": "5232b30de848ac2e",
+"title": "Bitcoin’s drop to $55,000 left a record 11.6 million BTC underwater",
+"link": "https://www.coindesk.com/markets/2026/11/24/bitcoin-s-drop-to-usd55-000-left-a-record-11-6-million-btc-underwater",
+"published": "2026-11-24T11:11:38Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-24T11:37:10Z"
+},
+{
 "id": "4dd29143426f6959",
 "title": "U.S. seeks $1.1 billion seized in Binance hack as North Korean funds keep moving",
 "link": "https://www.coindesk.com/policy/2026/11/24/u-s-seeks-usd1-1-billion-seized-in-binance-hack-as-north-korean-funds-keep-moving",
@@ -5338,86 +5378,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-17T12:07:09Z"
-},
-{
-"id": "f946f06d33740919",
-"title": "Bitcoin remains penned in near $64,000 even as ETF outflow streak ends",
-"link": "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends",
-"published": "2026-11-17T11:36:07Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T11:37:09Z"
-},
-{
-"id": "b98a0b66f35b6361",
-"title": "Solana Foundation takes majority stake in crypto data provider CoinGecko",
-"link": "https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko",
-"published": "2026-11-17T11:29:51Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T11:37:09Z"
-},
-{
-"id": "8c44755f843f5bd2",
-"title": "New DeFi-yield generation targets ‘scam-like’ bank accounts that keep all the interest",
-"link": "https://www.coindesk.com/business/2026/11/16/new-defi-yield-generation-targets-scam-like-bank-accounts-that-keep-all-the-interest",
-"published": "2026-11-17T11:25:58Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T11:37:09Z"
-},
-{
-"id": "a5597deb1466b029",
-"title": "BlackRock’s Bitcoin ETF snaps $2.35B outflow streak amid extreme fear",
-"link": "https://cointelegraph.com/markets/blackrock-ibit-outflow-streak-end-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-17T11:18:18Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T11:37:09Z"
-},
-{
-"id": "df6c0a6c6bb4d212",
-"title": "Bitcoin realized loss metric beats June high as open interest eyes 2-year low",
-"link": "https://cointelegraph.com/markets/bitcoin-realized-loss-metric-beats-june-high-open-interest-eyes-2-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-17T11:14:05Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T11:37:09Z"
-},
-{
-"id": "a8aedb7b287021c0",
-"title": "Optimizely Hack Hijacked Ledger, BBC and 176 Other Sites to Swap Crypto Wallet Addresses",
-"link": "https://decrypt.co/383414/optimizely-hack-hijacked-ledger-bbc-and-176-other-sites-to-swap-crypto-wallet-addresses",
-"published": "2026-11-17T11:05:25Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T11:07:11Z"
-},
-{
-"id": "d2ae99129c92c926",
-"title": "Former Robinhood engineer pleads guilty to wire fraud over trades ahead of crypto listing announcements",
-"link": "https://www.theblock.co/news/regulation/2026-11-17-former-robinhood-engineer-pleads-guilty-to-wire-fraud-over-trades-ahead-of-crypto-listing-announcements-442106",
-"published": "2026-11-17T10:49:40Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T11:07:11Z"
-},
-{
-"id": "54c0b1894825b2c3",
-"title": "Fed Governor Michael Barr warns AI agents could trigger bank runs in minutes",
-"link": "https://www.coindesk.com/business/2026/11/17/fed-governor-michael-barr-warns-ai-agents-could-trigger-bank-runs-in-minutes",
-"published": "2026-11-17T10:48:12Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T11:07:11Z"
 },
 {
 "id": "b431ea497743c593",
