@@ -1,5 +1,15 @@
 [
 {
+"id": "27cfe45fbe2a533c",
+"title": "South Korea regulator backs bank-controlled stablecoins after months of dispute",
+"link": "https://www.coindesk.com/policy/2026/11/24/south-korea-regulator-backs-bank-controlled-stablecoins-after-months-of-dispute",
+"published": "2026-11-24T10:29:14Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-24T10:37:09Z"
+},
+{
 "id": "9b80dc57527a96d0",
 "title": "What we’re learning from firms engaging with our innovation services",
 "link": "https://www.fca.org.uk/news/blogs/what-were-learning-firms-engaging-our-innovation-services",
@@ -5658,6 +5668,16 @@
 "desk": "Macro",
 "kind": "official",
 "first_seen": "2026-11-18T01:37:10Z"
+},
+{
+"id": "8cdfc14340a44d52",
+"title": "Waller, The Economic Outlook and Some Thoughts on Labor Market Dynamism",
+"link": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
+"published": "2026-11-10T09:00:00Z",
+"source": "Federal Reserve (speeches)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-24T10:37:09Z"
 },
 {
 "id": "de3144e9ce900fd2",
