@@ -1,5 +1,55 @@
 [
 {
+"id": "ab775989a2b143e4",
+"title": "GTA 6 PC Ports ‘Nuked’ Just Days Before Devs Expected It to Be Playable",
+"link": "https://decrypt.co/383860/gta-6-pc-ports-nuked-just-days-before-devs-expected-it-to-be-playable",
+"published": "2026-11-24T13:01:30Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-24T13:07:10Z"
+},
+{
+"id": "d7fe0c2fe69a4e4d",
+"title": "Crypto Market Structure Basics",
+"link": "https://www.theblock.co/learn/campus/crypto-market-structure-basics-442986",
+"published": "2026-11-24T12:49:13Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-24T13:07:10Z"
+},
+{
+"id": "cf5deb468b1bf6a8",
+"title": "Live updates: Bitcoin pulls back to $60,000 as stock rally fails to budge crypto",
+"link": "https://www.coindesk.com/tech/2026/11/24/live-updates-bitcoin-pulls-back-to-usd60-000-as-stock-rally-fails-to-budge-crypto",
+"published": "2026-11-24T12:47:40Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-24T13:07:10Z"
+},
+{
+"id": "e025bf9befebb525",
+"title": "$14.7B in ‘Lost’ Bitcoin Has Moved Since 2018: Report",
+"link": "https://decrypt.co/383854/14-7b-in-lost-bitcoin-has-moved-since-2018-report",
+"published": "2026-11-24T12:40:47Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-24T13:07:10Z"
+},
+{
+"id": "1684182ea77d242b",
+"title": "Bitcoin drops as November spot ETF outflows increase to record $4.71 billion",
+"link": "https://www.coindesk.com/daybook-us/2026/11/24/bitcoin-drops-as-november-spot-etf-outflows-increase-to-record-usd4-71-billion",
+"published": "2026-11-24T12:36:28Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-24T13:07:10Z"
+},
+{
 "id": "89114610e6369c4a",
 "title": "JPMorgan, HSBC and StoneX complete first digital gold trades in London",
 "link": "https://www.coindesk.com/business/2026/11/24/jpmorgan-hsbc-and-stonex-complete-first-digital-gold-trades-in-london",
@@ -5308,66 +5358,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-17T13:37:10Z"
-},
-{
-"id": "4f11c6cfd92ae155",
-"title": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
-"link": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
-"published": "2026-11-17T13:02:56Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T13:07:08Z"
-},
-{
-"id": "664d0b263c2dddfa",
-"title": "Decentralized exchange Grvt looks to makes commodity trading more predictable with stable funding perps",
-"link": "https://www.coindesk.com/markets/2026/11/17/decentralized-exchange-grvt-makes-commodity-trading-more-predictable-with-stable-funding-perps",
-"published": "2026-11-17T13:00:00Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T13:07:08Z"
-},
-{
-"id": "c53d0aeabc99ba37",
-"title": "Grvt launches RWA perpetuals with funding tied to traditional markets",
-"link": "https://www.theblock.co/news/ecosystems/2026-11-17-grvt-launches-rwa-perpetuals-with-funding-tied-to-traditional-markets-442089",
-"published": "2026-11-17T13:00:00Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T13:07:08Z"
-},
-{
-"id": "a05f2770eb152f2e",
-"title": "Morning Minute: The CFTC Officially Greenlights Perps in the US, Starting with Backpack",
-"link": "https://decrypt.co/383418/morning-minute-the-cftc-officially-greenlights-perps-in-the-us-starting-with-backpack",
-"published": "2026-11-17T12:56:24Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T13:07:08Z"
-},
-{
-"id": "fb416e51acd1a7e5",
-"title": "'The Biggest Opportunity in Crypto Is Already Underway': Solana Bets Big on AI Agents",
-"link": "https://decrypt.co/383417/the-biggest-opportunity-in-crypto-is-already-underway-solana-bets-big-on-ai-agents",
-"published": "2026-11-17T12:50:55Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T13:07:08Z"
-},
-{
-"id": "6c166ffcdede96b9",
-"title": "From Devcon 8 to the World: bringing Zcash to more builders, investors and community (running log)",
-"link": "https://forum.zcashcommunity.com/t/from-devcon-8-to-the-world-bringing-zcash-to-more-builders-investors-and-community-running-log/59382",
-"published": "2026-11-17T12:44:54Z",
-"source": "Zcash Community Forum",
-"desk": "ZEC",
-"kind": "community",
-"first_seen": "2026-11-17T13:07:08Z"
 },
 {
 "id": "b431ea497743c593",
