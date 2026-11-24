@@ -1,114 +1,74 @@
 {
- "generated": "2026-11-23T21:35:00Z",
- "mood": "mixed",
+ "generated": "2026-11-24T06:35:00Z",
+ "mood": "risk-off",
  "briefing": {
   "developments": [
-   "Bitcoin faded through the US session to about $61,350 on Kraken at 21:35 UK, down about 2% from the afternoon edition and below Monday's $64,520 high, even as US stocks extended their gains.",
-   "The US Justice Department filed to seize about $1.17 billion in USDC linked to the Binance hack, with Circle agreeing to issue replacement tokens if a court orders forfeiture, The Block reported.",
-   "Zcash gave back most of its spike, trading near $791 on Kraken, about 6% below the afternoon edition and down slightly on the day."
+   "Bitcoin slipped below $60,000 overnight, touching about $59,360 on Kraken, and traded near $60,380 at 06:35 UK, about 1.6% below the evening edition.",
+   "Grayscale's new 2x leveraged Zcash ETF fell more than 13% on its first day, The Block reported, and ZEC drifted to about $764, some 3.5% below the evening edition.",
+   "CFTC staff said bitcoin, ether and payment stablecoins can count, after a haircut, towards a one-year operating-expense requirement for US derivatives venues, The Block reported."
   ],
-  "changed": "Softer than this afternoon. Stocks held and built on the Nvidia rally, with the Nasdaq up about 6.9% late in the session, but bitcoin slipped back towards where it started the day, so the gap between crypto and tech widened.",
-  "question": "Why did bitcoin fade while stocks held? A strong dollar and a near-certain December Fed rise, or steady US-hours selling that has not yet turned?",
-  "watch": "Monday's spot bitcoin ETF flow figures, due Tuesday morning UK, then US PCE inflation on Wednesday at 13:30 UK. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
+  "changed": "A little weaker than last night. The Asia session did not rescue Monday's fade: bitcoin broke below $60,000 for a while and has given back all of Monday's Nvidia jump, and ZEC kept sliding.",
+  "question": "Did spot bitcoin ETF buyers return on Monday? Early aggregator figures point to heavy outflows, but they disagree and are unconfirmed.",
+  "watch": "Confirmed Monday ETF flow figures this morning UK, US consumer confidence at 15:00 UK, then US PCE inflation on Wednesday at 13:30 UK. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
  },
  "lead": {
-  "headline": "Bitcoin fades towards $61,000 as stocks keep rallying",
-  "standfirst": "Bitcoin gave back most of Monday's Nvidia-driven jump in US trading, even as the Nasdaq held a gain of almost 7%.",
+  "headline": "Bitcoin dips below $60,000 as Monday's rally fully unwinds",
+  "standfirst": "Bitcoin briefly fell under $60,000 overnight, giving back all of Monday's Nvidia-driven jump, while a new leveraged Zcash fund had a rough debut.",
   "body": [
-   "Bitcoin traded near $61,350 on Kraken at 21:35 UK, Kraken data showed, about 2% below the afternoon edition and some $3,200 under the day's high of $64,520. Bitcoin Magazine reported that it dipped to about $60,800 at 19:45 UK.",
-   "The fade came while US shares stayed strong. The Nasdaq Composite was up about 6.9% and the S&P 500 about 5% at 20:40 UK, Bitcoin Magazine reported, after Nvidia reinstated Jensen Huang as chief executive.",
-   "Bitcoin Magazine pointed to a stronger dollar, with the dollar index up about 0.65% to 104.40, keeping a December Fed rise in play. CoinDesk cited Tesseract's Adam Haeems as saying bitcoin had fallen in seven of the eight US sessions since Huang stepped down, and noted that it had recovered only about a quarter of its fall from $74,000, against more than four-fifths of Nvidia's.",
-   "Separately, the US Justice Department filed a civil forfeiture complaint seeking about $1.17 billion in USDC tied to the Binance hack, The Block reported, with Circle agreeing to issue equivalent new tokens to the US if a court orders forfeiture.",
-   "Spot bitcoin ETFs lost about $1.79 billion last week, a fourth straight week of outflows, Bitcoin Magazine reported. Monday's flows are due on Tuesday morning UK time, ahead of October's PCE inflation data on Wednesday."
+   "Bitcoin traded near $60,380 on Kraken at 06:35 UK, Kraken data showed, about 1.6% below the evening edition and roughly $4,100 under Monday's high of $64,520. It touched about $59,360 overnight, below its Monday open of about $61,200.",
+   "The move extended a fade that began in US trading on Monday, when bitcoin slipped back even as the Nasdaq held a gain of almost 7% on Nvidia's reinstatement of Jensen Huang as chief executive.",
+   "Grayscale's head of research, Zach Pandl, wrote in a note on Monday that bitcoin and major altcoins looked oversold, The Block reported. He said bitcoin was 56% below its October 2025 peak after falling to about $55,000 on Saturday, that the bear market had lasted at least 411 days, and that crypto funds lost more than $2 billion last week.",
+   "In Zcash, Grayscale's 2x leveraged fund ZECX fell more than 13% to $28.60 on its first day on NYSE Arca, The Block reported. ZEC itself traded near $764 on Kraken.",
+   "Separately, CFTC staff said bitcoin, ether and payment stablecoins can count towards an operating-expense requirement for US derivatives venues, The Block reported. Attention now turns to confirmed Monday ETF flows and Wednesday's PCE inflation data."
   ]
  },
- "headline": "Bitcoin faded to about $61,350 by the evening as the Nvidia-led stock rally held, leaving it little changed on the day. The US moved to seize $1.17 billion in USDC from the Binance hack.",
- "spoken": "Cryptonaire Post, evening edition, Monday the twenty third of November. Bitcoin has drifted back to about sixty one thousand three hundred and fifty dollars, around two percent lower than this afternoon and well below the day's high near sixty four and a half thousand, even though US shares held a big rally on Nvidia's news. A stronger dollar and a likely Fed rate rise in December are being blamed. Zcash has given back its spike and sits near seven hundred and ninety dollars. The US is moving to seize over a billion dollars of stablecoins from the Binance hack. Watch ETF flows tomorrow morning and US inflation on Wednesday at half past one. Information only, not advice.",
+ "headline": "Bitcoin dipped below $60,000 overnight and sits near $60,380, with Monday's rally fully reversed. Grayscale's new 2x Zcash ETF fell 13% on debut as ZEC slid to about $764.",
+ "spoken": "Cryptonaire Post, morning edition, Tuesday the twenty fourth of November. Bitcoin slipped below sixty thousand dollars overnight and now sits near sixty thousand four hundred, about one and a half percent lower than last night, with Monday's Nvidia jump fully undone. Grayscale says crypto looks oversold after a bear market of more than four hundred days. Zcash is down to about seven hundred and sixty five dollars, and Grayscale's new double leveraged Zcash fund fell thirteen percent on its first day. Watch Monday's ETF flows this morning, US consumer confidence at three this afternoon, and US inflation on Wednesday at half past one. Information only, not advice.",
  "stories": [
   {
    "section": "BTC",
    "impact": "🟠",
    "confidence": "High",
-   "date": "2026-11-23",
-   "status": "Outlook changed",
-   "title": "Bitcoin fades to about $61,350 as stocks hold their rally",
-   "why": "Kraken showed bitcoin near $61,350 at 21:35 UK, down from about $62,570 at the afternoon edition and the $64,520 high, and only slightly above its daily open. Bitcoin Magazine reported a dip to about $60,800 and $321 million of bitcoin liquidations, $224 million of them shorts. The afternoon read of bitcoin moving with tech no longer holds: stocks held their gains while bitcoin gave them back.",
+   "date": "2026-11-24",
+   "status": "Developing",
+   "title": "Bitcoin dips below $60,000 overnight, near $60,380",
+   "why": "Kraken showed bitcoin near $60,380 at 06:35 UK, down from about $61,350 at the evening edition, after an overnight low of about $59,360. The new evidence is that the Asia session extended Monday's US-hours fade rather than reversing it, taking bitcoin below its Monday open and back under the $60,000 level flagged last night.",
    "note": {
     "horizon": "swing",
-    "read": "Bitcoin is lagging tech: CoinDesk noted it recovered about a quarter of its drop versus more than four-fifths for Nvidia, which points to crypto-specific selling rather than a pure risk-asset trade.",
-    "alt": "The spike was mostly short covering, so the fade may simply be those positions running out rather than fresh selling.",
-    "change": "A return of spot ETF inflows, or a hold above $64,500, would suggest the lag is closing; a break below $60,000 would point the other way."
+    "read": "Monday's spike now looks like short covering that has fully run out, leaving bitcoin back in the weak range of last week.",
+    "alt": "A quiet overnight drift on thin volume may say little; the US session and ETF flows are the bigger test.",
+    "change": "A sustained move back above $62,000 with ETF inflows would weaken this read; a break below Saturday's $55,000 low would strengthen it."
    },
    "sources": [
-    {
-     "name": "Bitcoin Magazine",
-     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-fades-61000-huang"
-    },
-    {
-     "name": "CoinDesk",
-     "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-rebound-already-losing-steam-as-ai-trade-returns-with-a-bank"
-    },
     {
      "name": "Kraken (price data)",
      "url": "https://www.kraken.com/prices/bitcoin"
-    }
-   ]
-  },
-  {
-   "section": "Macro",
-   "impact": "🟠",
-   "confidence": "High",
-   "date": "2026-11-23",
-   "status": "Developing",
-   "title": "Dollar climbs further as a December Fed rise stays the base case",
-   "why": "Bitcoin Magazine reported the dollar index up about 0.65% at 104.40 and said a quarter-point rise at the 8 to 9 December Fed meeting remained the base case; CoinDesk put the two-year Treasury yield near 4.7% and said markets price a December rise as near certain. The new evidence is that the strong dollar is now being cited as the main reason bitcoin failed to hold its gains.",
-   "caveat": "Outlets differ on when the dollar was last this strong: Bitcoin Magazine said April 2025, CoinDesk said March 2025.",
-   "note": {
-    "horizon": "swing",
-    "read": "A firm dollar and rising rate expectations act as a brake on bitcoin even when equities rally.",
-    "alt": "Bitcoin may simply be thinner and more exposed to US-hours selling than stocks, with the dollar a coincidence.",
-    "change": "A soft PCE reading on Wednesday that cools rate-rise bets would test whether the dollar is the real driver."
-   },
-   "sources": [
-    {
-     "name": "Bitcoin Magazine",
-     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-fades-61000-huang"
     },
-    {
-     "name": "CoinDesk",
-     "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-rebound-already-losing-steam-as-ai-trade-returns-with-a-bank"
-    }
-   ]
-  },
-  {
-   "section": "Policy",
-   "impact": "🟠",
-   "confidence": "High",
-   "date": "2026-11-23",
-   "status": "Developing",
-   "title": "US files to seize $1.17 billion in USDC from the Binance hack",
-   "why": "The Justice Department filed a civil forfeiture complaint for about $1.17 billion in USDC across 36 addresses on 18 blockchains, which it attributes to North Korean hackers, The Block reported. Circle has blocked the tokens and agreed to issue equivalent new USDC to the US on a forfeiture order. Decrypt separately reported that $247 million of the hack proceeds has moved through bitcoin mixers, so frozen stablecoins limit, but do not remove, the risk of stolen funds being sold.",
-   "sources": [
     {
      "name": "The Block",
-     "url": "https://www.theblock.co/news/regulation/2026-11-23-doj-1-17-billion-usdc-binance-hack-circle-replacement-tokens-445398"
-    },
-    {
-     "name": "Decrypt",
-     "url": "https://decrypt.co/383844/north-korea-247-million-binance-hack-bitcoin-mixers"
+     "url": "https://www.theblock.co/news/markets/2026-11-23-grayscale-bitcoin-altcoins-oversold-ai-risks-crypto-outlook-445418"
     }
    ]
   },
   {
    "section": "ZEC",
    "impact": "🟠",
-   "confidence": "High",
+   "confidence": "Medium",
    "date": "2026-11-23",
-   "status": "Outlook changed",
-   "title": "Zcash gives back its spike, near $791",
-   "why": "Kraken showed ZEC near $791 at 21:35 UK, down about 6% from $841 at the afternoon edition and slightly below its daily open of about $798, after a range of $775 to $907. The afternoon's sharp rise has fully unwound, which fits the earlier caution that the move to $907 was thin and short-lived.",
-   "caveat": "No ZEC-specific news was found for either the spike or the retreat.",
+   "status": "New",
+   "title": "Grayscale's 2x Zcash ETF falls 13% on debut; ZEC near $764",
+   "why": "Grayscale's ZECX, which aims for twice the daily return of its ZCSH spot Zcash fund, began trading on NYSE Arca on Monday and fell more than 13% to $28.60, The Block reported. Kraken showed ZEC near $764 at 06:35 UK, about 3.5% below the evening edition, with an overnight low near $742. A leveraged product gives US traders a new way to amplify ZEC moves in both directions.",
+   "note": {
+    "horizon": "swing",
+    "read": "The fund's fall mostly reflects ZEC giving back Monday's spike, magnified by 2x leverage, rather than a verdict on the product.",
+    "alt": "Weak first-day demand could signal limited US appetite for leveraged ZEC exposure.",
+    "change": "Rising assets in ZECX and ZCSH over the coming weeks would point to growing institutional interest."
+   },
    "sources": [
+    {
+     "name": "The Block",
+     "url": "https://www.theblock.co/news/business/2026-11-23-grayscale-launches-2x-zcash-etf-three-months-spot-fund-debut-445407"
+    },
     {
      "name": "Kraken (price data)",
      "url": "https://www.kraken.com/prices/zcash"
@@ -116,21 +76,61 @@
    ]
   },
   {
-   "section": "ETFs",
+   "section": "Markets",
    "impact": "🟢",
    "confidence": "Medium",
    "date": "2026-11-23",
    "status": "New",
-   "title": "ARK withdraws two planned crypto index ETFs",
-   "why": "ARK Invest asked the SEC to withdraw registrations for two crypto ETFs linked to the CoinDesk 20 index, filed in January, CoinDesk reported, without giving a reason. It is a small sign of fading appetite for new crypto funds after four straight weeks of spot bitcoin ETF outflows totalling about $1.79 billion last week, as Bitcoin Magazine reported.",
+   "title": "Grayscale calls crypto oversold after a 411-day bear market",
+   "why": "Grayscale's Zach Pandl wrote that bitcoin and major altcoins look oversold, The Block reported, with bitcoin 56% below its October 2025 peak and the bear market at least 411 days old, the longest in Grayscale's comparison. He cited more than $2 billion of crypto fund outflows last week and named AI-related uncertainty, including the Nvidia leadership saga and Anthropic's planned IPO, as the main near-term risk.",
+   "caveat": "This is the view of a fund issuer with an interest in crypto demand.",
    "sources": [
     {
-     "name": "CoinDesk",
-     "url": "https://www.coindesk.com/business/2026/11/23/cathie-wood-s-ark-invest-pulls-the-plug-on-two-planned-crypto-etfs"
+     "name": "The Block",
+     "url": "https://www.theblock.co/news/markets/2026-11-23-grayscale-bitcoin-altcoins-oversold-ai-risks-crypto-outlook-445418"
+    }
+   ]
+  },
+  {
+   "section": "Policy",
+   "impact": "🟢",
+   "confidence": "High",
+   "date": "2026-11-23",
+   "status": "New",
+   "title": "CFTC staff let derivatives venues count bitcoin towards expense reserves",
+   "why": "CFTC staff said bitcoin, ether and payment stablecoins can count, after a haircut, towards the one-year operating-expense requirement for clearing houses, swap venues and futures exchanges, The Block and CoinDesk reported. The advisory is not binding and crypto still does not count towards the separate liquidity requirement, so it is a small step towards treating crypto as a balance-sheet asset rather than a demand driver.",
+   "sources": [
+    {
+     "name": "The Block",
+     "url": "https://www.theblock.co/news/regulation/2026-11-23-cftc-staff-bitcoin-ether-count-toward-derivatives-firms-operating-expenses-445435"
     },
     {
-     "name": "Bitcoin Magazine",
-     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-fades-61000-huang"
+     "name": "CoinDesk",
+     "url": "https://www.coindesk.com/policy/2026/11/23/u-s-cftc-sets-policies-on-event-contract-data-using-crypto-to-check-financial-boxes"
+    }
+   ]
+  },
+  {
+   "section": "ETFs",
+   "impact": "🟠",
+   "confidence": "Low",
+   "date": "2026-11-23",
+   "status": "Developing",
+   "title": "Early figures point to heavy ETF outflows on Monday",
+   "why": "Aggregators PANews and Phemex reported about $570 million of net outflows from US spot bitcoin ETFs on Monday, a fifth straight day, led by BlackRock's IBIT. If confirmed, it would mean ETF holders sold into Monday's rally, which helps explain why bitcoin could not hold its gains.",
+   "caveat": "Unconfirmed: a KuCoin flash item gave a much smaller outflow of about $57 million for 23 November, so the figure is uncertain until Farside or issuer data are checked.",
+   "sources": [
+    {
+     "name": "PANews",
+     "url": "https://panews.io/articles/01a20bf8-143b-7594-872d-eb56fc593050"
+    },
+    {
+     "name": "Phemex News",
+     "url": "https://phemex.com/news/article/spot-bitcoin-etfs-bleed-570m-as-outflow-streak-hits-five-days-blackrock-ibit-leads-redemptions-104660"
+    },
+    {
+     "name": "KuCoin News",
+     "url": "https://www.kucoin.com/news/flash/us-bitcoin-spot-etfs-recorded-56-97m-net-outflow-on-november-23"
     }
    ]
   },
@@ -140,34 +140,34 @@
    "confidence": "Medium",
    "date": "2026-11-23",
    "status": "New",
-   "title": "Miner Bitdeer sells all 281 BTC it mined last week",
-   "why": "Bitdeer mined and sold 281.1 BTC last week and held no bitcoin of its own as of 20 November, Bitcoin Magazine reported, down from about 2,000 BTC at the end of 2025. Miners selling their full output adds steady supply at a time when the largest corporate buyer, Strategy, bought only 457 BTC.",
+   "title": "Strive buys no bitcoin last week, holds 43,404 BTC",
+   "why": "Treasury company Strive made no bitcoin purchases last week, leaving its holdings at 43,404 BTC, Bitcoin Magazine reported. Alongside Strategy's small 457 BTC buy and Bitdeer selling all its output, it shows corporate buying has slowed while prices fall.",
    "sources": [
     {
      "name": "Bitcoin Magazine",
-     "url": "https://bitcoinmagazine.com/news/bitdeer-sells-281-bitcoin-holds-none"
+     "url": "https://bitcoinmagazine.com/news/strive-asst-no-bitcoin-purchases-holdings"
     }
    ]
   }
  ],
  "explained": {
-  "title": "Why bitcoin can lag a stock rally",
+  "title": "Why a 2x fund can fall more than twice as far",
   "body": [
-   "On a risk-on day, bitcoin and tech shares often rise together. But bitcoin also has its own buyers and sellers: ETF flows, miners selling what they mine, and companies that hold it. When those are net sellers, bitcoin can fall back even while stocks keep rising.",
-   "A strong dollar adds to this. Bitcoin is priced in dollars and is sensitive to interest-rate expectations, so a firmer dollar and talk of Fed rate rises can hold it back more than they hold back a company with booming profits."
+   "A 2x leveraged ETF resets every day to deliver twice that day's move. It does not promise twice the move over a week or a month.",
+   "In choppy markets, daily resetting erodes value: a rise and fall of the same size leaves the fund lower than where it started, and the loss grows with volatility. That is why leveraged funds on volatile coins such as ZEC are usually treated as short-term tools."
   ]
  },
  "investigating": [
-  "Did ETF buyers return during Monday's rally? Evidence: Monday's spot bitcoin ETF flow figures, due Tuesday morning UK.",
-  "Is US-hours selling easing? Evidence: whether bitcoin holds its level through Tuesday's US session, which Tesseract said fell in seven of the last eight.",
-  "Did Chainflip recover its stolen BTC after the 18:38 UK bounty deadline? No statement was found this evening; evidence would be a Chainflip update or on-chain movement of the 122.9 BTC."
+  "How big were Monday's spot bitcoin ETF outflows? Aggregators disagree ($570 million against $57 million); Farside or issuer data will settle it.",
+  "Did Chainflip recover its stolen BTC after Monday's bounty deadline? Still no statement found; evidence would be a Chainflip update or on-chain movement of the 122.9 BTC.",
+  "Will US-hours selling continue on Tuesday? Evidence: bitcoin's move between the 14:30 UK open and the 21:00 UK close."
  ],
  "corrections": [],
  "ahead": [
   {
    "when": "Tue 24 Nov morning UK",
    "impact": "🟢",
-   "what": "Monday's US spot bitcoin ETF flows"
+   "what": "Confirmed Monday US spot bitcoin ETF flows"
   },
   {
    "when": "Tue 24 Nov 15:00 UK",
@@ -190,9 +190,9 @@
    "what": "Monthly BTC options and futures expiry"
   },
   {
-   "when": "Tue 1 Dec",
+   "when": "Tue 1 Dec 02:59 UK",
    "impact": "🟢",
-   "what": "Zcash NU7.1 miner poll closes; court considers Binance hack frozen assets"
+   "what": "Zcash NU7.1 ZCAP poll closes; court considers Binance hack frozen assets"
   },
   {
    "when": "Wed 9 Dec 19:00 UK",
@@ -200,5 +200,5 @@
    "what": "Fed rate decision and projections"
   }
  ],
- "id": "2026-11-23-2135"
+ "id": "2026-11-24-0635"
 }
