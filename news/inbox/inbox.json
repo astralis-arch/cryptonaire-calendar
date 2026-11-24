@@ -1,5 +1,35 @@
 [
 {
+"id": "ac125d3105b422d2",
+"title": "Bitcoin Losses Are the Worst Since FTX. Is the Bottom Near?",
+"link": "https://decrypt.co/383909/bitcoin-losses-worst-since-ftx-is-bottom-near",
+"published": "2026-11-24T19:35:32Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-24T19:37:20Z"
+},
+{
+"id": "cda7cb8d841a4aed",
+"title": "ZecFlow — Privacy-Preserving Shielded Distribution & Affiliate Protocol",
+"link": "https://forum.zcashcommunity.com/t/zecflow-privacy-preserving-shielded-distribution-affiliate-protocol/59610",
+"published": "2026-11-24T19:18:44Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-24T19:37:20Z"
+},
+{
+"id": "adb18dd6423b1ba3",
+"title": "Coldcard reveals how security reviews missed Bitcoin wallet flaw for over 5 years",
+"link": "https://cointelegraph.com/news/coldcard-how-security-reviews-missed-bitcoin-wallet-flaw-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-24T19:04:26Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-24T19:37:20Z"
+},
+{
 "id": "04af64fc022b2902",
 "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
 "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
@@ -5478,46 +5508,6 @@
 "desk": "BTC",
 "kind": "news",
 "first_seen": "2026-11-17T20:37:10Z"
-},
-{
-"id": "f8b448376e2279cc",
-"title": "Jito’s Lucas Bruder says crypto builders need to ‘slow down’ and fix security weaknesses",
-"link": "https://www.theblock.co/news/ecosystems/2026-11-17-jito-lucas-bruder-crypto-builders-need-slow-down-fix-security-weaknesses-442850",
-"published": "2026-11-17T19:29:15Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T19:37:10Z"
-},
-{
-"id": "99e668d58486f051",
-"title": "Ethereum Devs Weigh a Scaling Upgrade That Could Break 15,000 Apps",
-"link": "https://decrypt.co/383462/ethereum-devs-scaling-upgrade-could-break-15000-apps",
-"published": "2026-11-17T19:26:02Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T19:37:10Z"
-},
-{
-"id": "7f55f70c30faaf63",
-"title": "Predictions platform Kalshi complies with order to halt Trump mention contracts",
-"link": "https://www.coindesk.com/policy/2026/11/17/predictions-platform-kalshi-complies-with-order-to-halt-trump-mention-contracts",
-"published": "2026-11-17T19:16:00Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T19:37:10Z"
-},
-{
-"id": "dfa61e941a690b0a",
-"title": "Grant Application: MORE-ZEC — shielded settlement rails for the agent economy ($40,000)",
-"link": "https://forum.zcashcommunity.com/t/grant-application-more-zec-shielded-settlement-rails-for-the-agent-economy-40-000/59394",
-"published": "2026-11-17T19:09:03Z",
-"source": "Zcash Community Forum",
-"desk": "ZEC",
-"kind": "community",
-"first_seen": "2026-11-17T19:37:10Z"
 },
 {
 "id": "64aad33a1b6b741d",
