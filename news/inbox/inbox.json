@@ -1,5 +1,25 @@
 [
 {
+"id": "9b80dc57527a96d0",
+"title": "What we’re learning from firms engaging with our innovation services",
+"link": "https://www.fca.org.uk/news/blogs/what-were-learning-firms-engaging-our-innovation-services",
+"published": null,
+"source": "FCA",
+"desk": "UK",
+"kind": "official",
+"first_seen": "2026-11-24T10:24:07Z"
+},
+{
+"id": "e1ca88b62e4fc3db",
+"title": "Bitcoin falls below $60,000 as rally on Jensen Huang’s Nvidia return fades",
+"link": "https://www.coindesk.com/markets/2026/11/24/bitcoin-falls-below-usd60-000-as-rally-on-jensen-huang-s-nvidia-return-fades",
+"published": "2026-11-24T10:08:38Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-24T10:24:07Z"
+},
+{
 "id": "9df49b72f9d2b2e8",
 "title": "Bitcoin dips back under $60K as gold seals worst 60-day loss since 1980s",
 "link": "https://cointelegraph.com/markets/bitcoin-dips-60k-gold-worst-60-day-loss-1980s?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -5420,16 +5440,6 @@
 "first_seen": "2026-11-17T10:37:09Z"
 },
 {
-"id": "490a5d1a88ca71b3",
-"title": "Nvidia Board Not Considering Jensen Huang's Return: Report",
-"link": "https://decrypt.co/383411/nvidia-board-not-considering-jensen-huangs-return-report",
-"published": "2026-11-17T09:54:32Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T10:07:10Z"
-},
-{
 "id": "b431ea497743c593",
 "title": "Here’s what happened in crypto today",
 "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -5650,16 +5660,6 @@
 "first_seen": "2026-11-18T01:37:10Z"
 },
 {
-"id": "8cdfc14340a44d52",
-"title": "Waller, The Economic Outlook and Some Thoughts on Labor Market Dynamism",
-"link": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
-"published": "2026-11-10T09:00:00Z",
-"source": "Federal Reserve (speeches)",
-"desk": "Macro",
-"kind": "official",
-"first_seen": "2026-11-17T10:07:10Z"
-},
-{
 "id": "de3144e9ce900fd2",
 "title": "Bitcoin Optech Newsletter #430 Recap Podcast",
 "link": "https://bitcoinops.org/en/podcast/2026/11/10/",
@@ -5668,6 +5668,16 @@
 "desk": "Protocol",
 "kind": "protocol",
 "first_seen": "2026-11-18T01:37:10Z"
+},
+{
+"id": "6e4cb5ab08bc01e5",
+"title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+"link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
+"published": "2026-11-09T21:00:00Z",
+"source": "Federal Reserve (press)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-24T10:24:07Z"
 },
 {
 "id": "523fcaffe803342d",
