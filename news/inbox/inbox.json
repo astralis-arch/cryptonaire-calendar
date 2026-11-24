@@ -1,5 +1,15 @@
 [
 {
+"id": "1130bf6f48d556ff",
+"title": "Bitcoin slides amid US tariff nerves as Anthropic falls below IPO price",
+"link": "https://cointelegraph.com/markets/bitcoin-slides-us-tariff-nerves-anthropic-falls-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-24T17:09:11Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-24T17:37:11Z"
+},
+{
 "id": "5d1b4886d8278a63",
 "title": "Robinhood co-leads $5 million seed round for onchain trading platform Rialto",
 "link": "https://www.theblock.co/news/deals/2026-11-24-robinhood-onchain-trading-platform-rialto-funding-446030",
@@ -2758,6 +2768,26 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-20T11:37:10Z"
+},
+{
+"id": "c768e98272503ad2",
+"title": "Bitcoin Core 30.5",
+"link": "https://github.com/bitcoin/bitcoin/releases/tag/v30.5",
+"published": "2026-11-20T11:30:35Z",
+"source": "Bitcoin Core releases",
+"desk": "Protocol",
+"kind": "protocol",
+"first_seen": "2026-11-24T17:37:11Z"
+},
+{
+"id": "bf577beb388c7700",
+"title": "Bitcoin Core 31.3",
+"link": "https://github.com/bitcoin/bitcoin/releases/tag/v31.3",
+"published": "2026-11-20T11:29:43Z",
+"source": "Bitcoin Core releases",
+"desk": "Protocol",
+"kind": "protocol",
+"first_seen": "2026-11-24T17:37:11Z"
 },
 {
 "id": "4047b8272f690cd3",
