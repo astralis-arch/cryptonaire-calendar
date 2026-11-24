@@ -1,5 +1,25 @@
 [
 {
+"id": "4dd29143426f6959",
+"title": "U.S. seeks $1.1 billion seized in Binance hack as North Korean funds keep moving",
+"link": "https://www.coindesk.com/policy/2026/11/24/u-s-seeks-usd1-1-billion-seized-in-binance-hack-as-north-korean-funds-keep-moving",
+"published": "2026-11-24T10:58:51Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-24T11:07:10Z"
+},
+{
+"id": "d7eacaf63baa1655",
+"title": "BTCS sells more than half its ether to repay $43.8 million in Aave debt",
+"link": "https://www.coindesk.com/business/2026/11/24/btcs-sells-more-than-half-its-ether-to-repay-usd43-8-million-in-aave-debt",
+"published": "2026-11-24T10:55:30Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-24T11:07:10Z"
+},
+{
 "id": "27cfe45fbe2a533c",
 "title": "South Korea regulator backs bank-controlled stablecoins after months of dispute",
 "link": "https://www.coindesk.com/policy/2026/11/24/south-korea-regulator-backs-bank-controlled-stablecoins-after-months-of-dispute",
@@ -5398,56 +5418,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-17T11:07:11Z"
-},
-{
-"id": "922eeb9cebe7de63",
-"title": "Live updates: Bitcoin holds near $64,000 as tech slides ahead of Nvidia earnings",
-"link": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings",
-"published": "2026-11-17T10:33:26Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T10:37:09Z"
-},
-{
-"id": "7abecec3449e3378",
-"title": "Hackers plant crypto-stealing code on 178 major websites, including HSBC and Ledger",
-"link": "https://www.coindesk.com/tech/2026/11/17/hackers-planted-crypto-stealing-code-on-178-organizations-sites-including-hsbc-bbc-and-ledger",
-"published": "2026-11-17T10:22:18Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T10:37:09Z"
-},
-{
-"id": "76e329de0314d9e4",
-"title": "Tether Capital invests $15 million in Nomad, eyes wider access to USDT and XAUT in Brazil",
-"link": "https://www.theblock.co/news/business/2026-11-17-tether-nomad-brazil-investment-442097",
-"published": "2026-11-17T10:20:37Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T10:37:09Z"
-},
-{
-"id": "785251690dffbecb",
-"title": "Nvidia faces first earnings test without Jensen Huang as AI stocks slide",
-"link": "https://www.coindesk.com/markets/2026/11/17/nvidia-faces-first-earnings-test-without-jensen-huang-as-ai-stocks-slide",
-"published": "2026-11-17T10:17:01Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T10:37:09Z"
-},
-{
-"id": "be801b5fa62a271d",
-"title": "Google says hackers use AI agents to find and exploit software flaws",
-"link": "https://cointelegraph.com/news/google-ai-agents-automated-cyberattacks-software-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-17T10:05:59Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T10:37:09Z"
 },
 {
 "id": "b431ea497743c593",
