@@ -1,5 +1,65 @@
 [
 {
+"id": "21c5556dbd5e0d64",
+"title": "Justice Department takes aim at billions in crypto fraud proceeds in historic ‘largest ever crackdown’",
+"link": "https://www.theblock.co/news/regulation/2026-11-25-justice-department-takes-aim-billions-crypto-fraud-proceeds-largest-ever-crackdown-446711",
+"published": "2026-11-25T18:05:18Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-25T18:07:17Z"
+},
+{
+"id": "3c58be93bda51347",
+"title": "Nvidia agrees to $290 million settlement over crypto mining disclosures amid Jensen Huang turmoil",
+"link": "https://www.theblock.co/news/regulation/2026-11-25-nvidia-290-million-settlement-crypto-mining-class-action-446709",
+"published": "2026-11-25T18:00:13Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-25T18:07:17Z"
+},
+{
+"id": "88fb75dcb5fee954",
+"title": "US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook",
+"link": "https://cointelegraph.com/news/us-inflation-rises-december-fed-meeting-clouding-crypto-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-25T17:53:10Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-25T18:07:17Z"
+},
+{
+"id": "a1b2624b036cc780",
+"title": "DOJ Targets 800 Defendants in Largest-Ever Scam Crackdown, Including Crypto Fraud",
+"link": "https://bitcoinmagazine.com/news/doj-largest-ever-scam-crackdown-crypto",
+"published": "2026-11-25T17:50:00Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-25T18:07:17Z"
+},
+{
+"id": "3f2c948653b39264",
+"title": "OpenAI’s Changes to ChatGPT Could Drastically Cut Usage Limits for Paying Subscribers",
+"link": "https://decrypt.co/383963/openai-changes-chatgpt-drastically-cut-usage-limits",
+"published": "2026-11-25T17:46:02Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-25T18:07:17Z"
+},
+{
+"id": "a789f667ba83f7d1",
+"title": "'This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles",
+"link": "https://www.coindesk.com/markets/2026/11/25/this-time-actually-seems-different-crypto-veterans-brace-for-more-pain-as-bitcoin-tumbles",
+"published": "2026-11-25T17:38:33Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-25T18:07:17Z"
+},
+{
 "id": "c0f4c246fda53664",
 "title": "Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%",
 "link": "https://cointelegraph.com/markets/bitcoin-falls-57k-us-tariff-pce-data-nasdaq-drops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -5428,66 +5488,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-18T18:37:10Z"
-},
-{
-"id": "d17d1199f7ce04ca",
-"title": "Julian La Picque for ZCG (December 2026)",
-"link": "https://forum.zcashcommunity.com/t/julian-la-picque-for-zcg-december-2026/59442",
-"published": "2026-11-18T17:51:21Z",
-"source": "Zcash Community Forum",
-"desk": "ZEC",
-"kind": "community",
-"first_seen": "2026-11-18T18:07:10Z"
-},
-{
-"id": "41cb88a7969c8210",
-"title": "Lucky Trader Banks 66,000% Profit on GTA 6 Meme Coin Ticker Confusion",
-"link": "https://decrypt.co/383536/lucky-trader-banks-66000-profit-on-gta-6-meme-coin-ticker-confusion",
-"published": "2026-11-18T17:32:13Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-18T17:37:11Z"
-},
-{
-"id": "2a29fca8f7623239",
-"title": "Analyst: Bitcoin Below $70,000 is a ‘Gift From the Market’",
-"link": "https://bitcoinmagazine.com/markets/k33-bitcoin-below-70000-gift",
-"published": "2026-11-18T17:30:00Z",
-"source": "Bitcoin Magazine",
-"desk": "BTC",
-"kind": "news",
-"first_seen": "2026-11-18T17:37:11Z"
-},
-{
-"id": "931551d044daef4a",
-"title": "A $1.5 billion crypto startup is taking on Hyperliquid with a Wall Street playbook",
-"link": "https://www.coindesk.com/business/2026/11/18/a-usd1-5-billion-crypto-startup-is-taking-on-hyperliquid-with-a-wall-street-playbook",
-"published": "2026-11-18T17:22:03Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-18T18:07:10Z"
-},
-{
-"id": "8e340f972feb80e1",
-"title": "CryptoQuant says bitcoin is back in a bearish phase but has reached a ‘value zone’",
-"link": "https://www.theblock.co/news/markets/2026-11-18-cryptoquant-bitcoin-bearish-value-zone-443471",
-"published": "2026-11-18T17:13:37Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-18T17:37:11Z"
-},
-{
-"id": "5da7779e24d10d6c",
-"title": "$25M Ethereum MEV acquittal tests criminal enforcement limits",
-"link": "https://cointelegraph.com/news/25m-ethereum-mev-acquittal-tests-criminal-enforcement-limits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-18T17:05:04Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-18T17:37:11Z"
 },
 {
 "id": "64aad33a1b6b741d",
