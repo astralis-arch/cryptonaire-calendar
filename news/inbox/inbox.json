@@ -1,5 +1,45 @@
 [
 {
+"id": "c7e293a85e523b2a",
+"title": "Bowman, Modernizing Banking Supervision: A Shared Agenda for the Americas",
+"link": "https://www.federalreserve.gov/newsevents/speech/bowman20261125a.htm",
+"published": "2026-11-25T12:25:00Z",
+"source": "Federal Reserve (speeches)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-25T12:37:10Z"
+},
+{
+"id": "91eed3714f518d51",
+"title": "UniCredit offers bitcoin exposure to Italian retail clients with capital protection at maturity",
+"link": "https://www.theblock.co/news/business/2026-11-25-unicredit-offers-bitcoin-exposure-to-italian-retail-clients-with-capital-protection-at-maturity-446150",
+"published": "2026-11-25T12:24:32Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-25T12:37:10Z"
+},
+{
+"id": "deb32053db52d7a1",
+"title": "Fed’s preferred inflation gauge lands with a December rate increase already priced in",
+"link": "https://www.coindesk.com/daybook-us/2026/11/25/fed-s-preferred-inflation-gauge-lands-with-a-december-rate-increase-already-priced-in",
+"published": "2026-11-25T12:18:46Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-25T12:37:10Z"
+},
+{
+"id": "21339eb31baef724",
+"title": "‘Don’t mess with X,’ Elon Musk says after platform secures default judgment in alleged bitcoin content-farm case",
+"link": "https://www.theblock.co/news/regulation/2026-11-25-dont-mess-with-x-elon-musk-says-after-platform-secures-default-judgment-in-alleged-bitcoin-content-farm-case-446151",
+"published": "2026-11-25T12:14:27Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-25T12:37:10Z"
+},
+{
 "id": "9de0957d72f816db",
 "title": "Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes",
 "link": "https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes",
@@ -18,6 +58,16 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-25T12:07:17Z"
+},
+{
+"id": "832b59fd38834106",
+"title": "Italy’s UniCredit launches six-year bitcoin certificate with gains capped at 65%",
+"link": "https://www.coindesk.com/business/2026/11/25/italy-s-unicredit-debuts-six-year-bitcoin-certificate-with-100-capital-protection-and-65-cap",
+"published": "2026-11-25T11:51:54Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-25T12:37:10Z"
 },
 {
 "id": "14ac887a85af74ed",
