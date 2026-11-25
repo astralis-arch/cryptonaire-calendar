@@ -1,5 +1,35 @@
 [
 {
+"id": "4316e03c9dffd238",
+"title": "Hyperliquid Leads Altcoin Losses as Bitcoin Slips Below $59K",
+"link": "https://decrypt.co/383938/hyperliquid-leads-altcoin-losses-as-bitcoin-slips-below-59k",
+"published": "2026-11-25T11:23:57Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-25T11:37:10Z"
+},
+{
+"id": "d498c64616677d31",
+"title": "Bitcoin ETFs near $5B in record monthly outflows amid AI stock rout",
+"link": "https://cointelegraph.com/markets/bitcoin-etfs-near-record-5-billion-monthly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-25T11:12:26Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-25T11:37:10Z"
+},
+{
+"id": "5c448d6a197d04f7",
+"title": "Bitcoin price may fall below $53K if bear-market history repeats",
+"link": "https://cointelegraph.com/markets/bitcoin-price-bear-market-history-repeats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-25T11:09:38Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-25T11:37:10Z"
+},
+{
 "id": "c03d381c9a88dd76",
 "title": "EU proposes $54.7 billion fund for AI, quantum startups alongside post-quantum security push",
 "link": "https://www.coindesk.com/business/2026/11/25/eu-proposes-usd54-7-billion-fund-for-ai-quantum-startups-alongside-post-quantum-security-push",
@@ -5428,26 +5458,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-18T11:37:10Z"
-},
-{
-"id": "ec90f63012e49f51",
-"title": "ZCAP: Should Grant Recipients Elect the People Who Fund Them?",
-"link": "https://forum.zcashcommunity.com/t/zcap-should-grant-recipients-elect-the-people-who-fund-them/59426",
-"published": "2026-11-18T10:58:39Z",
-"source": "Zcash Community Forum",
-"desk": "ZEC",
-"kind": "community",
-"first_seen": "2026-11-18T11:07:09Z"
-},
-{
-"id": "f51d65222e439a80",
-"title": "Bitcoin outpaces gold even as both assets tumble ahead of a likely Fed rate hike",
-"link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-outpaces-gold-even-as-both-assets-tumble-ahead-of-a-likely-fed-rate-hike",
-"published": "2026-11-18T10:58:36Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-18T11:07:09Z"
 },
 {
 "id": "64aad33a1b6b741d",
