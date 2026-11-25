@@ -1,5 +1,25 @@
 [
 {
+"id": "5a335e7f2e3662bd",
+"title": "Solana developers move to stop validators finishing work on blocks that already lost",
+"link": "https://www.coindesk.com/tech/2026/11/25/solana-developers-move-to-stop-validators-finishing-work-on-blocks-that-already-lost",
+"published": "2026-11-25T06:33:10Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-25T06:37:15Z"
+},
+{
+"id": "de51aa15ec454d92",
+"title": "Just 10 accounts drove all of the XRP Ledger's trading growth last quarter",
+"link": "https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter",
+"published": "2026-11-25T06:15:08Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-25T06:37:15Z"
+},
+{
 "id": "4f38b90f37123548",
 "title": "Solana DEX Velocity halts trading over bug just months after relaunch",
 "link": "https://cointelegraph.com/news/solana-dex-velocity-halts-transactions-over-bug-coming-2-months-after-relaunch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
