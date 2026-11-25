@@ -1,5 +1,65 @@
 [
 {
+"id": "4be3484ede26b1b7",
+"title": "Ukraine Passes Law to Legalize and Tax Its Crypto Market From July 2027",
+"link": "https://decrypt.co/383962/ukraine-passes-law-to-legalize-and-tax-its-crypto-market-from-july-2027",
+"published": "2026-11-25T16:07:35Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-25T16:37:11Z"
+},
+{
+"id": "d1314fa3e08e3b78",
+"title": "EU bank watchdog seeks European Commission rules for crypto firms offering DeFi lending",
+"link": "https://www.coindesk.com/policy/2026/11/25/eu-bank-watchdog-seeks-european-commission-rules-for-crypto-firms-offering-defi-lending",
+"published": "2026-11-25T16:02:31Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-25T16:37:11Z"
+},
+{
+"id": "61c247b514ac1f16",
+"title": "Ukrainian lawmakers pass crypto tax and regulation bill expected to bring in $330 million",
+"link": "https://www.coindesk.com/business/2026/11/25/ukrainian-lawmakers-pass-crypto-tax-and-regulation-bill-expected-to-bring-in-usd330-million",
+"published": "2026-11-25T16:02:07Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-25T16:37:11Z"
+},
+{
+"id": "a7aa03023c17b426",
+"title": "Aave Labs publicly launches savings app as balances top $63 million",
+"link": "https://www.theblock.co/news/defi/2026-11-25-aave-labs-publicly-launches-savings-app-as-balances-top-63-million-446674",
+"published": "2026-11-25T16:00:00Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-25T16:37:11Z"
+},
+{
+"id": "dff5612e55f1fce7",
+"title": "Crypto Long & Short: Bitcoin investors can’t keep ignoring Japan",
+"link": "https://www.coindesk.com/coindesk-indices/2026/11/25/crypto-long-and-short-bitcoin-investors-can-t-keep-ignoring-japan",
+"published": "2026-11-25T15:59:44Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-25T16:37:11Z"
+},
+{
+"id": "901e0d6aeb8068a6",
+"title": "One Click Cashback Program for Zcash",
+"link": "https://forum.zcashcommunity.com/t/one-click-cashback-program-for-zcash/59653",
+"published": "2026-11-25T15:50:56Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-25T16:37:11Z"
+},
+{
 "id": "a6912a01382ffd93",
 "title": "Next Technology (NXTT) Sells 500 Bitcoin to Fund AI Push",
 "link": "https://bitcoinmagazine.com/news/next-technology-nxtt-sells-500-bitcoin",
@@ -8,6 +68,16 @@
 "desk": "BTC",
 "kind": "news",
 "first_seen": "2026-11-25T15:37:14Z"
+},
+{
+"id": "5707d00e624405ac",
+"title": "Square’s NATIONWIDE Bitcoin Payments Rollout: What People Are Actually Buying",
+"link": "https://bitcoinmagazine.com/videos/squares-nationwide-bitcoin-payments-rollout-what-people-are-actually-buying",
+"published": "2026-11-25T15:15:01Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-25T16:37:11Z"
 },
 {
 "id": "64855997bcc332c4",
@@ -5388,66 +5458,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-18T17:07:10Z"
-},
-{
-"id": "9da5bac4f13e15e6",
-"title": "Visa Direct to extend stablecoin prefunding for cross-border payouts to Asia-Pacific",
-"link": "https://www.theblock.co/news/business/2026-11-18-visa-direct-extend-stablecoin-prefunding-cross-border-payouts-asia-pacific-443457",
-"published": "2026-11-18T16:30:41Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-18T16:37:10Z"
-},
-{
-"id": "b3606b77e4fd125f",
-"title": "German Court Offers to Drop Movie2k Case for 40,000 Bitcoin",
-"link": "https://bitcoinmagazine.com/news/german-court-offers-drop-movie2k-case-40000-bitcoin",
-"published": "2026-11-18T16:03:20Z",
-"source": "Bitcoin Magazine",
-"desk": "BTC",
-"kind": "news",
-"first_seen": "2026-11-18T16:07:09Z"
-},
-{
-"id": "b91c67bf575ebe12",
-"title": "Crypto Long & Short: Crypto exchanges shouldn’t double as the vault",
-"link": "https://www.coindesk.com/coindesk-indices/2026/11/18/crypto-long-and-short-crypto-exchanges-shouldn-t-double-as-the-vault",
-"published": "2026-11-18T16:02:54Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-18T16:07:09Z"
-},
-{
-"id": "e5e190e999aa48a8",
-"title": "Variational raises $110 million at $1.5 billion valuation to expand onchain derivatives trading",
-"link": "https://www.theblock.co/news/deals/2026-11-18-variational-raises-110-million-at-1-5-billion-valuation-to-expand-onchain-derivatives-trading-443445",
-"published": "2026-11-18T15:51:42Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-18T16:07:09Z"
-},
-{
-"id": "5194bd5dfbfc4489",
-"title": "Grant Application - Zebra Checkpoint Sync Halt DoS Security Disclosure (GHSA-m44m-9r8r-r64j)",
-"link": "https://forum.zcashcommunity.com/t/grant-application-zebra-checkpoint-sync-halt-dos-security-disclosure-ghsa-m44m-9r8r-r64j/59436",
-"published": "2026-11-18T15:51:12Z",
-"source": "Zcash Community Forum",
-"desk": "ZEC",
-"kind": "community",
-"first_seen": "2026-11-18T16:07:09Z"
-},
-{
-"id": "b52217757428dd52",
-"title": "German judge proposes dropping Movie2k case if operator hands over $2.56 billion in bitcoin",
-"link": "https://www.coindesk.com/business/2026/11/18/german-judge-proposes-dropping-movie2k-case-if-operator-hands-over-usd2-56-billion-in-bitcoin",
-"published": "2026-11-18T15:38:38Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-18T16:07:09Z"
 },
 {
 "id": "64aad33a1b6b741d",
