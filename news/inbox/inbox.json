@@ -1,5 +1,45 @@
 [
 {
+"id": "583a143245fe7aea",
+"title": "Hong Kong Monetary Authority launches digital asset platform for tokenized debt securities",
+"link": "https://www.theblock.co/news/regulation/2026-11-25-hong-kong-debt-securities-tokenization-446132",
+"published": "2026-11-25T10:05:40Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-25T10:07:12Z"
+},
+{
+"id": "fd3a3227dc5b5324",
+"title": "French Senate rejects 100K euro crypto wallet disclosure requirement",
+"link": "https://cointelegraph.com/news/french-senate-rejects-disclosing-self-custodied-crypto-wallets-100k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-25T09:58:12Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-25T10:07:12Z"
+},
+{
+"id": "1ed6689e5705f8d7",
+"title": "Stablecoin redemptions hit $12B in 30 days, echoing 2022 bear market",
+"link": "https://cointelegraph.com/markets/stablecoin-cash-out-2022-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-25T09:52:22Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-25T10:07:12Z"
+},
+{
+"id": "dfee7ca243a53826",
+"title": "Ethereum Foundation researchers pick one hash ‘to rule them all’ for post-quantum upgrade",
+"link": "https://www.theblock.co/news/ecosystems/2026-11-25-ethereum-foundation-researchers-pick-one-hash-to-rule-them-all-for-post-quantum-upgrade-446125",
+"published": "2026-11-25T09:49:45Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-25T10:07:12Z"
+},
+{
 "id": "977cf49dafb65c48",
 "title": "EU seeks up to $55B for AI and quantum computing fund: Report",
 "link": "https://cointelegraph.com/news/eu-55-billion-ai-quantum-computing-investment-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -5398,46 +5438,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-18T10:37:17Z"
-},
-{
-"id": "66b65aa078cc2636",
-"title": "Strategy stock could plunge 76% to $23, chart analyst warns",
-"link": "https://www.coindesk.com/markets/2026/11/18/strategy-stock-could-crash-76-to-usd23-chart-analyst-warns",
-"published": "2026-11-18T09:31:41Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-18T09:37:16Z"
-},
-{
-"id": "eab6c7f3334df303",
-"title": "DBS lets eligible institutions in Asia mint and redeem USDC around the clock",
-"link": "https://www.theblock.co/news/business/2026-11-18-dbs-circle-usdc-asia-442970",
-"published": "2026-11-18T09:28:50Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-18T09:37:16Z"
-},
-{
-"id": "adc36d6ae80113d7",
-"title": "World Bank partners with Circle, Citi to explore stablecoins for payments",
-"link": "https://cointelegraph.com/news/world-bank-circle-citi-explore-stablecoins-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-18T09:17:18Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-18T09:37:16Z"
-},
-{
-"id": "a752f9bdec9e3bf2",
-"title": "Hyundai tests AI agent commerce on JPMorgan’s Kinexys blockchain",
-"link": "https://www.coindesk.com/business/2026/11/18/hyundai-tests-ai-agent-commerce-on-jpmorgan-s-kinexys-blockchain",
-"published": "2026-11-18T09:14:15Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-18T09:37:16Z"
 },
 {
 "id": "64aad33a1b6b741d",
