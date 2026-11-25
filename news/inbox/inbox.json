@@ -1,5 +1,15 @@
 [
 {
+"id": "a6912a01382ffd93",
+"title": "Next Technology (NXTT) Sells 500 Bitcoin to Fund AI Push",
+"link": "https://bitcoinmagazine.com/news/next-technology-nxtt-sells-500-bitcoin",
+"published": "2026-11-25T15:30:00Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-25T15:37:14Z"
+},
+{
 "id": "64855997bcc332c4",
 "title": "Zcash Community Grants (ZCG) Meeting Minutes 11/25/2026",
 "link": "https://forum.zcashcommunity.com/t/zcash-community-grants-zcg-meeting-minutes-11-25-2026/59650",
@@ -8,6 +18,16 @@
 "desk": "ZEC",
 "kind": "community",
 "first_seen": "2026-11-25T15:07:10Z"
+},
+{
+"id": "edb6e15d1c8cbc1f",
+"title": "Zcash Community Grants (ZCG) Meeting Minutes 11/23/2026",
+"link": "https://forum.zcashcommunity.com/t/zcash-community-grants-zcg-meeting-minutes-11-23-2026/59650",
+"published": "2026-11-25T15:04:45Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-25T15:37:14Z"
 },
 {
 "id": "3749c6800cd752ab",
@@ -40,6 +60,16 @@
 "first_seen": "2026-11-25T14:54:24Z"
 },
 {
+"id": "dfef5a706a044a25",
+"title": "South Korean crypto exchange Bithumb warns of phishing after deeper October breach probe",
+"link": "https://www.coindesk.com/tech/2026/11/25/south-korean-crypto-exchange-bithumb-warns-of-phishing-after-deeper-october-breach-probe",
+"published": "2026-11-25T14:47:17Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-25T15:37:14Z"
+},
+{
 "id": "95efabb59e814e16",
 "title": "Ukraine passes crypto market law, with $332 million revenue target",
 "link": "https://www.theblock.co/news/regulation/2026-11-25-ukraine-passes-crypto-market-law-with-332-million-revenue-target-446182",
@@ -68,6 +98,16 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-25T14:37:10Z"
+},
+{
+"id": "d7ab0029cc21de16",
+"title": "SEC Investor Advisory Committee to Host Dec. 3 Virtual Meeting",
+"link": "https://www.sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting",
+"published": "2026-11-25T14:10:24Z",
+"source": "SEC (press)",
+"desk": "Policy",
+"kind": "official",
+"first_seen": "2026-11-25T15:37:14Z"
 },
 {
 "id": "62f5e52fa9f6336d",
@@ -5408,36 +5448,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-18T16:07:09Z"
-},
-{
-"id": "820543e079a87cda",
-"title": "Coinbase Says Its AI Blocked $4.7 Million in Deepfake Elon Musk Scam",
-"link": "https://bitcoinmagazine.com/news/coinbase-ai-blocks-deepfake-musk-scam",
-"published": "2026-11-18T15:30:00Z",
-"source": "Bitcoin Magazine",
-"desk": "BTC",
-"kind": "news",
-"first_seen": "2026-11-18T15:37:12Z"
-},
-{
-"id": "eb4c515e7f26bd8c",
-"title": "Hong Kong wants banks to use AI to catch crypto crime before money disappears",
-"link": "https://www.coindesk.com/business/2026/11/18/hong-kong-wants-banks-to-use-ai-to-catch-crypto-crime-before-money-disappears",
-"published": "2026-11-18T15:23:18Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-18T15:37:12Z"
-},
-{
-"id": "560cbc57d83202df",
-"title": "StoneX cuts Bitdeer price target to $15 amid new US chip export controls",
-"link": "https://www.theblock.co/news/markets/2026-11-18-stonex-cuts-bitdeer-price-target-to-15-amid-new-us-chip-export-controls-443440",
-"published": "2026-11-18T15:16:54Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-18T15:37:12Z"
 },
 {
 "id": "64aad33a1b6b741d",
