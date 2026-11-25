@@ -1,5 +1,15 @@
 [
 {
+"id": "0232b19710923e06",
+"title": "Hackers breach CIA intelligence network in latest US cyberattack",
+"link": "https://cointelegraph.com/news/hackers-breach-cia-intelligence-network-in-latest-us-cyberattack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-24T23:48:16Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-25T00:07:10Z"
+},
+{
 "id": "eeeb020a15d1468d",
 "title": "OpenAI and Anthropic Insiders Fear Their Next AI Models Are Too Dangerous to Release",
 "link": "https://decrypt.co/383933/openai-and-anthropic-insiders-fear-next-ai-models-too-dangerous",
@@ -5448,36 +5458,6 @@
 "desk": "ZEC",
 "kind": "community",
 "first_seen": "2026-11-18T00:07:10Z"
-},
-{
-"id": "89ed1f45e942fae4",
-"title": "Trump’s CFTC picks face Senate scrutiny as prediction market turf war heats up",
-"link": "https://www.theblock.co/news/regulation/2026-11-17-trumps-cftc-picks-face-senate-scrutiny-as-prediction-market-turf-war-heats-up-442909",
-"published": "2026-11-17T23:32:46Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T23:37:10Z"
-},
-{
-"id": "ef0c9802e23f7268",
-"title": "Why Microsoft Thinks Smaller, Cheaper AI Can Beat Claude and GPT",
-"link": "https://decrypt.co/383468/why-microsoft-thinks-smaller-cheaper-ai-beat-claude-gpt",
-"published": "2026-11-17T23:16:03Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-17T23:37:10Z"
-},
-{
-"id": "110ca3aa00364334",
-"title": "Bitcoin Policy Institute Rebrands as Finney Foundation for Open Technology",
-"link": "https://bitcoinmagazine.com/videos/bitcoin-policy-institute-rebrands-as-finney-foundation-for-open-technology",
-"published": "2026-11-17T22:45:03Z",
-"source": "Bitcoin Magazine",
-"desk": "BTC",
-"kind": "news",
-"first_seen": "2026-11-17T23:37:10Z"
 },
 {
 "id": "64aad33a1b6b741d",
