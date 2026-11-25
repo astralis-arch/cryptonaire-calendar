@@ -1,5 +1,35 @@
 [
 {
+"id": "95efabb59e814e16",
+"title": "Ukraine passes crypto market law, with $332 million revenue target",
+"link": "https://www.theblock.co/news/regulation/2026-11-25-ukraine-passes-crypto-market-law-with-332-million-revenue-target-446182",
+"published": "2026-11-25T14:35:20Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-25T14:37:10Z"
+},
+{
+"id": "b5c6f3fde5fd3313",
+"title": "Ex-FTX COO calls out Netflix over CZ’s ‘Asian mafia’ portrayal",
+"link": "https://cointelegraph.com/news/ftx-coo-netflix-portrayal-binance-founder-racist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-25T14:21:36Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-25T14:37:10Z"
+},
+{
+"id": "a9e60de81ca9c2dc",
+"title": "Bit Digital repays $50 million to Galaxy after selling 29,825 ETH",
+"link": "https://www.theblock.co/news/business/2026-11-25-bit-digital-repays-50-million-to-galaxy-after-selling-29825-eth-446164",
+"published": "2026-11-25T14:15:44Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-25T14:37:10Z"
+},
+{
 "id": "62f5e52fa9f6336d",
 "title": "Morning Minute: Ethereum Focuses on Security As AI Threats Rise",
 "link": "https://decrypt.co/383945/morning-minute-ethereum-focuses-on-security-as-ai-threats-rise",
@@ -5410,16 +5440,6 @@
 "first_seen": "2026-11-18T14:37:14Z"
 },
 {
-"id": "06b0ea97ba95df40",
-"title": "South Korea Set to Let 3,500 Companies Buy Bitcoin, Report Says",
-"link": "https://bitcoinmagazine.com/news/south-korea-companies-buy-bitcoin",
-"published": "2026-11-18T14:05:41Z",
-"source": "Bitcoin Magazine",
-"desk": "BTC",
-"kind": "news",
-"first_seen": "2026-11-18T14:07:17Z"
-},
-{
 "id": "6ac727e5e07f6d34",
 "title": "Bitcoin Covenants Part 6: FE Covenants — Enforcing covenants through cryptographically restricted signing keys",
 "link": "https://cointelegraph.com/research/bitcoin-covenants-part-6-fe-covenants-enforcing-covenants-through-cryptographically-restricted-signing-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -5428,46 +5448,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-18T14:37:14Z"
-},
-{
-"id": "421742b73842a9b0",
-"title": "‘Gift from the market’: Bitcoin shows signs of a local bottom after six weeks of losses, analyst says",
-"link": "https://www.theblock.co/news/markets/2026-11-18-gift-from-the-market-bitcoin-shows-signs-of-a-local-bottom-after-six-weeks-of-losses-analyst-says-443017",
-"published": "2026-11-18T14:01:54Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-18T14:07:17Z"
-},
-{
-"id": "aff2c6fcbe8c9fca",
-"title": "Grant Application - Shielded ZEC (Ironwood) for React Native wallets — Any Wallet Kit",
-"link": "https://forum.zcashcommunity.com/t/grant-application-shielded-zec-ironwood-for-react-native-wallets-any-wallet-kit/59428",
-"published": "2026-11-18T13:58:03Z",
-"source": "Zcash Community Forum",
-"desk": "ZEC",
-"kind": "community",
-"first_seen": "2026-11-18T14:07:17Z"
-},
-{
-"id": "c4c69f039dd08846",
-"title": "CoinShares sells all treasury ETH, halves SOL holdings for buybacks",
-"link": "https://cointelegraph.com/news/coinshares-sells-eth-treasury-holdings-halves-sol-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-18T13:42:37Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-18T14:07:17Z"
-},
-{
-"id": "069314d808857965",
-"title": "Morning Minute: Nvidia Beats, Board Says ‘No’ on Jensen",
-"link": "https://decrypt.co/383530/morning-minute-nvidia-beats-board-says-no-on-jensen",
-"published": "2026-11-18T13:37:20Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-18T14:07:17Z"
 },
 {
 "id": "64aad33a1b6b741d",
