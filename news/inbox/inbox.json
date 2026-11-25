@@ -1,5 +1,35 @@
 [
 {
+"id": "a0b6d9d32dd4d89d",
+"title": "Braiins warns of Bitcoin mining attacks affecting over 1,000 sites",
+"link": "https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-25T21:22:19Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-25T21:37:09Z"
+},
+{
+"id": "b074d196ba01df06",
+"title": "The 1Password Breach Didn’t Touch Your Vault. The Phishing Emails Might",
+"link": "https://decrypt.co/384002/1password-breach-vaults-phishing-emails",
+"published": "2026-11-25T21:16:02Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-25T21:37:09Z"
+},
+{
+"id": "7c6e1866f5069ffd",
+"title": "Why ECB collateral eligibility could boost demand for tokenized bonds",
+"link": "https://cointelegraph.com/news/why-ecb-collateral-eligibility-could-boost-demand-tokenized-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-25T21:11:39Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-25T21:37:09Z"
+},
+{
 "id": "73ecb62e87ae2a54",
 "title": "Another Bitcoin Mining Firm Flags 'Hashrate Hijacking' Attacks That Reroute Rewards",
 "link": "https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks",
