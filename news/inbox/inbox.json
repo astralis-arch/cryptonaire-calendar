@@ -1,5 +1,25 @@
 [
 {
+"id": "b1be3292cc9468b6",
+"title": "Ethereum Foundation backs Keccak-256 to counter quantum, AI threats",
+"link": "https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-25T18:54:51Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-25T19:07:10Z"
+},
+{
+"id": "ec2b40c3101ded6a",
+"title": "Switzerland Picks 57 Countries for Crypto Tax Data Sharing Starting in 2028",
+"link": "https://bitcoinmagazine.com/news/switzerland-57-countries-crypto-tax",
+"published": "2026-11-25T18:40:05Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-25T19:07:10Z"
+},
+{
 "id": "d56d784a77393253",
 "title": "French Senate blocks new crypto tax and wallet list critics called a kidnapping risk",
 "link": "https://www.coindesk.com/business/2026/11/25/french-senate-blocks-new-crypto-tax-and-wallet-list-critics-called-a-kidnapping-risk",
@@ -5488,36 +5508,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-18T19:07:10Z"
-},
-{
-"id": "8a3dc2d04dd62c08",
-"title": "Barr, Investing in America’s Underserved Communities",
-"link": "https://www.federalreserve.gov/newsevents/speech/barr20261118a.htm",
-"published": "2026-11-18T18:35:00Z",
-"source": "Federal Reserve (speeches)",
-"desk": "Macro",
-"kind": "official",
-"first_seen": "2026-11-18T18:37:10Z"
-},
-{
-"id": "a9e26f828a256952",
-"title": "MARA prices $185M debt offering after $1.1B Bitcoin sale",
-"link": "https://cointelegraph.com/markets/mara-long-ridge-debt-offering-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-18T18:27:52Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-18T18:37:10Z"
-},
-{
-"id": "953dd595ce5c3adc",
-"title": "Fed's Waller Calls for 50-Basis-Point Rate Hike, Says Tokenized Finance Still Needs Traditional Banks",
-"link": "https://decrypt.co/383566/fed-waller-50-basis-point-rate-hike-tokenized-finance-banks",
-"published": "2026-11-18T18:16:02Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-18T18:37:10Z"
 },
 {
 "id": "64aad33a1b6b741d",
