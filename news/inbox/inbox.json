@@ -1,5 +1,15 @@
 [
 {
+"id": "bb17cc5df7531ce9",
+"title": "Sens. Warren, Van Hollen lead push to scrap SEC’s Regulation Crypto and innovation exemption",
+"link": "https://www.theblock.co/news/regulation/2026-11-25-warren-van-hollen-lead-push-scrap-sec-regulation-crypto-innovation-exemption-446756",
+"published": "2026-11-25T22:20:02Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-25T22:37:10Z"
+},
+{
 "id": "4f9911a878d65923",
 "title": "Switzerland clears 57 jurisdictions for crypto tax data sharing",
 "link": "https://cointelegraph.com/news/switzerland-clears-57-jurisdictions-crypto-tax-data-sharing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -18,6 +28,16 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-25T22:07:10Z"
+},
+{
+"id": "8f8ce4d1b1e2fb8b",
+"title": "Matt Hougan: $1.6 MILLION Bitcoin Price Target “Conservative”",
+"link": "https://bitcoinmagazine.com/videos/matt-hougan-1-6-million-bitcoin-price-target-conservative",
+"published": "2026-11-25T21:22:24Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-25T22:37:10Z"
 },
 {
 "id": "a0b6d9d32dd4d89d",
@@ -5428,56 +5448,6 @@
 "desk": "BTC",
 "kind": "news",
 "first_seen": "2026-11-19T00:37:10Z"
-},
-{
-"id": "62997b2b7198b17d",
-"title": "Payward, the owner of crypto exchange Kraken, is buying its CEO’s venture capital business, Tribe",
-"link": "https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe",
-"published": "2026-11-18T22:30:00Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-18T22:37:09Z"
-},
-{
-"id": "9596fee44e5da67e",
-"title": "Ledger Confirms Tampered Bitcoin Wallets in Berlin as Spy Implant Probe Spreads Beyond Asia",
-"link": "https://decrypt.co/383586/ledger-confirms-tampered-bitcoin-wallets-berlin-spreads-beyond-asia",
-"published": "2026-11-18T22:16:02Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-18T22:37:09Z"
-},
-{
-"id": "bba1c31df5771292",
-"title": "Senators: Treasury must ensure ‘equal footing’ for stablecoin issuers in GENIUS Act implementation",
-"link": "https://www.theblock.co/news/regulation/2026-11-18-senators-treasury-must-ensure-equal-footing-for-stablecoin-issuers-in-genius-act-implementation-443501",
-"published": "2026-11-18T22:09:17Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-18T22:37:09Z"
-},
-{
-"id": "a29558a345f32b2f",
-"title": "Tether invokes The Big Short in swipe at S&P over USDT reserve risks",
-"link": "https://cointelegraph.com/news/tether-usdt-sp-stability-assessment-reserve-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-18T21:57:35Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-18T22:07:10Z"
-},
-{
-"id": "d2e5a03ef20f617a",
-"title": "ChatGPT, Claude, Gemini and Grok Helped Plan Terror Attacks in Government Tests",
-"link": "https://decrypt.co/383584/chatgpt-claude-gemini-grok-help-plan-terror-attacks-government-tests",
-"published": "2026-11-18T21:46:03Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-18T22:07:10Z"
 },
 {
 "id": "dbea10a75a84833c",
