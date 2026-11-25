@@ -1,0 +1,156 @@
+{
+  "generated": "2026-11-25T06:35:00Z",
+  "mood": "risk-off",
+  "briefing": {
+    "developments": [
+      "Bitcoin slipped below $59,000 overnight, touching about $58,860 on Kraken, close to the $58,500 level Glassnode flagged on Tuesday.",
+      "US spot bitcoin ETFs lost a further $570 million on Tuesday, taking November's outflows to nearly $5 billion, The Block reported.",
+      "Miner CleanSpark posted a $987 million annual loss and said it may sell slightly more bitcoin than it mines each quarter, Cointelegraph and The Block reported."
+    ],
+    "changed": "A little weaker than last night. Bitcoin lost about $900 during the Asian session, Tuesday's ETF figure confirmed outflows are continuing, and a large miner signalled it may become a net seller. ZEC held steady.",
+    "question": "Does bitcoin close the day above $58,500, or does that level give way ahead of the long US holiday weekend?",
+    "watch": "US PCE inflation and Q3 GDP at 13:30 UK today. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
+  },
+  "lead": {
+    "headline": "Bitcoin slips under $59,000 as ETF outflows near $5 billion",
+    "standfirst": "Bitcoin drifted lower through the Asian session, nearing a level analysts flagged as a gateway to deeper losses, as fund outflows and a miner's selling plans added to the pressure.",
+    "body": [
+      "Bitcoin fell below $59,000 overnight, trading near $58,970 on Kraken at 06:30 UK after a low of about $58,860, down from roughly $59,870 at Tuesday evening's close of the US session.",
+      "US spot bitcoin exchange-traded funds recorded another $570 million of net outflows on Tuesday, The Block reported, bringing November's total close to $5 billion. The figure could not be checked against a second flow tracker this morning.",
+      "Separately, miner CleanSpark reported a net loss of $987 million for its fiscal year to September, The Block reported, with about two thirds of that from the falling value of its bitcoin. Its chief financial officer said on Tuesday's earnings call that the company may sell slightly more bitcoin than it mines each quarter to reduce risk, according to Cointelegraph. It held about 13,500 bitcoin at the end of September.",
+      "On Tuesday, Decrypt, citing Glassnode, reported that a close below $58,500 could open a path towards bitcoin's realised price near $53,200.",
+      "Attention now turns to US PCE inflation and third-quarter growth figures at 13:30 UK, the last major data before US markets close on Thursday for Thanksgiving. Zcash was steady, with ZEC near $736."
+    ]
+  },
+  "headline": "Bitcoin dipped below $59,000 overnight as ETFs lost another $570 million on Tuesday and miner CleanSpark said it may sell more than it mines. US inflation data lands at 13:30 UK.",
+  "spoken": "Cryptonaire Post, morning edition. Bitcoin drifted lower overnight and is just under fifty-nine thousand dollars, after touching about fifty-eight thousand, eight hundred and sixty. US bitcoin funds lost another five hundred and seventy million dollars on Tuesday, taking this month's outflows close to five billion. The miner CleanSpark reported a big annual loss and said it may sell a little more bitcoin than it mines. Zcash is steady at around seven hundred and thirty-five dollars. At half past one UK time today comes US inflation and growth data. The next red event is the Fed decision on the ninth of December at seven in the evening. Information only, not advice.",
+  "stories": [
+    {
+      "section": "BTC",
+      "impact": "🟠",
+      "confidence": "High",
+      "date": "2026-11-25",
+      "status": "Developing",
+      "title": "Bitcoin slips under $59,000 in Asian trading",
+      "why": "Kraken showed bitcoin near $58,970 at 06:30 UK, down from about $59,870 last night, after an overnight low near $58,860. The new evidence is that the slide resumed while the US slept, bringing price within about $400 of the $58,500 level Glassnode flagged, Decrypt reported on Tuesday.",
+      "note": {
+        "horizon": "swing",
+        "read": "Steady drift lower with no single trigger looks like continued thin demand rather than a fresh shock.",
+        "alt": "Quiet holiday-week trading can exaggerate small moves; it may simply recover with the US open.",
+        "change": "A daily close below $58,500 would strengthen the bearish read; a return above $60,000 would weaken it."
+      },
+      "sources": [
+        {"name": "Kraken", "url": "https://www.kraken.com/prices/bitcoin"},
+        {"name": "Decrypt", "url": "https://decrypt.co/383909/bitcoin-losses-worst-since-ftx-is-bottom-near"}
+      ]
+    },
+    {
+      "section": "ETFs",
+      "impact": "🟠",
+      "confidence": "Medium",
+      "date": "2026-11-25",
+      "status": "Developing",
+      "title": "ETFs lose another $570 million; November outflows near $5 billion",
+      "why": "US spot bitcoin ETFs saw $570 million of net outflows on Tuesday, The Block reported, bringing the month close to $5 billion. That answers last night's question: outflows did continue, and November is on course to be the worst month for the funds since they launched.",
+      "caveat": "A single outlet's figure; Farside could not be read this morning to confirm it.",
+      "note": {
+        "horizon": "swing",
+        "read": "Persistent fund selling remains the main weight on price.",
+        "alt": "Some outflows may be year-end rebalancing or basis-trade unwinds rather than lost conviction.",
+        "change": "A run of inflow days would signal demand returning."
+      },
+      "sources": [
+        {"name": "The Block", "url": "https://www.theblock.co/newsletters/the-daily/2026-11-25-bitcoin-ether-cftc-staff-nod-ethereum-foundation-doubles-security-team-more-crypto-news-446074"}
+      ]
+    },
+    {
+      "section": "BTC",
+      "impact": "🟠",
+      "confidence": "High",
+      "date": "2026-11-24",
+      "status": "New",
+      "title": "CleanSpark posts $987 million loss and may sell more bitcoin than it mines",
+      "why": "CleanSpark reported a $987 million net loss for the year to September, about two thirds from bitcoin revaluation, and mined 7,253 BTC, down 8%, The Block reported. Its CFO said it may sell slightly more than it mines each quarter; it sold 2,102 BTC against 1,708 mined last quarter, Cointelegraph reported. It holds about 13,500 BTC.",
+      "caveat": "The outlets value its holdings slightly differently, at $806 million and $812 million.",
+      "note": {
+        "horizon": "longer",
+        "read": "Miners under margin pressure becoming net sellers adds modest supply in a weak market.",
+        "alt": "The amounts are small next to daily ETF flows, and the shift may be about funding its AI data centre build.",
+        "change": "Other large miners announcing similar treasury sales would make this a trend."
+      },
+      "sources": [
+        {"name": "The Block", "url": "https://www.theblock.co/news/business/2026-11-24-bitcoin-miner-cleanspark-swings-987-million-annual-loss-btc-production-declines-446061"},
+        {"name": "Cointelegraph", "url": "https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books"}
+      ]
+    },
+    {
+      "section": "Macro",
+      "impact": "🟠",
+      "confidence": "High",
+      "date": "2026-11-25",
+      "status": "No material change",
+      "title": "US PCE inflation and GDP due at 13:30 UK",
+      "why": "Nothing new overnight on rates: CME FedWatch still showed near-certain odds of a December Fed rate rise as of Tuesday, Decrypt reported. Today's PCE figure, the Fed's preferred inflation gauge, is the last big data point before Thanksgiving.",
+      "sources": [
+        {"name": "Decrypt", "url": "https://decrypt.co/383898/wall-street-crypto-extreme-whats-spooking-investors"}
+      ]
+    },
+    {
+      "section": "Policy",
+      "impact": "🟢",
+      "confidence": "Medium",
+      "date": "2026-11-25",
+      "status": "New",
+      "title": "CFTC staff let derivatives venues count bitcoin and ether towards expense buffers",
+      "why": "CFTC staff said bitcoin, ether and payment stablecoins can count, after a haircut, towards the year of operating expenses that exchanges and clearing houses must hold, The Block reported. A small step that treats crypto more like a mainstream asset, with no new legal obligations.",
+      "sources": [
+        {"name": "The Block", "url": "https://www.theblock.co/newsletters/the-daily/2026-11-25-bitcoin-ether-cftc-staff-nod-ethereum-foundation-doubles-security-team-more-crypto-news-446074"}
+      ]
+    },
+    {
+      "section": "ZEC",
+      "impact": "🟢",
+      "confidence": "High",
+      "date": "2026-11-25",
+      "status": "No material change",
+      "title": "ZEC steady near $736 overnight",
+      "why": "Kraken showed ZEC near $736 at 06:30 UK, little changed from about $732 last night, holding up better than bitcoin. No new Zcash network or listing news overnight; the NU7.1 governance polls run until 1 December.",
+      "sources": [
+        {"name": "Kraken", "url": "https://www.kraken.com/prices/zcash"}
+      ]
+    },
+    {
+      "section": "Markets",
+      "impact": "🟢",
+      "confidence": "Medium",
+      "date": "2026-11-24",
+      "status": "New",
+      "title": "Trump says a pardon for Nvidia's Huang is possible but unnecessary",
+      "why": "Trump told the New York Post a pardon for Jensen Huang was 'always an option' but not needed, CoinDesk reported, amid cross-party concern over Huang's reinstatement as Nvidia chief. Huang faces congressional hearings next week, keeping a cloud over Nvidia, which bitcoin has been trading closely with.",
+      "sources": [
+        {"name": "CoinDesk", "url": "https://www.coindesk.com/policy/2026/11/24/trump-says-he-s-willing-to-give-nvidia-s-huang-a-pardon-doesn-t-think-he-needs-one"}
+      ]
+    }
+  ],
+  "explained": {
+    "title": "Why miners sell bitcoin",
+    "body": [
+      "Miners earn new bitcoin but pay their electricity, staff and debts in dollars, so most sell some of what they mine. When the price falls, each coin covers less of those costs, and some sell more, dipping into coins they had saved.",
+      "A miner selling more than it mines turns from a holder into a net seller. For one firm the amounts are small, but if many do it at once it adds steady supply to the market."
+    ]
+  },
+  "investigating": [
+    "Was Tuesday's $570 million ETF outflow figure accurate? Evidence: Farside or issuer data later today.",
+    "Will the US announce new tariffs this week, as reported on Tuesday? Evidence: a USTR statement or Wall Street Journal follow-up.",
+    "Farside's flow page could not be read this morning, so ETF figures rest on a single outlet."
+  ],
+  "corrections": [],
+  "ahead": [
+    {"when": "Wed 25 Nov 13:30 UK", "impact": "🟠", "what": "US PCE inflation (October), Q3 GDP second estimate, durable goods and jobless claims"},
+    {"when": "Wed 25 Nov evening UK", "impact": "🟢", "what": "Wednesday's US spot bitcoin ETF flows"},
+    {"when": "Thu 26 Nov", "impact": "🟢", "what": "US markets closed for Thanksgiving; early close on Friday"},
+    {"when": "Fri 27 Nov 08:00 UK", "impact": "🟠", "what": "Monthly BTC options and futures expiry"},
+    {"when": "Tue 1 Dec 02:59 UK", "impact": "🟢", "what": "Zcash NU7.1 coinholder and ZCAP polls close"},
+    {"when": "Wed 9 Dec 19:00 UK", "impact": "🔴", "what": "Fed rate decision and projections"}
+  ]
+}

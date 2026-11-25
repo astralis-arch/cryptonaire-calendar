@@ -1,56 +1,74 @@
 {
- "generated": "2026-11-24T21:35:00Z",
+ "generated": "2026-11-25T06:35:00Z",
  "mood": "risk-off",
  "briefing": {
   "developments": [
-   "The Nasdaq closed 1.5% lower and the S&P 500 0.5% lower as Nvidia fell 5.9% and Anthropic closed below its $83 IPO price for the first time, while the Dow rose 0.9%, Kiplinger reported.",
-   "Bitcoin held just under $60,000, near $59,870 on Kraken at 21:40 UK after a low of about $59,200, as Glassnode said realised losses are the heaviest since the FTX collapse, Decrypt reported.",
-   "ZEC recovered to about $732 from a low near $704, while Zcash's NU7.1 governance polls, mostly on community grants funding, run until 1 December."
+   "Bitcoin slipped below $59,000 overnight, touching about $58,860 on Kraken, close to the $58,500 level Glassnode flagged on Tuesday.",
+   "US spot bitcoin ETFs lost a further $570 million on Tuesday, taking November's outflows to nearly $5 billion, The Block reported.",
+   "Miner CleanSpark posted a $987 million annual loss and said it may sell slightly more bitcoin than it mines each quarter, Cointelegraph and The Block reported."
   ],
-  "changed": "Little changed in price, but the picture is clearer. Stocks did not rally after all: tech fell on tariff worries, so bitcoin was moving with the Nasdaq rather than apart from it. Bitcoin and ZEC both edged up from their afternoon lows.",
-  "question": "Can bitcoin hold above $58,500, the level Glassnode flagged as the gateway to its $53,200 realised price?",
-  "watch": "Tuesday's ETF flows on Wednesday morning UK, then US PCE inflation and GDP at 13:30 UK on Wednesday. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
+  "changed": "A little weaker than last night. Bitcoin lost about $900 during the Asian session, Tuesday's ETF figure confirmed outflows are continuing, and a large miner signalled it may become a net seller. ZEC held steady.",
+  "question": "Does bitcoin close the day above $58,500, or does that level give way ahead of the long US holiday weekend?",
+  "watch": "US PCE inflation and Q3 GDP at 13:30 UK today. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
  },
  "lead": {
-  "headline": "Tech slide and tariff fears leave bitcoin stuck below $60,000",
-  "standfirst": "The Nasdaq fell 1.5% as Nvidia and Anthropic retreated, and bitcoin ended the US session little changed near $59,870 as on-chain losses hit levels not seen since FTX.",
+  "headline": "Bitcoin slips under $59,000 as ETF outflows near $5 billion",
+  "standfirst": "Bitcoin drifted lower through the Asian session, nearing a level analysts flagged as a gateway to deeper losses, as fund outflows and a miner's selling plans added to the pressure.",
   "body": [
-   "US technology shares fell on Tuesday, with the Nasdaq Composite closing 1.5% lower at 23,733 and the S&P 500 down 0.5%, Kiplinger reported. Nvidia gave up 5.9% after Monday's surge and Anthropic slid 6.5%, closing below its $83 IPO price for the first time. The Dow rose 0.9% as retailers rallied ahead of Black Friday.",
-   "Traders cited reports, first carried by the Wall Street Journal, that the US could announce new tariffs on trading partners as soon as this week, Cointelegraph reported. CME FedWatch showed near-certain odds of a quarter-point Fed rate rise on 9 December, according to Decrypt.",
-   "Bitcoin traded near $59,870 on Kraken at 21:40 UK, slightly above the afternoon edition, after a low of about $59,200. Decrypt, citing Glassnode, reported that realised losses relative to inflows are the highest since November 2022, and that a close below $58,500 could open a path towards the $53,200 realised price.",
-   "Asset manager 21Shares said weak demand and forced liquidations, rather than last month's Binance hack, drove most of the decline, Cointelegraph reported. Fear and greed gauges for both crypto and Wall Street sat at 'extreme fear', Decrypt said.",
-   "Zcash steadied, with ZEC near $732 after touching about $704. Attention turns to Wednesday's US inflation and growth figures at 13:30 UK, before markets close on Thursday for Thanksgiving."
+   "Bitcoin fell below $59,000 overnight, trading near $58,970 on Kraken at 06:30 UK after a low of about $58,860, down from roughly $59,870 at Tuesday evening's close of the US session.",
+   "US spot bitcoin exchange-traded funds recorded another $570 million of net outflows on Tuesday, The Block reported, bringing November's total close to $5 billion. The figure could not be checked against a second flow tracker this morning.",
+   "Separately, miner CleanSpark reported a net loss of $987 million for its fiscal year to September, The Block reported, with about two thirds of that from the falling value of its bitcoin. Its chief financial officer said on Tuesday's earnings call that the company may sell slightly more bitcoin than it mines each quarter to reduce risk, according to Cointelegraph. It held about 13,500 bitcoin at the end of September.",
+   "On Tuesday, Decrypt, citing Glassnode, reported that a close below $58,500 could open a path towards bitcoin's realised price near $53,200.",
+   "Attention now turns to US PCE inflation and third-quarter growth figures at 13:30 UK, the last major data before US markets close on Thursday for Thanksgiving. Zcash was steady, with ZEC near $736."
   ]
  },
- "headline": "Bitcoin ended the US session near $59,870, still below $60,000, as the Nasdaq fell 1.5% on tariff and AI worries. Glassnode says losses are the heaviest since FTX; ZEC steadied near $732.",
- "spoken": "Cryptonaire Post, evening edition. US tech stocks fell today, with the Nasdaq down one and a half percent as Nvidia slipped and Anthropic closed below its listing price, amid talk of new US tariffs. Bitcoin is near fifty-nine thousand, nine hundred dollars, a touch up on this afternoon but still below sixty thousand. Glassnode says losses being taken on bitcoin are the heaviest since the FTX collapse, and it is watching fifty-eight thousand, five hundred dollars. Zcash steadied at around seven hundred and thirty dollars. Tomorrow at half past one UK time brings US inflation and growth data. The next red event is the Fed decision on the ninth of December at seven in the evening. Information only, not advice.",
+ "headline": "Bitcoin dipped below $59,000 overnight as ETFs lost another $570 million on Tuesday and miner CleanSpark said it may sell more than it mines. US inflation data lands at 13:30 UK.",
+ "spoken": "Cryptonaire Post, morning edition. Bitcoin drifted lower overnight and is just under fifty-nine thousand dollars, after touching about fifty-eight thousand, eight hundred and sixty. US bitcoin funds lost another five hundred and seventy million dollars on Tuesday, taking this month's outflows close to five billion. The miner CleanSpark reported a big annual loss and said it may sell a little more bitcoin than it mines. Zcash is steady at around seven hundred and thirty-five dollars. At half past one UK time today comes US inflation and growth data. The next red event is the Fed decision on the ninth of December at seven in the evening. Information only, not advice.",
  "stories": [
   {
-   "section": "Markets",
+   "section": "BTC",
    "impact": "🟠",
    "confidence": "High",
-   "date": "2026-11-24",
-   "status": "New",
-   "title": "Nasdaq falls 1.5% as Nvidia and Anthropic slide on tariff and AI worries",
-   "why": "The Nasdaq closed at 23,733, down 1.5%, and the S&P 500 fell 0.5%, while the Dow rose 0.9% on a retail rally, Kiplinger reported. Nvidia lost 5.9% and Anthropic 6.5%, ending below its $83 IPO price. Reports that the US may unveil new tariffs this week weighed on sentiment, Cointelegraph reported, and Decrypt said bitcoin's link to the Nasdaq 100 is at its tightest since 2022.",
+   "date": "2026-11-25",
+   "status": "Developing",
+   "title": "Bitcoin slips under $59,000 in Asian trading",
+   "why": "Kraken showed bitcoin near $58,970 at 06:30 UK, down from about $59,870 last night, after an overnight low near $58,860. The new evidence is that the slide resumed while the US slept, bringing price within about $400 of the $58,500 level Glassnode flagged, Decrypt reported on Tuesday.",
    "note": {
     "horizon": "swing",
-    "read": "Bitcoin is trading as a high-risk tech asset: when AI stocks wobble, it struggles too.",
-    "alt": "Bitcoin's weakness may still be mainly its own ETF outflows, with the tech slide a coincidence.",
-    "change": "Bitcoin rising on a day the Nasdaq falls would suggest the link is loosening."
+    "read": "Steady drift lower with no single trigger looks like continued thin demand rather than a fresh shock.",
+    "alt": "Quiet holiday-week trading can exaggerate small moves; it may simply recover with the US open.",
+    "change": "A daily close below $58,500 would strengthen the bearish read; a return above $60,000 would weaken it."
    },
    "sources": [
     {
-     "name": "Kiplinger",
-     "url": "https://www.kiplinger.com/investing/stocks/dow-brushes-off-tech-rout-tariff-worries-stock-market-today"
-    },
-    {
-     "name": "Cointelegraph",
-     "url": "https://cointelegraph.com/markets/bitcoin-slides-us-tariff-nerves-anthropic-falls-ipo-price"
+     "name": "Kraken",
+     "url": "https://www.kraken.com/prices/bitcoin"
     },
     {
      "name": "Decrypt",
-     "url": "https://decrypt.co/383898/wall-street-crypto-extreme-whats-spooking-investors"
+     "url": "https://decrypt.co/383909/bitcoin-losses-worst-since-ftx-is-bottom-near"
+    }
+   ]
+  },
+  {
+   "section": "ETFs",
+   "impact": "🟠",
+   "confidence": "Medium",
+   "date": "2026-11-25",
+   "status": "Developing",
+   "title": "ETFs lose another $570 million; November outflows near $5 billion",
+   "why": "US spot bitcoin ETFs saw $570 million of net outflows on Tuesday, The Block reported, bringing the month close to $5 billion. That answers last night's question: outflows did continue, and November is on course to be the worst month for the funds since they launched.",
+   "caveat": "A single outlet's figure; Farside could not be read this morning to confirm it.",
+   "note": {
+    "horizon": "swing",
+    "read": "Persistent fund selling remains the main weight on price.",
+    "alt": "Some outflows may be year-end rebalancing or basis-trade unwinds rather than lost conviction.",
+    "change": "A run of inflow days would signal demand returning."
+   },
+   "sources": [
+    {
+     "name": "The Block",
+     "url": "https://www.theblock.co/newsletters/the-daily/2026-11-25-bitcoin-ether-cftc-staff-nod-ethereum-foundation-doubles-security-team-more-crypto-news-446074"
     }
    ]
   },
@@ -59,23 +77,24 @@
    "impact": "🟠",
    "confidence": "High",
    "date": "2026-11-24",
-   "status": "Developing",
-   "title": "Bitcoin holds just under $60,000; Glassnode says losses worst since FTX",
-   "why": "Kraken showed bitcoin near $59,870 at 21:40 UK, up from about $59,470 at the afternoon edition, after a low near $59,200. The new evidence is on-chain: Decrypt, citing Glassnode, reported realised losses relative to inflows are the highest since November 2022, and that a close below $58,500 could open a path to the $53,200 realised price.",
+   "status": "New",
+   "title": "CleanSpark posts $987 million loss and may sell more bitcoin than it mines",
+   "why": "CleanSpark reported a $987 million net loss for the year to September, about two thirds from bitcoin revaluation, and mined 7,253 BTC, down 8%, The Block reported. Its CFO said it may sell slightly more than it mines each quarter; it sold 2,102 BTC against 1,708 mined last quarter, Cointelegraph reported. It holds about 13,500 BTC.",
+   "caveat": "The outlets value its holdings slightly differently, at $806 million and $812 million.",
    "note": {
-    "horizon": "swing",
-    "read": "Heavy loss-taking shows sellers capitulating; in past cycles that has come near, but not always at, a low.",
-    "alt": "Losses can stay heavy for weeks if demand keeps draining, as in 2022.",
-    "change": "A daily close under $58,500, or a recovery above $60,000 with ETF inflows, would shift the read."
+    "horizon": "longer",
+    "read": "Miners under margin pressure becoming net sellers adds modest supply in a weak market.",
+    "alt": "The amounts are small next to daily ETF flows, and the shift may be about funding its AI data centre build.",
+    "change": "Other large miners announcing similar treasury sales would make this a trend."
    },
    "sources": [
     {
-     "name": "Decrypt",
-     "url": "https://decrypt.co/383909/bitcoin-losses-worst-since-ftx-is-bottom-near"
+     "name": "The Block",
+     "url": "https://www.theblock.co/news/business/2026-11-24-bitcoin-miner-cleanspark-swings-987-million-annual-loss-btc-production-declines-446061"
     },
     {
-     "name": "Kraken",
-     "url": "https://www.kraken.com/prices/bitcoin"
+     "name": "Cointelegraph",
+     "url": "https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books"
     }
    ]
   },
@@ -83,99 +102,86 @@
    "section": "Macro",
    "impact": "🟠",
    "confidence": "High",
-   "date": "2026-11-24",
-   "status": "Developing",
-   "title": "Markets still price a December Fed rate rise",
-   "why": "CME FedWatch showed about 98% odds of a rate rise at the 9 December meeting and 66% odds of another in January, Decrypt reported. 21Shares warned a larger-than-expected rise could prolong bitcoin's downturn, which puts Wednesday's PCE inflation figure in focus.",
+   "date": "2026-11-25",
+   "status": "No material change",
+   "title": "US PCE inflation and GDP due at 13:30 UK",
+   "why": "Nothing new overnight on rates: CME FedWatch still showed near-certain odds of a December Fed rate rise as of Tuesday, Decrypt reported. Today's PCE figure, the Fed's preferred inflation gauge, is the last big data point before Thanksgiving.",
    "sources": [
     {
      "name": "Decrypt",
      "url": "https://decrypt.co/383898/wall-street-crypto-extreme-whats-spooking-investors"
-    },
-    {
-     "name": "Cointelegraph",
-     "url": "https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares"
     }
    ]
   },
   {
-   "section": "BTC",
+   "section": "Policy",
    "impact": "🟢",
    "confidence": "Medium",
-   "date": "2026-11-24",
+   "date": "2026-11-25",
    "status": "New",
-   "title": "21Shares: weak demand, not the Binance hack, drove most of the fall",
-   "why": "A 21Shares report said liquidations reached $5.8 billion in the week to 15 November, 81% of them long bets, and stablecoin supply shrank by $10.7 billion, Cointelegraph reported. It named $73,000 to $75,500 with ETF inflows as the sign demand had returned.",
+   "title": "CFTC staff let derivatives venues count bitcoin and ether towards expense buffers",
+   "why": "CFTC staff said bitcoin, ether and payment stablecoins can count, after a haircut, towards the year of operating expenses that exchanges and clearing houses must hold, The Block reported. A small step that treats crypto more like a mainstream asset, with no new legal obligations.",
    "sources": [
     {
-     "name": "Cointelegraph",
-     "url": "https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares"
-    },
-    {
-     "name": "21Shares",
-     "url": "https://www.21shares.com/en-us/research/bitcoin-where-things-stand-and-what-to-monitor"
+     "name": "The Block",
+     "url": "https://www.theblock.co/newsletters/the-daily/2026-11-25-bitcoin-ether-cftc-staff-nod-ethereum-foundation-doubles-security-team-more-crypto-news-446074"
     }
    ]
   },
   {
    "section": "ZEC",
    "impact": "🟢",
-   "confidence": "Medium",
-   "date": "2026-11-24",
-   "status": "Developing",
-   "title": "ZEC steadies near $732 as NU7.1 governance polls run",
-   "why": "Kraken showed ZEC near $732 at 21:40 UK, up from about $712 at the afternoon edition, after a low near $704. A Zcash forum post introducing a new governance portal said most NU7.1 poll questions cover Zcash Community Grants funding, plus one on block timing; coinholder and ZCAP polls close on 1 December at 02:59 UK.",
+   "confidence": "High",
+   "date": "2026-11-25",
+   "status": "No material change",
+   "title": "ZEC steady near $736 overnight",
+   "why": "Kraken showed ZEC near $736 at 06:30 UK, little changed from about $732 last night, holding up better than bitcoin. No new Zcash network or listing news overnight; the NU7.1 governance polls run until 1 December.",
    "sources": [
     {
      "name": "Kraken",
      "url": "https://www.kraken.com/prices/zcash"
-    },
-    {
-     "name": "Zcash Community Forum",
-     "url": "https://forum.zcashcommunity.com/t/introducing-the-zcash-governance-portal/59602"
     }
    ]
   },
   {
-   "section": "Protocol",
+   "section": "Markets",
    "impact": "🟢",
-   "confidence": "High",
+   "confidence": "Medium",
    "date": "2026-11-24",
    "status": "New",
-   "title": "Bitcoin Core 31.3 and 30.5 maintenance releases published",
-   "why": "Bitcoin Core posted maintenance releases 31.3 and 30.5 on GitHub. Routine updates for node operators, not a market mover.",
+   "title": "Trump says a pardon for Nvidia's Huang is possible but unnecessary",
+   "why": "Trump told the New York Post a pardon for Jensen Huang was 'always an option' but not needed, CoinDesk reported, amid cross-party concern over Huang's reinstatement as Nvidia chief. Huang faces congressional hearings next week, keeping a cloud over Nvidia, which bitcoin has been trading closely with.",
    "sources": [
     {
-     "name": "Bitcoin Core (GitHub)",
-     "url": "https://github.com/bitcoin/bitcoin/releases/tag/v31.3"
+     "name": "CoinDesk",
+     "url": "https://www.coindesk.com/policy/2026/11/24/trump-says-he-s-willing-to-give-nvidia-s-huang-a-pardon-doesn-t-think-he-needs-one"
     }
    ]
   }
  ],
  "explained": {
-  "title": "What bitcoin's realised price is",
+  "title": "Why miners sell bitcoin",
   "body": [
-   "The realised price is the average price at which every bitcoin last moved on the blockchain, a rough guide to what holders paid. Glassnode puts it near $53,200 today.",
-   "When the market price falls towards it, the average holder is close to breaking even, which is why analysts watch it as a level where selling has often eased in past downturns, though it has broken below it before."
+   "Miners earn new bitcoin but pay their electricity, staff and debts in dollars, so most sell some of what they mine. When the price falls, each coin covers less of those costs, and some sell more, dipping into coins they had saved.",
+   "A miner selling more than it mines turns from a holder into a net seller. For one firm the amounts are small, but if many do it at once it adds steady supply to the market."
   ]
  },
  "investigating": [
-  "Did ETF outflows continue on Tuesday? Evidence: Farside or The Block flow figures on Wednesday morning UK.",
-  "Will the US announce new tariffs this week? Evidence: a USTR statement or Wall Street Journal follow-up."
+  "Was Tuesday's $570 million ETF outflow figure accurate? Evidence: Farside or issuer data later today.",
+  "Will the US announce new tariffs this week, as reported on Tuesday? Evidence: a USTR statement or Wall Street Journal follow-up.",
+  "Farside's flow page could not be read this morning, so ETF figures rest on a single outlet."
  ],
- "corrections": [
-  "The afternoon edition of 24 November said US stocks rallied on Tuesday. In fact the Nasdaq closed 1.5% lower and the S&P 500 0.5% lower; only the Dow rose. Bitcoin was falling with tech, not against a rally."
- ],
+ "corrections": [],
  "ahead": [
-  {
-   "when": "Wed 25 Nov morning UK",
-   "impact": "🟢",
-   "what": "Tuesday's US spot bitcoin ETF flows"
-  },
   {
    "when": "Wed 25 Nov 13:30 UK",
    "impact": "🟠",
    "what": "US PCE inflation (October), Q3 GDP second estimate, durable goods and jobless claims"
+  },
+  {
+   "when": "Wed 25 Nov evening UK",
+   "impact": "🟢",
+   "what": "Wednesday's US spot bitcoin ETF flows"
   },
   {
    "when": "Thu 26 Nov",
@@ -198,5 +204,5 @@
    "what": "Fed rate decision and projections"
   }
  ],
- "id": "2026-11-24-2135"
+ "id": "2026-11-25-0635"
 }
