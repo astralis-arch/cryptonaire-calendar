@@ -1,5 +1,65 @@
 [
 {
+"id": "4355b7984f8eb0f9",
+"title": "What Is Artex? The AI Hacking Tool Linked to the US Spy Agency Breach",
+"link": "https://decrypt.co/383997/what-is-artex-ai-hacking-tool-us-spy-agency-breach",
+"published": "2026-11-25T20:06:03Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-25T20:07:10Z"
+},
+{
+"id": "f0784a636c3b35c0",
+"title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+"link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
+"published": "2026-11-25T20:00:00Z",
+"source": "Federal Reserve (press)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-25T20:07:10Z"
+},
+{
+"id": "7486b0f51365d676",
+"title": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+"link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125a.htm",
+"published": "2026-11-25T20:00:00Z",
+"source": "Federal Reserve (press)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-25T20:07:10Z"
+},
+{
+"id": "97306355d9e7522e",
+"title": "Ladale (Lowo) for ZCG, December 2026",
+"link": "https://forum.zcashcommunity.com/t/ladale-lowo-for-zcg-december-2026/59658",
+"published": "2026-11-25T19:57:40Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-25T20:07:10Z"
+},
+{
+"id": "5a5b6a070cf8e413",
+"title": "Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor",
+"link": "https://bitcoinmagazine.com/news/strategic-bitcoin-reserve-bill-house-floor",
+"published": "2026-11-25T19:50:00Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-25T20:07:10Z"
+},
+{
+"id": "676a93d5845b1c5d",
+"title": "Bitcoin miners hit by hashrate hijacking attack exploiting unencrypted connections",
+"link": "https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723",
+"published": "2026-11-25T19:37:10Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-25T20:07:10Z"
+},
+{
 "id": "b3f8cc0c2a8b06a3",
 "title": "Fidelity files for spot Chainlink ETF with planned Nasdaq listing",
 "link": "https://www.theblock.co/news/business/2026-11-25-fidelity-chainlink-etf-nasdaq-listing-446735",
@@ -5440,44 +5500,14 @@
 "first_seen": "2026-11-18T20:37:09Z"
 },
 {
-"id": "6fc6bf265e3b5aff",
-"title": "Why CoinShares Just Sold All Its Ethereum and Half Its Solana",
-"link": "https://decrypt.co/383570/why-coinshares-just-sold-all-ethereum-half-solana",
-"published": "2026-11-18T19:46:02Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-18T20:07:09Z"
-},
-{
-"id": "ac4a3b8ddf611021",
-"title": "Binance obtains $6.5 billion freezing order from Abu Dhabi court in bid to recover stolen crypto",
-"link": "https://www.theblock.co/news/business/2026-11-18-binance-freezing-court-order-adgm-crypto-october-hack-443491",
-"published": "2026-11-18T19:40:25Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-18T20:07:09Z"
-},
-{
-"id": "f3cc603526087d52",
-"title": "Seeing Clearly podcast sponsorship: four-episode pilot",
-"link": "https://forum.zcashcommunity.com/t/seeing-clearly-podcast-sponsorship-four-episode-pilot/59445",
-"published": "2026-11-18T19:32:13Z",
-"source": "Zcash Community Forum",
-"desk": "ZEC",
-"kind": "community",
-"first_seen": "2026-11-18T19:37:10Z"
-},
-{
-"id": "d3a6eeea66c8d193",
-"title": "Scattered Spider Hacker Gets Six Years for $11.6 Million Crypto Theft",
-"link": "https://bitcoinmagazine.com/news/scattered-spider-hacker-six-years-crypto-theft",
-"published": "2026-11-18T19:30:00Z",
-"source": "Bitcoin Magazine",
-"desk": "BTC",
-"kind": "news",
-"first_seen": "2026-11-18T19:37:10Z"
+"id": "dbea10a75a84833c",
+"title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+"link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+"published": "2026-11-18T19:00:00Z",
+"source": "Federal Reserve (press)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-25T20:07:10Z"
 },
 {
 "id": "8a3dc2d04dd62c08",
