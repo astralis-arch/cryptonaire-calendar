@@ -1,5 +1,35 @@
 [
 {
+"id": "bc12c1108f13b87c",
+"title": "UK financial watchdogs clarify cyber expectations as attacks rise",
+"link": "https://www.fca.org.uk/news/press-releases/uk-financial-watchdogs-clarify-cyber-expectations-attacks-rise",
+"published": null,
+"source": "FCA",
+"desk": "UK",
+"kind": "official",
+"first_seen": "2026-11-26T09:07:16Z"
+},
+{
+"id": "6d95215986a7ca0b",
+"title": "Happy Thanksgiving! 2026",
+"link": "https://forum.zcashcommunity.com/t/happy-thanksgiving-2026/59668",
+"published": "2026-11-26T08:59:26Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-26T09:07:16Z"
+},
+{
+"id": "a72d57d42f381a23",
+"title": "Spot bitcoin ETFs on track for worst month on record as bear market drags on",
+"link": "https://www.theblock.co/news/markets/2026-11-26-spot-bitcoin-etfs-worst-month-november-446814",
+"published": "2026-11-26T08:50:46Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-26T09:07:16Z"
+},
+{
 "id": "fb5d034316c10b81",
 "title": "$7 billion of bitcoin options expire Friday, and the biggest bets look starkly different from October",
 "link": "https://www.coindesk.com/markets/2026/11/26/usd7-billion-of-bitcoin-options-expire-friday-and-the-biggest-bets-look-starkly-different-from-october",
@@ -5388,46 +5418,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-19T10:37:10Z"
-},
-{
-"id": "d078f9acca2d56fa",
-"title": "Singapore settles $77.5M tokenized bill sale with wholesale CBDC",
-"link": "https://cointelegraph.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-19T08:54:58Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T09:07:12Z"
-},
-{
-"id": "d6a0e3515440f8c4",
-"title": "Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B",
-"link": "https://cointelegraph.com/markets/bitcoin-etf-assets-three-month-low-78-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-19T08:26:19Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T08:37:10Z"
-},
-{
-"id": "467fb5e15e290b54",
-"title": "Singapore’s MAS issues $77 million in tokenized bills settled via CBDC",
-"link": "https://www.theblock.co/news/web3/2026-11-19-singapores-mas-tokenized-bills-443562",
-"published": "2026-11-19T08:25:35Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T08:37:10Z"
-},
-{
-"id": "68ecb444beaf5d5e",
-"title": "BTCPay Server issues emergency update for 5 security flaws",
-"link": "https://cointelegraph.com/news/btcpay-server-emergency-update-nginx-security-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-19T08:04:37Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T08:37:10Z"
 },
 {
 "id": "2d9adea4acffddf4",
