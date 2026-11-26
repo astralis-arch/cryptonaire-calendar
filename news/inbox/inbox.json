@@ -1,5 +1,25 @@
 [
 {
+"id": "40530f5285d32cd4",
+"title": "Grant Application: SEZS - Speak-ez Sessions",
+"link": "https://forum.zcashcommunity.com/t/grant-application-sezs-speak-ez-sessions/59665",
+"published": "2026-11-26T06:05:25Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-26T06:07:17Z"
+},
+{
+"id": "412993cfcb95539f",
+"title": "UK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report",
+"link": "https://cointelegraph.com/news/uk-fca-defi-regulation-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-26T05:53:08Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-26T06:07:17Z"
+},
+{
 "id": "f784cd182bdd3281",
 "title": "Ripple is worth $90 a share to one fund and $300 to another, SEC filings show",
 "link": "https://www.coindesk.com/markets/2026/11/26/ripple-is-worth-usd90-a-share-to-one-fund-and-usd300-to-another-sec-filings-show",
@@ -5398,66 +5418,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-19T06:37:09Z"
-},
-{
-"id": "6b69083ab7e1033c",
-"title": "Sygnum sees bitcoin carry trades beating Treasury bills in 2027 as funding recovers",
-"link": "https://www.theblock.co/news/markets/2026-11-19-sygnum-bitcoin-carry-trades-beating-treasury-bills-2027-443547",
-"published": "2026-11-19T06:00:00Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T06:07:09Z"
-},
-{
-"id": "bc3fde8f1d7e0548",
-"title": "Binance gets $6.5 billion freezing order, CryptoQuant says bitcoin is in a ‘value zone’, and more",
-"link": "https://www.theblock.co/newsletters/the-daily/2026-11-19-binance-gets-6-5-billion-freezing-order-cryptoquant-says-bitcoin-is-in-a-value-zone-and-more-443511",
-"published": "2026-11-19T06:00:00Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T06:07:09Z"
-},
-{
-"id": "a7f65d75350a4355",
-"title": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts",
-"link": "https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-19T06:00:00Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T06:07:09Z"
-},
-{
-"id": "e8ce5b6ae0a6dccc",
-"title": "Ethereum block builders received the most in a $3.4 million vault hack, data shows",
-"link": "https://www.coindesk.com/tech/2026/11/19/ethereum-block-builders-received-the-most-in-a-usd3-4-million-vault-hack-data-shows",
-"published": "2026-11-19T05:39:06Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T06:07:09Z"
-},
-{
-"id": "888084d3fff67e4e",
-"title": "Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight",
-"link": "https://cointelegraph.com/news/us-senators-genius-act-rules-favor-federal-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-19T05:27:45Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T05:37:10Z"
-},
-{
-"id": "caeb7623aebf27b3",
-"title": "Binance hackers stole 192 tokens across 11 networks, court docs show",
-"link": "https://cointelegraph.com/news/binance-hackers-stole-192-tokens-across-11-networks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-19T05:09:45Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T05:37:10Z"
 },
 {
 "id": "cf2fd5feb2beb341",
