@@ -1,5 +1,15 @@
 [
 {
+"id": "d3c6e946e02ea19d",
+"title": "What Is Self-Custody? How to Hold Your Own Crypto Keys",
+"link": "https://decrypt.co/resources/what-is-self-custody-how-to-hold-your-own-crypto-keys",
+"published": "2026-11-26T21:01:03Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-26T21:07:09Z"
+},
+{
 "id": "9161092f585744e2",
 "title": "Japan weighs tighter oversight of DeFi, self-custodial wallets",
 "link": "https://cointelegraph.com/news/japan-tighter-oversight-defi-self-custodial-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -5250,26 +5260,6 @@
 "first_seen": "2026-11-19T21:07:10Z"
 },
 {
-"id": "6936c9088da1164a",
-"title": "Kalshi’s Quintenz says insider trading is ‘just easier to see’ in prediction markets than stocks",
-"link": "https://www.theblock.co/news/markets/2026-11-19-kalshi-quintenz-insider-trading-prediction-markets-stocks-444133",
-"published": "2026-11-19T20:20:59Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T20:37:11Z"
-},
-{
-"id": "4d80b20a3c0c53da",
-"title": "Hackers Leak Visa, Mastercard and JPMorgan Customer Data",
-"link": "https://decrypt.co/383663/hackers-leak-visa-mastercard-jpmorgan-data",
-"published": "2026-11-19T20:15:32Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T20:37:11Z"
-},
-{
 "id": "9ca0e73a85b778fc",
 "title": "Darius Dale: 2027 Should Be a “Great Year for Bitcoin” as Fed Rate Cuts Come",
 "link": "https://bitcoinmagazine.com/videos/darius-dale-2027-should-be-a-great-year-for-bitcoin-as-fed-rate-cuts-come",
@@ -5278,26 +5268,6 @@
 "desk": "BTC",
 "kind": "news",
 "first_seen": "2026-11-19T21:37:10Z"
-},
-{
-"id": "c601755bad47d16e",
-"title": "Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading",
-"link": "https://cointelegraph.com/news/sec-nominees-johnson-levine-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-19T20:06:34Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T20:37:11Z"
-},
-{
-"id": "c9fe30e1bb99b190",
-"title": "Bitcoin’s Last Line of Defense Is $58K",
-"link": "https://bitcoinmagazine.com/videos/bitcoins-last-line-of-defense-is-58k",
-"published": "2026-11-19T19:12:55Z",
-"source": "Bitcoin Magazine",
-"desk": "BTC",
-"kind": "news",
-"first_seen": "2026-11-19T20:37:11Z"
 },
 {
 "id": "241d9c35f2a8e1cf",
