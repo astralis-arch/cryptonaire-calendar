@@ -1,5 +1,25 @@
 [
 {
+"id": "719568056a2ea4be",
+"title": "Spain moves to grant financial watchdog power to freeze crypto accounts",
+"link": "https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-26T18:26:31Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-26T18:37:09Z"
+},
+{
+"id": "48e81f6caab228d3",
+"title": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery",
+"link": "https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery",
+"published": "2026-11-26T18:15:29Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-26T18:37:09Z"
+},
+{
 "id": "66d9661fb4b2e47f",
 "title": "Crypto on notice as hawkish Fed risks December ‘meltdown’",
 "link": "https://cointelegraph.com/markets/crypto-hawkish-fed-risks-december-meltdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -8,6 +28,16 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-26T18:07:09Z"
+},
+{
+"id": "b064c2b2c510bc2a",
+"title": "Tokenized Anthropic Holders Doubled in 3 Days",
+"link": "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-26-tokenized-anthropic-holders-doubled-in-3-days-446013",
+"published": "2026-11-26T17:32:00Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-26T18:37:09Z"
 },
 {
 "id": "7c4c0f4cf79f40d3",
@@ -5318,36 +5348,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-19T18:37:11Z"
-},
-{
-"id": "278b83ba08f0209a",
-"title": "CFTC Chair Selig outlines how Hyperliquid and other onchain venues could enter the US",
-"link": "https://www.theblock.co/news/regulation/2026-11-19-cftc-chair-selig-hyperliquid-onchain-venues-the-us-444106",
-"published": "2026-11-19T18:04:15Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T18:07:18Z"
-},
-{
-"id": "cc8f5f19e8f95c69",
-"title": "Protesters Arrested Outside Nasdaq as Activists Oppose Anthropic IPO Over AI Bubble Risks",
-"link": "https://decrypt.co/383642/protesters-arrested-nasdaq-anthropic-ipo-ai-bubble-risks",
-"published": "2026-11-19T17:55:38Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T18:07:18Z"
-},
-{
-"id": "8a0df87030c60612",
-"title": "Swiss Bank Sygnum Says Bitcoin Could Reach New High Near $128,000",
-"link": "https://bitcoinmagazine.com/markets/sygnum-bitcoin-new-high-128000",
-"published": "2026-11-19T17:45:00Z",
-"source": "Bitcoin Magazine",
-"desk": "BTC",
-"kind": "news",
-"first_seen": "2026-11-19T18:07:18Z"
 },
 {
 "id": "241d9c35f2a8e1cf",
