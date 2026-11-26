@@ -1,5 +1,55 @@
 [
 {
+"id": "f01fe271c65428b7",
+"title": "Engineering-first guide to building private applications, wallets, and zero-knowledge infra on Zcash",
+"link": "https://forum.zcashcommunity.com/t/engineering-first-guide-to-building-private-applications-wallets-and-zero-knowledge-infra-on-zcash/59673",
+"published": "2026-11-26T11:03:31Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-26T11:07:09Z"
+},
+{
+"id": "5a92f3828ec8bb4e",
+"title": "Riemann is solved. Zcash adapts",
+"link": "https://forum.zcashcommunity.com/t/riemann-is-solved-zcash-adapts/59672",
+"published": "2026-11-26T11:02:10Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-26T11:07:09Z"
+},
+{
+"id": "1242c31866980b5d",
+"title": "Zunker Post: building mailbox servers for Wallet-to-Wallet Messaging (ZIP draft #1435)",
+"link": "https://forum.zcashcommunity.com/t/zunker-post-building-mailbox-servers-for-wallet-to-wallet-messaging-zip-draft-1435/59671",
+"published": "2026-11-26T10:59:05Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-26T11:07:09Z"
+},
+{
+"id": "4fae0ccc95f80e88",
+"title": "Nvidia shipment freeze and U.S. chip curbs put AI stocks under pressure",
+"link": "https://www.coindesk.com/markets/2026/11/26/nvidia-shipment-freeze-and-u-s-chip-curbs-put-ai-stocks-under-pressure",
+"published": "2026-11-26T10:56:08Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-26T11:07:09Z"
+},
+{
+"id": "deee04713ab5ec7e",
+"title": "New York Attorney General wins $1.4 billion ruling against founders of crypto trading firm NovaTech",
+"link": "https://www.coindesk.com/policy/2026/11/26/new-york-attorney-general-wins-usd1-4-billion-ruling-against-founders-of-crypto-trading-firm-novatech",
+"published": "2026-11-26T10:40:33Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-26T11:07:09Z"
+},
+{
 "id": "e6520a247e2b33f9",
 "title": "Financial Policy Committee Record – November 2026",
 "link": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/november-2026",
