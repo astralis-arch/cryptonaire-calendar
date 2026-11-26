@@ -1,5 +1,25 @@
 [
 {
+"id": "7c4c0f4cf79f40d3",
+"title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
+"link": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
+"published": "2026-11-26T17:30:00Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-26T17:37:09Z"
+},
+{
+"id": "a06f75fc581cdfcb",
+"title": "Notes for Zcash developers from building Zignal: mainnet crowd numbers, the light server's clock, Tor coverage",
+"link": "https://forum.zcashcommunity.com/t/notes-for-zcash-developers-from-building-zignal-mainnet-crowd-numbers-the-light-servers-clock-tor-coverage/59694",
+"published": "2026-11-26T17:17:50Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-26T17:37:09Z"
+},
+{
 "id": "ed835f1611834668",
 "title": "Qibly — Zcash Community Commerce & Adoption Pilot ($20,000 Grant Proposal)",
 "link": "https://forum.zcashcommunity.com/t/qibly-zcash-community-commerce-adoption-pilot-20-000-grant-proposal/59692",
@@ -38,6 +58,16 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-26T17:07:10Z"
+},
+{
+"id": "a30b05d11c9aa7ce",
+"title": "The Agentic Economy Is WAY Bigger Than You Think | Xen Baynham-Herd",
+"link": "https://bitcoinmagazine.com/videos/the-agentic-economy-is-way-bigger-than-you-think-xen-baynham-herd",
+"published": "2026-11-26T16:30:12Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-26T17:37:09Z"
 },
 {
 "id": "bc03be175dca72c8",
@@ -5330,36 +5360,6 @@
 "first_seen": "2026-11-19T17:37:09Z"
 },
 {
-"id": "c1912459c51b6dff",
-"title": "Anthropic opens for trade at $111.50, up 34% from IPO price",
-"link": "https://www.coindesk.com/markets/2026/11/19/anthropic-opens-for-trade-at-usd11-50-up-34-from-ipo-price",
-"published": "2026-11-19T17:01:47Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T17:07:10Z"
-},
-{
-"id": "ea40a178ab2ae70c",
-"title": "Anthropic Stock Opens 33% Above IPO Price as AI Stocks Rally",
-"link": "https://decrypt.co/383631/anthropic-stock-indicated-open-33-above-ipo-price",
-"published": "2026-11-19T16:55:10Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T17:07:10Z"
-},
-{
-"id": "2cafd2310de2bfd3",
-"title": "CLARITY Act Likely Dead Until 2027, Top Crypto Lawmakers Warn",
-"link": "https://bitcoinmagazine.com/news/french-hill-clarity-act-unlikely-before",
-"published": "2026-11-19T16:45:18Z",
-"source": "Bitcoin Magazine",
-"desk": "BTC",
-"kind": "news",
-"first_seen": "2026-11-19T17:07:10Z"
-},
-{
 "id": "241d9c35f2a8e1cf",
 "title": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
 "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm",
@@ -5388,16 +5388,6 @@
 "desk": "ZEC",
 "kind": "official",
 "first_seen": "2026-11-26T16:07:17Z"
-},
-{
-"id": "3a68823c8daed0c3",
-"title": "SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors",
-"link": "https://www.sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors",
-"published": "2026-11-19T14:39:02Z",
-"source": "SEC (press)",
-"desk": "Policy",
-"kind": "official",
-"first_seen": "2026-11-19T17:07:10Z"
 },
 {
 "id": "c8279dbe23763a7a",
