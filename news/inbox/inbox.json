@@ -1,5 +1,15 @@
 [
 {
+"id": "fb5d034316c10b81",
+"title": "$7 billion of bitcoin options expire Friday, and the biggest bets look starkly different from October",
+"link": "https://www.coindesk.com/markets/2026/11/26/usd7-billion-of-bitcoin-options-expire-friday-and-the-biggest-bets-look-starkly-different-from-october",
+"published": "2026-11-26T08:01:33Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-26T08:07:09Z"
+},
+{
 "id": "325f2640907b4442",
 "title": "Zcash developers want users to move $300 million out of an older privacy system",
 "link": "https://www.coindesk.com/tech/2026/11/26/zcash-developers-want-users-to-move-usd300-million-out-of-an-older-privacy-system",
@@ -448,6 +458,16 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-25T18:07:17Z"
+},
+{
+"id": "2b18d7f027ec521c",
+"title": "US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook",
+"link": "https://cointelegraph.com/markets/us-inflation-rises-december-fed-meeting-clouding-crypto-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-25T17:53:10Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-26T08:07:09Z"
 },
 {
 "id": "a1b2624b036cc780",
@@ -5428,16 +5448,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-19T08:07:11Z"
-},
-{
-"id": "2d9adea4acffddf4",
-"title": "Minutes of the Market Participants Group meeting – 18 November 2026",
-"link": "https://www.bankofengland.co.uk/minutes/2026/november/market-participants-group-meeting-18-november-2026",
-"published": "2026-11-19T07:30:00Z",
-"source": "Bank of England",
-"desk": "UK",
-"kind": "official",
-"first_seen": "2026-11-19T07:37:17Z"
 },
 {
 "id": "cf2fd5feb2beb341",
