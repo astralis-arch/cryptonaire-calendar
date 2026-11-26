@@ -1,0 +1,149 @@
+{
+  "generated": "2026-11-26T21:35:00Z",
+  "mood": "mixed",
+  "briefing": {
+    "developments": [
+      "Bitcoin edged up to about $60,870 on Kraken by 21:30 UK, roughly $490 above the afternoon edition and about 0.8% up on the UTC day, in thin Thanksgiving trade.",
+      "JPMorgan said Strategy's share price fell to a record low of about 0.88 times the value of its bitcoin, which it called a sign of capitulation, The Block reported.",
+      "Glassnode data showed 68.5% of bitcoin has not moved for at least a year, up from 62% in July, a pattern seen in past bear-market bottoming phases, CoinDesk reported."
+    ],
+    "changed": "Slightly calmer than the afternoon. Bitcoin and ZEC both recovered a little, with ZEC back near $721 from $698. The new evening stories are capitulation and long-term holding signals that read as possible bottoming, set against a death cross on the daily chart and warnings about a hawkish Fed.",
+    "question": "Do the capitulation signals matter more than the record ETF outflows when the $7 billion options expiry clears on Friday morning?",
+    "watch": "Monthly BTC options expiry on Deribit, Friday 27 November at 08:00 UK. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
+  },
+  "lead": {
+    "headline": "JPMorgan sees bitcoin capitulation as Strategy discount hits record",
+    "standfirst": "Shares in Strategy, the largest corporate bitcoin holder, briefly traded at a record discount to its bitcoin, which JPMorgan called a sign of capitulation, The Block reported.",
+    "body": [
+      "JPMorgan said on Wednesday that Strategy's premium to the value of its bitcoin had fallen to about 0.88 times, a record low and below the late-June trough, which it described as a sign of bitcoin capitulation, The Block reported.",
+      "Strategy's own dashboard showed the ratio at 0.88 on Wednesday morning in New York before it recovered to 0.94. JPMorgan also noted that BlackRock's IBIT fund kept losing money even during the brief price recovery, and put bitcoin's estimated production cost at about $86,000.",
+      "A separate on-chain reading pointed the same way. The share of bitcoin that has not moved for at least a year rose to 68.5%, from 62% in July, according to Glassnode data reported by CoinDesk. Similar rises came before past bear-market bottoms, though they gave little guide to timing.",
+      "Not every signal agreed. Bitcoin's 50-day average crossed below its 200-day average, a so-called death cross, Decrypt reported. Economist Robin Brooks warned of a possible 'meltdown' in risk assets before the Fed meets on 8 and 9 December, Cointelegraph reported, with FedWatch showing almost no chance of rates staying on hold.",
+      "Bitcoin traded near $60,870 on Kraken at 21:30 UK, up from about $60,380 at the afternoon edition, with US markets shut for Thanksgiving. Zcash recovered to near $721 from $698. About $7 billion of bitcoin options expire on Deribit at 08:00 UK on Friday."
+    ]
+  },
+  "headline": "JPMorgan called Strategy's record-low share discount a sign of bitcoin capitulation, while long-held supply rose to 68.5%. Bitcoin edged up to about $60,900 in holiday trade ahead of Friday's $7 billion options expiry.",
+  "spoken": "Cryptonaire Post, evening edition. A quiet, slightly firmer evening. Bitcoin is about sixty thousand, nine hundred dollars, up around five hundred since the afternoon, with US markets closed for Thanksgiving. JPMorgan says Strategy's shares traded at a record discount to its bitcoin, which it calls a sign of capitulation. On-chain data shows more coins sitting still for over a year, a pattern seen near past bottoms, though the daily chart has flashed a death cross. Zcash recovered to about seven hundred and twenty dollars. Seven billion dollars of bitcoin options expire at eight tomorrow morning. The next red event is the Fed decision on the ninth of December at seven in the evening. Information only, not advice.",
+  "stories": [
+    {
+      "section": "BTC",
+      "impact": "🟠",
+      "confidence": "High",
+      "date": "2026-11-26",
+      "status": "New",
+      "title": "JPMorgan: Strategy's record-low discount signals capitulation",
+      "why": "JPMorgan said Strategy's market value fell to about 0.88 times its bitcoin holdings, a record low below June's, which it called a sign of capitulation; Strategy's dashboard later showed 0.94, The Block reported. The bank also noted IBIT outflows during the rebound and a production cost estimate near $86,000.",
+      "note": {
+        "horizon": "swing",
+        "read": "When the biggest corporate buyer trades below its own bitcoin, the treasury-company bid that helped earlier rallies is weak, which often marks late-stage selling.",
+        "alt": "A discount can also reflect worries about Strategy's debt and share issuance rather than about bitcoin itself, and can persist.",
+        "change": "The ratio moving back above 1.0 alongside ETF inflows would support the capitulation read; a fresh low below 0.88 would point to more forced selling."
+      },
+      "sources": [
+        {"name": "The Block", "url": "https://www.theblock.co/news/markets/2026-11-26-jpmorgan-bitcoin-capitulation-strategy-low-nav-multiple-447007"}
+      ]
+    },
+    {
+      "section": "BTC",
+      "impact": "🟠",
+      "confidence": "Medium",
+      "date": "2026-11-26",
+      "status": "Developing",
+      "title": "Bitcoin edges up to $60,900 as death cross forms",
+      "why": "Kraken showed BTC near $60,870 at 21:30 UK, about $490 above the afternoon edition, with a UTC-day range of $59,850 to $61,530. Decrypt reported the 50-day average ($71,478) has crossed below the 200-day ($74,516). It stays above Galaxy's $58,525 trigger level from the afternoon edition.",
+      "caveat": "Thanksgiving volumes are thin, so small flows can move the price.",
+      "note": {
+        "horizon": "intraday",
+        "read": "A quiet holiday drift higher; the death cross is a lagging signal that confirms the fall from October rather than predicting the next move.",
+        "alt": "Thin markets can exaggerate moves either way, and Friday's expiry may set the tone more than today's trade.",
+        "change": "A daily close below $58,525 would revive the bearish case; a push above $62,000 after expiry would ease it."
+      },
+      "sources": [
+        {"name": "Decrypt", "url": "https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery"},
+        {"name": "Kraken", "url": "https://www.kraken.com/prices/bitcoin"}
+      ]
+    },
+    {
+      "section": "BTC",
+      "impact": "🟢",
+      "confidence": "Medium",
+      "date": "2026-11-26",
+      "status": "New",
+      "title": "Long-held bitcoin supply climbs to 68.5%",
+      "why": "The share of bitcoin unmoved for a year or more rose to 68.5% from 62% in July, per Glassnode data reported by CoinDesk. Similar rises came before past bear-market bottoms, though without a reliable guide to timing.",
+      "sources": [
+        {"name": "CoinDesk", "url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases"}
+      ]
+    },
+    {
+      "section": "Macro",
+      "impact": "🟠",
+      "confidence": "Medium",
+      "date": "2026-11-26",
+      "status": "Developing",
+      "title": "Fed blackout starts Saturday with a hike all but priced",
+      "why": "CME FedWatch gave only 0.5% odds of rates holding at 3.75% to 4% on 9 December, and economist Robin Brooks warned risk assets could face a 'meltdown' before the meeting if the Fed stays hawkish, Cointelegraph reported. Fed officials go quiet from 28 November, so there will be fewer speeches to shift expectations.",
+      "sources": [
+        {"name": "Cointelegraph", "url": "https://cointelegraph.com/markets/crypto-hawkish-fed-risks-december-meltdown"}
+      ]
+    },
+    {
+      "section": "ZEC",
+      "impact": "🟢",
+      "confidence": "High",
+      "date": "2026-11-26",
+      "status": "Developing",
+      "title": "ZEC recovers part of the afternoon drop",
+      "why": "Kraken showed ZEC near $721 at 21:30 UK, up from about $698 at the afternoon edition but still about 6% down on the UTC day from $770. No Zcash-specific trigger appeared in the inbox or Zcash forum this evening, which fits the afternoon's read of a leverage flush.",
+      "sources": [
+        {"name": "Kraken", "url": "https://www.kraken.com/prices/zcash"}
+      ]
+    },
+    {
+      "section": "Protocol",
+      "impact": "🟢",
+      "confidence": "Medium",
+      "date": "2026-11-26",
+      "status": "New",
+      "title": "Developer finds cheap trick that can expose a bitcoin node's IP",
+      "why": "Bitcoin Core contributor Abubakar Sadiq Ismail showed a payment costing under 35 cents can make a wallet's rebroadcast reveal the IP address of the node watching it, working 30 out of 30 times on a test network, CoinDesk reported. Bitcoin Core and wallets built on it are affected; a fix is proposed but unreleased. A privacy issue, not a risk to funds.",
+      "sources": [
+        {"name": "CoinDesk", "url": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds"}
+      ]
+    },
+    {
+      "section": "Policy",
+      "impact": "🟢",
+      "confidence": "Medium",
+      "date": "2026-11-26",
+      "status": "New",
+      "title": "Spain and Japan move to tighten crypto controls",
+      "why": "Spain's financial intelligence unit can now freeze crypto accounts for up to five working days without a court order, under a decree that takes effect in two months, Decrypt reported. Japan's FSA published a paper weighing curbs on DeFi access and self-custody wallet transfers, with findings due in early 2027, Cointelegraph reported. Neither affects UK holders directly.",
+      "sources": [
+        {"name": "Decrypt", "url": "https://decrypt.co/384063/spain-lets-its-financial-intelligence-unit-freeze-crypto-accounts-without-a-court-order"},
+        {"name": "Cointelegraph", "url": "https://cointelegraph.com/news/japan-tighter-oversight-defi-self-custodial-wallets"}
+      ]
+    }
+  ],
+  "explained": {
+    "title": "What a 'death cross' is",
+    "body": [
+      "A death cross is when a short-term moving average, usually the 50-day, falls below a long-term one, usually the 200-day. It shows that recent prices have been lower than the longer trend.",
+      "Because both lines are averages of past prices, the cross arrives well after a fall has started. Bitcoin is already about half its October 2025 high, so the signal mostly confirms what has happened rather than forecasting what comes next."
+    ]
+  },
+  "investigating": [
+    "Does the capitulation reading hold? Evidence: Strategy's ratio back above 1.0 and the first US ETF inflows, possibly from Friday's half-day session.",
+    "Will Friday's expiry pull bitcoin towards $60,000, where puts cluster? Evidence: the price around 08:00 UK and the hours after on Deribit.",
+    "Will the FCA confirm the reported DeFi plans? Evidence: an FCA statement; none was in the FCA feed this evening."
+  ],
+  "corrections": [],
+  "ahead": [
+    {"when": "Fri 27 Nov 08:00 UK", "impact": "🟠", "what": "Monthly BTC options and futures expiry ($7 billion BTC on Deribit)"},
+    {"when": "Fri 27 Nov 18:00 UK", "impact": "🟢", "what": "US markets early close"},
+    {"when": "Sat 28 Nov", "impact": "🟢", "what": "Fed pre-meeting blackout begins"},
+    {"when": "Tue 1 Dec 02:59 UK", "impact": "🟢", "what": "Zcash NU7.1 coinholder and ZCAP polls close"},
+    {"when": "Fri 4 Dec 13:30 UK", "impact": "🟠", "what": "US jobs report (November)"},
+    {"when": "Wed 9 Dec 19:00 UK", "impact": "🔴", "what": "Fed rate decision and projections"}
+  ]
+}

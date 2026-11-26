@@ -1,108 +1,89 @@
 {
- "generated": "2026-11-26T16:35:00Z",
- "mood": "risk-off",
+ "generated": "2026-11-26T21:35:00Z",
+ "mood": "mixed",
  "briefing": {
   "developments": [
-   "Galaxy Research withdrew its October call that bitcoin's bear market was over, warning that a daily close below $58,525 would point to a materially lower low, Decrypt reported.",
-   "ZEC fell about 8% since the morning edition to near $698 on Kraken, the weakest large coin today, with long liquidations driving a sharp drop around 14:50 UK, TokenPost reported.",
-   "US spot bitcoin ETF outflows for November reached $5.39 billion, already the worst month since the funds launched, The Block and CoinDesk reported."
+   "Bitcoin edged up to about $60,870 on Kraken by 21:30 UK, roughly $490 above the afternoon edition and about 0.8% up on the UTC day, in thin Thanksgiving trade.",
+   "JPMorgan said Strategy's share price fell to a record low of about 0.88 times the value of its bitcoin, which it called a sign of capitulation, The Block reported.",
+   "Glassnode data showed 68.5% of bitcoin has not moved for at least a year, up from 62% in July, a pattern seen in past bear-market bottoming phases, CoinDesk reported."
   ],
-  "changed": "Bitcoin is little changed at about $60,380, roughly $210 below the morning edition, in thin Thanksgiving trade. The picture darkened elsewhere: ZEC gave back its bounce, Galaxy dropped its bottom call, and Wednesday's US inflation data left markets pricing a near-certain Fed rate rise in December.",
-  "question": "Does bitcoin hold above Galaxy's $58,525 line through Friday's $7 billion options expiry, with put bets clustered at $60,000 and below?",
+  "changed": "Slightly calmer than the afternoon. Bitcoin and ZEC both recovered a little, with ZEC back near $721 from $698. The new evening stories are capitulation and long-term holding signals that read as possible bottoming, set against a death cross on the daily chart and warnings about a hawkish Fed.",
+  "question": "Do the capitulation signals matter more than the record ETF outflows when the $7 billion options expiry clears on Friday morning?",
   "watch": "Monthly BTC options expiry on Deribit, Friday 27 November at 08:00 UK. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
  },
  "lead": {
-  "headline": "Galaxy withdraws bitcoin bottom call as ETF exodus hits record",
-  "standfirst": "Galaxy Research has abandoned its view that bitcoin's bear market ended in June, Decrypt reported, as November's ETF outflows passed $5 billion, the worst month on record.",
+  "headline": "JPMorgan sees bitcoin capitulation as Strategy discount hits record",
+  "standfirst": "Shares in Strategy, the largest corporate bitcoin holder, briefly traded at a record discount to its bitcoin, which JPMorgan called a sign of capitulation, The Block reported.",
   "body": [
-   "Galaxy Research withdrew its October call that bitcoin's bear market had ended in June, after the signal behind it failed, Decrypt reported on Thursday.",
-   "The firm said a daily close below the 30 June closing low of $58,525 would signal a move to a materially lower low. It noted that earlier breaks of a standing bear-market low went at least 17% further, which would imply about $48,500. Bitcoin set an intraday low of $55,100 on 21 November.",
-   "The reversal came as US spot bitcoin ETFs logged $5.39 billion of net outflows so far in November, above the previous record of $4.51 billion set in June, according to SoSoValue data reported by CoinDesk. The Block reported a seventh straight day of outflows on Wednesday.",
-   "Macro pressure added to the gloom. Core PCE inflation rose to 3.3% in October, above forecasts, and CME FedWatch showed a 94% chance of a quarter-point Fed rate rise on 9 December, Cointelegraph reported.",
-   "Zcash was the weakest large token. ZEC fell about 8% from the morning to near $698 on Kraken, with TokenPost reporting $910,000 of long liquidations in an hour.",
-   "Bitcoin traded near $60,380 on Kraken at 16:30 UK. About $7 billion of bitcoin options expire on Deribit on Friday, with large put positions at $60,000 and below, CoinDesk reported."
+   "JPMorgan said on Wednesday that Strategy's premium to the value of its bitcoin had fallen to about 0.88 times, a record low and below the late-June trough, which it described as a sign of bitcoin capitulation, The Block reported.",
+   "Strategy's own dashboard showed the ratio at 0.88 on Wednesday morning in New York before it recovered to 0.94. JPMorgan also noted that BlackRock's IBIT fund kept losing money even during the brief price recovery, and put bitcoin's estimated production cost at about $86,000.",
+   "A separate on-chain reading pointed the same way. The share of bitcoin that has not moved for at least a year rose to 68.5%, from 62% in July, according to Glassnode data reported by CoinDesk. Similar rises came before past bear-market bottoms, though they gave little guide to timing.",
+   "Not every signal agreed. Bitcoin's 50-day average crossed below its 200-day average, a so-called death cross, Decrypt reported. Economist Robin Brooks warned of a possible 'meltdown' in risk assets before the Fed meets on 8 and 9 December, Cointelegraph reported, with FedWatch showing almost no chance of rates staying on hold.",
+   "Bitcoin traded near $60,870 on Kraken at 21:30 UK, up from about $60,380 at the afternoon edition, with US markets shut for Thanksgiving. Zcash recovered to near $721 from $698. About $7 billion of bitcoin options expire on Deribit at 08:00 UK on Friday."
   ]
  },
- "headline": "Galaxy Research withdrew its call that bitcoin's bear market was over, as November ETF outflows hit a record $5.39 billion. Bitcoin is flat near $60,400 in holiday trade, while ZEC fell about 8%.",
- "spoken": "Cryptonaire Post, afternoon edition. A quiet day for bitcoin, a weaker one for the mood. Bitcoin is flat at about sixty thousand, four hundred dollars, with US markets shut for Thanksgiving. Galaxy Research has withdrawn its call that the bear market was over, and warns a close below fifty-eight and a half thousand would point lower. November's outflows from US bitcoin funds have reached five point four billion dollars, the worst month on record. Zcash fell about eight percent to around seven hundred dollars on long liquidations. Seven billion dollars of bitcoin options expire tomorrow at eight in the morning. The next red event is the Fed decision on the ninth of December at seven in the evening. Information only, not advice.",
+ "headline": "JPMorgan called Strategy's record-low share discount a sign of bitcoin capitulation, while long-held supply rose to 68.5%. Bitcoin edged up to about $60,900 in holiday trade ahead of Friday's $7 billion options expiry.",
+ "spoken": "Cryptonaire Post, evening edition. A quiet, slightly firmer evening. Bitcoin is about sixty thousand, nine hundred dollars, up around five hundred since the afternoon, with US markets closed for Thanksgiving. JPMorgan says Strategy's shares traded at a record discount to its bitcoin, which it calls a sign of capitulation. On-chain data shows more coins sitting still for over a year, a pattern seen near past bottoms, though the daily chart has flashed a death cross. Zcash recovered to about seven hundred and twenty dollars. Seven billion dollars of bitcoin options expire at eight tomorrow morning. The next red event is the Fed decision on the ninth of December at seven in the evening. Information only, not advice.",
  "stories": [
   {
    "section": "BTC",
-   "impact": "🔴",
-   "confidence": "Medium",
+   "impact": "🟠",
+   "confidence": "High",
    "date": "2026-11-26",
-   "status": "Outlook changed",
-   "title": "Galaxy Research withdraws its 'bear market is over' call",
-   "why": "Galaxy said the signal behind its October bottom call failed, and that a daily close below $58,525 would signal a materially lower low; past breaks went at least 17% further, implying about $48,500, Decrypt reported. The $58,525 line featured in this morning's edition as a warning level; it is now Galaxy's stated trigger for a deeper fall.",
+   "status": "New",
+   "title": "JPMorgan: Strategy's record-low discount signals capitulation",
+   "why": "JPMorgan said Strategy's market value fell to about 0.88 times its bitcoin holdings, a record low below June's, which it called a sign of capitulation; Strategy's dashboard later showed 0.94, The Block reported. The bank also noted IBIT outflows during the rebound and a production cost estimate near $86,000.",
    "note": {
     "horizon": "swing",
-    "read": "A well-followed research desk dropping its bullish cycle call removes one support for the 'bottom is in' view, and makes $58,525 a level many traders will watch.",
-    "alt": "Cycle calls are often revised; the price has already been below this level intraday on 21 November and rebounded.",
-    "change": "Several daily closes well above $62,000 with ETF outflows easing would weaken the bearish read; a daily close below $58,525 would confirm it."
+    "read": "When the biggest corporate buyer trades below its own bitcoin, the treasury-company bid that helped earlier rallies is weak, which often marks late-stage selling.",
+    "alt": "A discount can also reflect worries about Strategy's debt and share issuance rather than about bitcoin itself, and can persist.",
+    "change": "The ratio moving back above 1.0 alongside ETF inflows would support the capitulation read; a fresh low below 0.88 would point to more forced selling."
+   },
+   "sources": [
+    {
+     "name": "The Block",
+     "url": "https://www.theblock.co/news/markets/2026-11-26-jpmorgan-bitcoin-capitulation-strategy-low-nav-multiple-447007"
+    }
+   ]
+  },
+  {
+   "section": "BTC",
+   "impact": "🟠",
+   "confidence": "Medium",
+   "date": "2026-11-26",
+   "status": "Developing",
+   "title": "Bitcoin edges up to $60,900 as death cross forms",
+   "why": "Kraken showed BTC near $60,870 at 21:30 UK, about $490 above the afternoon edition, with a UTC-day range of $59,850 to $61,530. Decrypt reported the 50-day average ($71,478) has crossed below the 200-day ($74,516). It stays above Galaxy's $58,525 trigger level from the afternoon edition.",
+   "caveat": "Thanksgiving volumes are thin, so small flows can move the price.",
+   "note": {
+    "horizon": "intraday",
+    "read": "A quiet holiday drift higher; the death cross is a lagging signal that confirms the fall from October rather than predicting the next move.",
+    "alt": "Thin markets can exaggerate moves either way, and Friday's expiry may set the tone more than today's trade.",
+    "change": "A daily close below $58,525 would revive the bearish case; a push above $62,000 after expiry would ease it."
    },
    "sources": [
     {
      "name": "Decrypt",
-     "url": "https://decrypt.co/384030/galaxy-research-withdraws-call-that-bitcoins-bear-market-is-over"
-    },
-    {
-     "name": "The Block",
-     "url": "https://www.theblock.co/news/markets/2026-11-26-spot-bitcoin-etfs-worst-month-november-446814"
-    }
-   ]
-  },
-  {
-   "section": "ETFs",
-   "impact": "🔴",
-   "confidence": "High",
-   "date": "2026-11-26",
-   "status": "Developing",
-   "title": "November ETF outflows hit a record $5.39 billion",
-   "why": "US spot bitcoin ETFs have lost $5.39 billion net this month to 25 November, beating June's $4.51 billion record, per SoSoValue data reported by CoinDesk and The Block. That leaves 2026 at about $5 billion of net outflows, on course for the funds' first losing calendar year. No US flow data today: markets are shut for Thanksgiving.",
-   "note": {
-    "horizon": "swing",
-    "read": "Institutional demand is the weakest since the funds launched, so rebounds are relying on traders rather than fund buyers.",
-    "alt": "Year-end rebalancing and tax-loss selling may be front-loading outflows that slow in December.",
-    "change": "Net inflows on Friday's half day or early next week would be the first sign the streak is breaking."
-   },
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "url": "https://www.coindesk.com/daybook-us/2026/11/26/bitcoin-etfs-are-bleeding-cash-and-the-fed-is-unlikely-to-help"
-    },
-    {
-     "name": "The Block",
-     "url": "https://www.theblock.co/news/markets/2026-11-26-spot-bitcoin-etfs-worst-month-november-446814"
-    }
-   ]
-  },
-  {
-   "section": "ZEC",
-   "impact": "🟠",
-   "confidence": "High",
-   "date": "2026-11-26",
-   "status": "Outlook changed",
-   "title": "ZEC falls about 8% on long liquidations",
-   "why": "Kraken showed ZEC near $698 at 16:30 UK, against about $758 at the morning edition, after a dip as low as about $662. TokenPost reported a 3.6% drop in one hour to $701 around 14:50 UK, with $910,000 of long liquidations, and CoinDesk named ZEC the weakest top-10 CoinDesk 100 token today. No Zcash-specific news trigger was reported.",
-   "caveat": "The $662 low is a single Kraken print and may have been a brief wick.",
-   "note": {
-    "horizon": "intraday",
-    "read": "Leveraged buyers from Wednesday's bounce were forced out, so the move looks like positioning rather than news.",
-    "alt": "Talk of retiring the Sapling pool over a speculative cryptography risk may have unsettled some holders, though developers called an attack highly speculative.",
-    "change": "A recovery back above $750 would point to a liquidation flush; further falls on no news would point to steady selling."
-   },
-   "sources": [
-    {
-     "name": "TokenPost",
-     "url": "https://www.tokenpost.com/news/investing/62904"
-    },
-    {
-     "name": "CoinDesk",
-     "url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-little-changed-defi-tokens-lead-the-bounce-as-u-s-marks-thanksgiving"
+     "url": "https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery"
     },
     {
      "name": "Kraken",
-     "url": "https://www.kraken.com/prices/zcash"
+     "url": "https://www.kraken.com/prices/bitcoin"
+    }
+   ]
+  },
+  {
+   "section": "BTC",
+   "impact": "🟢",
+   "confidence": "Medium",
+   "date": "2026-11-26",
+   "status": "New",
+   "title": "Long-held bitcoin supply climbs to 68.5%",
+   "why": "The share of bitcoin unmoved for a year or more rose to 68.5% from 62% in July, per Glassnode data reported by CoinDesk. Similar rises came before past bear-market bottoms, though without a reliable guide to timing.",
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases"
     }
    ]
   },
@@ -110,83 +91,78 @@
    "section": "Macro",
    "impact": "🟠",
    "confidence": "Medium",
-   "date": "2026-11-25",
-   "status": "New",
-   "title": "Core PCE inflation rises to 3.3%, Fed hike seen as near-certain",
-   "why": "The Fed's preferred gauge rose to 3.8% headline and 3.3% core in October, core above the 3.2% expected, and CME FedWatch showed a 94.4% chance of a quarter-point rise to 4% to 4.25% on 9 December, Cointelegraph reported. Higher US rates tend to weigh on bitcoin.",
+   "date": "2026-11-26",
+   "status": "Developing",
+   "title": "Fed blackout starts Saturday with a hike all but priced",
+   "why": "CME FedWatch gave only 0.5% odds of rates holding at 3.75% to 4% on 9 December, and economist Robin Brooks warned risk assets could face a 'meltdown' before the meeting if the Fed stays hawkish, Cointelegraph reported. Fed officials go quiet from 28 November, so there will be fewer speeches to shift expectations.",
    "sources": [
     {
      "name": "Cointelegraph",
-     "url": "https://cointelegraph.com/markets/us-inflation-rises-december-fed-meeting-clouding-crypto-outlook"
+     "url": "https://cointelegraph.com/markets/crypto-hawkish-fed-risks-december-meltdown"
     }
    ]
   },
   {
-   "section": "Markets",
-   "impact": "🟠",
-   "confidence": "Medium",
+   "section": "ZEC",
+   "impact": "🟢",
+   "confidence": "High",
    "date": "2026-11-26",
    "status": "Developing",
-   "title": "$7 billion of bitcoin options expire Friday, puts stacked at $60,000",
-   "why": "About $7 billion of BTC options expire on Deribit on Friday, with a put/call ratio of 0.89 for the expiry against 0.55 in October and large put positions at $60,000, $58,000, $50,000 and $40,000, CoinDesk reported. Expected volatility, Deribit's DVOL, is 55, up from 38 in October.",
+   "title": "ZEC recovers part of the afternoon drop",
+   "why": "Kraken showed ZEC near $721 at 21:30 UK, up from about $698 at the afternoon edition but still about 6% down on the UTC day from $770. No Zcash-specific trigger appeared in the inbox or Zcash forum this evening, which fits the afternoon's read of a leverage flush.",
    "sources": [
     {
-     "name": "CoinDesk",
-     "url": "https://www.coindesk.com/markets/2026/11/26/usd7-billion-of-bitcoin-options-expire-friday-and-the-biggest-bets-look-starkly-different-from-october"
+     "name": "Kraken",
+     "url": "https://www.kraken.com/prices/zcash"
     }
    ]
   },
   {
    "section": "Protocol",
    "impact": "🟢",
-   "confidence": "High",
+   "confidence": "Medium",
    "date": "2026-11-26",
    "status": "New",
-   "title": "Zcash developers urge faster retirement of the older Sapling pool",
-   "why": "A team led by co-founder Sean Bowe recommended a network upgrade to block new deposits into Sapling, where about 400,000 ZEC (about $300 million) still sits, with users free to move funds to the newer pool, CoinDesk and Cointelegraph reported. No date is set and the team called a practical attack highly speculative.",
+   "title": "Developer finds cheap trick that can expose a bitcoin node's IP",
+   "why": "Bitcoin Core contributor Abubakar Sadiq Ismail showed a payment costing under 35 cents can make a wallet's rebroadcast reveal the IP address of the node watching it, working 30 out of 30 times on a test network, CoinDesk reported. Bitcoin Core and wallets built on it are affected; a fix is proposed but unreleased. A privacy issue, not a risk to funds.",
    "sources": [
     {
      "name": "CoinDesk",
-     "url": "https://www.coindesk.com/tech/2026/11/26/zcash-developers-want-users-to-move-usd300-million-out-of-an-older-privacy-system"
-    },
-    {
-     "name": "Cointelegraph",
-     "url": "https://cointelegraph.com/news/zcash-users-migrate-zec-supply-sapling-pool-retirement"
+     "url": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds"
     }
    ]
   },
   {
-   "section": "Markets",
+   "section": "Policy",
    "impact": "🟢",
    "confidence": "Medium",
    "date": "2026-11-26",
    "status": "New",
-   "title": "Zodia Custody breach and Auros wind-down hit crypto plumbing",
-   "why": "Standard Chartered's Zodia Custody said hackers accessed client company details and contact emails but no funds moved, CoinDesk reported. Separately, market maker Auros, once about 4% of global exchange volume, is winding down, CoinDesk reported citing two sources. Fewer market makers can mean thinner order books.",
-   "caveat": "The Auros report rests on unnamed sources; Auros did not comment.",
+   "title": "Spain and Japan move to tighten crypto controls",
+   "why": "Spain's financial intelligence unit can now freeze crypto accounts for up to five working days without a court order, under a decree that takes effect in two months, Decrypt reported. Japan's FSA published a paper weighing curbs on DeFi access and self-custody wallet transfers, with findings due in early 2027, Cointelegraph reported. Neither affects UK holders directly.",
    "sources": [
     {
-     "name": "CoinDesk",
-     "url": "https://www.coindesk.com/tech/2026/11/26/standard-chartered-s-zodia-custody-suffers-data-breach-exposing-client-information"
+     "name": "Decrypt",
+     "url": "https://decrypt.co/384063/spain-lets-its-financial-intelligence-unit-freeze-crypto-accounts-without-a-court-order"
     },
     {
-     "name": "CoinDesk",
-     "url": "https://www.coindesk.com/markets/2026/11/26/major-crypto-trading-firm-auros-is-winding-down-operations-sources"
+     "name": "Cointelegraph",
+     "url": "https://cointelegraph.com/news/japan-tighter-oversight-defi-self-custodial-wallets"
     }
    ]
   }
  ],
  "explained": {
-  "title": "What a put/call ratio tells you",
+  "title": "What a 'death cross' is",
   "body": [
-   "A put is a bet that pays if the price falls; a call pays if it rises. The put/call ratio compares how many of each are open. Friday's expiry is at 0.89, so there are nearly as many downside bets as upside ones, up from 0.55 in October.",
-   "A rising ratio shows traders paying for protection. It does not predict direction on its own: heavy put buying can also mean holders are hedging rather than selling."
+   "A death cross is when a short-term moving average, usually the 50-day, falls below a long-term one, usually the 200-day. It shows that recent prices have been lower than the longer trend.",
+   "Because both lines are averages of past prices, the cross arrives well after a fall has started. Bitcoin is already about half its October 2025 high, so the signal mostly confirms what has happened rather than forecasting what comes next."
   ]
  },
  "investigating": [
-  "Will bitcoin close a day below $58,525, Galaxy's stated trigger? Evidence: the UTC daily close on major exchanges over the next few days.",
-  "Was there a Zcash-specific reason for today's drop? Evidence: exchange notices, large transfers or forum posts in the next 24 hours.",
-  "Will the FCA confirm the reported DeFi plans? Evidence: an FCA statement; none was in the FCA feed today."
+  "Does the capitulation reading hold? Evidence: Strategy's ratio back above 1.0 and the first US ETF inflows, possibly from Friday's half-day session.",
+  "Will Friday's expiry pull bitcoin towards $60,000, where puts cluster? Evidence: the price around 08:00 UK and the hours after on Deribit.",
+  "Will the FCA confirm the reported DeFi plans? Evidence: an FCA statement; none was in the FCA feed this evening."
  ],
  "corrections": [],
  "ahead": [
@@ -199,6 +175,11 @@
    "when": "Fri 27 Nov 18:00 UK",
    "impact": "🟢",
    "what": "US markets early close"
+  },
+  {
+   "when": "Sat 28 Nov",
+   "impact": "🟢",
+   "what": "Fed pre-meeting blackout begins"
   },
   {
    "when": "Tue 1 Dec 02:59 UK",
@@ -216,5 +197,5 @@
    "what": "Fed rate decision and projections"
   }
  ],
- "id": "2026-11-26-1635"
+ "id": "2026-11-26-2135"
 }
