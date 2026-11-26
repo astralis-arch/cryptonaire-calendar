@@ -5420,16 +5420,6 @@
 "first_seen": "2026-11-19T08:37:10Z"
 },
 {
-"id": "bc12c1108f13b87c",
-"title": "UK financial watchdogs clarify cyber expectations as attacks rise",
-"link": "https://www.fca.org.uk/news/press-releases/uk-financial-watchdogs-clarify-cyber-expectations-attacks-rise",
-"published": null,
-"source": "FCA",
-"desk": "UK",
-"kind": "official",
-"first_seen": "2026-11-19T08:07:11Z"
-},
-{
 "id": "68ecb444beaf5d5e",
 "title": "BTCPay Server issues emergency update for 5 security flaws",
 "link": "https://cointelegraph.com/news/btcpay-server-emergency-update-nginx-security-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -5440,14 +5430,14 @@
 "first_seen": "2026-11-19T08:37:10Z"
 },
 {
-"id": "c0deede754cb555d",
-"title": "Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut",
-"link": "https://cointelegraph.com/markets/bitcoin-retests-62k-nasdaq-futures-anthropic-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-19T07:55:56Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T08:07:11Z"
+"id": "2d9adea4acffddf4",
+"title": "Minutes of the Market Participants Group meeting – 18 November 2026",
+"link": "https://www.bankofengland.co.uk/minutes/2026/november/market-participants-group-meeting-18-november-2026",
+"published": "2026-11-19T07:30:00Z",
+"source": "Bank of England",
+"desk": "UK",
+"kind": "official",
+"first_seen": "2026-11-26T08:37:10Z"
 },
 {
 "id": "cf2fd5feb2beb341",
