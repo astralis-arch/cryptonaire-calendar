@@ -1,5 +1,45 @@
 [
 {
+"id": "6e6225f8e361aa44",
+"title": "Vibecoded GTA 6 PC Ports Are Now Rendering In-Game Graphics Despite Take-Two Crackdown",
+"link": "https://decrypt.co/384061/vibecoded-gta-6-pc-ports-are-now-rendering-in-game-graphics-despite-take-two-crackdown",
+"published": "2026-11-26T22:01:02Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-26T22:07:09Z"
+},
+{
+"id": "3e6838fe9439e8e6",
+"title": "If I Ran the Circus",
+"link": "https://forum.zcashcommunity.com/t/if-i-ran-the-circus/59698",
+"published": "2026-11-26T21:42:55Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-26T22:07:09Z"
+},
+{
+"id": "99cba55e29d04481",
+"title": "BNB Chain details new layer-1 for trading, private finance and AI",
+"link": "https://cointelegraph.com/news/bnb-chain-details-new-layer-1-trading-private-finance-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-26T21:42:43Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-26T22:07:09Z"
+},
+{
+"id": "95b0c39c88ffe4a5",
+"title": "Binance completes withdrawal recovery four weeks after $6.3B hack",
+"link": "https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-26T21:33:47Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-26T22:07:09Z"
+},
+{
 "id": "b1727d9315e0df11",
 "title": "UK is ‘getting it wrong’ on DeFi regulation, says Coinbase",
 "link": "https://cointelegraph.com/news/uk-wrong-defi-regulation-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -5220,26 +5260,6 @@
 "first_seen": "2026-11-19T22:37:09Z"
 },
 {
-"id": "8499656a2671af76",
-"title": "Nvidia, AMD, Micron Sink as Anthropic Closes 17% Above IPO Price",
-"link": "https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price",
-"published": "2026-11-19T21:12:06Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T21:37:10Z"
-},
-{
-"id": "9ca0e73a85b778fc",
-"title": "Darius Dale: 2027 Should Be a “Great Year for Bitcoin” as Fed Rate Cuts Come",
-"link": "https://bitcoinmagazine.com/videos/darius-dale-2027-should-be-a-great-year-for-bitcoin-as-fed-rate-cuts-come",
-"published": "2026-11-19T20:15:14Z",
-"source": "Bitcoin Magazine",
-"desk": "BTC",
-"kind": "news",
-"first_seen": "2026-11-19T21:37:10Z"
-},
-{
 "id": "241d9c35f2a8e1cf",
 "title": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
 "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm",
@@ -5488,6 +5508,46 @@
 "desk": "Protocol",
 "kind": "protocol",
 "first_seen": "2026-11-20T17:59:15Z"
+},
+{
+"id": "82ba770a292c7512",
+"title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+"link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
+"published": "2026-11-12T18:30:00Z",
+"source": "Federal Reserve (press)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-26T22:07:09Z"
+},
+{
+"id": "b8182560b02548a6",
+"title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+"link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+"published": "2026-11-12T17:45:00Z",
+"source": "Federal Reserve (press)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-26T22:07:09Z"
+},
+{
+"id": "6baae670e70b3489",
+"title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+"link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
+"published": "2026-11-12T16:00:00Z",
+"source": "Federal Reserve (press)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-26T22:07:09Z"
+},
+{
+"id": "c726a8b2b0e3c236",
+"title": "Barr, American Inequality and the Future of AI",
+"link": "https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm",
+"published": "2026-11-12T15:00:00Z",
+"source": "Federal Reserve (speeches)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-26T22:07:09Z"
 },
 {
 "id": "2b7b524d13f1a180",
