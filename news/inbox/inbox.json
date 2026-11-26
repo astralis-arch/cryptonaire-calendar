@@ -1,5 +1,15 @@
 [
 {
+"id": "cd6623eca6082e6f",
+"title": "Bitcoin is Vanishing into “Deep Storage” Faster than Miners Make It",
+"link": "https://bitcoinmagazine.com/videos/bitcoin-is-vanishing-into-deep-storage-faster-than-miners-make-it",
+"published": "2026-11-25T23:30:12Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-26T00:37:09Z"
+},
+{
 "id": "58793a856ad1357a",
 "title": "China's Google Just Released Its Fast New AI Model for Free",
 "link": "https://decrypt.co/384015/china-google-released-fast-new-ai-model-free-baidu-ernie",
@@ -5448,6 +5458,16 @@
 "desk": "BTC",
 "kind": "news",
 "first_seen": "2026-11-19T01:27:59Z"
+},
+{
+"id": "3f87d7737693330f",
+"title": "Zebra 7.2.0-beta.0",
+"link": "https://github.com/ZcashFoundation/zebra/releases/tag/v7.2.0-beta.0",
+"published": "2026-11-18T23:29:52Z",
+"source": "Zebra releases",
+"desk": "ZEC",
+"kind": "protocol",
+"first_seen": "2026-11-26T00:37:09Z"
 },
 {
 "id": "0e2860edb1a4e029",
