@@ -1,5 +1,25 @@
 [
 {
+"id": "e6520a247e2b33f9",
+"title": "Financial Policy Committee Record – November 2026",
+"link": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/november-2026",
+"published": "2026-11-26T10:30:00Z",
+"source": "Bank of England",
+"desk": "UK",
+"kind": "official",
+"first_seen": "2026-11-26T10:37:11Z"
+},
+{
+"id": "c1a2787678d080f9",
+"title": "Zcash devs urge users to migrate 2% of ZEC supply to accelerate Sapling pool retirement",
+"link": "https://cointelegraph.com/news/zcash-users-migrate-zec-supply-sapling-pool-retirement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-26T10:15:28Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-26T10:37:11Z"
+},
+{
 "id": "9d308e3cf1172d1e",
 "title": "Bitcoin ETF November outflows top $5B, Morgan Stanley bucks trend",
 "link": "https://cointelegraph.com/markets/morgan-stanley-bitcoin-etf-trend-outflows-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -5418,36 +5438,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-19T11:07:10Z"
-},
-{
-"id": "d99bcf76db13b0e9",
-"title": "IOSCO warns quantum upgrades could slow blockchains, leave security gaps",
-"link": "https://cointelegraph.com/news/iosco-quantum-blockchain-upgrades-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-19T10:32:05Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T10:37:10Z"
-},
-{
-"id": "7f2bfc70c46151ca",
-"title": "Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November",
-"link": "https://decrypt.co/383597/bitcoin-struggles-to-hold-64000-as-etf-outflows-hit-2-9b-in-november",
-"published": "2026-11-19T10:25:05Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T10:37:10Z"
-},
-{
-"id": "8e56cb037955c3aa",
-"title": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand",
-"link": "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million",
-"published": "2026-11-19T10:22:12Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T10:37:10Z"
 },
 {
 "id": "2d9adea4acffddf4",
