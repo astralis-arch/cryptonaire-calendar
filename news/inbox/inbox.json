@@ -1,5 +1,35 @@
 [
 {
+"id": "08cf4c604dedaf14",
+"title": "Galaxy Research Withdraws Call That Bitcoin's Bear Market Is Over",
+"link": "https://decrypt.co/384030/galaxy-research-withdraws-call-that-bitcoins-bear-market-is-over",
+"published": "2026-11-26T12:26:08Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-26T12:37:17Z"
+},
+{
+"id": "b85d1add0a843679",
+"title": "Bitcoin ETFs are bleeding cash and the Fed is unlikely to help",
+"link": "https://www.coindesk.com/daybook-us/2026/11/26/bitcoin-etfs-are-bleeding-cash-and-the-fed-is-unlikely-to-help",
+"published": "2026-11-26T12:14:46Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-26T12:37:17Z"
+},
+{
+"id": "aec551095b6cd62d",
+"title": "Vitalik Buterin calls for verifiable chips as hardware wallet threats evolve",
+"link": "https://cointelegraph.com/news/vitalik-buterin-verifiable-chips-hardware-wallet-threats-evolve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-26T12:13:59Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-26T12:37:17Z"
+},
+{
 "id": "915c8c3637250033",
 "title": "The courage to change",
 "link": "https://www.fca.org.uk/news/speeches/courage-change",
@@ -5418,36 +5448,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-19T13:07:11Z"
-},
-{
-"id": "1eb4dc18b52a4856",
-"title": "Bitcoin ETF outflows show waning crypto appetite ahead of Anthropic's Nasdaq debut",
-"link": "https://www.coindesk.com/daybook-us/2026/11/19/bitcoin-etf-outflows-show-waning-crypto-appetite-ahead-of-anthropic-s-nasdaq-debut",
-"published": "2026-11-19T12:20:39Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T12:37:08Z"
-},
-{
-"id": "1c2121bcb1346e57",
-"title": "Bitcoin holds above $63,750 but Fed rate-hike threats loom large",
-"link": "https://www.coindesk.com/markets/2026/11/19/bitcoin-holds-above-usd63-750-but-fed-rate-hike-threats-loom-large",
-"published": "2026-11-19T12:08:06Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T12:37:08Z"
-},
-{
-"id": "e6f3e03c3b684b58",
-"title": "US launches cybercrime center with TRM Labs to help trace crypto tied to scams",
-"link": "https://www.theblock.co/news/regulation/2026-11-19-us-launches-cybercrime-center-with-trm-labs-to-help-trace-crypto-tied-to-scams-443599",
-"published": "2026-11-19T11:55:06Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T12:07:18Z"
 },
 {
 "id": "2d9adea4acffddf4",
