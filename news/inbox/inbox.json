@@ -1,5 +1,25 @@
 [
 {
+"id": "d2f189f3510f8a0c",
+"title": "Palmar for ZCG (December 2026)",
+"link": "https://forum.zcashcommunity.com/t/palmar-for-zcg-december-2026/59662",
+"published": "2026-11-26T03:04:49Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-26T03:07:09Z"
+},
+{
+"id": "52dc201b7e90f59f",
+"title": "House Committee advances Strategic Bitcoin Reserve bill with narrow path to passage",
+"link": "https://www.theblock.co/news/regulation/2026-11-25-house-committee-advances-strategic-bitcoin-reserve-bill-446778",
+"published": "2026-11-26T03:03:01Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-26T03:07:09Z"
+},
+{
 "id": "f5ba222be897bbf1",
 "title": "LayerZero adds Samsung Card, Kakao Pay, ZAN as validators for upcoming Zero blockchain",
 "link": "https://www.theblock.co/news/business/2026-11-25-layerzero-kakaopay-samsung-446770",
@@ -5418,26 +5438,6 @@
 "desk": "BTC",
 "kind": "news",
 "first_seen": "2026-11-19T03:37:24Z"
-},
-{
-"id": "99564e662c0dae33",
-"title": "Standard Chartered, StraitsX, OCBC complete trial of tokenized deposit interoperability",
-"link": "https://www.theblock.co/news/web3/2026-11-18-standard-chartered-straitsx-ocbc-tokenized-deposit-poc-442964",
-"published": "2026-11-19T02:30:00Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T02:37:10Z"
-},
-{
-"id": "63648583a9c765bf",
-"title": "That's How We Zodl :guitar::trumpet:",
-"link": "https://forum.zcashcommunity.com/t/thats-how-we-zodl/59457",
-"published": "2026-11-19T02:14:19Z",
-"source": "Zcash Community Forum",
-"desk": "ZEC",
-"kind": "community",
-"first_seen": "2026-11-19T02:37:10Z"
 },
 {
 "id": "3f87d7737693330f",
