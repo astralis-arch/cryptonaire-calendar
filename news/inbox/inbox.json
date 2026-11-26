@@ -1,5 +1,25 @@
 [
 {
+"id": "5c5c8149f73d55f3",
+"title": "1Password hacker stole customer names and emails, but vaults safe",
+"link": "https://cointelegraph.com/news/1password-hacker-stole-customer-names-and-emails-but-vaults-safe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-26T04:55:16Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-26T05:07:18Z"
+},
+{
+"id": "90c96db823e24f01",
+"title": "Bill to lock up U.S. government bitcoin for 20 years advances to full House",
+"link": "https://www.coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house",
+"published": "2026-11-26T04:46:01Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-26T05:07:18Z"
+},
+{
 "id": "de92652f87dfa6eb",
 "title": "Senate Democrats urge SEC to scrap crypto, tokenized stock exemptions",
 "link": "https://cointelegraph.com/news/senate-democrats-urge-sec-to-scrap-crypto-tokenized-stock-exemptions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -5410,24 +5430,14 @@
 "first_seen": "2026-11-19T05:37:10Z"
 },
 {
-"id": "cf1784ec19fd44b4",
-"title": "Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal",
-"link": "https://www.coindesk.com/markets/2026/11/19/bitcoin-miner-that-sold-its-last-btc-warns-it-may-run-short-of-cash-for-usd1-2-billion-ai-deal",
-"published": "2026-11-19T04:46:10Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T05:07:09Z"
-},
-{
-"id": "fb6283c4d9e0c28c",
-"title": "Ledger expands hardware hack investigation to Germany, UAE as new cases emerge",
-"link": "https://www.theblock.co/news/web3/2026-11-18-ledger-new-hardware-incidents-germany-uae-443530",
-"published": "2026-11-19T04:13:18Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T04:37:11Z"
+"id": "cf2fd5feb2beb341",
+"title": "Zebra 7.2.0-beta.1",
+"link": "https://github.com/ZcashFoundation/zebra/releases/tag/v7.2.0-beta.1",
+"published": "2026-11-19T03:54:54Z",
+"source": "Zebra releases",
+"desk": "ZEC",
+"kind": "protocol",
+"first_seen": "2026-11-26T05:07:18Z"
 },
 {
 "id": "3f87d7737693330f",
