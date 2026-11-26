@@ -1,0 +1,201 @@
+{
+  "generated": "2026-11-26T06:35:00Z",
+  "mood": "mixed",
+  "briefing": {
+    "developments": [
+      "Bitcoin held above $60,000 overnight, touching about $61,530 around midnight UK and trading near $60,590 on Kraken at 06:30 UK.",
+      "US spot bitcoin ETFs lost a net $453 million on Wednesday, the seventh straight day of outflows, with BlackRock's IBIT about $330 million of it, Farside data showed.",
+      "The FCA plans to press ahead with authorisation rules for DeFi platforms after the $6.3 billion Binance hack, the Financial Times reported."
+    ],
+    "changed": "A quiet night. Bitcoin kept Wednesday's rebound rather than giving it back, and ZEC was flat near $758. The ETF data shows big funds were still selling into the bounce, so the demand picture has not improved.",
+    "question": "Can bitcoin hold $60,000 through thin Thanksgiving trade while ETF outflows continue?",
+    "watch": "Friday's monthly BTC options expiry at 08:00 UK. US markets are shut today. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
+  },
+  "lead": {
+    "headline": "ETF selling runs to seven days even as bitcoin holds $60,000",
+    "standfirst": "Big US bitcoin funds lost another $453 million on Wednesday, Farside data showed, though the price kept its rebound overnight in quiet holiday trade.",
+    "body": [
+      "US spot bitcoin exchange-traded funds recorded net outflows of $453 million on Wednesday, the seventh trading day in a row of withdrawals, according to Farside Investors data reported by JBizNews and Bloomingbit.",
+      "BlackRock's iShares Bitcoin Trust accounted for about $330 million of the total. Grayscale's Bitcoin Mini Trust lost about $60 million, and Bitwise, ARK, Grayscale's GBTC, VanEck and Fidelity funds also saw money leave. Tuesday's outflow was about $231 million.",
+      "The selling came on the day bitcoin rallied nearly $3,000 from its low as US shares recovered from a morning drop, with the Dow ending in positive territory, Yahoo Finance reported.",
+      "Bitcoin held that rebound overnight. Kraken showed it touching about $61,530 around midnight UK and trading near $60,590 at 06:30 UK. Zcash was little changed near $758.",
+      "In the UK, the Financial Conduct Authority plans to proceed with authorisation requirements for decentralised finance platforms, the Financial Times reported, citing the use of DeFi protocols to move funds stolen in October's $6.3 billion Binance hack.",
+      "US markets are closed on Thursday for Thanksgiving and reopen for a half day on Friday, when monthly bitcoin options expire at 08:00 UK."
+    ]
+  },
+  "headline": "Bitcoin held above $60,000 overnight, but US spot ETFs lost another $453 million on Wednesday, a seventh straight day of outflows. The FCA is reported to be tightening DeFi rules after the Binance hack.",
+  "spoken": "Cryptonaire Post, morning edition. A quiet night. Bitcoin held its rebound, trading around sixty thousand, six hundred dollars, after touching about sixty-one and a half thousand around midnight. Zcash was flat at around seven hundred and sixty dollars. But US bitcoin funds lost another four hundred and fifty-three million dollars on Wednesday, the seventh day of outflows in a row. The Financial Times reports the FCA plans to press ahead with rules for DeFi platforms after the Binance hack. US markets are shut today for Thanksgiving. Monthly bitcoin options expire tomorrow at eight in the morning. The next red event is the Fed decision on the ninth of December at seven in the evening. Information only, not advice.",
+  "stories": [
+    {
+      "section": "ETFs",
+      "impact": "🔴",
+      "confidence": "Medium",
+      "date": "2026-11-25",
+      "status": "Developing",
+      "title": "Spot bitcoin ETFs lose $453 million, a seventh straight day of outflows",
+      "why": "Farside data showed $453 million out on Wednesday, after $231 million on Tuesday, with IBIT about $330 million of it, JBizNews and Bloomingbit reported. It answers last night's question: the streak did not break, even on the day the price rebounded.",
+      "caveat": "Figures come from Farside via two smaller outlets; check against Farside directly before relying on fund-level numbers.",
+      "note": {
+        "horizon": "swing",
+        "read": "Large funds kept selling into Wednesday's bounce, so the rebound looks driven by traders rather than fresh institutional demand.",
+        "alt": "Holiday-week rebalancing and month-end positioning can exaggerate outflows that reverse in December.",
+        "change": "A day of net inflows next week, or outflows shrinking towards zero, would weaken the case that big holders are still reducing."
+      },
+      "sources": [
+        {
+          "name": "JBizNews",
+          "url": "https://jbiznews.com/u-s-spot-bitcoin-etfs-lose-453-million-wednesday-extending-outflow-streak-to-seven-sessions/"
+        },
+        {
+          "name": "Bloomingbit",
+          "url": "https://en.bloomingbit.io/feed/news/125287"
+        }
+      ]
+    },
+    {
+      "section": "BTC",
+      "impact": "🟠",
+      "confidence": "High",
+      "date": "2026-11-26",
+      "status": "Developing",
+      "title": "Bitcoin holds above $60,000 overnight",
+      "why": "Kraken showed bitcoin near $60,590 at 06:30 UK, up about $330 since the evening edition, after touching about $61,530 around midnight UK and dipping to about $59,860 an hour earlier. It has stayed above Galaxy's $58,525 warning line.",
+      "note": {
+        "horizon": "intraday",
+        "read": "Holding the rebound overnight, with Asia trading, suggests Wednesday's low was not immediately retested.",
+        "alt": "With US markets shut, volumes are thin, so the quiet hold says little about demand.",
+        "change": "A fall back below $58,500 before or after Friday's expiry would revive the breakdown case."
+      },
+      "sources": [
+        {
+          "name": "Kraken",
+          "url": "https://www.kraken.com/prices/bitcoin"
+        }
+      ]
+    },
+    {
+      "section": "UK",
+      "impact": "🟠",
+      "confidence": "Medium",
+      "date": "2026-11-26",
+      "status": "New",
+      "title": "FCA reportedly to press ahead with DeFi authorisation rules",
+      "why": "The FCA plans to proceed with authorisation requirements for DeFi platforms, citing how fast stolen funds from October's $6.3 billion Binance hack moved through protocols such as THORChain, the FT reported via Cointelegraph. Final guidance is expected in January 2027, ahead of the UK crypto regime starting on 25 October 2027.",
+      "caveat": "Second-hand report of an FT story; no FCA statement yet.",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/uk-fca-defi-regulation-binance-hack"
+        }
+      ]
+    },
+    {
+      "section": "ZEC",
+      "impact": "🟢",
+      "confidence": "High",
+      "date": "2026-11-26",
+      "status": "No material change",
+      "title": "ZEC flat near $758 after Wednesday's bounce",
+      "why": "Kraken showed ZEC near $758 at 06:30 UK, against about $761 at the evening edition, after an overnight high near $788. Nothing Zcash-specific moved it.",
+      "sources": [
+        {
+          "name": "Kraken",
+          "url": "https://www.kraken.com/prices/zcash"
+        }
+      ]
+    },
+    {
+      "section": "Policy",
+      "impact": "🟢",
+      "confidence": "Medium",
+      "date": "2026-11-25",
+      "status": "Developing",
+      "title": "Bitcoin reserve bill has a narrow window before Congress ends",
+      "why": "H.R. 8957 would bar selling US government bitcoin for 20 years, but Congress ends on 3 January, Democrats take both chambers in January, and Polymarket gives under 5% odds of a national reserve before 2027, CoinDesk reported. Arkham data shows US-linked addresses hold about 306,800 BTC.",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house"
+        },
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/regulation/2026-11-25-house-committee-advances-strategic-bitcoin-reserve-bill-446778"
+        }
+      ]
+    },
+    {
+      "section": "Policy",
+      "impact": "🟢",
+      "confidence": "Medium",
+      "date": "2026-11-24",
+      "status": "New",
+      "title": "Senate Democrats urge the SEC to drop its crypto exemptions",
+      "why": "Senators Warren, Van Hollen and others asked SEC Chair Paul Atkins to scrap the proposed Regulation Crypto Assets and the innovation exemption for tokenised stock trading, The Block reported. It matters more from January, when Democrats take control of Congress.",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/regulation/2026-11-25-warren-van-hollen-lead-push-scrap-sec-regulation-crypto-innovation-exemption-446756"
+        }
+      ]
+    },
+    {
+      "section": "DeFi",
+      "impact": "🟢",
+      "confidence": "Medium",
+      "date": "2026-11-25",
+      "status": "New",
+      "title": "Sky fast-tracks a vote as stUSDS withdrawals stall",
+      "why": "Sky invoked its emergency process to speed a vote on moving 25 million USDS to pay down debt, as stUSDS depositors have struggled to withdraw for over two weeks with almost all of the $158 million pool lent out, Cointelegraph reported. A stress sign in DeFi lending, not a stablecoin de-peg.",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/sky-emergency-vote-25m-transfer-stusds-liquidity-stress"
+        }
+      ]
+    }
+  ],
+  "explained": {
+    "title": "Why ETF flows and price can disagree",
+    "body": [
+      "ETF flows count new money going into or out of the funds, settled at the day's end. The price is set every second on exchanges worldwide, often by leveraged traders.",
+      "So on a day like Wednesday, short sellers buying back and traders chasing a bounce can lift the price even while big fund holders withdraw. Over weeks the two usually line up again."
+    ]
+  },
+  "investigating": [
+    "Will Friday's monthly options expiry pull bitcoin towards a particular price? Evidence: Deribit open interest and max-pain level before 08:00 UK on Friday.",
+    "Will the FCA confirm the reported DeFi plans? Evidence: an FCA statement or the original FT report."
+  ],
+  "corrections": [],
+  "ahead": [
+    {
+      "when": "Thu 26 Nov",
+      "impact": "🟢",
+      "what": "US markets closed for Thanksgiving"
+    },
+    {
+      "when": "Fri 27 Nov 08:00 UK",
+      "impact": "🟠",
+      "what": "Monthly BTC options and futures expiry"
+    },
+    {
+      "when": "Fri 27 Nov 18:00 UK",
+      "impact": "🟢",
+      "what": "US markets early close"
+    },
+    {
+      "when": "Tue 1 Dec 02:59 UK",
+      "impact": "🟢",
+      "what": "Zcash NU7.1 coinholder and ZCAP polls close"
+    },
+    {
+      "when": "Fri 4 Dec 13:30 UK",
+      "impact": "🟠",
+      "what": "US jobs report (November)"
+    },
+    {
+      "when": "Wed 9 Dec 19:00 UK",
+      "impact": "🔴",
+      "what": "Fed rate decision and projections"
+    }
+  ]
+}
