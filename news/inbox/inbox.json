@@ -1,5 +1,45 @@
 [
 {
+"id": "ed0e4cd4a3904032",
+"title": "Hong Kong-based crypto trading firm Auros is winding down operations: Sources",
+"link": "https://www.coindesk.com/markets/2026/11/26/major-crypto-trading-firm-auros-is-winding-down-operations-sources",
+"published": "2026-11-26T11:27:50Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-26T11:37:10Z"
+},
+{
+"id": "d12dc6d90fd6c9b3",
+"title": "New York Wins $1.37B Judgment Against NovaTech Founders Who Fled the US",
+"link": "https://decrypt.co/384025/new-york-wins-1-37b-judgment-against-novatech-founders-who-fled-the-us",
+"published": "2026-11-26T11:25:58Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-26T11:37:10Z"
+},
+{
+"id": "376c88ef3127ea67",
+"title": "Bitcoin price eyes $61K as Talos warns of thin Thanksgiving liquidity",
+"link": "https://cointelegraph.com/markets/bitcoin-price-talos-warns-thin-thanksgiving-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-26T11:22:59Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-26T11:37:10Z"
+},
+{
+"id": "680bb2da2af7b95e",
+"title": "Bitcoin little changed, DeFi tokens lead the bounce as U.S. marks Thanksgiving",
+"link": "https://www.coindesk.com/markets/2026/11/26/bitcoin-little-changed-defi-tokens-lead-the-bounce-as-u-s-marks-thanksgiving",
+"published": "2026-11-26T11:17:22Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-26T11:37:10Z"
+},
+{
 "id": "f01fe271c65428b7",
 "title": "Engineering-first guide to building private applications, wallets, and zero-knowledge infra on Zcash",
 "link": "https://forum.zcashcommunity.com/t/engineering-first-guide-to-building-private-applications-wallets-and-zero-knowledge-infra-on-zcash/59673",
@@ -5418,76 +5458,6 @@
 "desk": "ZEC",
 "kind": "community",
 "first_seen": "2026-11-19T11:37:12Z"
-},
-{
-"id": "915c8c3637250033",
-"title": "The courage to change",
-"link": "https://www.fca.org.uk/news/speeches/courage-change",
-"published": null,
-"source": "FCA",
-"desk": "UK",
-"kind": "official",
-"first_seen": "2026-11-19T11:07:10Z"
-},
-{
-"id": "ed5a11bb407e626c",
-"title": "Anthropic’s $107 billion raise set to surpass Spacex’s IPO haul",
-"link": "https://www.coindesk.com/markets/2026/11/19/anthropic-s-usd107-billion-raise-set-to-surpass-spacex-s-ipo-haul",
-"published": "2026-11-19T11:06:13Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T11:07:10Z"
-},
-{
-"id": "7ed986b9ba5a6dfd",
-"title": "1inch integrates Hyperliquid’s perpetual futures contracts into its dApp and wallet platform",
-"link": "https://www.theblock.co/news/web3/2026-11-19-1inch-integrates-hyperliquid-perpetual-futures-443574",
-"published": "2026-11-19T11:00:00Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T11:07:10Z"
-},
-{
-"id": "8bd9eadba037b712",
-"title": "‘Highly advanced’ quantum computers could crack financial encryption in five years",
-"link": "https://www.coindesk.com/tech/2026/11/19/banks-and-blockchains-lag-on-quantum-defense-as-encryption-risks-loom-watchdog-warns",
-"published": "2026-11-19T10:55:29Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T11:07:10Z"
-},
-{
-"id": "7c4d5ab247faaff3",
-"title": "Live updates: Bitcoin nears $64,000 as Anthropic’s record IPO lifts tech",
-"link": "https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech",
-"published": "2026-11-19T10:48:26Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T11:07:10Z"
-},
-{
-"id": "333c63914464d9b6",
-"title": "Singapore settles $77.5 million tokenized bill sale in local CBDC",
-"link": "https://www.coindesk.com/business/2026/11/19/singapore-settles-usd77-5-million-tokenized-bill-sale-in-local-cbdc",
-"published": "2026-11-19T10:39:36Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T11:07:10Z"
-},
-{
-"id": "db14668ccad5f034",
-"title": "Ant International launches protocol for real-time settlement between tokenized deposits and money market funds",
-"link": "https://www.theblock.co/news/business/2026-11-19-ant-international-protocol-tokenized-assets-443586",
-"published": "2026-11-19T10:39:29Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T11:07:10Z"
 },
 {
 "id": "2d9adea4acffddf4",
