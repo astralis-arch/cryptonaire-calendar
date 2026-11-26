@@ -5350,56 +5350,6 @@
 "first_seen": "2026-11-19T16:07:10Z"
 },
 {
-"id": "8aca460ce14482fe",
-"title": "Binance wins $6.5 billion feezing order against hackers behind crypto's largest theft",
-"link": "https://www.coindesk.com/business/2026/11/19/binance-wins-usd6-5-billion-feezing-order-against-hackers-behind-crypto-s-largest-theft",
-"published": "2026-11-19T15:20:38Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T15:37:10Z"
-},
-{
-"id": "2139c2f29f4351fb",
-"title": "Ledger Finds Tampered Hardware Wallets in Berlin, Probes Two in Dubai",
-"link": "https://bitcoinmagazine.com/news/ledger-tampered-wallets-berlin-dubai",
-"published": "2026-11-19T15:20:00Z",
-"source": "Bitcoin Magazine",
-"desk": "BTC",
-"kind": "news",
-"first_seen": "2026-11-19T15:37:10Z"
-},
-{
-"id": "ab592fffcf32d670",
-"title": "Zebra 7.2.0-beta.1 Release",
-"link": "https://forum.zcashcommunity.com/t/zebra-7-2-0-beta-1-release/59466",
-"published": "2026-11-19T15:10:46Z",
-"source": "Zcash Community Forum",
-"desk": "ZEC",
-"kind": "community",
-"first_seen": "2026-11-19T15:37:10Z"
-},
-{
-"id": "9dab85eacea85e24",
-"title": "Miners: Have Your Say on NU7.1",
-"link": "https://zfnd.org/miners-have-your-say-on-nu7-1/",
-"published": "2026-11-19T15:03:24Z",
-"source": "Zcash Foundation",
-"desk": "ZEC",
-"kind": "official",
-"first_seen": "2026-11-19T15:37:10Z"
-},
-{
-"id": "ccaef4d0b7581413",
-"title": "Zebra 7.2.0-beta.1 Release",
-"link": "https://zfnd.org/zebra-7-2-0-beta-1-release/",
-"published": "2026-11-19T14:58:46Z",
-"source": "Zcash Foundation",
-"desk": "ZEC",
-"kind": "official",
-"first_seen": "2026-11-19T15:37:10Z"
-},
-{
 "id": "3a68823c8daed0c3",
 "title": "SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors",
 "link": "https://www.sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors",
