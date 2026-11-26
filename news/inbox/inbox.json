@@ -1,5 +1,15 @@
 [
 {
+"id": "9779dd534dfeb905",
+"title": "Cournot Raises $5M to Build AI-Native Oracle for Verifiable Intelligence",
+"link": "https://decrypt.co/384036/cournot-raises-5m-to-build-ai-native-oracle-for-verifiable-intelligence",
+"published": "2026-11-26T14:26:22Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-26T14:37:11Z"
+},
+{
 "id": "b908de63b7dcb1c9",
 "title": "Spain gives anti-laundering unit power to freeze crypto accounts without a judge",
 "link": "https://www.coindesk.com/business/2026/11/26/spain-gives-anti-laundering-unit-power-to-freeze-crypto-accounts-without-a-judge",
@@ -5380,76 +5390,6 @@
 "first_seen": "2026-11-19T17:07:10Z"
 },
 {
-"id": "c8279dbe23763a7a",
-"title": "Jefferson, Monetary Policy amid Frequent and Complex Shocks",
-"link": "https://www.federalreserve.gov/newsevents/speech/jefferson20261119a.htm",
-"published": "2026-11-19T14:25:00Z",
-"source": "Federal Reserve (speeches)",
-"desk": "Macro",
-"kind": "official",
-"first_seen": "2026-11-19T14:37:09Z"
-},
-{
-"id": "17ec04a37799e3d3",
-"title": "Russia’s Central Bank to Let Retail Investors Trade Bitcoin on Margin",
-"link": "https://bitcoinmagazine.com/news/russia-retail-bitcoin-margin-trading",
-"published": "2026-11-19T14:20:00Z",
-"source": "Bitcoin Magazine",
-"desk": "BTC",
-"kind": "news",
-"first_seen": "2026-11-19T14:37:09Z"
-},
-{
-"id": "178bdbdd1a3d78cd",
-"title": "Let’s Include Miner Signaling When Weighing the NU7.1 Poll Results",
-"link": "https://forum.zcashcommunity.com/t/let-s-include-miner-signaling-when-weighing-the-nu7-1-poll-results/59464",
-"published": "2026-11-19T14:12:36Z",
-"source": "Zcash Community Forum",
-"desk": "ZEC",
-"kind": "community",
-"first_seen": "2026-11-19T14:37:09Z"
-},
-{
-"id": "a0a0cd2a95d10cbe",
-"title": "Gen Z Embraces Crypto While Most Americans Call It a 'Side Quest'",
-"link": "https://decrypt.co/383589/gen-z-embraces-crypto-most-americans-side-quest",
-"published": "2026-11-19T14:01:02Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T14:07:15Z"
-},
-{
-"id": "88a5095ab8308f44",
-"title": "Bitcoin Price Rebounds Near $64,000 as Anthropic IPO Lifts Tech Stocks",
-"link": "https://bitcoinmagazine.com/markets/bitcoin-price-rebounds-64000-anthropic",
-"published": "2026-11-19T14:00:49Z",
-"source": "Bitcoin Magazine",
-"desk": "BTC",
-"kind": "news",
-"first_seen": "2026-11-19T14:07:15Z"
-},
-{
-"id": "6621a3441826eee0",
-"title": "Bitcoin finance protocol Hashi goes live on Sui mainnet",
-"link": "https://www.theblock.co/news/defi/2026-11-19-bitcoin-finance-protocol-hashi-goes-live-on-sui-mainnet-443608",
-"published": "2026-11-19T14:00:00Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T14:07:15Z"
-},
-{
-"id": "265a7ace81e3f6a2",
-"title": "Quantum Upgrade Could Be 'Particularly Challenging' for Blockchains: IOSCO",
-"link": "https://decrypt.co/383613/quantum-upgrade-could-be-particularly-challenging-for-blockchains-iosco",
-"published": "2026-11-19T13:47:00Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T14:07:15Z"
-},
-{
 "id": "2d9adea4acffddf4",
 "title": "Minutes of the Market Participants Group meeting – 18 November 2026",
 "link": "https://www.bankofengland.co.uk/minutes/2026/november/market-participants-group-meeting-18-november-2026",
@@ -5748,16 +5688,6 @@
 "desk": "Macro",
 "kind": "official",
 "first_seen": "2026-11-20T02:07:09Z"
-},
-{
-"id": "26d3012260db32ae",
-"title": "Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes",
-"link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
-"published": "2026-11-05T12:00:00Z",
-"source": "Bank of England",
-"desk": "UK",
-"kind": "official",
-"first_seen": "2026-11-19T14:07:15Z"
 },
 {
 "id": "8d5a24149ad723ae",
