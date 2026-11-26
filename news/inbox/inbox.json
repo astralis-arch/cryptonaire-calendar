@@ -1,5 +1,45 @@
 [
 {
+"id": "ed835f1611834668",
+"title": "Qibly — Zcash Community Commerce & Adoption Pilot ($20,000 Grant Proposal)",
+"link": "https://forum.zcashcommunity.com/t/qibly-zcash-community-commerce-adoption-pilot-20-000-grant-proposal/59692",
+"published": "2026-11-26T17:05:13Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-26T17:07:10Z"
+},
+{
+"id": "c0d0c221efe1a65d",
+"title": "Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
+"link": "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases",
+"published": "2026-11-26T16:50:23Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-26T17:07:10Z"
+},
+{
+"id": "9c2f28e0f640290a",
+"title": "Spain Lets Its Financial Intelligence Unit Freeze Crypto Accounts Without a Court Order",
+"link": "https://decrypt.co/384063/spain-lets-its-financial-intelligence-unit-freeze-crypto-accounts-without-a-court-order",
+"published": "2026-11-26T16:43:02Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-26T17:07:10Z"
+},
+{
+"id": "d173c9a60c8051f5",
+"title": "BIS chief Pablo Hernández de Cos set to become next ECB president: FT",
+"link": "https://cointelegraph.com/news/bis-chief-pablo-hernndez-de-cos-next-ecb-president?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-26T16:40:44Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-26T17:07:10Z"
+},
+{
 "id": "bc03be175dca72c8",
 "title": "JPMorgan says bitcoin ‘capitulation’ signaled by Strategy’s record-low NAV multiple",
 "link": "https://www.theblock.co/news/markets/2026-11-26-jpmorgan-bitcoin-capitulation-strategy-low-nav-multiple-447007",
@@ -5318,46 +5358,6 @@
 "desk": "BTC",
 "kind": "news",
 "first_seen": "2026-11-19T17:07:10Z"
-},
-{
-"id": "2b0e880a36aa9a54",
-"title": "Grant Application – Correct Zcash Fees in Blockbook Wallet Receipts",
-"link": "https://forum.zcashcommunity.com/t/grant-application-correct-zcash-fees-in-blockbook-wallet-receipts/59467",
-"published": "2026-11-19T16:27:31Z",
-"source": "Zcash Community Forum",
-"desk": "ZEC",
-"kind": "community",
-"first_seen": "2026-11-19T16:37:09Z"
-},
-{
-"id": "f0a527632fa02d75",
-"title": "Global Securities Watchdog Warns of Quantum Computing Threat to Blockchains and Finance",
-"link": "https://bitcoinmagazine.com/news/iosco-quantum-computing-warning-bitcoin",
-"published": "2026-11-19T16:24:06Z",
-"source": "Bitcoin Magazine",
-"desk": "BTC",
-"kind": "news",
-"first_seen": "2026-11-19T16:37:09Z"
-},
-{
-"id": "081bcccbee0a2d34",
-"title": "Crypto for Advisors: Falling prices drove October’s 10% drop in institutional crypto exposure",
-"link": "https://www.coindesk.com/coindesk-indices/2026/11/19/crypto-for-advisors-falling-prices-drove-october-s-10-drop-in-institutional-crypto-exposure",
-"published": "2026-11-19T16:09:28Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T16:37:09Z"
-},
-{
-"id": "f3f43ba07c780daf",
-"title": "Anthropic shares expected to open 26.5% above $83 IPO price",
-"link": "https://cointelegraph.com/markets/anthropic-shares-expected-to-open-above-83-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-19T16:07:51Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T16:37:09Z"
 },
 {
 "id": "241d9c35f2a8e1cf",
