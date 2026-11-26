@@ -1,5 +1,35 @@
 [
 {
+"id": "b908de63b7dcb1c9",
+"title": "Spain gives anti-laundering unit power to freeze crypto accounts without a judge",
+"link": "https://www.coindesk.com/business/2026/11/26/spain-gives-anti-laundering-unit-power-to-freeze-crypto-accounts-without-a-judge",
+"published": "2026-11-26T14:05:58Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-26T14:07:10Z"
+},
+{
+"id": "df32601320d5d504",
+"title": "Polygon Brings Its Cross-Border Payments Stack to Coinbase’s Base",
+"link": "https://decrypt.co/384023/polygon-cross-border-payments-stack-coinbase-base",
+"published": "2026-11-26T14:01:02Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-26T14:07:10Z"
+},
+{
+"id": "54cd52d9a8d2aa90",
+"title": "Nasdaq exec pushes for common EU rules on tokenized securities",
+"link": "https://cointelegraph.com/news/nasdaq-exec-eu-wide-legal-framework-tokenized-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-26T13:47:56Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-26T14:07:10Z"
+},
+{
 "id": "4ff06ec17b5e18df",
 "title": "7 bizarre things crypto whales spent a fortune on",
 "link": "https://cointelegraph.com/magazine/7-bizarre-things-crypto-whales-spent-a-fortune-on?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -5418,26 +5448,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-19T14:07:15Z"
-},
-{
-"id": "de3ba24394c4b533",
-"title": "Ethereum’s new DeFi security tool raises questions over censorship",
-"link": "https://cointelegraph.com/magazine/ethereums-new-defi-security-tool-raises-questions-over-censorship?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-19T13:30:00Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T13:37:09Z"
-},
-{
-"id": "0686fd0a65379b3f",
-"title": "Crypto traders vs. Wall Street: OKX’s Anthropic markets put IPO pricing to the test",
-"link": "https://www.coindesk.com/markets/2026/11/19/crypto-traders-vs-wall-street-okx-s-anthropic-markets-put-ipo-pricing-to-the-test",
-"published": "2026-11-19T13:11:31Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T13:37:09Z"
 },
 {
 "id": "2d9adea4acffddf4",
