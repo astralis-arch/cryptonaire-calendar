@@ -1,5 +1,15 @@
 [
 {
+"id": "66d9661fb4b2e47f",
+"title": "Crypto on notice as hawkish Fed risks December ‘meltdown’",
+"link": "https://cointelegraph.com/markets/crypto-hawkish-fed-risks-december-meltdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-26T17:39:53Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-26T18:07:09Z"
+},
+{
 "id": "7c4c0f4cf79f40d3",
 "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
 "link": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
@@ -5340,26 +5350,6 @@
 "first_seen": "2026-11-19T18:07:18Z"
 },
 {
-"id": "cb85e76985331564",
-"title": "What Are Perpetual Futures? How Crypto's Most Popular Derivative Works",
-"link": "https://decrypt.co/resources/what-are-perpetual-futures-how-cryptos-most-popular-derivative-works",
-"published": "2026-11-19T17:28:03Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T17:37:09Z"
-},
-{
-"id": "fb19028eb28d57e7",
-"title": "Tokenized Stocks Shrug Off the Crypto Selloff",
-"link": "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-19-tokenized-stocks-shrug-off-crypto-selloff-442829",
-"published": "2026-11-19T17:12:00Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-19T17:37:09Z"
-},
-{
 "id": "241d9c35f2a8e1cf",
 "title": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
 "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm",
@@ -5388,6 +5378,16 @@
 "desk": "ZEC",
 "kind": "official",
 "first_seen": "2026-11-26T16:07:17Z"
+},
+{
+"id": "3a68823c8daed0c3",
+"title": "SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors",
+"link": "https://www.sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors",
+"published": "2026-11-19T14:39:02Z",
+"source": "SEC (press)",
+"desk": "Policy",
+"kind": "official",
+"first_seen": "2026-11-26T18:07:09Z"
 },
 {
 "id": "c8279dbe23763a7a",
