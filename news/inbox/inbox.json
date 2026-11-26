@@ -5190,6 +5190,16 @@
 "first_seen": "2026-11-20T00:07:10Z"
 },
 {
+"id": "bdec67220450b3d4",
+"title": "Zebra 7.2.0-beta.2",
+"link": "https://github.com/ZcashFoundation/zebra/releases/tag/v7.2.0-beta.2",
+"published": "2026-11-19T22:49:01Z",
+"source": "Zebra releases",
+"desk": "ZEC",
+"kind": "protocol",
+"first_seen": "2026-11-26T23:37:09Z"
+},
+{
 "id": "241d9c35f2a8e1cf",
 "title": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
 "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm",
