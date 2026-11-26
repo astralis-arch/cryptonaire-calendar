@@ -1,5 +1,15 @@
 [
 {
+"id": "325f2640907b4442",
+"title": "Zcash developers want users to move $300 million out of an older privacy system",
+"link": "https://www.coindesk.com/tech/2026/11/26/zcash-developers-want-users-to-move-usd300-million-out-of-an-older-privacy-system",
+"published": "2026-11-26T07:09:25Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-26T07:37:10Z"
+},
+{
 "id": "3ab2b53ccda89680",
 "title": "Europe’s only spot bitcoin ETF starts trading in Switzerland, BIT says",
 "link": "https://www.theblock.co/news/markets/2026-11-26-swiss-bitcoin-etf-bbit-begins-trading-europes-only-446724",
@@ -5428,16 +5438,6 @@
 "desk": "UK",
 "kind": "official",
 "first_seen": "2026-11-19T07:37:17Z"
-},
-{
-"id": "79e4e233349b004b",
-"title": "Zcash East African: Nov - Dec 2026",
-"link": "https://forum.zcashcommunity.com/t/zcash-east-african-nov-dec-2026/59460",
-"published": "2026-11-19T07:01:22Z",
-"source": "Zcash Community Forum",
-"desk": "ZEC",
-"kind": "community",
-"first_seen": "2026-11-19T07:07:10Z"
 },
 {
 "id": "cf2fd5feb2beb341",
