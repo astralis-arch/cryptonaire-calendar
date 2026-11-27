@@ -4950,14 +4950,14 @@
 "first_seen": "2026-11-21T04:37:09Z"
 },
 {
-"id": "28d9ad4767c15468",
-"title": "Kalshi races to get ahead of New York order that could shut down exchange",
-"link": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
-"published": "2026-11-20T22:51:14Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-20T23:07:09Z"
+"id": "e98d45b9241aa47f",
+"title": "Zebra 7.2.0-beta.3",
+"link": "https://github.com/ZcashFoundation/zebra/releases/tag/v7.2.0-beta.3",
+"published": "2026-11-20T22:28:05Z",
+"source": "Zebra releases",
+"desk": "ZEC",
+"kind": "protocol",
+"first_seen": "2026-11-27T23:37:09Z"
 },
 {
 "id": "60d4a14299425b3d",
