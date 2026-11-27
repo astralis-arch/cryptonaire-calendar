@@ -1,5 +1,35 @@
 [
 {
+"id": "7780e857cf32a700",
+"title": "Binance Fully Lifts Withdrawal Suspension a Month After $6.3 Billion Hack",
+"link": "https://bitcoinmagazine.com/news/binance-lifts-withdrawal-suspension-hack",
+"published": "2026-11-27T18:00:00Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-27T18:07:09Z"
+},
+{
+"id": "9cd525e70b11c61a",
+"title": "Hackers Hit US Air Force Cloud System Running Air-Defense and Munitions Data",
+"link": "https://decrypt.co/384174/us-air-force-hack-cloud-system-air-defense-munitions-data",
+"published": "2026-11-27T17:43:29Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-27T18:07:09Z"
+},
+{
+"id": "205cd0ac379a05a4",
+"title": "China sets March 2027 rollout for blockchain identity regulations",
+"link": "https://cointelegraph.com/news/china-march-2027-rollout-blockchain-identity-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-27T17:37:23Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-27T18:07:09Z"
+},
+{
 "id": "4b2c934570ffa2cb",
 "title": "Nvidia's Blackwell Chips Turn Up in China as Trump Floats Government Stake",
 "link": "https://decrypt.co/384153/nvidias-blackwell-chips-turn-up-in-china-as-trump-floats-government-stake",
@@ -5040,14 +5070,14 @@
 "first_seen": "2026-11-20T18:37:09Z"
 },
 {
-"id": "4191a1263b1f3cf2",
-"title": "Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host",
-"link": "https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host",
-"published": "2026-11-20T17:41:45Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-20T17:59:15Z"
+"id": "da9cc5ebd5f30535",
+"title": "Cook, The U.S. Economy in Global Context",
+"link": "https://www.federalreserve.gov/newsevents/speech/cook20261120a.htm",
+"published": "2026-11-20T17:15:00Z",
+"source": "Federal Reserve (speeches)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-27T18:07:09Z"
 },
 {
 "id": "62496b2db1339ced",
@@ -5358,16 +5388,6 @@
 "desk": "Macro",
 "kind": "official",
 "first_seen": "2026-11-20T23:37:15Z"
-},
-{
-"id": "9c459691928d5f6a",
-"title": "Bitcoin Optech Newsletter #431",
-"link": "https://bitcoinops.org/en/newsletters/2026/11/13/",
-"published": "2026-11-13T00:00:00Z",
-"source": "Bitcoin Optech",
-"desk": "Protocol",
-"kind": "protocol",
-"first_seen": "2026-11-20T17:59:15Z"
 },
 {
 "id": "82ba770a292c7512",
