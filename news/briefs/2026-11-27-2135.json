@@ -1,0 +1,139 @@
+{
+  "generated": "2026-11-27T21:35:00Z",
+  "mood": "risk-off",
+  "briefing": {
+    "developments": [
+      "Bitcoin drifted sideways after the afternoon drop, trading between about $59,450 and $60,000 on Kraken through the evening and near $59,750 at 21:30 UK, about 1.2% down on the day.",
+      "CryptoQuant said USDT supply on Ethereum and Tron fell $8.1 billion in 60 days, the biggest drop since August 2022, and that a lasting bitcoin recovery needs that supply to grow again, The Block reported.",
+      "Binance said its withdrawal suspension after the $6.3 billion hack is fully lifted, Bitcoin Magazine reported, while Zcash held near $737, still about 8% up on the day."
+    ],
+    "changed": "Little has moved since the afternoon. Bitcoin neither recovered $61,000 nor revisited the $58,729 low, and stayed about $1,200 above Galaxy's $58,525 daily-close level. The evening news was background rather than new shocks.",
+    "question": "Does bitcoin hold above $58,525 into tonight's daily close and Sunday's weekly close, with thin weekend liquidity?",
+    "watch": "Daily close at 00:00 UK tonight, then the weekly close at 00:00 UK on Monday 30 November. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
+  },
+  "lead": {
+    "headline": "Bitcoin stalls below $60,000 as stablecoin supply shrinks",
+    "standfirst": "A quiet evening after the US-open sell-off left bitcoin about 1% down on the day, as CryptoQuant warned that falling Tether supply has never coincided with a record high.",
+    "body": [
+      "Bitcoin traded near $59,750 at 21:30 UK on Friday, according to Kraken data, about 1.2% below the day's open of $60,498. It held a narrow range of roughly $59,450 to $60,000 after US stock markets closed early at 18:00 UK.",
+      "The calm followed a sharp drop at the US open, when bitcoin fell from about $62,100 to $58,700 and $228 million of crypto positions were liquidated in an hour, Cointelegraph reported, citing CoinGlass data.",
+      "CryptoQuant said the supply of the Tether stablecoin on Ethereum and Tron fell $8.1 billion, or 4.4%, in the 60 days to 23 November, the biggest such fall since August 2022, The Block reported. Bitcoin has not closed at a record high during any period of falling USDT supply since 2022, the firm said, though part of the fall reflected funds moving between chains.",
+      "Separately, CryptoQuant data showed large holders with 1,000 to 10,000 BTC added about 121,000 BTC between 30 September and 21 November despite a fall of nearly 30% in price, Cointelegraph reported.",
+      "Binance said its withdrawal suspension after last month's $6.3 billion hack was fully lifted, Bitcoin Magazine reported. Zcash held near $737, about 8% up on the day. The daily close comes at midnight UK, with Galaxy's $58,525 warning level about $1,200 below the price."
+    ]
+  },
+  "headline": "A quiet evening: bitcoin held just under $60,000, about 1% down on the day, after the US-open sell-off. CryptoQuant warned that shrinking Tether supply has never come with a bitcoin record high.",
+  "spoken": "Cryptonaire Post, evening edition. A quiet evening. Bitcoin has hovered just under sixty thousand dollars since the afternoon, about one percent down on the day, and stayed above Galaxy's warning level of fifty eight thousand five hundred. CryptoQuant says Tether supply on two major chains fell eight billion dollars in two months, the biggest drop since twenty twenty two, and says a lasting recovery needs that to turn. Binance says withdrawals are fully back after last month's hack. Zcash is near seven hundred and thirty seven dollars, up about eight percent today. The daily close is at midnight, the weekly close on Sunday night. The next red event is the Fed decision on the ninth of December at seven in the evening. Information only, not advice.",
+  "stories": [
+    {
+      "section": "BTC",
+      "impact": "🔴",
+      "confidence": "High",
+      "date": "2026-11-27",
+      "status": "No material change",
+      "title": "Bitcoin holds just under $60,000 after the US-open drop",
+      "why": "Kraken showed BTC between about $59,450 and $60,000 from 17:00 to 21:30 UK, near $59,750 at the end, about 1.2% below the day's $60,498 open. Cointelegraph, citing CoinGlass, put liquidations in the hour of the afternoon drop at $228 million, above the $190 million the afternoon edition cited from TokenPost.",
+      "caveat": "Liquidation totals differ by aggregator and time window: $190 million (TokenPost) versus $228 million (Cointelegraph, CoinGlass).",
+      "note": {
+        "horizon": "intraday",
+        "read": "With no follow-through either way, the afternoon move looks like a leverage flush that has settled rather than the start of a fresh leg down.",
+        "alt": "Thin post-holiday and weekend trading can hide selling pressure until liquidity returns on Monday.",
+        "change": "A daily close below $58,525 would meet Galaxy's warning level; a move back above $61,000 would undo the afternoon drop."
+      },
+      "sources": [
+        {"name": "Kraken", "url": "https://www.kraken.com/prices/bitcoin"},
+        {"name": "Cointelegraph", "url": "https://cointelegraph.com/markets/bitcoin-price-below-59k-anthropic-tech-stock-rebound"}
+      ]
+    },
+    {
+      "section": "BTC",
+      "impact": "🟠",
+      "confidence": "Medium",
+      "date": "2026-11-27",
+      "status": "New",
+      "title": "CryptoQuant: recovery needs Tether supply to grow again",
+      "why": "USDT on Ethereum and Tron fell $8.1 billion (4.4%) in the 60 days to 23 November to $174.5 billion, the biggest drop since August 2022, The Block reported. CryptoQuant found BTC averaged -9.5% over 60-day spells of shrinking USDT supply and +7.6% when it grew, and none of 39 record closes since 2022 came while supply fell.",
+      "caveat": "CryptoQuant also found about $2.8 billion of the fall was Binance moving USDT between chains, so part of the drop is not money leaving crypto.",
+      "note": {
+        "horizon": "swing",
+        "read": "Less stablecoin money on exchanges means less ready buying power, which fits the weak response to the stock rebound.",
+        "alt": "Stablecoin supply tends to follow price, so the fall may be a result of the sell-off rather than a cause.",
+        "change": "A clear rise in USDT supply over the next few weeks would weaken this headwind."
+      },
+      "sources": [
+        {"name": "The Block", "url": "https://www.theblock.co/news/markets/2026-11-27-cryptoquant-bitcoin-price-recovery-usdt-supply-growth-447560"}
+      ]
+    },
+    {
+      "section": "ZEC",
+      "impact": "🟠",
+      "confidence": "High",
+      "date": "2026-11-27",
+      "status": "No material change",
+      "title": "ZEC steady near $737, about 8% up on the day",
+      "why": "Kraken showed ZEC near $737 at 21:30 UK, against a day open of $682 and a high of $765, little changed since the afternoon edition's $739. It held up through the evening while bitcoin drifted.",
+      "sources": [
+        {"name": "Kraken", "url": "https://www.kraken.com/prices/zcash"}
+      ]
+    },
+    {
+      "section": "Whales",
+      "impact": "🟢",
+      "confidence": "Medium",
+      "date": "2026-11-27",
+      "status": "New",
+      "title": "Large holders added about 121,000 BTC during the fall",
+      "why": "Addresses holding 1,000 to 10,000 BTC added about 121,000 BTC between 30 September and 21 November, taking them to nearly 2.95 million BTC, while their unrealised profit fell 81% to $23.8 billion, Cointelegraph reported, citing CryptoQuant. Such holders cut balances in seven of the nine previous fourth quarters since 2017.",
+      "caveat": "Address groups can include exchange and custody wallets, so a rising balance is not proof of new buying by individuals.",
+      "sources": [
+        {"name": "Cointelegraph", "url": "https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion"}
+      ]
+    },
+    {
+      "section": "Markets",
+      "impact": "🟢",
+      "confidence": "Medium",
+      "date": "2026-11-27",
+      "status": "New",
+      "title": "Binance says withdrawals fully restored after $6.3 billion hack",
+      "why": "Binance said its withdrawal recovery is complete, with a few networks paused for unrelated maintenance, Bitcoin Magazine reported. The exchange said it covered losses with over $6.34 billion of its own funds, and US authorities say more than $2.9 billion has been frozen, seized or returned. It removes one source of exchange stress.",
+      "sources": [
+        {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/news/binance-lifts-withdrawal-suspension-hack"}
+      ]
+    },
+    {
+      "section": "Beyond",
+      "impact": "🟢",
+      "confidence": "Medium",
+      "date": "2026-11-27",
+      "status": "New",
+      "title": "Russia's VTB opens bitcoin trading for retail clients",
+      "why": "VTB began letting clients trade bitcoin in its app a day after the Bank of Russia approved a knowledge test; non-qualified buyers are capped at 300,000 roubles a year, Bitcoin Magazine reported. SPB Exchange opens rouble spot trading in BTC, ETH and USDT on 1 December.",
+      "sources": [
+        {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/news/russia-vtb-bitcoin-trading-crypto-test"}
+      ]
+    }
+  ],
+  "explained": {
+    "title": "Why stablecoin supply matters",
+    "body": [
+      "Stablecoins such as USDT are digital dollars that traders hold on exchanges, ready to buy crypto. When new ones are issued, it usually means fresh money is coming into the market; when they are redeemed and destroyed, money is leaving.",
+      "That is why analysts watch total supply as a rough gauge of buying power. It is imperfect: coins move between blockchains, and supply often reacts to price rather than leading it."
+    ]
+  },
+  "investigating": [
+    "Did US spot bitcoin ETFs see outflows on Wednesday and Friday? Evidence: issuer flow figures, not yet confirmed from a primary source when this edition went out.",
+    "Does bitcoin close today and the week above $58,525? Evidence: the daily close at 00:00 UK tonight and the weekly close at 00:00 UK on Monday.",
+    "What is the proposal to move about $300 million of ZEC out of an older shielded pool? Evidence: the original proposal on the Zcash forum; a separate forum thread today corrected an earlier claim that the Tachyon design breaks public auditing."
+  ],
+  "corrections": [],
+  "ahead": [
+    {"when": "Sat 28 Nov 00:00 UK", "impact": "🟢", "what": "Bitcoin daily close (Galaxy's warning level $58,525)"},
+    {"when": "Sat 28 Nov", "impact": "🟢", "what": "Fed pre-meeting blackout begins"},
+    {"when": "Mon 30 Nov 00:00 UK", "impact": "🟢", "what": "Bitcoin weekly close"},
+    {"when": "Mon 30 Nov", "impact": "🟢", "what": "KuCoin delists Monero"},
+    {"when": "Tue 1 Dec 02:59 UK", "impact": "🟢", "what": "Zcash NU7.1 coinholder and ZCAP polls close"},
+    {"when": "Fri 4 Dec 13:30 UK", "impact": "🟠", "what": "US jobs report (November)"},
+    {"when": "Wed 9 Dec 19:00 UK", "impact": "🔴", "what": "Fed rate decision and projections"}
+  ]
+}
