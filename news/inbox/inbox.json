@@ -1,5 +1,15 @@
 [
 {
+"id": "4b2c934570ffa2cb",
+"title": "Nvidia's Blackwell Chips Turn Up in China as Trump Floats Government Stake",
+"link": "https://decrypt.co/384153/nvidias-blackwell-chips-turn-up-in-china-as-trump-floats-government-stake",
+"published": "2026-11-27T17:09:30Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-27T17:37:16Z"
+},
+{
 "id": "02a1084bc4d4beac",
 "title": "Russia’s VTB Opens Bitcoin Trading as Central Bank Finalizes Crypto Test",
 "link": "https://bitcoinmagazine.com/news/russia-vtb-bitcoin-trading-crypto-test",
@@ -5038,46 +5048,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-20T17:59:15Z"
-},
-{
-"id": "da9cc5ebd5f30535",
-"title": "Cook, The U.S. Economy in Global Context",
-"link": "https://www.federalreserve.gov/newsevents/speech/cook20261120a.htm",
-"published": "2026-11-20T17:15:00Z",
-"source": "Federal Reserve (speeches)",
-"desk": "Macro",
-"kind": "official",
-"first_seen": "2026-11-20T17:37:12Z"
-},
-{
-"id": "68a271432dc9f7c8",
-"title": "Bitcoin falls below $60K for first time since July amid broader market selloff",
-"link": "https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-20T16:55:51Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-20T17:07:09Z"
-},
-{
-"id": "078365a9a98b5c75",
-"title": "Researchers Publish Security Analysis of Bitcoin’s Post-Quantum SHRINCS Proposal",
-"link": "https://bitcoinmagazine.com/news/blockstream-shrincs-security-shrincs",
-"published": "2026-11-20T16:55:00Z",
-"source": "Bitcoin Magazine",
-"desk": "BTC",
-"kind": "news",
-"first_seen": "2026-11-20T17:07:09Z"
-},
-{
-"id": "ffbb3279ee4dcfd2",
-"title": "Grow with the floe",
-"link": "https://forum.zcashcommunity.com/t/grow-with-the-floe/59500",
-"published": "2026-11-20T16:41:21Z",
-"source": "Zcash Community Forum",
-"desk": "ZEC",
-"kind": "community",
-"first_seen": "2026-11-20T17:07:09Z"
 },
 {
 "id": "62496b2db1339ced",
