@@ -1,5 +1,25 @@
 [
 {
+"id": "8dc1f076e45c0302",
+"title": "$7 Billion in Bitcoin Options Just Expired: Here’s What It Means",
+"link": "https://decrypt.co/384154/7-billion-bitcoin-options-just-expired-what-it-means",
+"published": "2026-11-27T18:16:03Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-27T18:37:10Z"
+},
+{
+"id": "4ff74dbbccd96ef2",
+"title": "CryptoQuant says bitcoin price recovery needs USDT supply growth",
+"link": "https://www.theblock.co/news/markets/2026-11-27-cryptoquant-bitcoin-price-recovery-usdt-supply-growth-447560",
+"published": "2026-11-27T18:13:45Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-27T18:37:10Z"
+},
+{
 "id": "7780e857cf32a700",
 "title": "Binance Fully Lifts Withdrawal Suspension a Month After $6.3 Billion Hack",
 "link": "https://bitcoinmagazine.com/news/binance-lifts-withdrawal-suspension-hack",
@@ -5030,46 +5050,6 @@
 "first_seen": "2026-11-20T19:07:11Z"
 },
 {
-"id": "de9f26cf344d7151",
-"title": "Binance hack laundering ramps up as $149 million in bitcoin mixed through coinjoins: Elliptic",
-"link": "https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758",
-"published": "2026-11-20T18:22:39Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-20T18:37:09Z"
-},
-{
-"id": "badbd3469a1100bd",
-"title": "JPMorgan says bitcoin price correction widens gap to estimated $86,000 production cost",
-"link": "https://www.theblock.co/news/markets/2026-11-20-jpmorgan-bitcoin-price-correction-gap-86000-production-cost-444763",
-"published": "2026-11-20T18:17:39Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-20T18:37:09Z"
-},
-{
-"id": "0b82445c00ab8f10",
-"title": "Google Gives Gemini Control of Mac Apps, But Its New AI Agent Comes With Risks",
-"link": "https://decrypt.co/383733/google-gives-gemini-control-mac-apps-ai-agent",
-"published": "2026-11-20T18:16:02Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-20T18:37:09Z"
-},
-{
-"id": "aa650f223215decb",
-"title": "Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play",
-"link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play",
-"published": "2026-11-20T18:13:52Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-20T18:37:09Z"
-},
-{
 "id": "da9cc5ebd5f30535",
 "title": "Cook, The U.S. Economy in Global Context",
 "link": "https://www.federalreserve.gov/newsevents/speech/cook20261120a.htm",
@@ -5388,6 +5368,16 @@
 "desk": "Macro",
 "kind": "official",
 "first_seen": "2026-11-20T23:37:15Z"
+},
+{
+"id": "9c459691928d5f6a",
+"title": "Bitcoin Optech Newsletter #431",
+"link": "https://bitcoinops.org/en/newsletters/2026/11/13/",
+"published": "2026-11-13T00:00:00Z",
+"source": "Bitcoin Optech",
+"desk": "Protocol",
+"kind": "protocol",
+"first_seen": "2026-11-27T18:37:10Z"
 },
 {
 "id": "82ba770a292c7512",
