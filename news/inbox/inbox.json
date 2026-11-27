@@ -1,5 +1,35 @@
 [
 {
+"id": "6aa9470303fff809",
+"title": "Did Tachyon \"break\" public auditing? No, and I want to correct how I framed this",
+"link": "https://forum.zcashcommunity.com/t/did-tachyon-break-public-auditing-no-and-i-want-to-correct-how-i-framed-this/59726",
+"published": "2026-11-27T20:04:12Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-27T20:07:10Z"
+},
+{
+"id": "509835f86ae73a97",
+"title": "Price Predictions Page",
+"link": "https://forum.zcashcommunity.com/t/price-predictions-page/59725",
+"published": "2026-11-27T19:54:13Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-27T20:07:10Z"
+},
+{
+"id": "dc5658eb878e674a",
+"title": "4 Scary Bitcoin Charts That Suggest This Bear Market Is Different",
+"link": "https://decrypt.co/384177/bitcoin-4-scary-charts-crypto-winter-bear-market",
+"published": "2026-11-27T19:46:02Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-27T20:07:10Z"
+},
+{
 "id": "64f18ce021344c93",
 "title": "Bitcoin whales pile into BTC despite shrinking profit cushion",
 "link": "https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -4980,36 +5010,6 @@
 "first_seen": "2026-11-20T21:07:09Z"
 },
 {
-"id": "92c1ae3f205aee25",
-"title": "Rep. Casten seeks to curb prediction market insider trading with DOJ whistleblower program",
-"link": "https://www.theblock.co/news/regulation/2026-11-20-rep-casten-seeks-curb-prediction-market-insider-trading-doj-whistleblower-program-444779",
-"published": "2026-11-20T19:41:52Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-20T20:07:09Z"
-},
-{
-"id": "cf581ff78a34e44e",
-"title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
-"link": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-20T19:37:27Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-20T20:07:09Z"
-},
-{
-"id": "025971e2762c6955",
-"title": "SBF’s 'The Altruists' Plot Twist: FTX’s Anthropic Shares Would Be Worth $43 Billion",
-"link": "https://decrypt.co/383739/sbf-altruists-ftx-anthropic-shares-worth-43-billion",
-"published": "2026-11-20T19:36:03Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-20T19:37:11Z"
-},
-{
 "id": "7b21191f46e7b4cd",
 "title": "MSTR Head of Investor Relations Addresses Bitcoin Pullback, Equity Performance",
 "link": "https://bitcoinmagazine.com/videos/mstr-head-of-investor-relations-addresses-bitcoin-pullback-equity-performance",
@@ -5018,16 +5018,6 @@
 "desk": "BTC",
 "kind": "news",
 "first_seen": "2026-11-20T20:37:10Z"
-},
-{
-"id": "859b525175aed2ab",
-"title": "SEC Freezes Assets in $560 Million Crypto Trading Ponzi Scheme",
-"link": "https://bitcoinmagazine.com/news/sec-freezes-crypto-560-million-ponzi",
-"published": "2026-11-20T19:15:56Z",
-"source": "Bitcoin Magazine",
-"desk": "BTC",
-"kind": "news",
-"first_seen": "2026-11-20T19:37:11Z"
 },
 {
 "id": "da9cc5ebd5f30535",
