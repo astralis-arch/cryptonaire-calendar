@@ -1,5 +1,45 @@
 [
 {
+"id": "320e6c3419def542",
+"title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
+"link": "https://www.coindesk.com/policy/2026/11/27/next-ecb-chief-favors-tokenized-bank-deposits-over-stablecoins-and-bitcoin",
+"published": "2026-11-27T11:22:42Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-27T11:37:09Z"
+},
+{
+"id": "981f15dd50f8d688",
+"title": "Kalshi Courts Small Businesses With 'Microinsurance' as State Crackdowns Bite",
+"link": "https://decrypt.co/384118/kalshi-courts-small-businesses-with-microinsurance-as-state-crackdowns-bite",
+"published": "2026-11-27T11:19:47Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-27T11:37:09Z"
+},
+{
+"id": "03b8bfa58bc7e332",
+"title": "Bitcoin supply metric hits 11-year low as new ‘capitulation’ signal arrives",
+"link": "https://cointelegraph.com/markets/bitcoin-supply-metric-new-capitulation-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-27T11:14:28Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-27T11:37:09Z"
+},
+{
+"id": "851aff3d99e2f477",
+"title": "Injective asks SEC to allow order books for tokenized stock trading",
+"link": "https://www.coindesk.com/markets/2026/11/27/injective-asks-sec-to-allow-order-books-for-tokenized-stock-trading",
+"published": "2026-11-27T11:07:17Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-27T11:37:09Z"
+},
+{
 "id": "ec46fa9b480f244c",
 "title": "Brazil’s stock exchange teams up with major banks to launch real-pegged stablecoin",
 "link": "https://www.coindesk.com/business/2026/11/27/brazil-s-stock-exchange-teams-up-with-major-banks-to-launch-real-pegged-stablecoin",
@@ -5158,46 +5198,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-20T11:37:10Z"
-},
-{
-"id": "7ff7c5e830bdda34",
-"title": "VanEck to end Gemini ETF custody deals, keeps Coinbase",
-"link": "https://cointelegraph.com/news/vaneck-gemini-etf-custody-end-keep-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-20T10:54:38Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-20T11:07:10Z"
-},
-{
-"id": "658b48c60c24e161",
-"title": "Coinbase targets first-half 2027 for its own prediction market contracts",
-"link": "https://www.coindesk.com/business/2026/11/20/coinbase-targets-first-half-2027-for-its-own-prediction-market-contracts",
-"published": "2026-11-20T10:48:04Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-20T11:07:10Z"
-},
-{
-"id": "1875243ba8bb772d",
-"title": "MoonPay applies for national trust bank charter to expand stablecoin services",
-"link": "https://www.theblock.co/news/business/2026-11-20-moonpay-applies-occ-national-bank-charter-444198",
-"published": "2026-11-20T10:39:09Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-20T11:07:10Z"
-},
-{
-"id": "fb1f79943503a6d6",
-"title": "Bitcoin nears repeat of chart pattern that preceded 2023’s $25K retest",
-"link": "https://cointelegraph.com/markets/bitcoin-first-death-cross-repeat-2023-bottom-25k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-20T10:29:10Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-20T11:07:10Z"
 },
 {
 "id": "e3ce744aff580e24",
