@@ -1,5 +1,15 @@
 [
 {
+"id": "41e5783844aa96c3",
+"title": "Outdated documentation over at zcash.readthedocs.io :open_book:",
+"link": "https://forum.zcashcommunity.com/t/outdated-documentation-over-at-zcash-readthedocs-io/59705",
+"published": "2026-11-27T06:01:08Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-27T06:07:09Z"
+},
+{
 "id": "823696b5e8ddd14c",
 "title": "Japan’s crypto security group taps SEAL to speed up hack response",
 "link": "https://cointelegraph.com/news/japans-crypto-security-group-taps-seal-to-speed-up-hack-response?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -5208,26 +5218,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-20T06:37:13Z"
-},
-{
-"id": "bec4ce241599fccf",
-"title": "This Bitcoin miner sold 267 BTC to clear $22 million debt. It still may not survive",
-"link": "https://www.coindesk.com/markets/2026/11/20/this-bitcoin-miner-sold-267-btc-to-clear-usd22-million-debt-it-still-may-not-survive",
-"published": "2026-11-20T05:32:25Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-20T05:37:10Z"
-},
-{
-"id": "b58f38cb7ed88571",
-"title": "Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of selling",
-"link": "https://www.coindesk.com/markets/2026/11/20/big-money-bought-a-net-usd4-billion-of-bitcoin-funds-in-q3-ending-9-months-of-selling",
-"published": "2026-11-20T05:20:51Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-20T05:37:10Z"
 },
 {
 "id": "e3ce744aff580e24",
