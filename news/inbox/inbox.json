@@ -20,6 +20,16 @@
 "first_seen": "2026-11-27T15:07:09Z"
 },
 {
+"id": "c6a464312509b006",
+"title": "Peter St. Onge: “Massively Bullish” for Bitcoin if Fed Abandons 2% Inflation Target",
+"link": "https://bitcoinmagazine.com/videos/peter-st-onge-massively-bullish-for-bitcoin-if-fed-abandons-2-inflation-target",
+"published": "2026-11-27T14:45:09Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-27T15:37:11Z"
+},
+{
 "id": "0bdbf94a7b28c3b9",
 "title": "The Forge Report #005: Motion!",
 "link": "https://forum.zcashcommunity.com/t/the-forge-report-005-motion/59718",
@@ -5130,16 +5140,6 @@
 "first_seen": "2026-11-20T15:37:17Z"
 },
 {
-"id": "62496b2db1339ced",
-"title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
-"link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
-"published": "2026-11-20T15:00:00Z",
-"source": "Federal Reserve (press)",
-"desk": "Macro",
-"kind": "official",
-"first_seen": "2026-11-20T15:07:11Z"
-},
-{
 "id": "fa89f5e5b31afea7",
 "title": "Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street",
 "link": "https://www.coindesk.com/markets/2026/11/20/former-point72-head-of-proprietary-research-says-ai-could-turn-data-into-a-new-asset-class-for-wall-street",
@@ -5148,36 +5148,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-20T16:07:10Z"
-},
-{
-"id": "65aa7ebf45530599",
-"title": "Rep. Horsford sees opening for House vote on crypto tax bill before Congress ends",
-"link": "https://www.theblock.co/news/regulation/2026-11-20-rep-horsford-sees-opening-house-vote-crypto-tax-bill-before-congress-ends-444720",
-"published": "2026-11-20T14:51:32Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-20T15:07:11Z"
-},
-{
-"id": "964535a5b8134c83",
-"title": "Block Says Most Bitcoin Payments on Square Are for Coffee and Food",
-"link": "https://bitcoinmagazine.com/news/block-square-bitcoin-payments-report",
-"published": "2026-11-20T14:45:00Z",
-"source": "Bitcoin Magazine",
-"desk": "BTC",
-"kind": "news",
-"first_seen": "2026-11-20T15:07:11Z"
-},
-{
-"id": "310c38d8fac06fd5",
-"title": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
-"link": "https://www.coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians",
-"published": "2026-11-20T14:38:30Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-20T15:07:11Z"
 },
 {
 "id": "b31d9867d890f456",
