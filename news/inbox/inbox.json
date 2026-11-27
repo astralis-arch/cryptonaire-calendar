@@ -1,5 +1,15 @@
 [
 {
+"id": "64f18ce021344c93",
+"title": "Bitcoin whales pile into BTC despite shrinking profit cushion",
+"link": "https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-27T19:23:00Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-27T19:37:11Z"
+},
+{
 "id": "8dc1f076e45c0302",
 "title": "$7 Billion in Bitcoin Options Just Expired: Here’s What It Means",
 "link": "https://decrypt.co/384154/7-billion-bitcoin-options-just-expired-what-it-means",
@@ -5018,36 +5028,6 @@
 "desk": "BTC",
 "kind": "news",
 "first_seen": "2026-11-20T19:37:11Z"
-},
-{
-"id": "19aa11826f06d22a",
-"title": "Cupcake v1.2.0 brings full Zcash shielded support!",
-"link": "https://forum.zcashcommunity.com/t/cupcake-v1-2-0-brings-full-zcash-shielded-support/59505",
-"published": "2026-11-20T18:57:42Z",
-"source": "Zcash Community Forum",
-"desk": "ZEC",
-"kind": "community",
-"first_seen": "2026-11-20T19:07:11Z"
-},
-{
-"id": "4a76513d827de884",
-"title": "Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure",
-"link": "https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure",
-"published": "2026-11-20T18:46:03Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-20T19:07:11Z"
-},
-{
-"id": "04b987ace09ab679",
-"title": "Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims",
-"link": "https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-20T18:37:10Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-20T19:07:11Z"
 },
 {
 "id": "da9cc5ebd5f30535",
