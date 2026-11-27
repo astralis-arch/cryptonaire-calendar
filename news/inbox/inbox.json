@@ -1,5 +1,25 @@
 [
 {
+"id": "72634380a990891e",
+"title": "Tether can freeze stolen crypto in minutes. Getting it back can take years.",
+"link": "https://www.coindesk.com/business/2026/11/27/tether-can-freeze-stolen-crypto-in-minutes-getting-it-back-can-take-years",
+"published": "2026-11-27T10:00:00Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-27T10:07:09Z"
+},
+{
+"id": "3784e54368040810",
+"title": "Bitcoin tops $61,000 as Nasdaq futures extend Wednesday’s rebound",
+"link": "https://www.coindesk.com/markets/2026/11/27/bitcoin-tops-usd61-000-as-nasdaq-futures-extend-wednesday-s-rebound",
+"published": "2026-11-27T09:49:55Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-27T10:07:09Z"
+},
+{
 "id": "4f4e9ccc15c576e1",
 "title": "ESMA to overhaul EU’s MiCA crypto register in 2027",
 "link": "https://cointelegraph.com/news/esma-overhaul-eu-mica-crypto-register-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -5528,6 +5548,16 @@
 "desk": "Macro",
 "kind": "official",
 "first_seen": "2026-11-24T10:24:07Z"
+},
+{
+"id": "523fcaffe803342d",
+"title": "Bitcoin Optech Newsletter #430",
+"link": "https://bitcoinops.org/en/newsletters/2026/11/06/",
+"published": "2026-11-06T00:00:00Z",
+"source": "Bitcoin Optech",
+"desk": "Protocol",
+"kind": "protocol",
+"first_seen": "2026-11-27T10:07:09Z"
 },
 {
 "id": "0224349908e0b1c1",
