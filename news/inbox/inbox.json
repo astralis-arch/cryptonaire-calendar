@@ -1,5 +1,15 @@
 [
 {
+"id": "deb9f554732c5994",
+"title": "OpenAI Turns the Tables on Apple With Its Own Trade-Secret Theft Claims",
+"link": "https://decrypt.co/384222/openai-countersuit-apple-trade-secret-theft-claims",
+"published": "2026-11-27T21:46:03Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-27T22:07:08Z"
+},
+{
 "id": "1e5683fe07925969",
 "title": "Franklin Templeton makes room for HYPE in crypto index ETF",
 "link": "https://cointelegraph.com/news/franklin-templeton-hype-crypto-index-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -4988,36 +4998,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-20T22:07:10Z"
-},
-{
-"id": "d84f1df3c5142394",
-"title": "Claude Claims Historic Math Breakthrough One Day After Anthropic IPO",
-"link": "https://decrypt.co/383747/claude-historic-math-breakthrough-anthropic-ipo",
-"published": "2026-11-20T21:36:02Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-20T21:37:09Z"
-},
-{
-"id": "137217fbade893d4",
-"title": "Federal Reserve announces College Fed Challenge winners",
-"link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
-"published": "2026-11-20T21:15:00Z",
-"source": "Federal Reserve (press)",
-"desk": "Macro",
-"kind": "official",
-"first_seen": "2026-11-20T21:37:09Z"
-},
-{
-"id": "1820edd0a778e27d",
-"title": "Bitcoin Price Slips to Lows Not Seen Since 2024, Nasdaq Plunges 5%",
-"link": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-58300-nasdaq",
-"published": "2026-11-20T21:08:02Z",
-"source": "Bitcoin Magazine",
-"desk": "BTC",
-"kind": "news",
-"first_seen": "2026-11-20T21:37:09Z"
 },
 {
 "id": "da9cc5ebd5f30535",
