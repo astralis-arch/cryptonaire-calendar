@@ -1,5 +1,25 @@
 [
 {
+"id": "02a1084bc4d4beac",
+"title": "Russia’s VTB Opens Bitcoin Trading as Central Bank Finalizes Crypto Test",
+"link": "https://bitcoinmagazine.com/news/russia-vtb-bitcoin-trading-crypto-test",
+"published": "2026-11-27T17:06:12Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-27T17:07:08Z"
+},
+{
+"id": "456e18aab967ea84",
+"title": "Bitcoin price drops below $59K as Anthropic joins tech stock rebound",
+"link": "https://cointelegraph.com/markets/bitcoin-price-below-59k-anthropic-tech-stock-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-27T16:48:51Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-27T17:07:08Z"
+},
+{
 "id": "ba28b1aaa6721ebe",
 "title": "AI-Powered GTA 6 PC Ports Now Have Multiplayer as Modders Unlock 30 and 60 FPS",
 "link": "https://decrypt.co/384138/ai-powered-gta-6-pc-ports-now-have-multiplayer-as-modders-unlock-30-and-60-fps",
@@ -5058,46 +5078,6 @@
 "desk": "ZEC",
 "kind": "community",
 "first_seen": "2026-11-20T17:07:09Z"
-},
-{
-"id": "8042aa1c0cdafcc8",
-"title": "Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February",
-"link": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
-"published": "2026-11-20T16:35:59Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-20T16:37:12Z"
-},
-{
-"id": "d7322dffbe1fce13",
-"title": "Grant Application — 8thGuard Voluntary Evidence Handoff Kit for Zcash — $25,000",
-"link": "https://forum.zcashcommunity.com/t/grant-application-8thguard-voluntary-evidence-handoff-kit-for-zcash-25-000/59498",
-"published": "2026-11-20T16:29:32Z",
-"source": "Zcash Community Forum",
-"desk": "ZEC",
-"kind": "community",
-"first_seen": "2026-11-20T16:37:12Z"
-},
-{
-"id": "9bde29ce51ef4341",
-"title": "U.S. Treasury Secretary Pushes Back on Bigger Fed Hike",
-"link": "https://bitcoinmagazine.com/markets/bessent-fed-bigger-rate-hike-bitcoin",
-"published": "2026-11-20T16:22:32Z",
-"source": "Bitcoin Magazine",
-"desk": "BTC",
-"kind": "news",
-"first_seen": "2026-11-20T16:37:12Z"
-},
-{
-"id": "d7f3e43f684b4571",
-"title": "Wagyu’s XMR1 wrapped Monero plunges 99% after $13 million hack as founder promises refunds",
-"link": "https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747",
-"published": "2026-11-20T16:11:22Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-20T16:37:12Z"
 },
 {
 "id": "62496b2db1339ced",
