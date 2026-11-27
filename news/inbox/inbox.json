@@ -1,5 +1,25 @@
 [
 {
+"id": "44dfadd1664c33ff",
+"title": "Ethereum devs set Glamsterdam’s Hoodi rollout for mid-December after delays",
+"link": "https://cointelegraph.com/news/ethereum-devs-set-glamsterdams-hoodi-rollout-for-mid-december-after-delays?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-27T04:47:36Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-27T05:07:21Z"
+},
+{
+"id": "313c61a20890712f",
+"title": "Binance says customer withdrawals are fully restored, four weeks after the $6.3 billion hack",
+"link": "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack",
+"published": "2026-11-27T04:45:47Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-27T05:07:21Z"
+},
+{
 "id": "893a578879fa7b5d",
 "title": "Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know",
 "link": "https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know",
@@ -5188,36 +5208,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-20T05:37:10Z"
-},
-{
-"id": "6429d534ac2dde1f",
-"title": "Ethereum’s next big upgrade is pushed into 2027 by apps it would break",
-"link": "https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break",
-"published": "2026-11-20T04:58:08Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-20T05:07:08Z"
-},
-{
-"id": "1edbff1ba71a871a",
-"title": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
-"link": "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs",
-"published": "2026-11-20T04:28:52Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-20T04:37:10Z"
-},
-{
-"id": "857de012b6004c86",
-"title": "Coinbase backs CFTC proposal to distinguish prediction market contracts from gambling",
-"link": "https://www.theblock.co/news/business/2026-11-19-coinbase-backs-cftc-prediction-markets-444152",
-"published": "2026-11-20T04:24:05Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-20T04:37:10Z"
 },
 {
 "id": "e3ce744aff580e24",
