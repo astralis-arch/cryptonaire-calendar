@@ -1,5 +1,15 @@
 [
 {
+"id": "101a6c5bdb2500fc",
+"title": "AI math breakthroughs revive Bitcoin security fears, but practical threat remains unproven: K33",
+"link": "https://www.theblock.co/news/ecosystems/2026-11-27-ai-math-breakthroughs-revive-bitcoin-security-fears-but-practical-threat-remains-unproven-k33-447549",
+"published": "2026-11-27T14:24:21Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-27T14:37:10Z"
+},
+{
 "id": "689defde595a6260",
 "title": "Bitcoin Price Trades Near $61,300 as Tech Stock Futures Rally",
 "link": "https://bitcoinmagazine.com/markets/bitcoin-price-61300-tech-futures",
@@ -5158,6 +5168,16 @@
 "desk": "BTC",
 "kind": "news",
 "first_seen": "2026-11-20T14:37:10Z"
+},
+{
+"id": "b31d9867d890f456",
+"title": "Waller, Opening Remarks",
+"link": "https://www.federalreserve.gov/newsevents/speech/waller20261120a.htm",
+"published": "2026-11-20T13:25:00Z",
+"source": "Federal Reserve (speeches)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-27T14:37:10Z"
 },
 {
 "id": "cf7a4b242930c0a0",
