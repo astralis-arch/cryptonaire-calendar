@@ -1,5 +1,15 @@
 [
 {
+"id": "4655f2966ead6c51",
+"title": "Could AI Break Bitcoin? Not Yet, Research Firm K33 Says",
+"link": "https://decrypt.co/384218/could-ai-break-bitcoin-not-yet-research-firm-k33-says",
+"published": "2026-11-27T20:46:02Z",
+"source": "Decrypt",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-27T21:07:09Z"
+},
+{
 "id": "6aa9470303fff809",
 "title": "Did Tachyon \"break\" public auditing? No, and I want to correct how I framed this",
 "link": "https://forum.zcashcommunity.com/t/did-tachyon-break-public-auditing-no-and-i-want-to-correct-how-i-framed-this/59726",
@@ -5008,16 +5018,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-20T21:07:09Z"
-},
-{
-"id": "7b21191f46e7b4cd",
-"title": "MSTR Head of Investor Relations Addresses Bitcoin Pullback, Equity Performance",
-"link": "https://bitcoinmagazine.com/videos/mstr-head-of-investor-relations-addresses-bitcoin-pullback-equity-performance",
-"published": "2026-11-20T19:24:55Z",
-"source": "Bitcoin Magazine",
-"desk": "BTC",
-"kind": "news",
-"first_seen": "2026-11-20T20:37:10Z"
 },
 {
 "id": "da9cc5ebd5f30535",
