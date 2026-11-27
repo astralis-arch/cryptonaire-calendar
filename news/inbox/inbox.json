@@ -1,5 +1,45 @@
 [
 {
+"id": "294d1c94e2f3aa92",
+"title": "Tether buys $10 million of Bitdeer shares as stock hovers near all-time low",
+"link": "https://www.theblock.co/news/business/2026-11-27-tether-buys-10-million-of-bitdeer-shares-as-stock-hovers-near-all-time-low-447554",
+"published": "2026-11-27T15:00:21Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-27T15:07:09Z"
+},
+{
+"id": "01a689e089e5d672",
+"title": "Spain Lets Anti-Money Laundering Unit Freeze Crypto Accounts Without a Judge",
+"link": "https://bitcoinmagazine.com/news/spain-sepblac-freeze-crypto-accounts",
+"published": "2026-11-27T15:00:00Z",
+"source": "Bitcoin Magazine",
+"desk": "BTC",
+"kind": "news",
+"first_seen": "2026-11-27T15:07:09Z"
+},
+{
+"id": "0bdbf94a7b28c3b9",
+"title": "The Forge Report #005: Motion!",
+"link": "https://forum.zcashcommunity.com/t/the-forge-report-005-motion/59718",
+"published": "2026-11-27T14:42:51Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-27T15:07:09Z"
+},
+{
+"id": "84d16355a4657640",
+"title": "What was Coinbase worth while Nasdaq was closed?",
+"link": "https://cointelegraph.com/news/what-was-coinbase-worth-while-nasdaq-was-closed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-27T14:40:54Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-27T15:07:09Z"
+},
+{
 "id": "101a6c5bdb2500fc",
 "title": "AI math breakthroughs revive Bitcoin security fears, but practical threat remains unproven: K33",
 "link": "https://www.theblock.co/news/ecosystems/2026-11-27-ai-math-breakthroughs-revive-bitcoin-security-fears-but-practical-threat-remains-unproven-k33-447549",
@@ -5138,36 +5178,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-20T15:07:11Z"
-},
-{
-"id": "df4522a7f722f68e",
-"title": "Wintermute policy chief calls for crypto lobby to ‘clean house’ in D.C.",
-"link": "https://www.theblock.co/news/regulation/2026-11-20-wintermute-policy-chief-calls-for-crypto-lobby-clean-house-d-c-444721",
-"published": "2026-11-20T14:36:10Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-20T14:37:10Z"
-},
-{
-"id": "5d53c954bbb620c9",
-"title": "U.S. Senate passes bill to ban prediction market bets on war and death",
-"link": "https://www.coindesk.com/policy/2026/11/20/u-s-senated-passes-bill-to-ban-prediction-market-best-on-war-and-death",
-"published": "2026-11-20T14:25:57Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-20T14:37:10Z"
-},
-{
-"id": "2f95ac293962961a",
-"title": "Bitcoin Hovers Just Above Average Holder’s Cost Basis as Price Keeps Dipping",
-"link": "https://bitcoinmagazine.com/markets/bitcoin-hovers-above-realized-price",
-"published": "2026-11-20T14:25:00Z",
-"source": "Bitcoin Magazine",
-"desk": "BTC",
-"kind": "news",
-"first_seen": "2026-11-20T14:37:10Z"
 },
 {
 "id": "b31d9867d890f456",
