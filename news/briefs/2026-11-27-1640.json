@@ -1,0 +1,141 @@
+{
+  "generated": "2026-11-27T16:40:00Z",
+  "mood": "risk-off",
+  "briefing": {
+    "developments": [
+      "Bitcoin fell from about $61,400 to a low of $58,729 on Kraken within an hour of the US open at 14:30 UK, and traded near $60,000 at 16:30 UK; about $190 million of positions, mostly longs, were forced shut in that hour, TokenPost reported.",
+      "The drop came while US stocks rose, with the Nasdaq 100 up nearly 2% by late morning New York time, though Nvidia fell more than 2%, CoinDesk reported.",
+      "Zcash fell with the market, from about $760 to a low of $710 on Kraken, and was near $739 at 16:30 UK, still well up on the day."
+    ],
+    "changed": "Weaker than the morning. The overnight bounce held through the 08:00 UK options expiry but gave way at the US open, and bitcoin is back to roughly where it stood on Thursday evening. The low stayed about $200 above Galaxy's $58,525 daily-close level.",
+    "question": "Can bitcoin close the day and the week above Galaxy's $58,525 level, or was the morning bounce a squeeze that has now run out?",
+    "watch": "US stocks close early at 18:00 UK; then the weekly candle closes at 00:00 UK on Sunday night. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
+  },
+  "lead": {
+    "headline": "Bitcoin slips back to $60,000 as US open triggers long liquidations",
+    "standfirst": "A morning bounce above $62,000 unwound within an hour of Wall Street's reopening, even as technology stocks rallied.",
+    "body": [
+      "Bitcoin fell from about $61,400 to a low of $58,729 on Kraken in the hour after US markets opened at 14:30 UK on Friday, according to Kraken data, and traded near $60,000 at 16:30 UK.",
+      "About $190 million of positions were forced shut in the hour of the drop, $182 million of them bets on rising prices, TokenPost reported. Ether fell about 4% to near $1,660 over the same hour.",
+      "The fall came as US stocks reopened higher after Thanksgiving. The Nasdaq 100 was up nearly 2% by late morning in New York, though Nvidia fell more than 2%, CoinDesk reported. No single crypto-specific trigger was reported.",
+      "The low stayed just above $58,525, the level at which Galaxy Digital said a daily close would mark 'the start of a move to a materially lower low'. In a report this week Galaxy withdrew its call that the bear market ended in June, Bitcoin Magazine reported. Glassnode said buy orders cluster between $50,000 and $58,000, according to CoinDesk.",
+      "Zcash fell from about $760 to $710 in the same move and recovered to near $739, still up on the day. US markets close early at 18:00 UK, and bitcoin is on course for its first weekly gain in eight weeks if it holds until Sunday's close, CoinDesk reported."
+    ]
+  },
+  "headline": "Bitcoin gave up its morning bounce at the US open, falling to $58,729 before steadying near $60,000 as about $190 million of longs were liquidated. The low stayed just above Galaxy's $58,525 warning level.",
+  "spoken": "Cryptonaire Post, afternoon edition. A weaker afternoon. Bitcoin dropped from about sixty one thousand four hundred dollars to fifty eight thousand seven hundred within an hour of the US open, and is now around sixty thousand. About one hundred and ninety million dollars of bullish bets were forced shut, even though US tech stocks were rising. The low stayed just above Galaxy's warning level of fifty eight thousand five hundred. Zcash dipped to seven hundred and ten dollars and is back near seven hundred and forty. US stocks close early at six this evening. The next red event is the Fed decision on the ninth of December at seven in the evening. Information only, not advice.",
+  "stories": [
+    {
+      "section": "BTC",
+      "impact": "🔴",
+      "confidence": "High",
+      "date": "2026-11-27",
+      "status": "Outlook changed",
+      "title": "Bitcoin drops to $58,729 at the US open, now near $60,000",
+      "why": "Kraken showed BTC falling from about $61,400 to $58,729 between 14:00 and 15:30 UK, after a morning high of $62,139 around the options expiry. About $190 million was liquidated in the hour, $182 million of it longs, TokenPost reported. That reverses the morning's bounce, which this paper described as holding above $61,000.",
+      "caveat": "Liquidation totals come from a single outlet citing aggregator data; CoinDesk did not give a figure for the drop.",
+      "note": {
+        "horizon": "intraday",
+        "read": "Leverage rebuilt during the thin holiday bounce (CoinDesk reported open interest up 2.1% this morning) and was flushed once US liquidity returned.",
+        "alt": "US holders may simply have sold into the first full session after Thanksgiving, which would show up as spot ETF outflows next week.",
+        "change": "A daily close below $58,525 would match Galaxy's warning level; a recovery back above $61,000 would make this look like a one-off flush."
+      },
+      "sources": [
+        {"name": "Kraken", "url": "https://www.kraken.com/prices/bitcoin"},
+        {"name": "TokenPost", "url": "https://www.tokenpost.com/news/investing/63728"},
+        {"name": "CoinDesk", "url": "https://www.coindesk.com/tech/2026/11/27/live-news-bitcoin-rebounds-above-usd61-000-as-ai-stocks-lead-premarket-gains"}
+      ]
+    },
+    {
+      "section": "Markets",
+      "impact": "🟠",
+      "confidence": "High",
+      "date": "2026-11-27",
+      "status": "New",
+      "title": "Crypto falls while US stocks rally after Thanksgiving",
+      "why": "The Nasdaq 100 was up nearly 2% by late morning in New York and the S&P 500 and Dow were each up about 4% on the week, but bitcoin's early gains faded within 20 minutes of the open; Nvidia fell more than 2%, CoinDesk reported. Bitcoin is trailing the stock rebound rather than following it.",
+      "note": {
+        "horizon": "swing",
+        "read": "Crypto is not getting the usual lift from a tech rally, which points to crypto-specific selling such as ETF outflows and leverage.",
+        "alt": "The Nvidia drop may have hit the AI-linked trades that crypto has tracked lately, so the gap could close if chips recover.",
+        "change": "Bitcoin rising alongside the Nasdaq next week would weaken the idea that the selling is crypto-specific."
+      },
+      "sources": [
+        {"name": "CoinDesk", "url": "https://www.coindesk.com/tech/2026/11/27/live-news-bitcoin-rebounds-above-usd61-000-as-ai-stocks-lead-premarket-gains"},
+        {"name": "CoinDesk", "url": "https://www.coindesk.com/markets/2026/11/27/bitcoin-on-course-to-end-seven-week-losing-streak-while-trailing-stock-rebound"}
+      ]
+    },
+    {
+      "section": "ZEC",
+      "impact": "🟠",
+      "confidence": "High",
+      "date": "2026-11-27",
+      "status": "Developing",
+      "title": "ZEC dips to $710 with the market, holds most of its gain",
+      "why": "Kraken showed ZEC falling from about $760 to $710 in the US-open sell-off and trading near $739 at 16:30 UK, still about 8% above the day's open of $682. CoinDesk reported ZEC open interest up 7.7% earlier, and that developers have proposed moving about $300 million of ZEC out of an older shielded pool.",
+      "caveat": "The shielded-pool proposal is reported by CoinDesk in a market round-up; we have not yet read the original proposal.",
+      "sources": [
+        {"name": "Kraken", "url": "https://www.kraken.com/prices/zcash"},
+        {"name": "CoinDesk", "url": "https://www.coindesk.com/markets/2026/11/27/bitcoin-on-course-to-end-seven-week-losing-streak-while-trailing-stock-rebound"}
+      ]
+    },
+    {
+      "section": "BTC",
+      "impact": "🟠",
+      "confidence": "Medium",
+      "date": "2026-11-27",
+      "status": "Developing",
+      "title": "Galaxy withdraws its 'bear market ended' call",
+      "why": "Galaxy's Alex Thorn wrote that 'the signal it rested on has failed' and that the bear market is 'very likely not over', Bitcoin Magazine reported. Galaxy said a daily close below $58,525 would start a move to a materially lower low; today's low was about $200 above that. It also estimated US spot ETFs have shed 71,339 BTC ($4.95 billion) since 4 October.",
+      "sources": [
+        {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/markets/galaxy-withdraws-bitcoin-bear"}
+      ]
+    },
+    {
+      "section": "BTC",
+      "impact": "🟢",
+      "confidence": "Medium",
+      "date": "2026-11-27",
+      "status": "New",
+      "title": "A bitcoin 'death cross' is close",
+      "why": "The 50-day average is only about 3.45% above the 200-day, down from 12% a month ago, CoinDesk reported. After 13 past crosses the median further drop was about 24%, but three were near duds and the signal lags price.",
+      "sources": [
+        {"name": "CoinDesk", "url": "https://www.coindesk.com/daybook-us/2026/11/27/bitcoin-death-cross-is-coming-here-s-what-happened-after-previous-13"}
+      ]
+    },
+    {
+      "section": "Markets",
+      "impact": "🟢",
+      "confidence": "High",
+      "date": "2026-11-27",
+      "status": "New",
+      "title": "Tether buys $10 million more of miner Bitdeer",
+      "why": "Tether bought 3.72 million Bitdeer shares at about $2.69 on 25 November, taking its stake to 17.9%, according to a filing reported by The Block. Bitdeer is down 74% this year, a sign of the strain on bitcoin miners.",
+      "sources": [
+        {"name": "The Block", "url": "https://www.theblock.co/news/business/2026-11-27-tether-buys-10-million-of-bitdeer-shares-as-stock-hovers-near-all-time-low-447554"}
+      ]
+    }
+  ],
+  "explained": {
+    "title": "What a long liquidation is",
+    "body": [
+      "Traders who borrow to bet on rising prices (longs) must keep enough collateral on the exchange. When the price falls far enough, the exchange closes the position automatically by selling.",
+      "Those forced sales push the price lower, which can trigger the next batch. That is why a drop like today's can happen in minutes and then stop once the leverage has been cleared."
+    ]
+  },
+  "investigating": [
+    "Did US spot bitcoin ETFs see outflows on Wednesday and Friday? Evidence: issuer flow figures, which were not yet published when this edition went out.",
+    "Does bitcoin close today above $58,525? Evidence: the daily close at 00:00 UK.",
+    "What exactly is the proposal to move about $300 million of ZEC out of an older shielded pool? Evidence: the original proposal on the Zcash forum."
+  ],
+  "corrections": [],
+  "ahead": [
+    {"when": "Fri 27 Nov 18:00 UK", "impact": "🟢", "what": "US markets early close"},
+    {"when": "Sat 28 Nov", "impact": "🟢", "what": "Fed pre-meeting blackout begins"},
+    {"when": "Mon 30 Nov 00:00 UK", "impact": "🟢", "what": "Bitcoin weekly close (CoinDesk: on course for first weekly gain in eight weeks)"},
+    {"when": "Mon 30 Nov", "impact": "🟢", "what": "KuCoin delists Monero"},
+    {"when": "Tue 1 Dec 02:59 UK", "impact": "🟢", "what": "Zcash NU7.1 coinholder and ZCAP polls close"},
+    {"when": "Fri 4 Dec 13:30 UK", "impact": "🟠", "what": "US jobs report (November)"},
+    {"when": "Wed 9 Dec 19:00 UK", "impact": "🔴", "what": "Fed rate decision and projections"}
+  ]
+}
