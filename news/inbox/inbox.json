@@ -1,5 +1,25 @@
 [
 {
+"id": "da51f2da58eae8dc",
+"title": "Bitcoin on course to end seven-week losing streak while trailing stock rebound",
+"link": "https://www.coindesk.com/markets/2026/11/27/bitcoin-on-course-to-end-seven-week-losing-streak-while-trailing-stock-rebound",
+"published": "2026-11-27T11:45:47Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-27T12:07:15Z"
+},
+{
+"id": "1c75fb617e685292",
+"title": "Live news: Bitcoin rebounds above $61,000 as AI stocks lead premarket gains",
+"link": "https://www.coindesk.com/tech/2026/11/27/live-news-bitcoin-rebounds-above-usd61-000-as-ai-stocks-lead-premarket-gains",
+"published": "2026-11-27T11:34:37Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-27T12:07:15Z"
+},
+{
 "id": "320e6c3419def542",
 "title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
 "link": "https://www.coindesk.com/policy/2026/11/27/next-ecb-chief-favors-tokenized-bank-deposits-over-stablecoins-and-bitcoin",
@@ -5140,36 +5160,6 @@
 "first_seen": "2026-11-20T12:37:15Z"
 },
 {
-"id": "5612d4fb11e2abba",
-"title": "Bitcoin ETFs Shed $582M in a Day as BTC Drops Below $62K",
-"link": "https://decrypt.co/383685/bitcoin-etfs-shed-582m-in-a-day-as-btc-drops-below-62k",
-"published": "2026-11-20T11:50:51Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-20T12:07:09Z"
-},
-{
-"id": "bef66a471b57336b",
-"title": "Bitcoin drops for third straight day as Asian tech shares slide",
-"link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-drops-for-third-straight-day-as-asian-tech-shares-slide",
-"published": "2026-11-20T11:42:02Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-20T12:07:09Z"
-},
-{
-"id": "f9f9067614d49909",
-"title": "Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip",
-"link": "https://cointelegraph.com/news/binance-hacker-600m-eth-routes-thorchain-chainflip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-20T11:31:41Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-20T11:37:10Z"
-},
-{
 "id": "c768e98272503ad2",
 "title": "Bitcoin Core 30.5",
 "link": "https://github.com/bitcoin/bitcoin/releases/tag/v30.5",
@@ -5188,16 +5178,6 @@
 "desk": "Protocol",
 "kind": "protocol",
 "first_seen": "2026-11-24T17:37:11Z"
-},
-{
-"id": "4047b8272f690cd3",
-"title": "Coinbase Targets In-House Prediction Markets by First Half of 2027: Report",
-"link": "https://decrypt.co/383682/coinbase-targets-in-house-prediction-markets-by-first-half-of-2027-report",
-"published": "2026-11-20T11:23:00Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-20T11:37:10Z"
 },
 {
 "id": "e3ce744aff580e24",
