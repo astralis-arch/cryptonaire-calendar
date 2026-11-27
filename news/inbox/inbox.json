@@ -1,5 +1,35 @@
 [
 {
+"id": "b50303e31c7fe0dd",
+"title": "AI is driving a flood of crypto bug reports. Now it’s helping sort them",
+"link": "https://cointelegraph.com/news/ai-driving-flood-of-crypto-bug-reports-now-helping-sort-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"published": "2026-11-27T01:47:38Z",
+"source": "Cointelegraph",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-27T02:07:11Z"
+},
+{
+"id": "79b9d82a7a2dc838",
+"title": "Create-zcash-app + Zcash Builders: from first command to shielded payment",
+"link": "https://forum.zcashcommunity.com/t/create-zcash-app-zcash-builders-from-first-command-to-shielded-payment/59704",
+"published": "2026-11-27T01:41:33Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-27T02:07:11Z"
+},
+{
+"id": "f91805e6848ce224",
+"title": "Grant Application - Zcash Transparent UTXO Coin Control CLI",
+"link": "https://forum.zcashcommunity.com/t/grant-application-zcash-transparent-utxo-coin-control-cli/59702",
+"published": "2026-11-27T01:40:27Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-27T02:07:11Z"
+},
+{
 "id": "65d5e148f1d7cde2",
 "title": "Privacy coins face diverging fortunes as KuCoin moves to drop Monero",
 "link": "https://cointelegraph.com/news/privacy-coins-kucoin-drop-monero-grayscale-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -5538,16 +5568,6 @@
 "desk": "Protocol",
 "kind": "protocol",
 "first_seen": "2026-11-20T09:08:35Z"
-},
-{
-"id": "0224349908e0b1c1",
-"title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
-"link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
-"published": "2026-11-05T16:00:00Z",
-"source": "Federal Reserve (press)",
-"desk": "Macro",
-"kind": "official",
-"first_seen": "2026-11-20T02:07:09Z"
 },
 {
 "id": "26d3012260db32ae",
