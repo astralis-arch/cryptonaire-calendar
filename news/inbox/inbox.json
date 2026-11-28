@@ -4940,36 +4940,6 @@
 "first_seen": "2026-11-21T06:37:09Z"
 },
 {
-"id": "59cd1d5801d034ba",
-"title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
-"link": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
-"published": "2026-11-21T05:59:19Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-21T06:07:09Z"
-},
-{
-"id": "a8de48822484839f",
-"title": "Zcash Hackathon @ Blockchain UNN 5.0",
-"link": "https://forum.zcashcommunity.com/t/zcash-hackathon-blockchain-unn-5-0/59511",
-"published": "2026-11-21T05:58:44Z",
-"source": "Zcash Community Forum",
-"desk": "ZEC",
-"kind": "community",
-"first_seen": "2026-11-21T06:07:09Z"
-},
-{
-"id": "cd04db10d3118990",
-"title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
-"link": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"published": "2026-11-21T05:40:35Z",
-"source": "Cointelegraph",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-21T06:07:09Z"
-},
-{
 "id": "e98d45b9241aa47f",
 "title": "Zebra 7.2.0-beta.3",
 "link": "https://github.com/ZcashFoundation/zebra/releases/tag/v7.2.0-beta.3",
