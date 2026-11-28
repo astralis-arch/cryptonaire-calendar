@@ -4910,16 +4910,6 @@
 "first_seen": "2026-11-22T17:37:09Z"
 },
 {
-"id": "6082857bd2918a2c",
-"title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
-"link": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
-"published": "2026-11-21T12:30:00Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-21T12:37:08Z"
-},
-{
 "id": "e98d45b9241aa47f",
 "title": "Zebra 7.2.0-beta.3",
 "link": "https://github.com/ZcashFoundation/zebra/releases/tag/v7.2.0-beta.3",
