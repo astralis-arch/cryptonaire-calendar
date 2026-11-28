@@ -4970,16 +4970,6 @@
 "first_seen": "2026-11-21T06:07:09Z"
 },
 {
-"id": "301c86849713cdf1",
-"title": "JPMorgan says bitcoin’s price drop pressures miners, Senate passes ‘Death Bets Act’, and more",
-"link": "https://www.theblock.co/newsletters/the-daily/2026-11-20-jpmorgan-bitcoin-price-drop-miners-senate-passes-death-bets-act-more-crypto-news-444786",
-"published": "2026-11-21T04:30:00Z",
-"source": "The Block",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-21T05:07:09Z"
-},
-{
 "id": "e98d45b9241aa47f",
 "title": "Zebra 7.2.0-beta.3",
 "link": "https://github.com/ZcashFoundation/zebra/releases/tag/v7.2.0-beta.3",
@@ -5298,6 +5288,16 @@
 "desk": "Macro",
 "kind": "official",
 "first_seen": "2026-11-23T19:07:10Z"
+},
+{
+"id": "9ea03567012702e4",
+"title": "Jefferson, New Technology, Old Questions: Productivity Puzzles and the Macroeconomy",
+"link": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
+"published": "2026-11-14T00:00:00Z",
+"source": "Federal Reserve (speeches)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-28T05:07:10Z"
 },
 {
 "id": "4532bcae0da2463f",
