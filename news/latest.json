@@ -1,75 +1,73 @@
 {
- "generated": "2026-11-27T21:35:00Z",
- "mood": "risk-off",
+ "generated": "2026-11-28T06:32:00Z",
+ "mood": "calm",
  "briefing": {
   "developments": [
-   "Bitcoin drifted sideways after the afternoon drop, trading between about $59,450 and $60,000 on Kraken through the evening and near $59,750 at 21:30 UK, about 1.2% down on the day.",
-   "CryptoQuant said USDT supply on Ethereum and Tron fell $8.1 billion in 60 days, the biggest drop since August 2022, and that a lasting bitcoin recovery needs that supply to grow again, The Block reported.",
-   "Binance said its withdrawal suspension after the $6.3 billion hack is fully lifted, Bitcoin Magazine reported, while Zcash held near $737, still about 8% up on the day."
+   "Bitcoin closed Friday near $59,864 on Kraken, about $1,340 above Galaxy's $58,525 warning level, and traded in a tight $59,540 to $60,200 range overnight, near $59,790 at 06:30 UK.",
+   "Research firm K33 said rapid AI progress in mathematics deserves attention but there is no evidence bitcoin's cryptography has been broken, Decrypt reported.",
+   "Zcash held near $741 overnight, keeping Friday's gain, while Franklin Templeton said it will add Hyperliquid's HYPE to its crypto index ETF from about 1 December, Cointelegraph reported."
   ],
-  "changed": "Little has moved since the afternoon. Bitcoin neither recovered $61,000 nor revisited the $58,729 low, and stayed about $1,200 above Galaxy's $58,525 daily-close level. The evening news was background rather than new shocks.",
-  "question": "Does bitcoin hold above $58,525 into tonight's daily close and Sunday's weekly close, with thin weekend liquidity?",
-  "watch": "Daily close at 00:00 UK tonight, then the weekly close at 00:00 UK on Monday 30 November. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
+  "changed": "Little has moved since the evening edition. Bitcoin passed the daily close above $58,525 and stayed within about $400 of $59,800 all night; there were no new shocks, and no scheduled data today.",
+  "question": "Does bitcoin hold above $58,525 into Sunday's weekly close, with thin weekend liquidity and no fresh ETF flow data until Monday?",
+  "watch": "The weekly close at 00:00 UK on Monday 30 November. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
  },
  "lead": {
-  "headline": "Bitcoin stalls below $60,000 as stablecoin supply shrinks",
-  "standfirst": "A quiet evening after the US-open sell-off left bitcoin about 1% down on the day, as CryptoQuant warned that falling Tether supply has never coincided with a record high.",
+  "headline": "Bitcoin closes the day above warning level in quiet night",
+  "standfirst": "Bitcoin ended Friday just under $60,000 and barely moved overnight, as a research firm played down fears that AI could break its cryptography.",
   "body": [
-   "Bitcoin traded near $59,750 at 21:30 UK on Friday, according to Kraken data, about 1.2% below the day's open of $60,498. It held a narrow range of roughly $59,450 to $60,000 after US stock markets closed early at 18:00 UK.",
-   "The calm followed a sharp drop at the US open, when bitcoin fell from about $62,100 to $58,700 and $228 million of crypto positions were liquidated in an hour, Cointelegraph reported, citing CoinGlass data.",
-   "CryptoQuant said the supply of the Tether stablecoin on Ethereum and Tron fell $8.1 billion, or 4.4%, in the 60 days to 23 November, the biggest such fall since August 2022, The Block reported. Bitcoin has not closed at a record high during any period of falling USDT supply since 2022, the firm said, though part of the fall reflected funds moving between chains.",
-   "Separately, CryptoQuant data showed large holders with 1,000 to 10,000 BTC added about 121,000 BTC between 30 September and 21 November despite a fall of nearly 30% in price, Cointelegraph reported.",
-   "Binance said its withdrawal suspension after last month's $6.3 billion hack was fully lifted, Bitcoin Magazine reported. Zcash held near $737, about 8% up on the day. The daily close comes at midnight UK, with Galaxy's $58,525 warning level about $1,200 below the price."
+   "Bitcoin closed Friday at about $59,864, according to Kraken data, roughly $1,340 above the $58,525 daily-close level Galaxy had flagged as a warning sign. It then traded between about $59,540 and $60,200 through the Asian session and stood near $59,790 at 06:30 UK on Saturday.",
+   "The quiet night followed Friday's sharp drop at the US open, when bitcoin briefly fell to about $58,700 and leveraged positions were liquidated.",
+   "Research firm K33 said rapid progress by AI in mathematics warranted attention to bitcoin's cryptography, but that there was no evidence the network's security had been broken, Decrypt reported. The note followed a draft proof of the Riemann Hypothesis published last week with help from an AI model; K33 said it offered no method to attack bitcoin's signatures.",
+   "Zcash traded near $741, little changed overnight and holding Friday's gain of about 8%, Kraken data showed.",
+   "In fund news, Franklin Templeton will add Hyperliquid's HYPE token to its Franklin Crypto Index ETF on or about 1 December, according to an SEC filing reported by Cointelegraph. No UK or US economic data is due over the weekend; the weekly close comes at midnight on Sunday."
   ]
  },
- "headline": "A quiet evening: bitcoin held just under $60,000, about 1% down on the day, after the US-open sell-off. CryptoQuant warned that shrinking Tether supply has never come with a bitcoin record high.",
- "spoken": "Cryptonaire Post, evening edition. A quiet evening. Bitcoin has hovered just under sixty thousand dollars since the afternoon, about one percent down on the day, and stayed above Galaxy's warning level of fifty eight thousand five hundred. CryptoQuant says Tether supply on two major chains fell eight billion dollars in two months, the biggest drop since twenty twenty two, and says a lasting recovery needs that to turn. Binance says withdrawals are fully back after last month's hack. Zcash is near seven hundred and thirty seven dollars, up about eight percent today. The daily close is at midnight, the weekly close on Sunday night. The next red event is the Fed decision on the ninth of December at seven in the evening. Information only, not advice.",
+ "headline": "A quiet night: bitcoin closed Friday near $59,900, above Galaxy's $58,525 warning level, and held just under $60,000 overnight. K33 said there is no sign AI has broken bitcoin's cryptography.",
+ "spoken": "Cryptonaire Post, morning edition. A quiet night. Bitcoin closed Friday at about fifty nine thousand nine hundred dollars, above Galaxy's warning level of fifty eight thousand five hundred, and has held just under sixty thousand since. Research firm K33 says advances in AI mathematics deserve attention, but there is no evidence bitcoin's cryptography has been broken. Zcash is near seven hundred and forty dollars, keeping yesterday's gain. There is no economic data this weekend. The weekly close is at midnight on Sunday. The next red event is the Fed decision on the ninth of December at seven in the evening. Information only, not advice.",
  "stories": [
   {
    "section": "BTC",
    "impact": "🔴",
    "confidence": "High",
-   "date": "2026-11-27",
-   "status": "No material change",
-   "title": "Bitcoin holds just under $60,000 after the US-open drop",
-   "why": "Kraken showed BTC between about $59,450 and $60,000 from 17:00 to 21:30 UK, near $59,750 at the end, about 1.2% below the day's $60,498 open. Cointelegraph, citing CoinGlass, put liquidations in the hour of the afternoon drop at $228 million, above the $190 million the afternoon edition cited from TokenPost.",
-   "caveat": "Liquidation totals differ by aggregator and time window: $190 million (TokenPost) versus $228 million (Cointelegraph, CoinGlass).",
+   "date": "2026-11-28",
+   "status": "Developing",
+   "title": "Bitcoin closes Friday above Galaxy's $58,525 level",
+   "why": "Kraken's daily candle closed at about $59,864, so the warning level flagged in recent editions was not met. Overnight BTC stayed between about $59,540 and $60,200 and was near $59,790 at 06:30 UK, little changed from the evening edition's $59,750.",
    "note": {
-    "horizon": "intraday",
-    "read": "With no follow-through either way, the afternoon move looks like a leverage flush that has settled rather than the start of a fresh leg down.",
-    "alt": "Thin post-holiday and weekend trading can hide selling pressure until liquidity returns on Monday.",
-    "change": "A daily close below $58,525 would meet Galaxy's warning level; a move back above $61,000 would undo the afternoon drop."
+    "horizon": "swing",
+    "read": "Holding the level after Friday's leverage flush suggests sellers ran out of steam for now, though the market has not recovered the $61,000 to $62,000 area it lost.",
+    "alt": "Weekend trading is thin, and moves often come when US liquidity returns on Monday.",
+    "change": "A weekly close below $58,525 on Sunday night would put the warning level back in play; a move back above $61,000 would undo Friday's drop."
    },
    "sources": [
     {
      "name": "Kraken",
      "url": "https://www.kraken.com/prices/bitcoin"
-    },
-    {
-     "name": "Cointelegraph",
-     "url": "https://cointelegraph.com/markets/bitcoin-price-below-59k-anthropic-tech-stock-rebound"
     }
    ]
   },
   {
-   "section": "BTC",
+   "section": "Protocol",
    "impact": "🟠",
    "confidence": "Medium",
    "date": "2026-11-27",
    "status": "New",
-   "title": "CryptoQuant: recovery needs Tether supply to grow again",
-   "why": "USDT on Ethereum and Tron fell $8.1 billion (4.4%) in the 60 days to 23 November to $174.5 billion, the biggest drop since August 2022, The Block reported. CryptoQuant found BTC averaged -9.5% over 60-day spells of shrinking USDT supply and +7.6% when it grew, and none of 39 record closes since 2022 came while supply fell.",
-   "caveat": "CryptoQuant also found about $2.8 billion of the fall was Binance moving USDT between chains, so part of the drop is not money leaving crypto.",
+   "title": "K33: no evidence AI has broken bitcoin's cryptography",
+   "why": "K33 analysts said fast AI progress in mathematics warrants attention to bitcoin's elliptic-curve signatures, but a recent AI-assisted draft proof of the Riemann Hypothesis gives no way to attack them and P versus NP remains unsolved, Decrypt and The Block reported. It addresses a worry that has been circulating alongside the sell-off.",
    "note": {
-    "horizon": "swing",
-    "read": "Less stablecoin money on exchanges means less ready buying power, which fits the weak response to the stock rebound.",
-    "alt": "Stablecoin supply tends to follow price, so the fall may be a result of the sell-off rather than a cause.",
-    "change": "A clear rise in USDT supply over the next few weeks would weaken this headwind."
+    "horizon": "longer",
+    "read": "The note is reassurance on a tail risk rather than a market driver; the practical long-run threat discussed remains quantum computing, not AI maths.",
+    "alt": "Headlines about AI and cryptography can still hit sentiment even when the technical risk is unchanged.",
+    "change": "A credible published method that weakens elliptic-curve signatures, or a firm bitcoin post-quantum upgrade plan."
    },
    "sources": [
     {
+     "name": "Decrypt",
+     "url": "https://decrypt.co/384218/could-ai-break-bitcoin-not-yet-research-firm-k33-says"
+    },
+    {
      "name": "The Block",
-     "url": "https://www.theblock.co/news/markets/2026-11-27-cryptoquant-bitcoin-price-recovery-usdt-supply-growth-447560"
+     "url": "https://www.theblock.co/newsletters/the-daily/2026-11-27-bitcoin-recovery-usdt-supply-ai-threat-bitcoin-more-crypto-news-447571"
     }
    ]
   },
@@ -77,10 +75,10 @@
    "section": "ZEC",
    "impact": "🟠",
    "confidence": "High",
-   "date": "2026-11-27",
+   "date": "2026-11-28",
    "status": "No material change",
-   "title": "ZEC steady near $737, about 8% up on the day",
-   "why": "Kraken showed ZEC near $737 at 21:30 UK, against a day open of $682 and a high of $765, little changed since the afternoon edition's $739. It held up through the evening while bitcoin drifted.",
+   "title": "ZEC holds near $741 after Friday's gain",
+   "why": "Kraken showed ZEC near $741 at 06:30 UK, against Saturday's open of about $735 and an overnight high of $761, little changed from the evening edition's $737.",
    "sources": [
     {
      "name": "Kraken",
@@ -89,71 +87,43 @@
    ]
   },
   {
-   "section": "Whales",
+   "section": "ETFs",
    "impact": "🟢",
    "confidence": "Medium",
    "date": "2026-11-27",
    "status": "New",
-   "title": "Large holders added about 121,000 BTC during the fall",
-   "why": "Addresses holding 1,000 to 10,000 BTC added about 121,000 BTC between 30 September and 21 November, taking them to nearly 2.95 million BTC, while their unrealised profit fell 81% to $23.8 billion, Cointelegraph reported, citing CryptoQuant. Such holders cut balances in seven of the nine previous fourth quarters since 2017.",
-   "caveat": "Address groups can include exchange and custody wallets, so a rising balance is not proof of new buying by individuals.",
+   "title": "Franklin Templeton to add HYPE to its crypto index ETF",
+   "why": "An SEC filing on 25 November said HYPE joins the Franklin Crypto Index ETF (EZPZ) on or about 1 December, Cointelegraph reported. Three US spot HYPE products held about $266.5 million, citing Coinperps. It shows issuers widening beyond BTC and ETH, which can spread fund money more thinly.",
    "sources": [
     {
      "name": "Cointelegraph",
-     "url": "https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion"
+     "url": "https://cointelegraph.com/news/franklin-templeton-hype-crypto-index-etf"
     }
    ]
   },
   {
-   "section": "Markets",
+   "section": "ZEC",
    "impact": "🟢",
-   "confidence": "Medium",
-   "date": "2026-11-27",
-   "status": "New",
-   "title": "Binance says withdrawals fully restored after $6.3 billion hack",
-   "why": "Binance said its withdrawal recovery is complete, with a few networks paused for unrelated maintenance, Bitcoin Magazine reported. The exchange said it covered losses with over $6.34 billion of its own funds, and US authorities say more than $2.9 billion has been frozen, seized or returned. It removes one source of exchange stress.",
+   "confidence": "High",
+   "date": "2026-11-28",
+   "status": "No material change",
+   "title": "Zebra beta notes NU7 height and early-December support cut-off",
+   "why": "The Zcash Foundation's Zebra 7.2.0-beta.3 release notes list NU7 at Mainnet height 3,543,405 and say production nodes should stay on 7.1.0; older versions warn from about 3 December and stop around 10 December. Node runners have a deadline but this is routine.",
    "sources": [
     {
-     "name": "Bitcoin Magazine",
-     "url": "https://bitcoinmagazine.com/news/binance-lifts-withdrawal-suspension-hack"
-    }
-   ]
-  },
-  {
-   "section": "Beyond",
-   "impact": "🟢",
-   "confidence": "Medium",
-   "date": "2026-11-27",
-   "status": "New",
-   "title": "Russia's VTB opens bitcoin trading for retail clients",
-   "why": "VTB began letting clients trade bitcoin in its app a day after the Bank of Russia approved a knowledge test; non-qualified buyers are capped at 300,000 roubles a year, Bitcoin Magazine reported. SPB Exchange opens rouble spot trading in BTC, ETH and USDT on 1 December.",
-   "sources": [
-    {
-     "name": "Bitcoin Magazine",
-     "url": "https://bitcoinmagazine.com/news/russia-vtb-bitcoin-trading-crypto-test"
+     "name": "Zcash Foundation (GitHub)",
+     "url": "https://github.com/ZcashFoundation/zebra/releases/tag/v7.2.0-beta.3"
     }
    ]
   }
  ],
- "explained": {
-  "title": "Why stablecoin supply matters",
-  "body": [
-   "Stablecoins such as USDT are digital dollars that traders hold on exchanges, ready to buy crypto. When new ones are issued, it usually means fresh money is coming into the market; when they are redeemed and destroyed, money is leaving.",
-   "That is why analysts watch total supply as a rough gauge of buying power. It is imperfect: coins move between blockchains, and supply often reacts to price rather than leading it."
-  ]
- },
  "investigating": [
-  "Did US spot bitcoin ETFs see outflows on Wednesday and Friday? Evidence: issuer flow figures, not yet confirmed from a primary source when this edition went out.",
-  "Does bitcoin close today and the week above $58,525? Evidence: the daily close at 00:00 UK tonight and the weekly close at 00:00 UK on Monday.",
-  "What is the proposal to move about $300 million of ZEC out of an older shielded pool? Evidence: the original proposal on the Zcash forum; a separate forum thread today corrected an earlier claim that the Tachyon design breaks public auditing."
+  "Did US spot bitcoin ETFs see outflows on Wednesday and Friday? Evidence: issuer or Farside flow figures, still not confirmed from a primary source; the next fresh figures come with Monday's trading.",
+  "Does bitcoin close the week above $58,525? Evidence: the weekly close at 00:00 UK on Monday.",
+  "How will Zcash wallets handle the proposed move of funds out of the older Sapling pool? Evidence: replies from wallet teams on the Zcash forum, where a new thread asks Zingo about scheduled migration."
  ],
  "corrections": [],
  "ahead": [
-  {
-   "when": "Sat 28 Nov 00:00 UK",
-   "impact": "🟢",
-   "what": "Bitcoin daily close (Galaxy's warning level $58,525)"
-  },
   {
    "when": "Sat 28 Nov",
    "impact": "🟢",
@@ -162,7 +132,7 @@
   {
    "when": "Mon 30 Nov 00:00 UK",
    "impact": "🟢",
-   "what": "Bitcoin weekly close"
+   "what": "Bitcoin weekly close (Galaxy's warning level $58,525)"
   },
   {
    "when": "Mon 30 Nov",
@@ -175,6 +145,11 @@
    "what": "Zcash NU7.1 coinholder and ZCAP polls close"
   },
   {
+   "when": "Tue 1 Dec",
+   "impact": "🟢",
+   "what": "HYPE added to Franklin Crypto Index ETF; SPB Exchange opens rouble crypto trading"
+  },
+  {
    "when": "Fri 4 Dec 13:30 UK",
    "impact": "🟠",
    "what": "US jobs report (November)"
@@ -185,5 +160,5 @@
    "what": "Fed rate decision and projections"
   }
  ],
- "id": "2026-11-27-2135"
+ "id": "2026-11-28-0632"
 }

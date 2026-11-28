@@ -1,0 +1,117 @@
+{
+  "generated": "2026-11-28T06:32:00Z",
+  "mood": "calm",
+  "briefing": {
+    "developments": [
+      "Bitcoin closed Friday near $59,864 on Kraken, about $1,340 above Galaxy's $58,525 warning level, and traded in a tight $59,540 to $60,200 range overnight, near $59,790 at 06:30 UK.",
+      "Research firm K33 said rapid AI progress in mathematics deserves attention but there is no evidence bitcoin's cryptography has been broken, Decrypt reported.",
+      "Zcash held near $741 overnight, keeping Friday's gain, while Franklin Templeton said it will add Hyperliquid's HYPE to its crypto index ETF from about 1 December, Cointelegraph reported."
+    ],
+    "changed": "Little has moved since the evening edition. Bitcoin passed the daily close above $58,525 and stayed within about $400 of $59,800 all night; there were no new shocks, and no scheduled data today.",
+    "question": "Does bitcoin hold above $58,525 into Sunday's weekly close, with thin weekend liquidity and no fresh ETF flow data until Monday?",
+    "watch": "The weekly close at 00:00 UK on Monday 30 November. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
+  },
+  "lead": {
+    "headline": "Bitcoin closes the day above warning level in quiet night",
+    "standfirst": "Bitcoin ended Friday just under $60,000 and barely moved overnight, as a research firm played down fears that AI could break its cryptography.",
+    "body": [
+      "Bitcoin closed Friday at about $59,864, according to Kraken data, roughly $1,340 above the $58,525 daily-close level Galaxy had flagged as a warning sign. It then traded between about $59,540 and $60,200 through the Asian session and stood near $59,790 at 06:30 UK on Saturday.",
+      "The quiet night followed Friday's sharp drop at the US open, when bitcoin briefly fell to about $58,700 and leveraged positions were liquidated.",
+      "Research firm K33 said rapid progress by AI in mathematics warranted attention to bitcoin's cryptography, but that there was no evidence the network's security had been broken, Decrypt reported. The note followed a draft proof of the Riemann Hypothesis published last week with help from an AI model; K33 said it offered no method to attack bitcoin's signatures.",
+      "Zcash traded near $741, little changed overnight and holding Friday's gain of about 8%, Kraken data showed.",
+      "In fund news, Franklin Templeton will add Hyperliquid's HYPE token to its Franklin Crypto Index ETF on or about 1 December, according to an SEC filing reported by Cointelegraph. No UK or US economic data is due over the weekend; the weekly close comes at midnight on Sunday."
+    ]
+  },
+  "headline": "A quiet night: bitcoin closed Friday near $59,900, above Galaxy's $58,525 warning level, and held just under $60,000 overnight. K33 said there is no sign AI has broken bitcoin's cryptography.",
+  "spoken": "Cryptonaire Post, morning edition. A quiet night. Bitcoin closed Friday at about fifty nine thousand nine hundred dollars, above Galaxy's warning level of fifty eight thousand five hundred, and has held just under sixty thousand since. Research firm K33 says advances in AI mathematics deserve attention, but there is no evidence bitcoin's cryptography has been broken. Zcash is near seven hundred and forty dollars, keeping yesterday's gain. There is no economic data this weekend. The weekly close is at midnight on Sunday. The next red event is the Fed decision on the ninth of December at seven in the evening. Information only, not advice.",
+  "stories": [
+    {
+      "section": "BTC",
+      "impact": "🔴",
+      "confidence": "High",
+      "date": "2026-11-28",
+      "status": "Developing",
+      "title": "Bitcoin closes Friday above Galaxy's $58,525 level",
+      "why": "Kraken's daily candle closed at about $59,864, so the warning level flagged in recent editions was not met. Overnight BTC stayed between about $59,540 and $60,200 and was near $59,790 at 06:30 UK, little changed from the evening edition's $59,750.",
+      "note": {
+        "horizon": "swing",
+        "read": "Holding the level after Friday's leverage flush suggests sellers ran out of steam for now, though the market has not recovered the $61,000 to $62,000 area it lost.",
+        "alt": "Weekend trading is thin, and moves often come when US liquidity returns on Monday.",
+        "change": "A weekly close below $58,525 on Sunday night would put the warning level back in play; a move back above $61,000 would undo Friday's drop."
+      },
+      "sources": [
+        {"name": "Kraken", "url": "https://www.kraken.com/prices/bitcoin"}
+      ]
+    },
+    {
+      "section": "Protocol",
+      "impact": "🟠",
+      "confidence": "Medium",
+      "date": "2026-11-27",
+      "status": "New",
+      "title": "K33: no evidence AI has broken bitcoin's cryptography",
+      "why": "K33 analysts said fast AI progress in mathematics warrants attention to bitcoin's elliptic-curve signatures, but a recent AI-assisted draft proof of the Riemann Hypothesis gives no way to attack them and P versus NP remains unsolved, Decrypt and The Block reported. It addresses a worry that has been circulating alongside the sell-off.",
+      "note": {
+        "horizon": "longer",
+        "read": "The note is reassurance on a tail risk rather than a market driver; the practical long-run threat discussed remains quantum computing, not AI maths.",
+        "alt": "Headlines about AI and cryptography can still hit sentiment even when the technical risk is unchanged.",
+        "change": "A credible published method that weakens elliptic-curve signatures, or a firm bitcoin post-quantum upgrade plan."
+      },
+      "sources": [
+        {"name": "Decrypt", "url": "https://decrypt.co/384218/could-ai-break-bitcoin-not-yet-research-firm-k33-says"},
+        {"name": "The Block", "url": "https://www.theblock.co/newsletters/the-daily/2026-11-27-bitcoin-recovery-usdt-supply-ai-threat-bitcoin-more-crypto-news-447571"}
+      ]
+    },
+    {
+      "section": "ZEC",
+      "impact": "🟠",
+      "confidence": "High",
+      "date": "2026-11-28",
+      "status": "No material change",
+      "title": "ZEC holds near $741 after Friday's gain",
+      "why": "Kraken showed ZEC near $741 at 06:30 UK, against Saturday's open of about $735 and an overnight high of $761, little changed from the evening edition's $737.",
+      "sources": [
+        {"name": "Kraken", "url": "https://www.kraken.com/prices/zcash"}
+      ]
+    },
+    {
+      "section": "ETFs",
+      "impact": "🟢",
+      "confidence": "Medium",
+      "date": "2026-11-27",
+      "status": "New",
+      "title": "Franklin Templeton to add HYPE to its crypto index ETF",
+      "why": "An SEC filing on 25 November said HYPE joins the Franklin Crypto Index ETF (EZPZ) on or about 1 December, Cointelegraph reported. Three US spot HYPE products held about $266.5 million, citing Coinperps. It shows issuers widening beyond BTC and ETH, which can spread fund money more thinly.",
+      "sources": [
+        {"name": "Cointelegraph", "url": "https://cointelegraph.com/news/franklin-templeton-hype-crypto-index-etf"}
+      ]
+    },
+    {
+      "section": "ZEC",
+      "impact": "🟢",
+      "confidence": "High",
+      "date": "2026-11-28",
+      "status": "No material change",
+      "title": "Zebra beta notes NU7 height and early-December support cut-off",
+      "why": "The Zcash Foundation's Zebra 7.2.0-beta.3 release notes list NU7 at Mainnet height 3,543,405 and say production nodes should stay on 7.1.0; older versions warn from about 3 December and stop around 10 December. Node runners have a deadline but this is routine.",
+      "sources": [
+        {"name": "Zcash Foundation (GitHub)", "url": "https://github.com/ZcashFoundation/zebra/releases/tag/v7.2.0-beta.3"}
+      ]
+    }
+  ],
+  "investigating": [
+    "Did US spot bitcoin ETFs see outflows on Wednesday and Friday? Evidence: issuer or Farside flow figures, still not confirmed from a primary source; the next fresh figures come with Monday's trading.",
+    "Does bitcoin close the week above $58,525? Evidence: the weekly close at 00:00 UK on Monday.",
+    "How will Zcash wallets handle the proposed move of funds out of the older Sapling pool? Evidence: replies from wallet teams on the Zcash forum, where a new thread asks Zingo about scheduled migration."
+  ],
+  "corrections": [],
+  "ahead": [
+    {"when": "Sat 28 Nov", "impact": "🟢", "what": "Fed pre-meeting blackout begins"},
+    {"when": "Mon 30 Nov 00:00 UK", "impact": "🟢", "what": "Bitcoin weekly close (Galaxy's warning level $58,525)"},
+    {"when": "Mon 30 Nov", "impact": "🟢", "what": "KuCoin delists Monero"},
+    {"when": "Tue 1 Dec 02:59 UK", "impact": "🟢", "what": "Zcash NU7.1 coinholder and ZCAP polls close"},
+    {"when": "Tue 1 Dec", "impact": "🟢", "what": "HYPE added to Franklin Crypto Index ETF; SPB Exchange opens rouble crypto trading"},
+    {"when": "Fri 4 Dec 13:30 UK", "impact": "🟠", "what": "US jobs report (November)"},
+    {"when": "Wed 9 Dec 19:00 UK", "impact": "🔴", "what": "Fed rate decision and projections"}
+  ]
+}
