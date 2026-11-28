@@ -1,5 +1,25 @@
 [
 {
+"id": "8129d398f157e944",
+"title": "Privacy needs to scale: Noir is now backed by YZi Labs (formerly Binance Labs)",
+"link": "https://forum.zcashcommunity.com/t/privacy-needs-to-scale-noir-is-now-backed-by-yzi-labs-formerly-binance-labs/59733",
+"published": "2026-11-28T04:18:39Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-28T04:37:12Z"
+},
+{
+"id": "5729ca8539557b53",
+"title": "Bitcoin recovery needs USDT supply growth: CryptoQuant, K33 weighs AI threat to Bitcoin, and more",
+"link": "https://www.theblock.co/newsletters/the-daily/2026-11-27-bitcoin-recovery-usdt-supply-ai-threat-bitcoin-more-crypto-news-447571",
+"published": "2026-11-28T04:11:00Z",
+"source": "The Block",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-28T04:37:12Z"
+},
+{
 "id": "1644b5e4824b5cc7",
 "title": "Introducing Zecfund.me: fundraising for the Zcash community, with progress anyone can verify",
 "link": "https://forum.zcashcommunity.com/t/introducing-zecfund-me-fundraising-for-the-zcash-community-with-progress-anyone-can-verify/59731",
@@ -4960,16 +4980,6 @@
 "first_seen": "2026-11-21T05:07:09Z"
 },
 {
-"id": "36a76078621c4c50",
-"title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
-"link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
-"published": "2026-11-21T04:10:07Z",
-"source": "CoinDesk",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-21T04:37:09Z"
-},
-{
 "id": "e98d45b9241aa47f",
 "title": "Zebra 7.2.0-beta.3",
 "link": "https://github.com/ZcashFoundation/zebra/releases/tag/v7.2.0-beta.3",
@@ -5288,16 +5298,6 @@
 "desk": "Macro",
 "kind": "official",
 "first_seen": "2026-11-23T19:07:10Z"
-},
-{
-"id": "9ea03567012702e4",
-"title": "Jefferson, New Technology, Old Questions: Productivity Puzzles and the Macroeconomy",
-"link": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
-"published": "2026-11-14T00:00:00Z",
-"source": "Federal Reserve (speeches)",
-"desk": "Macro",
-"kind": "official",
-"first_seen": "2026-11-21T04:07:17Z"
 },
 {
 "id": "4532bcae0da2463f",
