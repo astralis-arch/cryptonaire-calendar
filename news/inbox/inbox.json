@@ -1,5 +1,15 @@
 [
 {
+"id": "164e2c9f122e33c1",
+"title": "Does Zingo plan to support scheduled Sapling-to-Ironwood migration?",
+"link": "https://forum.zcashcommunity.com/t/does-zingo-plan-to-support-scheduled-sapling-to-ironwood-migration/59727",
+"published": "2026-11-28T00:10:28Z",
+"source": "Zcash Community Forum",
+"desk": "ZEC",
+"kind": "community",
+"first_seen": "2026-11-28T00:37:15Z"
+},
+{
 "id": "deb9f554732c5994",
 "title": "OpenAI Turns the Tables on Apple With Its Own Trade-Secret Theft Claims",
 "link": "https://decrypt.co/384222/openai-countersuit-apple-trade-secret-theft-claims",
@@ -5278,6 +5288,16 @@
 "desk": "Macro",
 "kind": "official",
 "first_seen": "2026-11-21T04:07:17Z"
+},
+{
+"id": "4532bcae0da2463f",
+"title": "Agencies extend comment period for proposed third-party risk management guidance",
+"link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
+"published": "2026-11-13T21:15:00Z",
+"source": "Federal Reserve (press)",
+"desk": "Macro",
+"kind": "official",
+"first_seen": "2026-11-28T00:37:15Z"
 },
 {
 "id": "9c459691928d5f6a",
