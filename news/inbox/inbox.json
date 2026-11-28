@@ -4920,16 +4920,6 @@
 "first_seen": "2026-11-21T12:37:08Z"
 },
 {
-"id": "614d3d3b6d97fe57",
-"title": "Applied Zcash: a pattern reference for building apps on Zcash today",
-"link": "https://forum.zcashcommunity.com/t/applied-zcash-a-pattern-reference-for-building-apps-on-zcash-today/59517",
-"published": "2026-11-21T10:24:53Z",
-"source": "Zcash Community Forum",
-"desk": "ZEC",
-"kind": "community",
-"first_seen": "2026-11-21T10:37:11Z"
-},
-{
 "id": "e98d45b9241aa47f",
 "title": "Zebra 7.2.0-beta.3",
 "link": "https://github.com/ZcashFoundation/zebra/releases/tag/v7.2.0-beta.3",
