@@ -1,5 +1,15 @@
 [
 {
+"id": "28ba82f0fcb5b2a6",
+"title": "Tether adds $10 million in Bitdeer stock after holding through an 87% drop",
+"link": "https://www.coindesk.com/business/2026/11/28/tether-adds-usd10-million-in-bitdeer-stock-after-holding-through-an-87-drop",
+"published": "2026-11-28T16:01:54Z",
+"source": "CoinDesk",
+"desk": null,
+"kind": "news",
+"first_seen": "2026-11-28T16:07:10Z"
+},
+{
 "id": "2eb926d006c0440c",
 "title": "CZ says Netflix’s ‘The Altruists’ is ‘basically defamation,’ says he is talking to lawyers",
 "link": "https://www.theblock.co/news/business/2026-11-28-cz-says-netflixs-the-altruists-is-basically-defamation-says-he-is-talking-to-lawyers-447599",
@@ -4908,26 +4918,6 @@
 "desk": null,
 "kind": "news",
 "first_seen": "2026-11-21T17:07:15Z"
-},
-{
-"id": "6138b9b26525c2d1",
-"title": "Signal Calls OS-Level AI an 'Existential Threat' and Blocks Screenshots to Fight It",
-"link": "https://decrypt.co/383750/signal-os-level-ai-existential-threat-blocks-screenshots",
-"published": "2026-11-21T16:01:02Z",
-"source": "Decrypt",
-"desk": null,
-"kind": "news",
-"first_seen": "2026-11-21T16:07:08Z"
-},
-{
-"id": "f80e571aac35db23",
-"title": "Grant Application - Keep ZecHub AI Search Current When Wallet Guidance Changes",
-"link": "https://forum.zcashcommunity.com/t/grant-application-keep-zechub-ai-search-current-when-wallet-guidance-changes/59521",
-"published": "2026-11-21T15:56:21Z",
-"source": "Zcash Community Forum",
-"desk": "ZEC",
-"kind": "community",
-"first_seen": "2026-11-21T16:07:08Z"
 },
 {
 "id": "0e90985b959159a1",
