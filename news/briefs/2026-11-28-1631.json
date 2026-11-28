@@ -1,0 +1,124 @@
+{
+  "generated": "2026-11-28T16:31:00Z",
+  "mood": "calm",
+  "briefing": {
+    "developments": [
+      "Bitcoin slipped to about $59,370 on Kraken at 16:30 UK, after a day range of $58,890 to $60,500; the low stayed about $365 above Galaxy's $58,525 warning level.",
+      "World Liberty Financial's WLFI token fell more than 50% in 24 hours to a record low near $0.016 after a reserve wallet sold about $20 million of ether at a loss, and its USD1 stablecoin briefly dipped to 94 cents, CoinDesk reported.",
+      "Zcash eased to about $720 from $741 this morning, giving back part of Friday's gain."
+    ],
+    "changed": "Slightly softer than the morning edition: bitcoin tested $58,890 before recovering, and ZEC fell about 3%. The main new story is the WLFI collapse and Justin Sun's call for it and USD1 to be delisted; there is still no US market session or data today.",
+    "question": "Does the WLFI sell-off and USD1's brief depeg stay contained, or does it weigh on wider sentiment before Sunday's weekly close?",
+    "watch": "The bitcoin weekly close at 00:00 UK on Monday 30 November. The next 🔴 event is the Fed decision on Wednesday 9 December at 19:00 UK."
+  },
+  "lead": {
+    "headline": "Trump-linked WLFI token halves as reserve wallet sells ether",
+    "standfirst": "World Liberty Financial's token fell to a record low and its USD1 stablecoin briefly slipped below a dollar, while bitcoin dipped but held above a key level on a quiet Saturday.",
+    "body": [
+      "WLFI, the governance token of the Trump family-linked World Liberty Financial, fell more than 50% in 24 hours to a record low near $0.016 before recovering to about $0.020, CoinDesk reported. It is roughly 95% below its September 2025 peak of $0.33.",
+      "On-chain trackers EmberCN and Lookonchain, citing Arkham data, said a wallet labelled as World Liberty's strategic reserve sold 12,121 ether for about $20 million in stablecoins, at an average near $1,655 and an estimated loss of about $19 million. USD1, the project's stablecoin, briefly fell to 94 cents before returning to nearly $1, according to CoinDesk.",
+      "Tron founder Justin Sun, who has been in legal dispute with World Liberty since April, called on exchanges to delist WLFI and USD1, Cointelegraph reported. World Liberty did not respond to requests for comment from either outlet.",
+      "Bitcoin was little moved by the episode. It traded between about $58,890 and $60,500 on Kraken on Saturday and stood near $59,370 at 16:30 UK, keeping the daily low above the $58,525 level Galaxy has flagged. Zcash eased to about $720.",
+      "With no US trading or economic data until Monday, attention turns to the weekly close at midnight on Sunday."
+    ]
+  },
+  "headline": "WLFI, the Trump-linked token, halved to a record low after a reserve wallet sold ether, and its USD1 stablecoin briefly dipped to 94 cents. Bitcoin dipped to $58,890 but held above Galaxy's $58,525 level, near $59,400.",
+  "spoken": "Cryptonaire Post, afternoon edition. A quiet Saturday for bitcoin, which dipped to about fifty eight thousand nine hundred dollars and recovered to around fifty nine thousand four hundred, staying above Galaxy's warning level. The main story is World Liberty Financial, the Trump family-linked project. Its token halved to a record low after a reserve wallet sold about twenty million dollars of ether, and its dollar stablecoin briefly slipped to ninety four cents. Justin Sun has called for both to be delisted. Zcash eased to about seven hundred and twenty dollars. The weekly close is at midnight on Sunday. Information only, not advice.",
+  "stories": [
+    {
+      "section": "Markets",
+      "impact": "🟠",
+      "confidence": "High",
+      "date": "2026-11-28",
+      "status": "New",
+      "title": "WLFI halves to record low; USD1 stablecoin briefly hits 94 cents",
+      "why": "A wallet labelled World Liberty's strategic reserve sold 12,121 ETH for about $20 million at a loss, and WLFI fell over 50% in 24 hours to about $0.016, CoinDesk and Cointelegraph reported. USD1 briefly lost its peg before recovering to nearly $1; Justin Sun urged exchanges to delist WLFI and USD1.",
+      "caveat": "The reserve-wallet label and loss estimate come from on-chain trackers (EmberCN, Lookonchain via Arkham); World Liberty has not commented.",
+      "note": {
+        "horizon": "intraday",
+        "read": "A project-specific blow-up so far: bitcoin barely reacted, and USD1 recovered its peg.",
+        "alt": "A Trump-linked failure could feed US political and regulatory pressure on crypto more widely.",
+        "change": "USD1 losing its peg again for longer, or exchanges acting on delisting calls."
+      },
+      "sources": [
+        {"name": "CoinDesk", "url": "https://www.coindesk.com/markets/2026/11/28/trump-linked-crypto-token-wlfi-plunges-over-50"},
+        {"name": "Cointelegraph", "url": "https://cointelegraph.com/news/justin-sun-calls-for-trump-family-linked-wlfi-token-to-be-delisted"}
+      ]
+    },
+    {
+      "section": "BTC",
+      "impact": "🟠",
+      "confidence": "High",
+      "date": "2026-11-28",
+      "status": "Developing",
+      "title": "Bitcoin dips to $58,890, still above Galaxy's $58,525 level",
+      "why": "Kraken showed BTC near $59,370 at 16:30 UK, down from about $59,790 this morning, after a Saturday range of $58,890 to $60,500. The low came within about $365 of the warning level, but no daily or weekly close below it yet.",
+      "note": {
+        "horizon": "swing",
+        "read": "Weekend drift lower on thin volume, testing support rather than breaking it.",
+        "alt": "Thin weekend books can exaggerate moves either way; Monday's US session matters more.",
+        "change": "A weekly close below $58,525 at midnight Sunday; a return above $61,000 would ease the pressure."
+      },
+      "sources": [
+        {"name": "Kraken", "url": "https://www.kraken.com/prices/bitcoin"}
+      ]
+    },
+    {
+      "section": "ZEC",
+      "impact": "🟢",
+      "confidence": "High",
+      "date": "2026-11-28",
+      "status": "Developing",
+      "title": "ZEC eases to about $720",
+      "why": "Kraken showed ZEC near $720 at 16:30 UK, down about 3% from this morning's $741, after a Saturday low of $710 and high of $761. It still holds most of Friday's gain.",
+      "sources": [
+        {"name": "Kraken", "url": "https://www.kraken.com/prices/zcash"}
+      ]
+    },
+    {
+      "section": "Whales",
+      "impact": "🟢",
+      "confidence": "High",
+      "date": "2026-11-28",
+      "status": "New",
+      "title": "Tether buys $10 million more Bitdeer stock",
+      "why": "An amended SEC filing shows Tether bought about 3.7 million Bitdeer shares at about $2.69 on 25 November, taking its stake to 17.9% after an 87% fall in the miner's shares, CoinDesk reported. Bitdeer posted record Q3 revenue of $320.7 million but a $125.5 million loss, a sign of strain among miners.",
+      "sources": [
+        {"name": "CoinDesk", "url": "https://www.coindesk.com/business/2026/11/28/tether-adds-usd10-million-in-bitdeer-stock-after-holding-through-an-87-drop"}
+      ]
+    },
+    {
+      "section": "Beyond",
+      "impact": "🟢",
+      "confidence": "Medium",
+      "date": "2026-11-28",
+      "status": "New",
+      "title": "Binance gets in-principle approval for Bhutan hub",
+      "why": "Binance received in-principle approval from the Gelephu Central Bank to run regulated operations in Bhutan's Gelephu Mindfulness City and plans an Asia hub there, Cointelegraph reported. It is not yet a full licence.",
+      "sources": [
+        {"name": "Cointelegraph", "url": "https://cointelegraph.com/news/binance-receives-in-principle-approval-plans-asia-hub-in-bhutan"}
+      ]
+    }
+  ],
+  "explained": {
+    "title": "What a stablecoin depeg means",
+    "body": [
+      "A stablecoin aims to trade at exactly $1, backed by cash or short-term government debt. When holders doubt the backing or rush to sell, the market price can slip below $1, a depeg, until arbitrage traders redeem coins with the issuer and close the gap.",
+      "A brief dip that recovers, as USD1 did on Saturday, is common under stress. A long depeg on a big stablecoin is more serious, because traders use stablecoins as cash across crypto markets."
+    ]
+  },
+  "investigating": [
+    "Will exchanges act on Justin Sun's call to delist WLFI and USD1? Evidence: exchange notices or statements from World Liberty.",
+    "Does bitcoin close the week above $58,525? Evidence: the weekly close at 00:00 UK on Monday.",
+    "Did US spot bitcoin ETFs see outflows on Wednesday and Friday? Evidence: issuer or Farside flow figures, still not confirmed from a primary source."
+  ],
+  "corrections": [],
+  "ahead": [
+    {"when": "Mon 30 Nov 00:00 UK", "impact": "🟢", "what": "Bitcoin weekly close (Galaxy's warning level $58,525)"},
+    {"when": "Mon 30 Nov", "impact": "🟢", "what": "KuCoin delists Monero"},
+    {"when": "Tue 1 Dec 02:59 UK", "impact": "🟢", "what": "Zcash NU7.1 coinholder and ZCAP polls close"},
+    {"when": "Tue 1 Dec", "impact": "🟢", "what": "HYPE added to Franklin Crypto Index ETF; SPB Exchange opens rouble crypto trading"},
+    {"when": "Fri 4 Dec 13:30 UK", "impact": "🟠", "what": "US jobs report (November)"},
+    {"when": "Wed 9 Dec 19:00 UK", "impact": "🔴", "what": "Fed rate decision and projections"}
+  ]
+}
